@@ -1,6 +1,38 @@
 # awesome-gpt-store
 This repo includes all customized GPTs on openai gpt store
 
+## Table of Contents
+- [Business](#business)
+- [Education](#education)
+- [Entertainment](#entertainment)
+- [Lifestyle](#lifestyle)
+- [Developer Tools](#developer)
+- [Photo & Video](#photo)
+- [Books](#books)
+- [Health & Fitness](#health)
+- [Games](#games)
+- [Finance](#finance)
+- [Food & Drink](#food)
+- [Productivity](#productivity)
+- [Gaming](#gaming)
+- [Reference](#reference)
+- [Humor](#humor)
+- [Travel](#travel)
+- [News](#news)
+- [Design](#design)
+- [Social Networking](#social)
+- [Development](#development)
+- [Music](#music)
+- [Health](#health)
+- [Utilities](#utilities)
+- [Writing](#writing)
+- [Art](#art)
+- [Sports](#sports)
+- [Chat](#chat)
+- [Shopping](#shopping)
+- [AI](#ai)
+- [Food](#food)
+
 ## Business
 - [**Data Analysis**](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis): Drop in any files and I can help analyze and visualize your data
 - [**emailgeeks**](https://chat.openai.com/g/g-IpYeySKKw-emailgeeks): An expert on email marketing
