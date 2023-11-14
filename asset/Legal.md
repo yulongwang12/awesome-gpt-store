@@ -1,0 +1,61 @@
+## Legal
+- [**Legal Beaver**](https://chat.openai.com/g/g-TKmSRan3s-legal-beav): Canadian Criminal Code and Canadian Charter of  Rights and Freedoms coach - For entertainment purposes only. - by Bradley oleksy
+- [**ConstitutiX**](https://chat.openai.com/g/g-BixcC0aaS-constitutix): Asesor en derecho constitucional chileno. Te explicaré las diferencias entre la Constitución Vigente y la Propuesta Constitucional 2023. - by Sergio Andrés Campos Valdés
+- [**Občan GPT**](https://chat.openai.com/g/g-nKfjt0WFC-obcan-gp): Občan GPT je AI bot určený k pomoci lidem s dotazy na občanský zákoník. - by Petr Brzek
+- [**AbogadoGPT**](https://chat.openai.com/g/g-ge5SuA7Is-abogadogp): Experto en derecho e impuestos españoles. - by David Villalon Pardo
+- [**LegisPro**](https://chat.openai.com/g/g-yEpBvyOUh-legisp): LegisPro - o ChatGPT especialista em técnica legislativa. - by joao alberto o lima
+- [**Legal Eagle**](https://chat.openai.com/g/g-cRSA87TJO-legal-eagl): Legal Compliance & Auditing Assistant - by Edward Fassio
+- [**Private Investigator**](https://chat.openai.com/g/g-tunutgp8u-private-investiga): Unearths digital footprints - by MOHAMMED KABIR
+- [**JusGPT**](https://chat.openai.com/g/g-3OjiTotw2-jusgp): Assistente jurídico que conhece a CLT - by DANIEL S ROMERO
+- [**Legal Wordsmith**](https://chat.openai.com/g/g-7ISfeUr84-legal-wordsmith): A legal wordsmith finding truth's versions. - by John Harvey
+- [**Privacy Policy Generator**](https://chat.openai.com/g/g-XSsAdAx77-privacy-policy-genera): Privacy policy drafting assistant - by zeitalabs.com
+- [**Legal Draft Pro**](https://chat.openai.com/g/g-fCUuOIwg4-legal-draft-p): I help draft compliant multi-state employee handbooks.
+- [**SteuerGPT**](https://chat.openai.com/g/g-qNcbzrlBC-steuergp): Expert in German tax law. - by Alexander von Recum
+- [**CosmoLegal Advisor**](https://chat.openai.com/g/g-v80aC62Ex-cosmolegal-advi): Space Law Consultant - by MASANORI TANIMURA
+- [**HurryLegal**](https://chat.openai.com/g/g-eshec5CPp-hurrylegal): Fast legal info, find the right lawyer for you - by Lingfei Li
+- [**JUDGE GPT**](https://chat.openai.com/g/g-T9Vn5BQ7w-judge-gp): The Law has arrived! Get rid of your small law problems! - by arda tor
+- [**AI Act**](https://chat.openai.com/g/g-F0CaLinoU-ai-a): AI Consultant on the EU AI Act and AI Regulation - by adventum.ai
+- [**AI Advies op maat**](https://chat.openai.com/g/g-RPLwLO5a7-ai-advies-op-maa): door Chris van Vleuten - by All Video Solutions
+- [**Zambia Law Oracle**](https://chat.openai.com/g/g-mCOwnHqhg-zambia-law-oracl): Specializes in Zambian legal research and case law
+- [**Brújula Legal- Despidos Laborales en España**](https://chat.openai.com/g/g-nyC98dGxf-brujula-legal-despidos-laborales-en-espana): GPT especializado como asistente en materia de despidos en España - by JOSÉ MANUEL RAYA SÁNCHEZ
+- [**Especialista en LOMLOE**](https://chat.openai.com/g/g-w6KMGsg1K-especialista-en-loml): Contiene todos los decretos de la ley a nivel estatal - by J. DE HARO OLLE
+- [**USCIS Info Navigator [UNOFFICIAL]**](https://chat.openai.com/g/g-LIb0ywaxQ-uscis-info-navigator-unofficial): Guides on U.S. immigration and citizenship processes. - by Robert Lukoshka
+- [**Legal assistant**](https://chat.openai.com/g/g-iVbgI8wKI-legal-assista): Your AI assistant for reviewing and discussing legal agreements. This tool is designed to provide preliminary suggestions on improving legal agreements. Our advice is not a substitute for professional legal counsel. - by The Java Community
+- [**Indian Laws GPT**](https://chat.openai.com/g/g-2OsLflU7l-indian-laws-gp): Get knowledge on Indian Civil, Criminal, and Motor Vehicle Laws. - by Jyothish Johnson
+- [**著作権ガイド**](https://chat.openai.com/g/g-Kk919EWD6-zhu-zuo-quan-gaid): AI生成物の著作権に特化した、日本語GPT
+- [**Legal Research Companion**](https://chat.openai.com/g/g-dDQoDgtCi-legal-research-compani): Multifaceted Legal Assistant - by Elijah Madonia
+- [**ParalegalGPT**](https://chat.openai.com/g/g-w16m3BOjL-paralegalgp): Please login to a casetext account and leave it open in another tab. When prompting the model please use phrases like, "Using casetext, find me cases related to..." - by Ian Bondura
+- [**AutoRuler**](https://chat.openai.com/g/g-opJ3Jve8v-autorul): Drafts settlement rules for prediction markets. - by thesuper.market
+- [**Copyright Companion**](https://chat.openai.com/g/g-yCpX4nus8-copyright-compani): Helps YouTubers write copyright disputes - by Shawn Fraine
+- [**Eesti Võlaõigus - lepingud, töötajad & startupid**](https://chat.openai.com/g/g-P5iUyl2xt-eesti-volaoigus-lepingud-tootajad-startupid): Assists with Estonian Law - Obligations, Employment & Labour - by Alvar Laigna
+- [**Constitutional Counsel**](https://chat.openai.com/g/g-etZ4JbKIB-constitutional-counsel): I am a constitutional lawyer here to interpret legal texts. - by James Donovan
+- [**Legal MX Amparo**](https://chat.openai.com/g/g-ZBgBxCP7L-legal-mx-ampa): Abogado digital especializado en amparo, brindando estrategia y borradores de documentos. - by Ulices Vargas
+- [**US Immigration Info Hub**](https://chat.openai.com/g/g-NvmWicqtP-us-immigration-info-hub): USCIS & ICE Info Assistant - by Jose E Grande
+- [**Federal Rules Assistant**](https://chat.openai.com/g/g-7LvM1IlfL-federal-rules-assista): AI assistant for U.S. Federal Rules, providing precise answers with citations. - by Sergio Servantez
+- [**Small Business Lawyer (North America)**](https://chat.openai.com/g/g-eECkslm5t-small-business-lawyer-north-america): Drafting your business contracts!  Employment, sales, and more! - by Anson Lai
+- [**完璧弁議士**](https://chat.openai.com/g/g-Du6Lay5HD-wan-bi-bian-yi-shi): 言語に応じて日本の法律に関する回答を提供します。 - by YOSHIHIRO KANI
+- [**Judgement Yaad**](https://chat.openai.com/g/g-nUBDkAWH3-judgement-yaad): Access to detailed Jamaica Supreme Court case data - by Everone Graham
+- [**Patent Insight**](https://chat.openai.com/g/g-jG5LB7Rye-patent-insigh): Expert in Concise Patent Analysis - by HIROAKI YOKOYAMA
+- [**Legal Eagle**](https://chat.openai.com/g/g-cRSA87TJO-legal-eagl): Legal support AI for reviewing NDAs and contracts, highlighting risks and responsibilities. - by HIROAKI YOKOYAMA
+- [**StartupLawyerGPT**](https://chat.openai.com/g/g-9YiwUtWuA-startuplawyergp): Startup lawyer specializing in Delaware corporations. - by Augie Rakow
+- [**AI Lawyer**](https://chat.openai.com/g/g-QEj3LcqxZ-ai-lawy): Your AI Lawyer GPT by StartupTechLaw.com - by Richard Rodgers
+- [**LawyerAI**](https://chat.openai.com/g/g-wfryNy91i-lawyerai): Your legal help in finding loopholes, solving moot, researching legal cases. - by Lex Root PVT LTD
+- [**Legal Editor**](https://chat.openai.com/g/g-uMBYf3Iey-legal-edi): I edit legal texts based on specific user instructions or questions. - by Lipi Labs Private Limited
+- [**Virtual Lawyer**](https://chat.openai.com/g/g-VhF8Sky5I-virtual-lawy): A virtual lawyer with global legal knowledge, providing advice in multiple languages. - by WebbX
+- [**Legal Aid**](https://chat.openai.com/g/g-bASGyI6JV-legal-aid): Your A.I. Paralegal for lawyers, aiding in research, discovery review, and drafting legal documents. - by Justin thomas
+- [**LegalGPT**](https://chat.openai.com/g/g-xck3iENsZ-legalgp): Specialized in legal matters, this GPT could assist lawyers and legal professionals with case research, legal documentation, and even help in predicting case outcomes based on historical data. - by RAHUL PORWAL
+- [**GPTLEGAL RD**](https://chat.openai.com/g/g-G4GUWk3r3-gptlegal-rd): Asistente legal dominicano, especializado en leyes y procedimientos de RD.  Para probar la versión más poderosa y completa en www.gptlegal.com.do - by gilberto objio
+- [**Mr.Copyright**](https://chat.openai.com/g/g-vOsTdlHd0-mr-copyrigh): ready to use- Copyright registration- Copyright registration is a legal process that gives the owner of the copyright official documentation of their ownership rights. - by justin martinez
+- [**Vakil GPT**](https://chat.openai.com/g/g-hNxYPZrBW-vakil-gp): Legal guidance assistant for Indian law. - by Akarsh Ghale
+- [**Visabox**](https://chat.openai.com/g/g-A2kQ4XeLh-visabox): Answers any questions about H1b and L1B, L1 A ., F1 visa categories for US immigration - by Deepak Mehta
+- [**RoadLawsAI**](https://chat.openai.com/g/g-5kQZdDG0v-roadlawsai): Your go-to source for road laws and legal documents. - by justin martinez
+- [**متخصص بالقانون العماني**](https://chat.openai.com/g/g-L4C5nQ6kr-mtkhss-blqnwn-l-mny): بالذكاء الإصطناعي - by AHMED SAID SAIF
+- [**Plain Legal Explanations**](https://chat.openai.com/g/g-x1Hy0u8DG-plain-legal-explanati): Simplify legal texts into clear, easy English - by Anson Lai
+- [**Experto Legal España**](https://chat.openai.com/g/g-v08ZW5qh0-experto-legal-espana): Asesor jurídico detallado y profesional en derecho español - by Eric Rafael Ramos Suárez
+- [**Asesor Virtual Laboralista**](https://chat.openai.com/g/g-5KWZrMMRz-asesor-virtual-laboralista): Experto en derecho laboral español. - by Jorge Moreno Blázquez
+- [**Canada Law**](https://chat.openai.com/g/g-GvEkhlV6s-canada-law): Information on Canadian laws, courts, legal forms,  lawyers - by Public Interests Research and Communications Inc.
+- [**日本国憲法**](https://chat.openai.com/g/g-2Bz7kLGdD-ri-ben-guo-xian-fa): 実験中。e-GOV法例検索よりダウンロードしたPDFを知識として読み込ませてあります。日本国憲法について答えてくれます。判例について聞くとBingから回答を引きだすことがあります。実験中のため回答の正確性は保証できません。 - by Kadota Narita
+- [**CrimRxiv AI Chatbot**](https://chat.openai.com/g/g-CDUSsfFCe-crimrxiv-ai-chatb): - by Scott Jacques
+- [**スタートアップのための商標の教科書**](https://chat.openai.com/g/g-o9vrJ3gKV-sutatoatupunotamenoshang-biao-nojiao-ke-sh): スタートアップの商標の質問に回答しますhttps-//note.com/roppp/m/ma5c359e52510　　（生成される回答内容は初期的な見解であり、網羅性・正確性を保証するものではありません）
+- [**建築基準法ナビ**](https://chat.openai.com/g/g-4IMjFL859-jian-zhu-ji-zhun-fa-nabi): 日本の建築基準法についてアドバイスを提供する専門ガイド。法的な取り扱いについては専門家の意見を取り入れてください。利用によるトラブルについては責任を負えません。
+

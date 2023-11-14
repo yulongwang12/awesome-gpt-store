@@ -1,0 +1,68 @@
+## Development
+- [**Flutter GPT**](https://chat.openai.com/g/g-u27ZCAhaF-flutter-gp): Flutter development made easy. - by James Donovan
+- [**Unity GPT**](https://chat.openai.com/g/g-YDkPh1fun-unity-gp): I write C# code and respond to inquiries about Unity. My database knowledge is refreshed daily with new, functional code snippets and information. If necessary, I can search the web to provide more accurate answers - by Volodymyr Ilianov
+- [**Djangoメンター**](https://chat.openai.com/g/g-iUyV3yGKN-djangomenta): Python/Django coding mentor - by YUTAKA SATO
+- [**Grug**](https://chat.openai.com/g/g-nIgsLpQUp-grug): Grug simplifies coding. - by DEAN LOFTS
+- [**NextJS/MantineUI**](https://chat.openai.com/g/g-IqtYs1hsn-nextjs-mantineui): Super assistant for creating a web app
+- [**Code Buddy**](https://chat.openai.com/g/g-mvXigeQR9-code-buddy): Your own personal senior software engineer mentor critiquing and optimizing your code helping your improve. - by Casey Wilcox
+- [**SQL Scribe**](https://chat.openai.com/g/g-ZZoGVc1TC-sql-scrib): A GPT that speaks only in SQL queries. - by gpt.atys.space
+- [**Feature Ticket Generator**](https://chat.openai.com/g/g-KEMXICo2V-feature-ticket-genera): This GPT writes tickets for features. It uses Gherkin to specify scenarios. - by Mr C X Macedo
+- [**Codebase Navigator**](https://chat.openai.com/g/g-iNGcW1dBo-codebase-naviga): Your Langchain codebase assistant.
+- [**Unit Test Wizard**](https://chat.openai.com/g/g-s3GXm5a6G-unit-test-wizard): Friendly guide for JavaScript & React unit tests - by Veyis Furkan Guner
+- [**FIgmaToCode**](https://chat.openai.com/g/g-0I6nfWtTa-figmatocod): I turn Figma UI designs into clean, functional code. - by Mends Albert
+- [**CodeJS**](https://chat.openai.com/g/g-qutrUU0Eg-codej): JavaScript expert with insights from 'Eloquent JavaScript', friendly and approachable. - by anunciacao alves damien
+- [**Chrome Extension V3 Dev**](https://chat.openai.com/g/g-XPSvEEuJb-chrome-extension-v3-dev): Developer for Chrome Extensions Manifest V3
+- [**人為的コード性格分析(Code Persona Analyst)**](https://chat.openai.com/g/g-LBObEUYwW-ren-wei-de-kodoxing-ge-fen-xi-code-persona-analy): コードを分析し、言語ではなくスタイルに焦点を当て、プログラムを書いた人の性格を推察するツールです。( It is a tool that analyzes code, focuses on style rather than language, and infers the personality of the person who wrote the program. ) - by T.OKADA
+- [**Classic GPT+**](https://chat.openai.com/g/g-NeouMIXqY-classic-gp): コマンドでモード選択。　　　　　　　　　　IMG＝画像。AS＝データ。BR＝ブラウジング。 - by kt-life.net
+- [**Markdown Formatter**](https://chat.openai.com/g/g-phfLUtTDA-markdown-forma): An automated tool for converting text to Markdown, including LaTeX for math. - by RYOYA KANAJI
+- [**MUI React Optimizer**](https://chat.openai.com/g/g-egYhcjO4h-mui-react-optimiz): I optimize React code with Material-UI. - by Tim Ofenbach
+- [**Front-end Engineering Mentor**](https://chat.openai.com/g/g-OteCE8P0J-front-end-engineering-): Elevate your code with straightforward guidance, simplify the complex and streamline your path to advanced front-end engineering. - by Giovanni Ruggieri
+- [**App String Translator**](https://chat.openai.com/g/g-y6h86dFw9-app-string-transla): Translates and formats Xcode iOS strings into tables and files for easy copying. - by Antonio Jose Martinez Sanchez
+- [**CodaPackGPT**](https://chat.openai.com/g/g-5UJUNQkU8-codapackgp): Helps you build Coda Packs - by Dustin R Good
+- [**DSGPT**](https://chat.openai.com/g/g-Na7DQWiKt-dsgp): I assist designers with design systems, offering simple, conversational guidance. - by Michael Ajah
+- [**React GPT**](https://chat.openai.com/g/g-loOLX12QO-react-gp): Master of Web Development - by EMANUEL PEIRE
+- [**💻Professional Coder (Auto programming)**](https://chat.openai.com/g/g-HgZuFuuBK-professional-coder-auto-programming): A gpt expert at solving programming problems, automatic programming, one-click project generation - by Kevin Ivery
+- [**py run**](https://chat.openai.com/g/g-Nm71rrZS2-py-): run the embedded code - by Jonathan Padilla
+- [**React GPT**](https://chat.openai.com/g/g-loOLX12QO-react-gp): Expert React JS developer offering in-depth advice and solutions - by HAKKI KONU
+- [**The Design System Guide**](https://chat.openai.com/g/g-fPzByEgI1-the-design-system-guid): Your friendly guide to setting up a design system, explained in simple, approachable language. - by Nueva, Romina Kavcic s.p.
+- [**Init Wizard**](https://chat.openai.com/g/g-v3LpnVld7-init-wizard): I guide beginners in customizing Emacs. - by Leslie Russell
+- [**App Builder**](https://chat.openai.com/g/g-Th6nv2nQQ-app-build): Builds simple web apps with OpenAI APIs for beginners. - by manu.vision
+- [**InnovateGPT**](https://chat.openai.com/g/g-u1wKXRJx3-innovategp): Innovation begins with empathy. Use the SPARK framework to solve a problem, or get help with an idea. - by Sabba Quidwai
+- [**Mini Program Dev Assistant**](https://chat.openai.com/g/g-Fx41IfZhj-mini-program-dev-assista): A helper for WeChat mini program development - by LI XIN
+- [**Swifty**](https://chat.openai.com/g/g-AsNqHBQ7L-swifty): SwiftUI guide for beginners with up-to-date, practical coding advice. - by Jean Sebastien Barrau
+- [**InventBot**](https://chat.openai.com/g/g-qtqhMFHcq-inventb): Your Partner in Futuristic Invention Design - by pluginai.ai
+- [**Code Formatter GPT**](https://chat.openai.com/g/g-ytgIw9skn-code-formatter-gp): Expert in formatting & beautifying code
+- [**Bubble Buddy**](https://chat.openai.com/g/g-eRkBkMF6J-bubble-buddy): Here to help with your Bubble.io queries. - by M Shankar Prasad
+- [**Unreal Engine Assistant**](https://chat.openai.com/g/g-1V3xLiymP-unreal-engine-assista): Unreal Engine アシスタント
+- [**INVENTOR 36**](https://chat.openai.com/g/g-6eSDUP3mx-inventor-36): Inventor and DALL-E 3 expert, visualizing novel inventions. - by FEDERICO REVELLO
+- [**Flowscript BPMN**](https://chat.openai.com/g/g-g8rRw99r2-flowscript-bp): Create business processes using Flowscript markup - by Anthony Vyner
+- [**SwiftUIGPT**](https://chat.openai.com/g/g-Fa7m4xFnT-swiftuigp): Has up-to-date knowledge of SwiftUI - by Joseph Lawlor
+- [**Ruby Guru**](https://chat.openai.com/g/g-NAsTZeLZl-ruby-g): Ruby interview prep guide with easy-to-understand explanations. - by Nezir Zahirovic
+- [**Auth Engineer**](https://chat.openai.com/g/g-VSbj8p6zv-auth-engi): Software engineer expert in authentication, offering approachable yet technical guidance. - by darayuth hang
+- [**RhinoCommonくん**](https://chat.openai.com/g/g-wd1cP8qwK-rhinocommonk): RhinoCommonについて教えてくれる
+- [**FlutterFlow Sensei**](https://chat.openai.com/g/g-JIaUKClak-flutterflow-sensei): Flutter flow pro guide that also supports code generation - by Idea Garage
+- [**Ruby On Rails Guru**](https://chat.openai.com/g/g-VHgbiMLuI-ruby-on-rails-g): Your Ruby on Rails job interview prep buddy! - by Nezir Zahirovic
+- [**Libtorch Pro**](https://chat.openai.com/g/g-iZO8JmtVf-libtorch-p): Your expert in libtorch and C++ programming. - by Dylan Dean
+- [**Apple Dev Guru**](https://chat.openai.com/g/g-x19bshxTS-apple-dev-g): Apple Platform Development Expert - by FEI YANG
+- [**Character Forger**](https://chat.openai.com/g/g-waDWNw2J3-character-forg): Character Consistancy Tool - by learnaiwiz.com
+- [**Code Formatter**](https://chat.openai.com/g/g-HZGYIBL6Y-code-forma): Specializes in syntax, readability, and coding standards. - by SANJEEVANI BHANDARI
+- [**Script Composer**](https://chat.openai.com/g/g-ahKqNRlrt-script-comp): I create scripts for marketing-focused Spotify shows. - by HIROKI TERUYA
+- [**Git Commit Assistant**](https://chat.openai.com/g/g-H79F99vq7-git-commit-assista): Expert in crafting Git commit messages following Conventional Commits guidelines. - by KEISHIRO OYAMA
+- [**GPTGPT**](https://chat.openai.com/g/g-BzxkiHjH3-gptgp): A GPT that helps you create GPTs. - by Feidong Song
+- [**Prompt Generator Prodigy**](https://chat.openai.com/g/g-106SHSEwm-prompt-generator-prodigy): Innovative metaprompt for ChatGPT. Generate prompts that meet your needs. What prompt are you looking for? 😊 Please enter your request and submit whenever you're prepared! e.g. "Japanese subculture-focused blog writer" "Create a business strategy while hearing the necessary information from me" - by KATSUHIRO HASHIMOTO
+- [**GTGPT**](https://chat.openai.com/g/g-wgqbXvcQb-gtgp): Expert in factor graphs, sensor fusion, and GTSAM Python coding. - by Frank Dellaert
+- [**Bootstrap Buddy**](https://chat.openai.com/g/g-n0qRrMoNC-bootstrap-buddy): Assists creating Bootstrap5.3 website or components in minutes. - by Andrea Pomposelli
+- [**Script Adaptation AI**](https://chat.openai.com/g/g-s7Cqu99Yg-script-adaptation-ai): Polished, articulate AI for script adaptations.
+- [**GPT Builder Adviser**](https://chat.openai.com/g/g-YEPvZQLgt-gpt-builder-advi): I help create custom GPTs with unique abilities.  v0.02
+- [**GPTs Hub**](https://chat.openai.com/g/g-KK6ms1ehm-gpts-hub): Recommand Hot GPTs for you Based on 4000+ database. - by martyn fisher
+- [**NeRF Excavator**](https://chat.openai.com/g/g-CGr4nqtmF-nerf-excava): Concise NeRF guide, summarizing top papers and aiding research. - by Frank Dellaert
+- [**Prompt Perfectionist**](https://chat.openai.com/g/g-w1fC0xePU-prompt-perfectioni): シンプルなユーザー入力から最適なGPTプロンプトを作成
+- [**Android Dev Helper**](https://chat.openai.com/g/g-WaZ0h7xwE-android-dev-help): Casual and friendly Android dev assistant. - by Daksh Semwal
+- [**SubgraphGPT [by Chainstack]**](https://chat.openai.com/g/g-lsRHGEwcF-subgraphgpt-by-chainstack): The GPT, which helps write subgraphs for The Graph standard to index data on the blockchain and create real-time GraphQL API for smart contracts. - by BALAKHONOV KIRILL
+- [**Code Explorer**](https://chat.openai.com/g/g-c4IhMXHfG-code-expl): Analogy-based coding tutor - by Sean P.
+- [**FrontendDev Angel**](https://chat.openai.com/g/g-znb7W6WIN-frontenddev-angel): A modern frontend development guide, adept in CSS variables, Flexbox, Grid, and React. - by Anzhelika Kyrychuk
+- [**Innovator Mentor**](https://chat.openai.com/g/g-B4lNJHRkS-innovator-): Internet Product Director & Startup Mentor - by jeed Mer
+- [**Project Creator**](https://chat.openai.com/g/g-SgaKkw4NM-project-crea): Create project ideas from newly learned concepts
+- [**QualityAI**](https://chat.openai.com/g/g-xTE71TE0H-qualityai): A QA Engineer helping with QA processes and best practices. - by Veirify
+- [**Product Pioneer**](https://chat.openai.com/g/g-cno9BNTaV-product-pi): Confident product dev expert, referencing industry pioneers. - by sourcebottle.net
+

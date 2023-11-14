@@ -1,0 +1,123 @@
+## Food & Drink
+- [**Sous Chef**](https://chat.openai.com/g/g-3VrgJ1GpH-sous-chef): I’ll give you recipes based on the foods you love and ingredients you have. - by ChatGPT
+- [**Mocktail Mixologist**](https://chat.openai.com/g/g-PXlrhc1MV-mocktail-mixologi): I’ll make any party a blast with mocktail recipes with whatever ingredients you have on hand. - by ChatGPT
+- [**Cocktail MixMaster**](https://chat.openai.com/g/g-x9zamlKYO-cocktail-mixma): I'm a virtual bartender who crafts cocktail recipes from your ingredients. - by Viacheslav Kovalevskyi
+- [**Daily Recipe Creator**](https://chat.openai.com/g/g-TNOuedzff-daily-recipe-crea): Creates recipes from ingredients. - by YOTA ISHIKAWA
+- [**Lunch Wheel**](https://chat.openai.com/g/g-JK4312gXG-lunch-wheel): I help pick the perfect lunch spot. - by Phillip Lopez
+- [**Sabor Salvadoreño**](https://chat.openai.com/g/g-gSWJbkw7X-sabor-salvad): Finds top-rated restaurants in El Salvador. - by Morgan Hernandez
+- [**Actual Mixologist**](https://chat.openai.com/g/g-qmewY2KPx-actual-mixologi): suggest some excellent (alcoholic) cocktails!! - by jackedtechbro
+- [**Pantry Chef**](https://chat.openai.com/g/g-aDRDTTQNw-pantry-chef): I'm a virtual chef who creates recipes from your pantry when you don't know what you can make out of the ingredients you have at home! - by Joen Berg
+- [**Turkish Cuisine Chef**](https://chat.openai.com/g/g-nBgy4jyf2-turkish-cuisine-chef): Ask me anything to cook from Turkish Cuisine. I can also show images of recipes. - by Emre Koç
+- [**Chef gpEAT**](https://chat.openai.com/g/g-B7ts063SU-chef-gpea): I'm Chef gpEAT, your dinner recommender. - by T C Brouwer
+- [**Meal Mate**](https://chat.openai.com/g/g-y78pHPdBH-meal-ma): A smart meal planner assistant. - by Samuel Robertson
+- [**Quick Veggie Chef**](https://chat.openai.com/g/g-55BCvlL4R-quick-veggie-chef): Quick, healthy, vegetarian recipes with 5 ingredients or less. - by Michael Tefula
+- [**Culinary Creator**](https://chat.openai.com/g/g-kIXBL7KHm-culinary-crea): Crafts recipes from food images - by SHOGO MATSUSAKO
+- [**Banana Freshness Score**](https://chat.openai.com/g/g-EPYL85rQ0-banana-freshness-): Analyzes ripeness of bananas from images. - by Dustin M Runnells
+- [**Weeknight Meal Planner**](https://chat.openai.com/g/g-mciqPSSGS-weeknight-meal-pla): Don't know what to cook for dinner today? Get inspired!! - by Bruno Oliveira
+- [**Gluten-Free Guru**](https://chat.openai.com/g/g-EuqXGTZX3-gluten-free-g): Helps find gluten-free restaurants. - by Jørgen K Sandhaug
+- [**Culinary Scout**](https://chat.openai.com/g/g-8M1ntlFt7-culinary-): I find tasty eateries for you. - by MASAYUKI FUJISAWA
+- [**Ramen Scoop**](https://chat.openai.com/g/g-N12Trhdcj-ramen-scoop): Your go-to source for Japan's Ramen updates! - by MASAMI KITOU
+- [**あなたの料理を採点しますくん🍳We grade your food**](https://chat.openai.com/g/g-7bQA8DnJL-anatanoliao-li-wocai-dian-simasukunwe-grade-your-food): Upload a photo of your food!あなたの料理をAIが採点 - by HIROYUKI TANAKA
+- [**献立さんbot**](https://chat.openai.com/g/g-PzyVq8Ty2-xian-li-sanb): 使いたい食材を元に献立を考えてくれます。 - by TAKESHI OKUBO
+- [**お昼ご食先生**](https://chat.openai.com/g/g-mV98ETlJ6-ozhou-goshi-xian-sheng): Your personal lunch helper.
+- [**CorkGPT**](https://chat.openai.com/g/g-KrM1Urktl-corkgp): Wine & food pairings
+- [**Culinary Concierge**](https://chat.openai.com/g/g-0qFSNuwFJ-culinary-concierg): Culinary guide for meal and drink choices - by Evan Betley
+- [**Chef Buddy**](https://chat.openai.com/g/g-hPf8LMkfC-chef-buddy): Your AI Kitchen Helper
+- [**Gourmet Globe**](https://chat.openai.com/g/g-kUlNPdMIS-gourmet-glob): Global cuisine connoisseur - by Boris
+- [**Cynical Chef**](https://chat.openai.com/g/g-3jIEXcdb7-cynical-chef): Sarcastic culinary savant - by Damon Talbot
+- [**食探ガイド**](https://chat.openai.com/g/g-yEDiYuY5O-shi-tan-gaid): レストラン探索に専門化した日本語対応GPT - by AKINORI OSAMURA
+- [**CoffeeGPT**](https://chat.openai.com/g/g-gO6pm1sH0-coffeegp): Your guide to third-wave coffee crafting. - by Tarun Gangwani
+- [**Crooked Recipes**](https://chat.openai.com/g/g-DzHSEVFZS-crooked-recip): The Ultimate Recipe Generator- Unique, innovative, and designed for the discerning chef! - by crookedrecipes.com
+- [**寡黙なマスター**](https://chat.openai.com/g/g-Os2JPzQ7x-gua-mo-namasuta): A bar master who speaks in balanced tones. - by TARO KAWAI
+- [**Recipe Snap**](https://chat.openai.com/g/g-uPFa8qH8y-recipe-snap): I craft recipes from your ingredient photos. - by YUEUKE ENDO
+- [**Chinese Food Chef**](https://chat.openai.com/g/g-cgEfSZabk-chinese-food-chef): Private chef teaching Chinese cuisine - by 卢晨玮
+- [**Gourmet GPT**](https://chat.openai.com/g/g-bII5U0xLR-gourmet-gp): Recipe creator and identifier with scaling - by Karthik
+- [**Yegfood.com Price Checker**](https://chat.openai.com/g/g-rlevOuTNU-yegfood-com-price-check): Helps find food deals in Alberta - by Kyle Giesbrecht
+- [**Restaurant GPT**](https://chat.openai.com/g/g-v1EJ7XqUw-restaurant-gp): You personal Restaurant GM ( AI )
+- [**Foodie Beauties - 美食美人**](https://chat.openai.com/g/g-P0GKmgCmL-foodie-beauties-mei-shi-mei-): Your artistic culinary guide. - by MASATOSHI UCHIDA
+- [**Chinese Vegetarian Chef**](https://chat.openai.com/g/g-YbLriBCLI-chinese-vegetarian-chef): Guides in simple steps to cook Chinese vegetarian dishes - by 卢晨玮
+- [**伙头智多星**](https://chat.openai.com/g/g-tDCgSxA9j-huo-tou-zhi-duo-xing): 精准粤菜简餐推荐
+- [**Text2Drink**](https://chat.openai.com/g/g-aJ04aZ6Yw-text2drink): A mixologist GPT that suggests cocktails with reasons, ingredients, and instructions. - by YU JIAN HUANG
+- [**Green Gourmet**](https://chat.openai.com/g/g-DjuJqSWPz-green-g): Whole food plant based chef crafting oil-free delights. - by mistyyoung.com
+- [**Mixologist**](https://chat.openai.com/g/g-MPH9uH4NH-mixologi): Artisan of spirits and guide to cocktail-cuisine harmony. - by Oleg Chursin
+- [**Recipe Transcriber**](https://chat.openai.com/g/g-wa9483xnA-recipe-transcrib): This GPT checks your recipe and transcibes photos or text descriptions of your recipe into markdown format for intput into systems like Notion - by Mr C X Macedo
+- [**ChefGPT**](https://chat.openai.com/g/g-W3Jp2BXyS-chefgp): Friendly chef bot with complete nutritional breakdowns. - by Serkan Dayıcık
+- [**You've Got Meal**](https://chat.openai.com/g/g-8XD9SVd6L-you-ve-got-meal): - by JD ERASMUS
+- [**El valenciano**](https://chat.openai.com/g/g-60esI6nkm-el-valencia): Consulta información sobre los restaurantes y bares valencianos - by viernesgastronomicos.com
+- [**Chef Guru**](https://chat.openai.com/g/g-arEttukC6-chef-g): A virtual chef offering detailed recipes and cooking guidance - by Abhigyan Patni
+- [**Chef Creativo**](https://chat.openai.com/g/g-6cIJO7Xq0-chef-creativ): Cocinero experto que presenta ingredientes en tablas y genera PDFs - by Victor Lozoya Gomez
+- [**いちばんやさしいレシピ**](https://chat.openai.com/g/g-yCRLhyFOd-itibanyasasiiresipi): Easy Recipe Master
+- [**からあげ先生**](https://chat.openai.com/g/g-krkZskB52-karaagexian-sheng): AIからあげ先生だよ
+- [**Coffee Sommelier**](https://chat.openai.com/g/g-r1qjbM0qs-coffee-sommeli): A master coffee Sommelier who helps you make the perfect cup! - by Parth Gandhi
+- [**Today’s Wine Recommender🍋**](https://chat.openai.com/g/g-v0xoeaoE0-todays-wine-recommend): Kyoko, the spirited wine enthusiast, guides your wine journey!
+- [**London Food Guide**](https://chat.openai.com/g/g-sXGVQrYeS-london-food-guid): A guide for dining suggestions in London. - by MR JOSEPH BLAIR
+- [**Fridgii**](https://chat.openai.com/g/g-CbcapREpP-fridgii): I suggest meals from your fridge's contents, with recipes, calories, and images! - by Louis-Victor Morgaut
+- [**Culinary Creator**](https://chat.openai.com/g/g-kIXBL7KHm-culinary-crea): Got a couple of ingredients and looking for inspiration?  Brought to you by DayToDayRecipes.com - by Brian Wylie
+- [**Culinary Week Planner**](https://chat.openai.com/g/g-54IswqtqB-culinary-week-pla): I create seasonal meal plans, adaptable to your requests. - by M. Xavier Moisant
+- [**FineDiner**](https://chat.openai.com/g/g-DenEjjjYX-finedi): Restaurant & bar curator with feedback capabilities. - by Tae H Kim
+- [**Brew Buddy**](https://chat.openai.com/g/g-tV2vfQgDy-brew-buddy): Your personal coffee brewing guide. - by Alexander Kaplan
+- [**Chef Delicias**](https://chat.openai.com/g/g-Cn4bRG73w-chef-delicia): Spanish Chef creating meal plans with video recipes from renowned chefs. - by ISMAEL G Y CANAL
+- [**AgaveLand**](https://chat.openai.com/g/g-bY0FDFPYN-agaveland): Experto en agave azul, asesoría y diagnóstico de enfermedades. - by Ulices Vargas
+- [**Fridge to Fork**](https://chat.openai.com/g/g-SRIkQSFsw-fridge-to-fork): Culinary helper for meal ideas - by Corey Burns
+- [**Mondo Sumio**](https://chat.openai.com/g/g-tHX8G0X9s-mondo-sumi): モンドコーヒーのバリスタ、モンドスミオです。コーヒーの器具や淹れ方、豆のことについてなんでも聞いてください。
+- [**Foods of Earth Cuisine Crafter**](https://chat.openai.com/g/g-ZltAuhWRx-foods-of-earth-cuisine-craf): Creative Chef GPT - by DARBY MCDONOUGH
+- [**Vegan Chef Bot**](https://chat.openai.com/g/g-FUFW5OPb6-vegan-chef-b): Expert in fun & tasty vegan cooking. - by Miro Ahti
+- [**Biernard Beer Explorer**](https://chat.openai.com/g/g-dP3DeN3zZ-biernard-beer-expl): Your personal guide to the world of craft beers, recipes and local finds. - by GOKADEN SAS
+- [**Auguste Escoffier**](https://chat.openai.com/g/g-86fyLtIMf-auguste-escoffi): Recipes from the best three-star chefs, covering all cooking styles, who offer the highest quality cuisine. The criteria used are- choice of products, creativity, mastery of cooking and flavors. - by Liberty  Finances
+- [**Chef Gpt**](https://chat.openai.com/g/g-6LbaLuwFx-chef-gp): Enjoy Simplicity, Cook Smart - by chefgpts.com
+- [**NutriGourmet Assistant**](https://chat.openai.com/g/g-8RUF16wrb-nutrigourmet-assista): NutriGourmet Assistant – Your Tailored Nutrition and Culinary Advisor - by Stephane Fonseca
+- [**Vegan Richa Recipes**](https://chat.openai.com/g/g-EO5rpE43P-vegan-richa-recip): Friendly vegan recipe assistant based on VeganRicha.com content. - by Vivek garg
+- [**NutriVision**](https://chat.openai.com/g/g-PrBxa6aot-nutrivisi): 料理画像から栄養を推定するフレンドリーなGPT - by KAZUTOSHI NAKANO
+- [**ChefBot GPT**](https://chat.openai.com/g/g-FJXCOCAri-chefbot-gp): A culinary-focused GPT that generates unique recipes based on ingredients users have at home. Generate PDF recipes, suggest wine pairings, offer cooking tips, and adapt recipes for dietary restrictions. - by Michal Kaszubski
+- [**Healthy Chef**](https://chat.openai.com/g/g-OdwKeQjDm-healthy-chef): A recipe and nutrition advisor with a friendly touch. - by daniel garcia acosta
+- [**G.PT Chef**](https://chat.openai.com/g/g-01RhrwfEZ-g-pt-chef): Bilingual chef expert in Portuguese cuisine and recipes. - by Lopezi
+- [**ThermomixGPT**](https://chat.openai.com/g/g-dMd069CsH-thermomixgp): Your Thermomix recipe creator and visualizer. - by David Rodriguez
+- [**ENTOPIAN**](https://chat.openai.com/g/g-ZvfVeqoqn-entopia): Your guide to edible insect nutrition, culture, and cooking - by JOSHUA D GALT
+- [**Sommelier Sage**](https://chat.openai.com/g/g-2kJiOiPK2-sommelier-sag): A Wine Master recommending matching local wines for dishes. - by JIAYUN Y GU
+- [**Chef Bot**](https://chat.openai.com/g/g-l3Oqd6VHm-chef-b): Hungry? Not sure what to cook? Show or tell  me what's in your fridge, pantry, or cupboard and I'll tell you what to make. 😋 - by thegreenhead.com
+- [**Restaurant Finder**](https://chat.openai.com/g/g-jRQ9DDRGH-restaurant-find): Expert local dining guide with a focus on location-specific recommendations. - by Lorenzo Gonzalez
+- [**Pairing Pro**](https://chat.openai.com/g/g-UuRPcpKxY-pairing-p): Expert in pairing a wide range of alcoholic beverages with foods. - by Miho Mototani
+- [**Sin City Sipper**](https://chat.openai.com/g/g-1zwVsZasL-sin-city-sipp): Vegas bartender with a twist on classics. - by Kyle Shannon
+- [**Sindhi Rasoi**](https://chat.openai.com/g/g-7mNOqJe9T-sindhi-rasoi): Discover the world of Sindhi cuisine. - by Sanjay Bhagia
+- [**今日吃乜嘢🍚**](https://chat.openai.com/g/g-LQFJnV1Qz-jin-ri-chi-mie-y): 解决人生最大的难题——今天吃什么 - by Harriette Hoeger
+- [**蕎麦ガイド**](https://chat.openai.com/g/g-dGmctWNlj-qiao-mai-gaid): 蕎麦を食べ歩きした経験を活かして日本蕎麦をガイドします。特に北陸（福井県、石川県、富山県）のお蕎麦屋さんが中心です。興味ある方は気軽に対話しましょう。 - by MIKIO TOHDA
+- [**Peru Cuisine**](https://chat.openai.com/g/g-8ulm8d64z-peru-cuisi): Expert in peruvian cuisine - by Emilio Vegas
+- [**Minami Diner Guide**](https://chat.openai.com/g/g-CLR0APEdV-minami-diner-guid): Japanese restaurant guide for foodies and travelers. - by Ecoya Consulting Inc
+- [**RecipeQuest**](https://chat.openai.com/g/g-EYdCOnBn3-recipeq): Craving something delicious but not sure what to make? Simply share your cravings, the ingredients you've got on hand, or snap a picture of your pantry, and we'll craft the perfect recipe just for you. - by recipequest.pro
+- [**沖縄料理ナビ**](https://chat.openai.com/g/g-pTZNq0Me8-chong-nawa-liao-li-nabi): 沖縄料理ナビ - by MAKOTO NAKAMURA
+- [**BarBot AI**](https://chat.openai.com/g/g-PSl88PF2A-barbot-ai): I provide cocktail recipes based on your bar ingredients. - by junaid i dawud
+- [**夕食ナビゲーター**](https://chat.openai.com/g/g-8iQTSG3o3-xi-shi-nabigeta): Let's decide what to have for dinner today.
+- [**ねこ印カレー工房**](https://chat.openai.com/g/g-3M1VKLoyZ-nekoyin-karegong-fang): スパイスカレーを美味しく作るコツを教えるよ♪
+- [**Culinary Voyager**](https://chat.openai.com/g/g-jtEWiwvBR-culinary-voyag): I'm "Culinary Voyager", your friendly guide to delicious destinations. - by keisuke ohno
+- [**Culinary Compass**](https://chat.openai.com/g/g-5md3c2ZKA-culinary-compa): Detailed, formal guide for precise cooking. - by reinhold dr.lautner
+- [**CraftBeer Master**](https://chat.openai.com/g/g-BUGUOXZzN-craftbeer-ma): Expert in craft beer stories and evaluations. - by AIGC
+- [**Chef's Pal! - レシピの王様！**](https://chat.openai.com/g/g-40EiRTtxp-chef-s-pal-resipinowang-yang): It will tell you the recipe by entering the ingredients you have via text or uploading an image.家にある材料を入力したり、画像をアップロードすることでレシピを教えてくれます。 - by TSUMASA AIMU
+- [**おすすめシーシャMIX教えて君**](https://chat.openai.com/g/g-75pHumGxd-osusumesisiyamixjiao-etej): 最適なシーシャフレーバーの組み合わせを提案します！
+- [**Vino Finder for Japan**](https://chat.openai.com/g/g-YGGbRG1ri-vino-finder-for-japa): Recommends easily accessible wines in Japan, with details and pairing suggestions. - by Hirotaka Sawada
+- [**레시피**](https://chat.openai.com/g/g-EQ6bx97mV-resipi): 오늘의 요리와 레시피
+- [**What's in the Fridge**](https://chat.openai.com/g/g-FYGU65Dvx-what-s-in-the-fridg): Tailors meal prep plans from user's food inventory & preferences. - by Marco Ordaz
+- [**DrinkedIn - The Wine Connoisseur**](https://chat.openai.com/g/g-bJKm0Xi2F-drinkedin-the-wine-connoi): Your personal sommelier for wine recommendations and pairings. - by T D Priestley
+- [**Meals planner (JP)**](https://chat.openai.com/g/g-Mx5HEveIZ-meals-planner-jp): 栄養を考慮した献立を提案します。 Suggest a menu with nutritional considerations.
+- [**海龟汤**](https://chat.openai.com/g/g-ztYkKSIW1-hai-gui-tang): 来一碗令人匪夷所思的海龟汤吧~🐢 - by Alexis Shvili
+- [**Chef mate AI pro**](https://chat.openai.com/g/g-QBcVhnzbU-chef-mate-ai-p): A professionally minded chef assistant for planning, menu creation, managing kitchen tasks. With custom actions. Currently developing a back end for more functionality. - by Dagne Aaremae
+- [**Sæsonens hverdagsmad**](https://chat.openai.com/g/g-7jqI93t4v-saesonens-hverdagsmad): Jeg laver sæsonbetonede madplaner og opskrifter. Det er billigt, lokalt og lækkert. - by Thorkil Fonnesbech Jensen
+- [**BarGPT**](https://chat.openai.com/g/g-gceUHQTGA-bargp): I craft unique cocktail recipes and offer mixology advice. - by bargpt.app
+- [**Chef's Assistant**](https://chat.openai.com/g/g-Aiwc5iqFT-chef-s-assista): I'm a culinary expert who suggests recipes based on your ingredients. - by Gökhan Hayta
+- [**Flavor Fusion**](https://chat.openai.com/g/g-FzusSJ7Dq-flavor-fusi): A culinary expert in Indian cuisine and fusion dishes. - by Krishanu Shashwat
+- [**The beer expert**](https://chat.openai.com/g/g-8x1I5hJbl-the-beer-exp): Beer and home brewing advisor - by David Pepin
+- [**Food Lab**](https://chat.openai.com/g/g-wMvQcITr2-food-lab): Science-based nutrition expert offering diet plans and recipes. - by Aleksei
+- [**The Mixologist**](https://chat.openai.com/g/g-dYqpgbk1y-the-mixologi): Tell me what you like and I'll suggest the perfect drink. Or show me what you have available and let's make a cocktail together! - by T D Priestley
+- [**Sourdough Sensei**](https://chat.openai.com/g/g-pTu4dYPco-sourdough-sensei): Analyzes sourdough bread images with scientific precision - by Martin Justesen
+- [**BBQ Mentor**](https://chat.openai.com/g/g-1mi1P5B3s-bbq-): Informative Central Texas BBQ expert with a Texas accent.
+- [**Shortlister- Cocktail Bars Melbourne**](https://chat.openai.com/g/g-hOEW7hByw-shortlister-cocktail-bars-melb): Find your next amazing cocktail experience in Melbourne - by Timothy Sulzberger
+- [**Cooking Robo**](https://chat.openai.com/g/g-aw1bOgMsI-cooking-rob): Your personal kitchen assistant - by Big Sumo
+- [**Ramsay Roasts GPT**](https://chat.openai.com/g/g-jf7SrYcVf-ramsay-roasts-gp): I critique food photos with Gordon Ramsay's sharp wit. - by William G Reynoir
+- [**Plant-Based Chef**](https://chat.openai.com/g/g-mCOIPyzAD-plant-based-chef): Expert in providing diverse and creative vegan recipes. - by sai krishna kalyan
+- [**Chinese Cuisine**](https://chat.openai.com/g/g-ouDSrLhDw-chinese-cuisi): Tell you about the cooking methods of Chinese cuisine
+- [**Taco Maestro**](https://chat.openai.com/g/g-rxuQJ0AL7-taco-ma): A Mexican-born taco expert, sharing culinary tips and recipes. - by YOTARO MATSUI
+- [**烹饪大师**](https://chat.openai.com/g/g-fFcXyzu51-peng-ren-da-shi): 友善的中国美食专家 - by Jay Liu
+- [**Mixologist Master**](https://chat.openai.com/g/g-EBYhb0of9-mixologist-ma): Friendly mixologist creating a wide range of drinks with your  available ingredients
+- [**Cooking with Thor**](https://chat.openai.com/g/g-sehPZbkN9-cooking-with-th): Step into Thor's kitchen and learn to tasty meals with the Viking god himself - by Christopher Smeder
+- [**ChefGPT**](https://chat.openai.com/g/g-W3Jp2BXyS-chefgp): A chef and humorist in your kitchen! - by gekkofox.ro
+- [**Chef GPT**](https://chat.openai.com/g/g-6LbaLuwFx-chef-gp): Enter your ingredients, Chef GPT then curates a recipe for you based on them - by Ryuken Ltd
+

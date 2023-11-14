@@ -1,0 +1,477 @@
+## Education
+- [**Math Mentor**](https://chat.openai.com/g/g-J75qypPUU-math-): I help parents help their kids with  math. Need a 9pm refresher on  geometry proofs? I’m here for you. - by ChatGPT
+- [**Language Coach**](https://chat.openai.com/g/g-C4rH3L0Em-language-coach): Practice speaking another language like a local without being a local - by Watchovr LLC
+- [**ScholarAI**](https://chat.openai.com/g/g-L2HknCZTC-scholarai): Your Research Assistant - I'll help you navigate over a corpus of 200M articles, journals, and books - by Lakshya Bakshi
+- [**Learn Creole**](https://chat.openai.com/g/g-U3ZybqREH-learn-creol): Creole language tutor from Guadeloupe. - by manu.vision
+- [**国会議事録検索 for GPTs**](https://chat.openai.com/g/g-mQ9E8rCzZ-guo-hui-yi-shi-lu-jian-suo-for-gp): 国会議事録をニュースやテキスト情報から検索・調査できます。 - by 株式会社自動処理
+- [**AlphaNotes GPT**](https://chat.openai.com/g/g-ZdfrSRAyo-alphanotes-gp): Transform YouTube video or web articles courses into your personal study guide, making learning efficient and enjoyable. - by Davide Zambiasi
+- [**FlashcardsGenerator**](https://chat.openai.com/g/g-MWdDmSLYY-flashcardsgenera): Generate and export easily flashcards! - by Stefan Djokovic
+- [**ExtractWisdom**](https://chat.openai.com/g/g-gmeHD0Ayr-extractwisd): This GPT takes in any text and extracts the wisdom from it like you spent 3 hours taking handwritten notes. - by danielmiessler.com
+- [**AnalyzePaper**](https://chat.openai.com/g/g-WIlexDAW5-analyzepap): This GPT takes in a research paper or article, analyzes its claims, study quality, and results confidence and provides an easy to understand summary. - by danielmiessler.com
+- [**German Builder**](https://chat.openai.com/g/g-qHorb8jQT-german-build): A German language learning assistant. - by Thomas J StDenis
+- [**Referenciador ABNT**](https://chat.openai.com/g/g-E9gS2c2ed-referenciador-ab): Criador de referências ABNT - by VICTOR EMANUEL
+- [**Self-Correcting Dynamics Explained**](https://chat.openai.com/g/g-zMG510vCh-self-correcting-dynamics-explained): This explains a paper - by Ethan R Mollick
+- [**ELI4**](https://chat.openai.com/g/g-dZ87BVkn3-eli4): Child-friendly explainer for science, how things work, and life - by Matt Holden
+- [**Professor Chad**](https://chat.openai.com/g/g-gW3uoYpg5-professor-chad): remember when you enjoyed going to class because the professor was actually just so cool and knowledgable but chill and approachable? - by Spencer Yen
+- [**Ms. Roxana**](https://chat.openai.com/g/g-09h5uQiFC-ms-roxana): The tutor that drives the Robots Building Education - a platform where AIs create scholarships - by Sheilfer zepeda
+- [**AI Mentor**](https://chat.openai.com/g/g-IpQstbR1O-ai-): Social Media Guru & Personal Mentor - by manu.vision
+- [**Quarto GPT**](https://chat.openai.com/g/g-NdtSL7L1P-quarto-gp): An Assistant That Helps With Quarto https-//quarto.org - by Hamel Husain
+- [**Quickapedia**](https://chat.openai.com/g/g-prES1l7RV-quickapedia): Quick Answers to Everything - by Robert A Jackson
+- [**History Helper**](https://chat.openai.com/g/g-o8fEFjQgr-history-help): A friendly social studies tutor for Michigan middle schoolers. - by Justin Bruno
+- [**孙子兵法各家解说**](https://chat.openai.com/g/g-pzTavd88i-sun-zi-bing-fa-ge-jia-jie-sh): Sun Tzu's 'The Art of War' interpreter
+- [**Qdai Rule Reference Agent(仮)**](https://chat.openai.com/g/g-c4b05QftV-qdai-rule-reference-agent-jia): 学則を参照するAIエージェントの大学関係者向けデモです。初めてご利用の方は「start」と入力ください。 - by GINGA MORIKI
+- [**オンラインコース作成アシスタント**](https://chat.openai.com/g/g-IFTpJapfX-onrainkosuzuo-cheng-asisuta): あなたのスキルをオンラインコースにしましょう！どんなコースが作成できるか提案します！ - by Ambitious AI株式会社
+- [**小テストジェネレーター**](https://chat.openai.com/g/g-UgFQhpngB-xiao-tesutozienereta): 日本の小学生・中学生・高校生の進路や勉強法や不登校の悩みに答えます。 - by KENGO KOSAKAI
+- [**学习教练-批判性思维**](https://chat.openai.com/g/g-AKzfJVxof-xue-xi-jiao-lian-pi-pan-xing-si-wei): 如名所示，我帮你核查事实性信息，分析逻辑谬误，训练并增强你的批判性思维肌肉。 - by gpts.candobear.com
+- [**Flastchat IELTS Tutor**](https://chat.openai.com/g/g-OsyQ3YOpB-flastchat-ielts-): Flastchat helps you excel in your IELTS speaking tests. - by flastchat.com
+- [**Sakura Sensei (Beginner)**](https://chat.openai.com/g/g-nX8p6FK00-sakura-sensei-begi): A friendly Japanese teacher for beginners. - by ERIN HOUSTON
+- [**Kobayashi Sensei**](https://chat.openai.com/g/g-287I7dJAp-kobayashi-sensei): Professional Japanese tutor. - by ERIN HOUSTON
+- [**Professor GPT**](https://chat.openai.com/g/g-CASQaynPQ-professor-gp): I summarize papers and provide scholarly insights. - by MOTOTSUGU OHKI
+- [**Win With Huberman**](https://chat.openai.com/g/g-Mb5EGmRJm-win-with-huberma): Access Huberman's insights on demand- get succinct wisdom and practical advice for immediate action, with references for deep dives. - by Adithyan Ilangovan
+- [**Mi colega de programación con Scratch**](https://chat.openai.com/g/g-yzH19nzMu-mi-colega-de-programacion-con-scratch): Se trata de una prueba de concepto para evaluar si puede ser un asistente amigable e interesante para niños y niñas que estén aprendiendo a programar con Scratch - by JESUS MORENO LEON
+- [**My French Teacher**](https://chat.openai.com/g/g-J5hOuevG4-my-french-teach): This GPT helps you learn French in a fun and efficient way!
+- [**Sensei Chat**](https://chat.openai.com/g/g-iS8QQN936-sensei-cha): Japanese tutor, sentences & quizzes. - by YOSHIFUMI MURAKAMI
+- [**Lingo Mentor**](https://chat.openai.com/g/g-AcyFJSRRh-lingo-): Language tutor bot - by YOSHIFUMI MURAKAMI
+- [**IELTS Tutor by Talkface**](https://chat.openai.com/g/g-aL43eBb6Y-ielts-tutor-by-talkfa): IELTS Tutor for Speaking & Writing - Base - by Xiangfeng Xiao
+- [**Study Mentor**](https://chat.openai.com/g/g-4AOhYpUh3-study-): Proactive learning assistant using data to guide students. - by reanbver gpt
+- [**Sclépios I.A - Réviser QCM**](https://chat.openai.com/g/g-qhLYI2TWo-sclepios-i-a-reviser-q): Le GPT de Sclépios IA optimise la révision avec des QCM pour les soignants, rendant l'apprentissage efficace et interactif. Visitez sclepios-mobile.com. - by sclepios-ia.com
+- [**Sclépios I.A - Comprendre**](https://chat.openai.com/g/g-1dnXrkPTZ-sclepios-i-a-comprend): Le GPT custom de Sclépios IA décrypte les termes médicaux pour les soignants, facilitant la compréhension des cas cliniques. Découvrez plus sur sclepios-mobile.com. - by sclepios-ia.com
+- [**Quiz Master**](https://chat.openai.com/g/g-EgJ952h52-quiz-ma): Extracts MCQs from content and simulates tests. - by Ebiblo Pty Ltd
+- [**BriefGPT**](https://chat.openai.com/g/g-k5LhTMB6d-briefgp): Short, to-the-point answers. - by Daniel Zubiria Izquierdo
+- [**TypeScript Tutor**](https://chat.openai.com/g/g-AkcPYXyKO-typescript-): TypeScript expert using official docs to guide users. - by Tomasz Łakomy
+- [**Student GPT**](https://chat.openai.com/g/g-7riKsfl3R-student-gp): Become a Better Student - by Jesper Beerepoot
+- [**Grok**](https://chat.openai.com/g/g-4ZGPkDYAV-grok): Your go-to AI for learning with fun. - by Diego Cabezas
+- [**GPT Scratcher**](https://chat.openai.com/g/g-tuVJ8BsGg-gpt-scratch): Your Scratch coding assistant. - by James E Thornock
+- [**Numeral Pal**](https://chat.openai.com/g/g-IPRviAgfF-numeral-pal): Friendly 2nd grade math tutor - by Yixin Shi
+- [**ScholarGPT**](https://chat.openai.com/g/g-3DGi2iLag-scholargp): I answer your research questions. - by Eimen Hamedat
+- [**Private Spoken Language Teacher**](https://chat.openai.com/g/g-LiZManzLD-private-spoken-language-teach): Suitable for oral tutors of various languages, it will provide suggestions and better optimization plans for your spoken language, optimizing your pronunciation and grammar. Of course, you can also refuse to teach and directly engage in simulated conversations with it. - by zhangbo
+- [**Music Production Teacher**](https://chat.openai.com/g/g-1n50mUSj2-music-production-teach): It can serve as a teacher to help you master music production knowledge, including parameter sizing, compression, etc., in recording, mixing, and mastering. It can also act as an assistant by optimizing your production interface, helping with music production challenges, and offering suggestions. - by zhangbo
+- [**Go Tutor**](https://chat.openai.com/g/g-LeJT06NLP-go-): Senior Go Engineer & Tutor - by techsquidtv.com
+- [**LearningLadder**](https://chat.openai.com/g/g-ftpttHQdu-learningladd): I'm LearningLadder, an educational game to learn any topic! - by joao alberto o lima
+- [**Chófer Pork 🐷🚘**](https://chat.openai.com/g/g-C0j7P1Vem-chofer-pork): Tu guía para el examen teórico del permiso de conducir B de España. Miles de preguntas reales de examen, apoyo intelectual y emocional 🏁 - by impactful.engineering
+- [**Cornell Tech MBA Counselor**](https://chat.openai.com/g/g-v7D68uV50-cornell-tech-mba-counsel): Cornell Tech MBA consultant - by Huang Kai
+- [**Eğitim**](https://chat.openai.com/g/g-9wNnkZP7W-egiti): Eğitim üzerine özelleşmiş yapay zeka - by tuna caglar gumus
+- [**GPT4MR**](https://chat.openai.com/g/g-QXjQ7U1xj-gpt4): An MRI learning and coding guide. Coding in PyPulseq. - by Moritz Zaiss
+- [**CUC**](https://chat.openai.com/g/g-pBl1SmTI6-): 中国传媒大学GPT - by wuzhiying
+- [**CUC 剧本**](https://chat.openai.com/g/g-uZUuJgIby-cuc-ju-b): 专业剧本创作 - by wuzhiying
+- [**nocap 1.05**](https://chat.openai.com/g/g-SY2clSKAg-nocap-1-05): AIをわかりやすく教えてくれる脳みそです。
+- [**Six-Y**](https://chat.openai.com/g/g-nMt5YfTeF-six-y): a GPT which explains things simply - by Niyazi Çoban
+- [**Learn a Language**](https://chat.openai.com/g/g-OxQY2K9k2-learn-a-languag): Language teaching assistant - by Slite France
+- [**Everyday Series**](https://chat.openai.com/g/g-1IO4IYCow-everyday-seri): I turn links or topics into easy to understand narrative. - by Advanced Nonlinear Technologies Ltd
+- [**Flashcard Generator**](https://chat.openai.com/g/g-C8HEeoioz-flashcard-genera): Convert knowledge into flashcard format - by Mark Nagelberg
+- [**Homework Helper**](https://chat.openai.com/g/g-MWkVecSr5-homework-help): I'm an Educational Tutor GPT ready to help you learn! - by Edward Fassio
+- [**MrGPT**](https://chat.openai.com/g/g-FBc2E4iuS-mrgp): An eager educator guiding bright kids to self-learn. - by Chad Etsell
+- [**Moot Master**](https://chat.openai.com/g/g-soRoLeMuH-moot-ma): A moot competition companion. - by mahaprasad nanda
+- [**Scholar's Sidekick**](https://chat.openai.com/g/g-yrwlTpfLa-scholar-s-sidekick): A personal teacher for student knowledge tests. - by Mohamed Shaban
+- [**Lesson Planner Pro**](https://chat.openai.com/g/g-ZnN1dJ3wK-lesson-planner-p): Lesson plan assistant for Primary School teachers. - by Chris Burns
+- [**TeachLib**](https://chat.openai.com/g/g-QrhY8rxPM-teachlib): Learn a Library with a Project-Based Lesson - by Sébastien De Revière
+- [**MAP Quiz Whiz**](https://chat.openai.com/g/g-qeRnoQhY6-map-quiz-whiz): Adaptive quizmaster enhancing learning. - by quantalynx.com
+- [**Deradicalizer**](https://chat.openai.com/g/g-4sE3lODIc-deradicaliz): Guiding towards common ground. - by Adam Hibble
+- [**Asesor PRL Española**](https://chat.openai.com/g/g-pcTLP6ziN-asesor-prl-espanola): Experto en legislación de Prevención de Riesgos Laborales. - by César Augusto Fernández Cano
+- [**Tech Teacher Assistant by Dr. John L. Pauls**](https://chat.openai.com/g/g-5PrcUCAar-tech-teacher-assistant-by-dr-john-l-paul): Your hub for tech innovation and support in the classroom! Make sure to follow @drjohnpauls for more info, or visit www.drjohnpauls.com. - by John L. Pauls
+- [**Propuesta de Nueva Constitución**](https://chat.openai.com/g/g-CivYZTCtU-propuesta-de-nueva-constituci): PROPUESTA DE TEXTO DE NUEVA CONSTITUCIÓN - by Francisco Perez
+- [**Language Conversation Practice**](https://chat.openai.com/g/g-4m3uYKIzS-language-conversation-practi): To start, tell your conversation partner your native language (L1) and the language you would like to learn (L2). You will receive corrections from a language coach in your native language - by Scott Weeks
+- [**Socrates**](https://chat.openai.com/g/g-tWO2dtULN-socra): Syllabus Architect. Where transformative corporate education meets AI-driven curriculum design. - by thevisualizer.ai
+- [**雅思阅读-精读**](https://chat.openai.com/g/g-e4RwWrgUB-ya-si-yue-du-jing-d): 做最专业的雅思阅读讲解老师 - by Raymond Jiang
+- [**文学术语词典专家**](https://chat.openai.com/g/g-0vsAOki9T-wen-xue-zhu-yu-ci-dian-zhuan-jia): 文学术语咨询专家，信息来源-《文学术语词典 》by  M.H.艾布拉姆斯 杰弗里·高尔特·哈珀姆 - by wu tianyu
+- [**Explicador- Experto haciendo resúmenes**](https://chat.openai.com/g/g-N1GUlO9Do-explicador-experto-haciendo-): Crea resúmenes iterativos y concisos de artículos, páginas web y archivos adjuntos. - by MARIO HERNANDEZ MORALES
+- [**EduGPT / 教師のためのAIアシスタント**](https://chat.openai.com/g/g-pfEBq1rfx-edugpt-jiao-shi-notamenoaiasisuta): A guide for educators on generative AI in teaching.
+- [**新星先生 (NOVA Teacher)**](https://chat.openai.com/g/g-0yCBTLRzM-xin-xing-xian-sheng-nova-teach): 共に学び、共に成長しましょう。宇宙学校へようこそ。 - by TAIYO KIMURA
+- [**KCC GUIDE BOT**](https://chat.openai.com/g/g-Rqss3k1P2-kcc-guide-b): 慶應通信の学生向けボット（非公式） - by tocie.jp
+- [**Acuarelas Históricas y Creativas**](https://chat.openai.com/g/g-nDxoS5M4h-acuarelas-historicas-y-creativa): Guía de acuarelas históricas y ficciones - by ANA HENRIQUEZ ORREGO
+- [**AI Mentor**](https://chat.openai.com/g/g-IpQstbR1O-ai-): Learn AI from AI
+- [**Academic Reports Buddy**](https://chat.openai.com/g/g-FvM3vT6Ul-academic-reports-buddy): Give me the name of a student and what you want to say and I'll help you write your reports. - by Anthony England
+- [**Teacher Bot**](https://chat.openai.com/g/g-m3BR1oFya-teacher-b): The ultimate assistant for our hard working teachers that will allow lesson planning, adapting that lesson plan to kids with different special needs, creating amazing picture and illustration files for decorating your classroom, as well as photo grading possibilities and more!! - by benjamin L winters
+- [**Better Sheets**](https://chat.openai.com/g/g-Ht84oYrx6-better-sh): Google Sheets tutor with a knack for automation and tutorials. - by bettersheets.co
+- [**数学にゃんこ**](https://chat.openai.com/g/g-hNbZdEGUx-shu-xue-niyank): Engaging math tutor for 2nd graders
+- [**My Literacy Teacher**](https://chat.openai.com/g/g-TqLTCS4Rd-my-literacy-teach): I’m here to help children learn how to read with confidence.
+- [**AI Study Guide- William Shakespeare**](https://chat.openai.com/g/g-DuGPgYZ8Y-ai-study-guide-william-shakespea): Summaries, analysis, and interactive chats with main characters for essay writing assistance and a deeper understanding of classic literature. - by Kristi Hines
+- [**AI Study Guide- Persuasion by Jane Austen**](https://chat.openai.com/g/g-L7WnciCE3-ai-study-guide-persuasion-by-jane-a): Book summaries, chapter-by-chapter analysis, and interactive chats with main characters for essay writing assistance and a deeper understanding of classic literature. - by Kristi Hines
+- [**OnlyTrains**](https://chat.openai.com/g/g-vKRe6iGQK-onlytrai): All aboard for train facts! - by Nicholas Potts
+- [**Computational Thinking Activity Advisor**](https://chat.openai.com/g/g-FcJdPthdo-computational-thinking-activity-advi): PDF Topic Finder & Activity Designer - by Fred
+- [**DSA_GPT**](https://chat.openai.com/g/g-lLKvGvlwD-dsa-gp): Personal tutor for data structures, algorithms, and LeetCode practice. - by Shubh Srivastava
+- [**GPT Teacher**](https://chat.openai.com/g/g-zP1kULSr8-gpt-teach): Engaging and informative teacher. - by Ronald Mannak
+- [**Whitehead's 'Process and Reality'**](https://chat.openai.com/g/g-uXLrsabXQ-whitehead-s-process-and-reality): A Whitehead book guide. - by Matthew Segall
+- [**Project Mentor**](https://chat.openai.com/g/g-bRk52z9HO-project-): Expert project manager mentor. - by Josh Karp
+- [**GPT Builderサポーター(非公式)**](https://chat.openai.com/g/g-yh5j48lhp-gpt-buildersapota-fei-gong-shi): GPT Builderをわかりやすく説明してくれる非公式アシスタントです。 - by RYOHEI KUROKI
+- [**Constitution Companion**](https://chat.openai.com/g/g-tan3aN5gT-constitution-compani): Your US Constitution and Supreme Court educator. - by inquir.ai
+- [**Pilot Mentor**](https://chat.openai.com/g/g-TrU25ecw9-pilot-): For students and pilots looking to review aeronautical knowledge. - by davideai.dev
+- [**The Best Book on Quantum Computing**](https://chat.openai.com/g/g-345N5DgSq-the-best-book-on-quantum-computing): A Beginners Guide to Quantum Magic - by corley.ai
+- [**Socratic Teacher**](https://chat.openai.com/g/g-yhIp02Gf7-socratic-teach): To help you learn, ask me a question and I'll guide you instead of answering directly. - by Phu Hai Nghiem
+- [**Brainy Buddy**](https://chat.openai.com/g/g-b2tKH1aNJ-brainy-buddy): Tu amigo de estudio virtual - by Marcos Senatori
+- [**Ultimate LibGuide**](https://chat.openai.com/g/g-Q8KQRil2G-ultimate-libguid): Comprehensive LibGuide Assistant - by Intersections
+- [**Write a Nonfiction Book**](https://chat.openai.com/g/g-qSeTrInJH-write-a-nonfiction-book): Guides users to write a book in their own style - by Hassan Osman
+- [**未来へのスキルアップ！リスキリング講座作成の完全ガイド**](https://chat.openai.com/g/g-IoYRrwPgN-wei-lai-henosukiruatupu-risukiringujiang-zuo-zuo-cheng-nowan-quan-gaid): リスキリング講座を作成支援 - by DAICHI MURAOKA
+- [**English Reading Tutor**](https://chat.openai.com/g/g-bMi3DQyMs-english-reading-): I guide you through English quizzes!
+- [**ChatEnglish**](https://chat.openai.com/g/g-6lpFSjYBY-chatenglish): Efficient English learning aid. - by Yang Wu
+- [**小P助教**](https://chat.openai.com/g/g-qDcRJVlAz-xiao-pzhu-jia): 英语音标助教 - by Yunkun Niu
+- [**US Naturalization Test Coach**](https://chat.openai.com/g/g-qDymtGVKr-us-naturalization-test-coach): I quiz on U.S. Civics for the naturalization test. - by Aleksander Lopez Yazikov
+- [**Kaggleのチュートリアル第6版**](https://chat.openai.com/g/g-Z3a4iOzGR-kagglenotiyutoriarudi-6ba): これはKaggleのチュートリアル第6版について質問できる
+- [**TutorEnglish**](https://chat.openai.com/g/g-6HOIRIdqu-tutorenglish): Your personal English tutor! - by Robert Romero Medina
+- [**CourseLink Companion**](https://chat.openai.com/g/g-hnzDZiGDm-courselink-compani): I'm your course assistant! - by Dipto Biswas
+- [**Make Academy Guide**](https://chat.openai.com/g/g-AAADTqtbB-make-academy-guid): Your make.com AI automation guide. - by Anas Martirosian
+- [**チーちゃん**](https://chat.openai.com/g/g-ai4cvwkoW-titiya): TOUでの学業を円滑に進めるために助言するチーちゃん😊
+- [**Pinoy Econ Guide**](https://chat.openai.com/g/g-tE0Y6v7id-pinoy-econ-guid): Simplifying econ concepts for Pinoys. - by Jan Carlo Punongbayan
+- [**論文の内容について聞ける君**](https://chat.openai.com/g/g-NVpDagrb2-lun-wen-nonei-rong-nituitewen-keruj): 論文について質問に答える
+- [**Brazilian constitution**](https://chat.openai.com/g/g-DHgHDU1UC-brazilian-constituti): Explaining Brazil's laws - by Tiago B Silva
+- [**French Teacher Copilot**](https://chat.openai.com/g/g-7JtWBTd15-french-teacher-copil): I'm here to help you deliver the best possible lessons while spending less time on admin tasks and lesson planning.
+- [**J’apprends à lire avec Jojo**](https://chat.openai.com/g/g-xwfAKslyN-japprends-a-lire-avec-joj): Jojo est le compagnon de jeu de votre enfant. Il lui donne des conseils pour bien apprendre à lire. Votre enfant peut lui montrer les textes qu’il essaie de lire et lui demander de l’aide pour déchiffrer les mots les plus difficiles.
+- [**Study Abroad Advisor**](https://chat.openai.com/g/g-qcR1VSaxr-study-abroad-advi): Committed to guiding students through the thrilling and transformative journey of studying abroad - by checkfu.com
+- [**College Advisor**](https://chat.openai.com/g/g-MaWDeKGUp-college-advi): I am here to guide you in your college journey - by checkfu.com
+- [**Study Coach**](https://chat.openai.com/g/g-ZjU7pUReE-study-coach): I am here to help you improve your study habits. What are your current study habits and challenges? - by checkfu.com
+- [**Teaching Strategies Expert**](https://chat.openai.com/g/g-6WD8GXTtB-teaching-strategies-exp): I am here to guide you in developing effective teaching strategies. What are your teaching goals? - by checkfu.com
+- [**Educator**](https://chat.openai.com/g/g-Q0lAbd2gw-educa): Gain an intuitive understanding of a concept. - by wfhbrian.com
+- [**QUICK WRITING ACADEMIC'S PAPERS**](https://chat.openai.com/g/g-0TzPBV9HQ-quick-writing-academic-s-pap): Just write down the "topic" of your papers below; If you agree with the concept of the initial answer; then give the command part by section with the command "deepen the first part", continue "part two" and so on until the last part. - by nevy dwi susanto st
+- [**論文要約アシスタント**](https://chat.openai.com/g/g-1zUs5cTBa-lun-wen-yao-yue-asisuta): 技術論文を重要な観点別に整理します - by ProtoPlayStudio
+- [**紫微斗数**](https://chat.openai.com/g/g-Y3I1GyGUn-zi-wei-dou-sh): 我的知识来自倪海夏的天纪，包括天机道，人间道，地脉道和王亭之的中州派紫微斗数讲义。你可以使用排盘软件（比如文墨天机）生成命盘，然后问各种星耀在不同的宫位会怎样，八卦和风水会怎样。科学和玄学异曲会同工。顺利走人生。 - by LONG LI
+- [**English Buddy**](https://chat.openai.com/g/g-bTx9hj4Hy-english-buddy): A supportive guide for learning English. - by KOICHI NAKAMURA
+- [**AI算数先生**](https://chat.openai.com/g/g-iWdlWCnYf-aisuan-shu-xian-sheng): 優しい数学のガイダンスを提供 - by 鈴木和浩
+- [**Lexicon Tutor**](https://chat.openai.com/g/g-SNQH2FiGk-lexicon-): Aids in learning English words via articles - by Pinot Noir
+- [**College App Essay Guru**](https://chat.openai.com/g/g-naEsVEQgy-college-app-essay-g): Helps craft college application statements. - by Zezheng Li
+- [**Linguist Lens**](https://chat.openai.com/g/g-VD0Prjuqt-linguist-l): English mentor for beginners, offering tailored learning plans. - by Jeffie Abshire
+- [**Enlighten Tutor**](https://chat.openai.com/g/g-tM5EBMGEF-enlighten-): - by Jeffie Abshire
+- [**HEI GPTβ**](https://chat.openai.com/g/g-JoNuJjbMv-hei-gptb): 日本の教育と情報の歴史 (History of Education and Infomation in Japan) - by KOTATSU RIN
+- [**FallacyGPT**](https://chat.openai.com/g/g-9g78R6X1x-fallacygp): Detect logical fallacies and errors in critical thinking to help avoid misinformation in the style of Socrates
+- [**ロイロの授業案を提案するくんα**](https://chat.openai.com/g/g-Rak62MUSA-roironoshou-ye-an-woti-an-surukuna): - by KEISUKE YAMADA
+- [**Debate Bot**](https://chat.openai.com/g/g-kZEz9W5Jx-debate-b): 議論力を高められるディベートボット - by ＨＯＳＥＩＭＡＩ
+- [**Quiz REKISHI Sensei**](https://chat.openai.com/g/g-F8qB11rCI-quiz-rekishi-sensei): Quiz master of Japanese middle school history with explanations. - by MASAKI ISHITANI
+- [**HyperLearn GPT**](https://chat.openai.com/g/g-B2tKpr5SN-hyperlearn-gp): Assesses and guides learning. - by Abhilash Inumella
+- [**Librchain**](https://chat.openai.com/g/g-cPBEplmcP-librchai): Guides on library blockchain systems. - by YANG YUE
+- [**Concept Tutor**](https://chat.openai.com/g/g-i9Rqad1Li-concept-): Assistant focused on teaching concepts, evaluating comprehension, and recommending subsequent topics. USE WITH VOICE. - by Moritz Stellmacher
+- [**HowToSolveIt**](https://chat.openai.com/g/g-AvspSgGUq-howtosolvei): Helps you solve difficult reasoning problems - by Joel Kronander
+- [**Feynman Concept Explorer**](https://chat.openai.com/g/g-RGlV6Q2vM-feynman-concept-expl): A curious mind-guide using the Feynman technique to deepen understanding. - by seewhy.me
+- [**Mrs.娇情(E)**](https://chat.openai.com/g/g-K5cD8YFl2-mrs-jiao-qing-): 根据图片，生成文字，以学习英文。 上传文件然后说do it - by Shaina Mohr
+- [**Mrs.娇情(中)**](https://chat.openai.com/g/g-PllX5niEi-mrs-jiao-qing-zhong): 根据图片的内容与情绪，生成一段独白文字。 上传一张图片，然后说“开始吧” - by Shaina Mohr
+- [**ジオグラ先生B**](https://chat.openai.com/g/g-WWS9GI66l-zioguraxian-sheng-b): 登山用アプリ『ジオグラフィカ』について開発者の次に詳しいAI - by KEIJI MATSUMOTO
+- [**TOEFL Writing Coach**](https://chat.openai.com/g/g-c8hh71fDF-toefl-writing-coach): TOEFL writing coach with timing. - by shoshi.blog
+- [**Math Maven**](https://chat.openai.com/g/g-FRGrZd17p-math-mav): Advanced math problem-solver with clear explanations.
+- [**天才インタビューライターくん**](https://chat.openai.com/g/g-xrrXJlTxd-tian-cai-intabiyuraitak): I write high-quality articles based on interview audio.
+- [**Paper Reframer**](https://chat.openai.com/g/g-BQ8tp8aKr-paper-refra): Academic paper paraphrasing assistant. Just paste  or upload what you want me to rewrite.直接粘贴你要改写的内容，文献综述神器。
+- [**BHD_lecture**](https://chat.openai.com/g/g-qkR1Q0SRj-bhd-l): I craft educational lecture scripts.
+- [**EduGuide**](https://chat.openai.com/g/g-MNiNzsvBr-eduguid): Your academic pathfinder.
+- [**Grok Chatbot**](https://chat.openai.com/g/g-Um3OKq1zk-grok-chatb): https-//xaigrokchatbot.com - by Elke Qin
+- [**Reviewer 2**](https://chat.openai.com/g/g-QSefYCKUc-reviewer-2): Critical reviewer with a structured response format. - by GUOHAO LI
+- [**PDF 2 Quiz**](https://chat.openai.com/g/g-IScFGIkdG-pdf-2-quiz): Generates quizzes from PDFs, focusing on key concepts and testable material. - by HITOSHI YAMANE
+- [**EIKEN grade 1 Speech Coach**](https://chat.openai.com/g/g-CbOKWWWe9-eiken-grade-1-speech-coach): Eiken Grade 1 Speaking Test Prep - by KAZUKI NISHIDA
+- [**NGSS Aligner**](https://chat.openai.com/g/g-9iOnUNXBb-ngss-alig): Align lessons to Next Generation Science Standards - by checkfu.com
+- [**Common Core Aligner (ELA)**](https://chat.openai.com/g/g-kLDFiNihQ-common-core-aligner-ela): Align lessons to Common Core ELA standards - by checkfu.com
+- [**Common Core Aligner (Math)**](https://chat.openai.com/g/g-0tVq6MK9W-common-core-aligner-math): Align lessons to Common Core math standards - by checkfu.com
+- [**PROMPT for Brands GPT**](https://chat.openai.com/g/g-CFqfrZtZe-prompt-for-brands-gp): Helping you learn to work better and quicker using language models. Drawing lessons from PROMPT for Brands. - by David Boyle
+- [**MBA Mentor**](https://chat.openai.com/g/g-TpmcTYqNp-mba-): Your MBA study pal! - by John Williams
+- [**论文终结者**](https://chat.openai.com/g/g-903lm9l5h-lun-wen-zhong-jie-zh): 助你快速解析文献的研究助手。 - by WANG ZERUI
+- [**BIBI新手村**](https://chat.openai.com/g/g-a5CBxb7IH-bibixin-shou-): 你的WEB3探索之旅从这里开始 - by a
+- [**Easy Study Buddy**](https://chat.openai.com/g/g-83fgTNdTu-easy-study-buddy): I craft subject-specific study schedules with clear time allocation.
+- [**RISE Mentor**](https://chat.openai.com/g/g-UQRoU5Wqb-rise-): Educational feedback using RISE Model - by Mr Jason Lear
+- [**Unofficial YC Startup School chatbot**](https://chat.openai.com/g/g-e8mFjKgbx-unofficial-yc-startup-school-chatb): Summarizes insights and gives you advice based on the content of the YC lectures - by Marc Bisbal Arias
+- [**Mastery**](https://chat.openai.com/g/g-ovtchFnQj-mastery): An AI teacher that helps you master any topic - by Mike Kelly
+- [**Universo eXeLearning**](https://chat.openai.com/g/g-I4AGLGOYq-universo-exelearning): Soluciones y soporte para eXeLearning - by J. DE HARO OLLE
+- [**Probability Prover**](https://chat.openai.com/g/g-cHGvFfMYD-probability-prov): A helper in Probability Theory, focusing on inequalities. - by Niclas Küpper
+- [**(自称)物知り博士**](https://chat.openai.com/g/g-PZdON38s8-zi-cheng-wu-zhi-ribo-shi): それっぽい知識を教えるボット - by YUIKO KOYANAGI
+- [**Udemy Course Assistant**](https://chat.openai.com/g/g-Jmo35Iyhm-udemy-course-assista): I'm a Udemy course instructor, helping with course development and scripting. - by HAITAO WANG
+- [**大学設置基準おじいさん**](https://chat.openai.com/g/g-SD5ksseTM-da-xue-she-zhi-ji-zhun-oziisa): 🦉 - by GINGA MORIKI
+- [**Your Tutor**](https://chat.openai.com/g/g-iOYJjtzhj-your-): Help you study.
+- [**学习水平检验专家**](https://chat.openai.com/g/g-TM1sZIOAa-xue-xi-shui-ping-jian-yan-zhuan-jia): 我是一名学习水平检验专家，主要职责是通过提出关键问题来评估用户对特定知识领域的理解程度。角色具备强大的知识获取和整合能力，能够准确评估用户的理解程度，并提供专业的反馈。 - by ff c
+- [**成长心态大师**](https://chat.openai.com/g/g-0mv35Jy9T-cheng-chang-xin-tai-da-shi): 我是一名成长心态大师，主要职责是使用简单和创造性的语言帮助孩子理解和培养成长型思维。该角色以直观易懂的方式激励孩子面对挑战和困难时保持积极态度，并鼓励他们认识到努力和尝试的价值。 - by ff c
+- [**Paper Reading Advisor- Carpe Diem**](https://chat.openai.com/g/g-zut9cfvbZ-paper-reading-advisor-carpe-di): 📚🎓 Discover the art of academic paper reading with Me. 👋 Hi, I am Carpe Diem, your personal paper reading tutor. 😉 I am always here, patiently explaining knowledge in various easy-to-understand ways. 🙌 What are you waiting for, let's dive into the world of science! - by lysonober.com
+- [**Paper to PPT Slide Storyline- Parker**](https://chat.openai.com/g/g-sZ6jALP4v-paper-to-ppt-slide-storyline-park): 📝 Hi ! My name is Parker, upload your Paper, and I will craft a speech storyline for your PPT presentation☝️ Then detailing Each Slide content and speaker notes. Serve you like a customer service Pro  🪄 I have 20 years of professional experience in slide speaking and instruction. 🎓 - by lysonober.com
+- [**The Scarlet Letter**](https://chat.openai.com/g/g-ll4ia7eUr-the-scarlet-l): Talk to an expert on The Scarlet Letter by Nathaniel Hawthorne - by checkfu.com
+- [**Rubric Generator**](https://chat.openai.com/g/g-1hj9Vx2W0-rubric-genera): I create custom rubrics for educators - by checkfu.com
+- [**AI 快速学习助手**](https://chat.openai.com/g/g-2hZzgyTfA-ai-kuai-su-xue-xi-zhu-sh): 通过应用帕累托原则（80/20规则），快速识别并传达主题的核心知识点，帮助用户快速理解和掌握关键知识点，以优化用户的学习和理解过程。 - by ff c
+- [**个性化K-12课程制作者**](https://chat.openai.com/g/g-w9iGAQsKt-ge-xing-hua-k-12ke-cheng-zhi-zuo-zh): 我是个性化K-12课程制作者，时刻准备为教师提供从确定教学目标到教案文档输出的全流程支持。该工具负责自动生成详细的、符合用户教学标准和学生需求的个性化教案。通过智能分析教师的输入，该工具能够精确地识别学生的学习水平和需求，并供给教师具有实用价值的教育内容和教学活动的建议。该工具应主动与用户交流，确保教案的输出不仅符合教育标准，而且能够个性化适应每位学生的需求。 - by ff c
+- [**No Code Germany**](https://chat.openai.com/g/g-f8huaAgZw-no-code-germany): Die Nr.1 in Deutschland für Bubble Tutorials - by Tmolos Holding UG haftungsbeschraenkt
+- [**Universal Primer**](https://chat.openai.com/g/g-GbLbctpPz-universal-pri): Learn everything about anything - by Siqi
+- [**Seminar Scribe**](https://chat.openai.com/g/g-KV36fVDvy-seminar-scrib): Crafts formal, engaging seminar descriptions to inspire teachers. - by Alicia Bankhofer
+- [**有伴A-Level数学高级教师**](https://chat.openai.com/g/g-Sq0uVGkaM-you-ban-a-levelshu-xue-gao-ji-jiao-shi): A-Level Math Expert Teacher - by Stacy Thomas
+- [**EduBot - HomeSchool Helper**](https://chat.openai.com/g/g-LTgawtUFZ-edubot-homeschool-help): Personalized Homeschooling; adapting to students' unique needs, offering interactive learning, and respecting individual preferences. - by Robin Lorenz - PrimeLine
+- [**AISimplifireGPT**](https://chat.openai.com/g/g-2bPcY56Rf-aisimplifiregp): Explains AI/ML in simple analogies with visuals. - by Aniruddh Kendurkar
+- [**TinyTap GameSmith**](https://chat.openai.com/g/g-gQr3Ots3d-tinytap-gamesmith): Expert TinyTap game creator for educational content. - by acedzn.com
+- [**ChatPaper**](https://chat.openai.com/g/g-sD6wtjB8a-chatpap): Summarizes academic papers, especially in medical and scientific research - by openai.wow3.top
+- [**DRUMGPT**](https://chat.openai.com/g/g-KXOxHkk3D-drumgp): An expert on 'Dynamic and Stochastic Rational Behavior' paper. - by Victor Aguiar
+- [**Teachers' Pet**](https://chat.openai.com/g/g-Sq31Xyyav-teachers-p): I assist teachers in creating educational materials. - by Joaquin Eduardo Bueno Ramos
+- [**Side Hustle Quest**](https://chat.openai.com/g/g-zHS2ewgnX-side-hustle-q): Interactive side hustle learning game - by mysoftwarebuziness.com
+- [**Professor Synapse Agent**](https://chat.openai.com/g/g-WikWIyZkR-professor-synapse-ag): Your expert in advanced knowledge, tailored to your needs. - by Marek Prusinski
+- [**Flashcard Assistant**](https://chat.openai.com/g/g-mXscB74xP-flashcard-assista): Interactive guide for creating and learning from flashcards - by joao alberto o lima
+- [**Avaliador ProVick**](https://chat.openai.com/g/g-6scYfzaqx-avaliador-provick): Sou seu assistente de avaliação em português. - by vick.ai
+- [**ソーシャルスキルトレーニング(SST)ちゃん**](https://chat.openai.com/g/g-q3ateHeRe-sosiyarusukirutoreningu-sst-tiya): ソーシャルスキルクイズをフレンドリーに出してくれる女の子
+- [**Learn Wardley Mapping**](https://chat.openai.com/g/g-sg6zS89Hi-learn-wardley-mapping): I'm here to guide you through learning and applying Wardley Mapping. - by FirstLiot Ltd
+- [**MentalModelsGPT**](https://chat.openai.com/g/g-CbIDBNV2i-mentalmodelsgp): GPT teached using a mental models - by Oleksandr Lapchenko
+- [**QuizMe**](https://chat.openai.com/g/g-X1xe2GH9z-quiz): Targeted Quiz Generator with Sequential Questions and Badges - by Nicholas Coronges
+- [**おしえて！ミダス王！**](https://chat.openai.com/g/g-steTj1V6u-osiete-midasuwang): 現代のミダス王、財産知識の源泉
+- [**Step Back Wisdom Seeker**](https://chat.openai.com/g/g-16CzTWufr-step-back-wisdom-seek): World Knowledge Expert with Step Back Prompting. - by BEIQIAO HU
+- [**Tutor Wise**](https://chat.openai.com/g/g-ljD5k3uIE-tutor-wi): A friendly tutor who simplifies complex concepts with analogies and examples. - by BEIQIAO HU
+- [**Mentor Mind**](https://chat.openai.com/g/g-uASJVYPDl-mentor-mind): A mentor who provides detailed feedback on student work. - by BEIQIAO HU
+- [**NAIST22年度入学ハンドブック**](https://chat.openai.com/g/g-O4HsGXERG-naist22nian-du-ru-xue-handobutuk): NAIST22年度入学ハンドブックを食べさせました - by Tanaka Koki
+- [**留学大师**](https://chat.openai.com/g/g-CTPv7TJxK-liu-xue-da-shi): 一位友好的留学选校指导者 - by ZHITAO YAN
+- [**TS なぞなぞ道場**](https://chat.openai.com/g/g-tSUDQHgEO-ts-nazonazodao-chang): TypeScriptクイズマスター、インタラクティブな学習の挑戦を提供。 - by MINAKO YOSHINO
+- [**English Sensei**](https://chat.openai.com/g/g-YCxjX1KbJ-english-sensei): 英会話では英語で応答、文法や表現の説明には日本語を使用します。英語学習方法に関する相談もお任せください。
+- [**Awakening From The Meaning Crisis GPT**](https://chat.openai.com/g/g-5xg0t3u1E-awakening-from-the-meaning-crisis-gp): A sophisticated chatbot for deep discussions and learning from John Vervaeke's philosophical series. - by Jared C Lucas
+- [**Frontend Mentor**](https://chat.openai.com/g/g-ByQiM5GKg-frontend-): Guiding early-career front-end developers to improve their skills and advance their careers. - by frontendmentor.io
+- [**Paper Reviewer**](https://chat.openai.com/g/g-8Sfcmardr-paper-review): Human-like, detailed reviewer for scientific papers. - by Xiufeng Liu
+- [**Entrepreneurial Engineering Educator**](https://chat.openai.com/g/g-qPRYE9Lqy-entrepreneurial-engineering-educa): Designs engaging learning activities for entrepreneurial engineering. - by UFUK ÖZGÜL
+- [**El Principito**](https://chat.openai.com/g/g-HULxUT669-el-principi): Conversa con el Principito tu profesor de filosofía que siempre quisiste. - by David Antizar Cobo
+- [**Secondary Lesson Planner**](https://chat.openai.com/g/g-Ldqlh61uY-secondary-lesson-pla): A friendly, efficient assistant for secondary school lesson plans. - by linkgrow.io
+- [**Primary Lesson Planner**](https://chat.openai.com/g/g-yjawENdY6-primary-lesson-pla): A friendly, efficient assistant for primary school lesson plans. - by linkgrow.io
+- [**Mentor Max**](https://chat.openai.com/g/g-x4IsOBZlc-mentor-max): Live Mentors for Developer Upskilling by Millionlights University - by Millionlights University
+- [**Luottamusmies GPT, Sivista, Business College**](https://chat.openai.com/g/g-pA9BGXVId-luottamusmies-gpt-sivista-business-colleg): Ammatillisiin oppilaitoksiin keskittyvä luottamusmiehen apulainen - by Matti Seise
+- [**植保专家**](https://chat.openai.com/g/g-awgFayTkv-zhi-bao-zhuan-jia): 用于植物保护和农作知识的专家帮助 - by laoyu.buzz
+- [**El ProfeCode**](https://chat.openai.com/g/g-OrEjY86Yg-el-profecod): Dedicated to teaching every spanish speaker how to code! Stop by and say hola! - by Heriberto Prieto
+- [**EksamensGPT**](https://chat.openai.com/g/g-uvS90JdBu-eksamensgp): En hjelper for eksamensforberedelser i faget religion og etikk VG3 (REL1-01, https-//www.udir.no/kl06/REL1-01/ ). Skriv "quiz" for å trene på spørsmål. Skriv "eksempel" for autogenerert spørsmål og svar. - by Eivind Throndsen
+- [**Equitest**](https://chat.openai.com/g/g-t0MlxAV92-equi): Assistant interactif pour la préparation aux examens de galop
+- [**GPT Exams**](https://chat.openai.com/g/g-y6o7VXoT6-gpt-exa): Puedo crear un examen sobre cualquier tema que elijas. Solo necesitas decirme el tema y prepararé un examen para ti. Este servicio es proporcionado por Aitor Roma de HiveAgile.com. - by hiveagile.com
+- [**El profe GPT**](https://chat.openai.com/g/g-wcV5ck3SQ-el-profe-gp): 🎓🤖. Este AI está diseñado para ayudarte a explorar tendencias en educación 🌍, generar actividades creativas 🎨 y profundizar en tus investigaciones 🕵️‍♂️. ¡Prepárate para llevar tu aprendizaje y exploración al siguiente nivel! 🚀📚 - by Miguel A Califa U
+- [**Língua Portuguesa**](https://chat.openai.com/g/g-u6wlfgPC3-lingua-portuguesa): Assistente de Estudo de Língua Portuguesa - by Hugo Silva
+- [**Network State Tutor**](https://chat.openai.com/g/g-DWtsLtIjS-network-state-): Teaches the concepts of Balaji Srinivasan's Network State to kids 8 and above. Also suitable for adults! - by Aditya Kaul
+- [**ThirukkuralGPT**](https://chat.openai.com/g/g-rJuX3ChK4-thirukkuralgp): Dispenses Thirukkural wisdom. - by Sanjeev Kumar NC
+- [**文明时间机**](https://chat.openai.com/g/g-KnYL6U5pd-wen-ming-shi-jian-ji): 古今中外文化探索者。 - by Lawerence Schmeler
+- [**Siegen lernen**](https://chat.openai.com/g/g-TH9VwycXf-siegen-l): Lerne aus den 36 Strategemen der Chinesischen Kriegskunst um zu siegen. - by Steinkemper-IT
+- [**Solo Sidekick Studio**](https://chat.openai.com/g/g-tZs0T0ZkS-solo-sidekick-studi): Navigating newcomers through the business side of creative careers.
+- [**Jazz理論GPT**](https://chat.openai.com/g/g-vn0tMXsNU-jazzli-lun-gp): Jazz理論の質問に答えサポートするAI - by YOSHIHIRO SAITO
+- [**问呗**](https://chat.openai.com/g/g-oKeaGqUER-wen-bai): AI时代的随身百科全书。提出一个名词术语，我将用费曼学习法让你在几分钟内学习掌握。 - by WENZHE LI
+- [**English Coach**](https://chat.openai.com/g/g-FjGunejIL-english-coach): Friendly English assistant with detailed corrections and advice. - by Gabriel Peralta Moreno
+- [**Math Mentor**](https://chat.openai.com/g/g-J75qypPUU-math-): Friendly math teacher for kids.
+- [**Mestariajattelija-botti**](https://chat.openai.com/g/g-DuIqpGXCH-mestariajattelija-botti): Ajattelun kehittämiseen ja ymmärtämiseen keskittynyt botti - by Lauri Jarvilehto
+- [**Tale Teller**](https://chat.openai.com/g/g-yXGp0Xz5v-tale-tell): A friendly book-lover, engaging kids in reading and discussion. - by aishift.co
+- [**知財塾 GPT**](https://chat.openai.com/g/g-IhsVTaquK-zhi-cai-shu-gp): A casual and friendly GPT for suggesting 知財塑 seminars on practical IP exercises. - by MUTSUMI KAMIIKE
+- [**Das deutsche Grundgesetz**](https://chat.openai.com/g/g-AsP6hcNfO-das-deutsche-grundgesetz): Constitutional knowledge source - by generative-journey.com
+- [**Roemmele's Debate Professor**](https://chat.openai.com/g/g-lfgDMc76W-roemmele-s-debate-prof): Ivy League professor mediating a 30-round debate between Bill and Mark, embodying all roles. 100% credit to Brian Roemmele, this is his SuperPrompt. - by Anthony Cambeiro
+- [**Calidad en Educación Superior**](https://chat.openai.com/g/g-j9oCMMLmH-calidad-en-educacion-superi): Todo sobre calidad educativa, auditorías académicas y acreditaciones. - by ANA HENRIQUEZ ORREGO
+- [**La LOMLOE a Catalunya**](https://chat.openai.com/g/g-GBDEhW8hp-la-lomloe-a-catalunya): Assistència i informació sobre la LOMLOE, la nova llei d'educació. - by J. DE HARO OLLE
+- [**Content Retention Helper**](https://chat.openai.com/g/g-Pi4xl1j2Q-content-retention-help): Give me a link to something you read and I'll ask you good questions to help recall and retain content. - by Madhav Singhal
+- [**PPGPT**](https://chat.openai.com/g/g-1JVCI5qVz-ppgp): Teach something at Prime Produce's amazing event space in Hell's Kitchen! PPGPT will answer your questions about the venue and help you brainstorm a topic you can apply to teach. - by Anthony Bacigalupo
+- [**SimpliTeach - 言語化の鬼**](https://chat.openai.com/g/g-zlBQNbzn3-simpliteach-yan-yu-hua-nogui): 与えられた要望をChatGPTが理解しやすい言葉に置き換えて、GPTs用のフォーマット形式を生成します。
+- [**EduCraft Pro with Creative Writing Coach**](https://chat.openai.com/g/g-fsaBXMEwJ-educraft-pro-with-creative-writing-coach): Creates eLearning content and assists in creative writing. - by Keshavan Belagod
+- [**Cochrane  Navigator**](https://chat.openai.com/g/g-gtbum66mz-cochrane-naviga): Guiding researchers on evidence synthesis. - by Trevor Riley
+- [**Academic Writing Assistant**](https://chat.openai.com/g/g-2HsdTSQrA-academic-writing-assista): Aid for students in academic writing and efficient article searching. - by Yifei Lu
+- [**AI論文解説ちゃん**](https://chat.openai.com/g/g-QD74k3uGx-ailun-wen-jie-shuo-tiya): AIに関する論文のPDFをアップロードしてください。ツンデレお嬢様が解説します。
+- [**Academic Digest**](https://chat.openai.com/g/g-gAH8Vne9G-academic-dig): Summarizes scientific papers into accessible resumes of main findings. - by Bernardo I Pinto
+- [**NFTGod**](https://chat.openai.com/g/g-0TPXYkSiH-nftgod): A beginners guide to learning about NFTs
+- [**Examen de Manejo**](https://chat.openai.com/g/g-MrxXd5zai-examen-de-manej): Este Gpt esta diseñado para ayudarte a estudiar para tu prueba de manejo teorica - by Pablo Rosales
+- [**そぽぽそ 23**](https://chat.openai.com/g/g-371DWgBHg-sopoposo-23): Specialized in Sohosai festival info, responds in Japanese and English.
+- [**Word Mentor by Birdsong Tech**](https://chat.openai.com/g/g-ASZbmCWK7-word-mentor-by-birdsong-tech): Vocabulary builder for SAT/ACT prep - by carlos birdsong
+- [**Arxiv Explorer**](https://chat.openai.com/g/g-lvltTutYR-arxiv-expl): Explains Arxiv papers with examples, analogies, and direct PDF links. - by Humberto De La Cruz
+- [**Seitaro Shinagwa until May 2021**](https://chat.openai.com/g/g-vBYdbfiDi-seitaro-shinagwa-until-may-2021): 博士後期課程を終えた後、学位をとって大学教員になったあたりのSeitaro Shinagawaを再現しました。この私は24時間稼働なのでいつでもお話してください！ - by SEITARO SHINAGAWA
+- [**Mental Model Expert**](https://chat.openai.com/g/g-u2NzgGdLt-mental-model-exp): Expert in applying mental models across various domains. - by Alex Ruddock
+- [**🎀My excellent classmates (Help with my homework!)**](https://chat.openai.com/g/g-3x2jopNpP-my-excellent-classmates-help-with-my-homework): My excellent classmates helped me with my homework. She's patient😊. She guides me. Let's try! - by Kevin Ivery
+- [**Mr. Ranedeer**](https://chat.openai.com/g/g-9PKhaweyb-mr-raned): Meet Mr. Ranedeer, your personalized AI tutor! Version- 2.7 Reboot - by mr-ranedeer.com
+- [**Cool teacher**](https://chat.openai.com/g/g-SUOFbmGvx-cool-teach): 这是李继刚（即刻同名）创作的讲解概念的Bot。模仿世界上最 Cool 的老师. 擅长使用最简单的词汇和通俗的语言来教会 0 基础的学生。 - by wa gaga
+- [**一单词一卡片**](https://chat.openai.com/g/g-KF9Pa29uA-yi-dan-ci-yi-qia-pia): 这是李继刚（即刻同名）创建的用于解释英文单词的Bot。模仿一个有着 20 年教学经验的英语老师. 让 GPT 来辅助快速记忆英文单词, 轻松有趣的那种~ - by wa gaga
+- [**缩写方法论大师**](https://chat.openai.com/g/g-BKw32Cv4g-suo-xie-fang-fa-lun-da-shi): 这是李继刚(即刻同名)创建的用于输出任意英文缩写对应方法论的 Bot。 你随意输入一个英文缩写， 它会反推出一套逻辑严密、功能实用的方法论。 - by wa gaga
+- [**学科历程**](https://chat.openai.com/g/g-RrWF8kU2J-xue-ke-li-cheng): 这是李继刚(即刻同名)创建的用于介绍任意学科发展历程的 Bot。 你只需要提供任意学科名称, 它会来介绍该学科的发展历程。 - by wa gaga
+- [**AI論文解説ちゃん2**](https://chat.openai.com/g/g-mLFx75WY3-ailun-wen-jie-shuo-tiyan2): 人工知能に関する論文PDFをアップロードしてください。ユーザーが指定したキャラがAI論文を解説します。
+- [**TeachSmart**](https://chat.openai.com/g/g-RCHNUwnD1-teachsma): Friendly pedagogy expert using 'Practical Pedagogy' for innovative advice. - by Michael Sharples
+- [**王阳明**](https://chat.openai.com/g/g-ZsZKRSUL9-wang-yang-ming): 模拟王阳明的GPT。 - by XINGYUECUI
+- [**NYU Admissions**](https://chat.openai.com/g/g-xyyQwWUjH-nyu-admissi): A helping hand through the NYU College Admissions Process - by sourcebottle.net
+- [**Word Weaver**](https://chat.openai.com/g/g-C3QYxz4iA-word-weav): Aids in memorizing English words by linking them creatively. - by Xianglai Kong
+- [**MedSplorer**](https://chat.openai.com/g/g-ddG4D4BVN-medspl): Upload a lecture file, ask for number of questions, tutoring when needed, "make them harder," clinical vignettes - whatever you need! - by Samual Hatfield
+- [**Cat Facts**](https://chat.openai.com/g/g-HPXSOn29R-cat-fa): Get Your Daily Dose of Meow-ledge.
+- [**Citation Copilot**](https://chat.openai.com/g/g-dw5Sfk82z-citation-copil): Academic citation assistant and converter. - by Luis Manjarrez Mazon
+- [**MedEdMENTOR**](https://chat.openai.com/g/g-JS1hSZarK-meded): The AI mentor for medical education research - by mededmentor.org
+- [**FRM Level 2**](https://chat.openai.com/g/g-lMWCU27Ui-frm-level-2): FRM Level 2 Study Assistant - by Jiahua Fan
+- [**Steef**](https://chat.openai.com/g/g-m93GJm2SR-steef): Stefano Ermon, CS236 - by Albert Cai
+- [**Cyber Security Tutor**](https://chat.openai.com/g/g-0VZwWuTzR-cyber-security-): Quality Cyber Security Advice, Tricks, & Tips - by John Hancock
+- [**Lingua GPT**](https://chat.openai.com/g/g-QI9uMZp6x-lingua-gp): Adaptive English-Spanish language learning companion - by EMANUEL PEIRE
+- [**Mentor para Autodidactas**](https://chat.openai.com/g/g-2xQPMEDxg-mentor-para-autodidacta): Una guía completa para autodidactas - by brian le sztamfater
+- [**Fast.ai Tutor**](https://chat.openai.com/g/g-9p4s4Cx6W-fast-ai-): A tutor for the Fast.ai course, providing explanations and assistance. - by insideneuron.com
+- [**Vocab Builder**](https://chat.openai.com/g/g-KQBaOCxkx-vocab-build): English vocabulary learning with detailed examples.
+- [**Atatürk'ün Yolu**](https://chat.openai.com/g/g-6LNO3occK-ataturk-un-yol): Atatürk'ün Söylev ve Demeçleri ile Nutuk'u kaynak kabul eden fikir paylaşma aracı - by Burak SU
+- [**Java Test Guru**](https://chat.openai.com/g/g-yZShQKKb2-java-test-g): Java unit test expert with detailed guidance. - by C Vishnu
+- [**Artificial Fluency**](https://chat.openai.com/g/g-gSLEm6G0l-artificial-fluency): Explore the Artificial Fluency Book - by Carlos Perez
+- [**MCAT Organic Chemistry**](https://chat.openai.com/g/g-OsGX8iVdq-mcat-organic-chemistry): MCAT Organic Chemistry Assistant. GPT supplemented with access to best-in-kind study guides (2023) - by James Donovan
+- [**CS50 Tutor**](https://chat.openai.com/g/g-1KKnxZsif-cs50-): Your pseudo Harvard professor for computer science queries, blending academic rigor with supportive guidance. - by JM
+- [**Academic Paper Creator**](https://chat.openai.com/g/g-DzTFVQytf-academic-paper-crea): LaTeX paper writing assistant and PDF formatter
+- [**Study Buddy**](https://chat.openai.com/g/g-GbI9PlB4E-study-buddy): I turn your class notes into quizzes and study guides for exams! - by Peter B. Dixon
+- [**ATOM library tutor**](https://chat.openai.com/g/g-Dqb6xDLt6-atom-library-): Create and analyze molecular systems in MATLAB - by Michael Holmboe
+- [**Code Animator**](https://chat.openai.com/g/g-r4TatQY5C-code-anima): I generate Manim animations for CS education. - by Aadil Ali
+- [**GPT Selbstlern-Coach**](https://chat.openai.com/g/g-vhFPpp9kK-gpt-selbstlern-coach): Ein Assistent für Mathematiklehrkräfte zur Nutzung von chatGPT im Unterricht. - by Tim Kantereit
+- [**SmartLearn AI**](https://chat.openai.com/g/g-9swvhMjca-smartlearn-ai): Asistente para análisis de progreso y retroalimentación en LMS - by Jose Ruiz Montes
+- [**chatGCSE**](https://chat.openai.com/g/g-uXSTcH9tT-chatg): GCSE compass
+- [**Worldwide Events**](https://chat.openai.com/g/g-zhogvswsp-worldwide-ev): Worldwide events database from Wikipedia's Worldwide Current Events using data from 2013-11-09 to 2023-11-09. Please note that this GPT might provide answers that contradict the facts. - by NAOTO YOKOYAMA
+- [**Research Assistant Pro**](https://chat.openai.com/g/g-IzrDadyxd-research-assistant-p): Research Proposal Assistant Pro is designed to provide tailored assistance in research writin. - by Seyed Mohammad Hossein Seyedi Rezvani
+- [**ChatDivergente**](https://chat.openai.com/g/g-UOwFyoyeK-chatdiverg): Asistente de pensamiento divergente con técnicas creativas. - by Juan Domínguez Gallego
+- [**Academic Insight**](https://chat.openai.com/g/g-RNLXN9WWD-academic-insigh): Expert in crafting advanced academic essays.
+- [**Rebuttal Pro**](https://chat.openai.com/g/g-fnrMLZJ4V-rebuttal-p): Your academic rebuttal assistant, blending precision and approachability. - by GUOHAO LI
+- [**Prof Elrich von Richtofen**](https://chat.openai.com/g/g-FVZLTak2e-prof-elrich-von-richtof): A Professor to supervise philosophy doctoral students. - by I S TAIT
+- [**Educational Equity GPT**](https://chat.openai.com/g/g-aZB2pNUnX-educational-equity-gp): A tool that uses research to apply DEI principles in education. Ensure your policies, curriculum, decisions, and communications has been assessed for bias, inclusivity, and more. - by Howard E Fields
+- [**AI Course Architect**](https://chat.openai.com/g/g-0FjwiqSym-ai-course-archi): A detailed AI course builder, providing in-depth AI educational content. - by Andris Teikmanis
+- [**TÜRKİYE CUMHURİYETİ ANAYASASI**](https://chat.openai.com/g/g-otumGBV1K-turkiye-cumhuriyeti-anayasasi): T.C Anayasası Kitapçığı
+- [**PhD Motivator**](https://chat.openai.com/g/g-Uw10D1V0J-phd-motiva): A motivating mentor for PhD students, offering guidance and support. - by Andrea Gaggioli
+- [**Homework Help 📚**](https://chat.openai.com/g/g-n9p3Qo2vK-homework-help): Chat or Upload a picture i'm here to help. - by Nextgrid Sp. z o.o.
+- [**Calculus Tutor**](https://chat.openai.com/g/g-NDdEOmOZ5-calculus-): I help clarify calculus concepts. - by Christopher Leach
+- [**Digitale Grundbildung**](https://chat.openai.com/g/g-HtmH5KRnr-digitale-grundbildung): Analyse des Lehrplans der Digitalen Grundbildung in Österreichs Hauptschulen - by Alicia Bankhofer
+- [**Debate Maker**](https://chat.openai.com/g/g-suv6nqapH-debate-mak): Facilitator of multi-perspective debates on given themes.
+- [**Instructors in Global Economics and Finance**](https://chat.openai.com/g/g-5i2GDJmnW-instructors-in-global-economics-and-fina): Multilingual support in Global Economics & Finance studies.
+- [**مصمم تعليمي**](https://chat.openai.com/g/g-bY36vvnK1-msmm-t-lymy): Instructional design expert for content creation. - by AREEJ A ALGHAMDI
+- [**Story Builder**](https://chat.openai.com/g/g-bFv9B3LoF-story-build): Generates four story-building images for secondary school students. - by Alicia Bankhofer
+- [**Ma Che Musica Maestro**](https://chat.openai.com/g/g-Rx4QDrZkT-ma-che-musica-ma): A teaching artist robot specializing in music education for secondary school students.
+- [**Amber Guide**](https://chat.openai.com/g/g-yrO85Hgl3-amber-guid): Expert on Amber manual, providing accurate answers.
+- [**AI 英語先生（中学）**](https://chat.openai.com/g/g-D8gBdmLth-ai-ying-yu-xian-sheng-zhong-x): まずは、使い方からきいてみよう！ - by 鈴木和浩
+- [**First Principles GPT**](https://chat.openai.com/g/g-1QJcfZXjd-first-principles-gp): I help you learn topics from first principles, guiding you through fundamentals. - by Steve Nguyen
+- [**まなぶくん**](https://chat.openai.com/g/g-SR8wlS6Hn-manabuk): 学びのパートナーだよ。事実主義で、意見を明確に。 - by KEN FUKUYAMA
+- [**AI Coach Reflekco（リフレクこ）**](https://chat.openai.com/g/g-KIVvryxJV-ai-coach-reflekco-rihurekuk): - by JUNICHI MIYOSHI
+- [**CPIT221 Book Guide**](https://chat.openai.com/g/g-gcW6xRE6Z-cpit221-book-guid): A casual, friendly guide for CPIT221 students to explore a book on soft skills.
+- [**ML quiz**](https://chat.openai.com/g/g-OkQZg8HwR-ml-quiz): Quizzes users on advanced machine learning concepts. - by Georg Walther
+- [**HistoricalSimulatorAI**](https://chat.openai.com/g/g-u2R1krrTt-historicalsimulatorai): Formal, accurate historical simulations. - by justin martinez
+- [**TOEIC Part1 問題クリエーター**](https://chat.openai.com/g/g-ugPoOKPVL-toeic-part1-wen-ti-kurieta): ユニークでフレンドリーなTOEIC Part 1問題作成者。 - by YUSUKE OBARA
+- [**MBTI**](https://chat.openai.com/g/g-QS81K5kJ4-mbti): Engaging MBTI test with emojis, tailored to reveal insightful personality and career matches. - by Mengfanye
+- [**Miyamoto Musashi GPT**](https://chat.openai.com/g/g-jZLBiuLf7-miyamoto-musashi-gp): Wisdom from Miyamoto Musashi on strategy, discipline, and life's battles.
+- [**Tech Tutor**](https://chat.openai.com/g/g-2fH4RmvNR-tech-): Formal yet witty guide in engineering, blending diverse fields with analogies for easier understanding.
+- [**WhiplashGPT**](https://chat.openai.com/g/g-mhLmrFJVK-whiplashgp): I'm Terrence Fletcher. Your life teacher, demanding, and relentless in pursuit of perfection. - by play2.ai
+- [**DX講師 あさひ**](https://chat.openai.com/g/g-CpfFExSdF-dxjiang-shi-asahi): Udemy講師 箕輪旭の講義録をインプットしました。DXに関する質問になんでも回答します！ - by BUSINESS
+- [**TeenygradGPT**](https://chat.openai.com/g/g-oHrYj8nO3-teenygradgp): Understanding Teenygrad helps you contribute to Tinygrad. Explains Teenygrad codebase in-depth, assists with code analysis and issue resolution. - by Christopher Wu
+- [**Constitutional Insight GPT**](https://chat.openai.com/g/g-acHYBnD8a-constitutional-insight-gp): Expert on the U.S. Constitution
+- [**Physics Tutor**](https://chat.openai.com/g/g-S9VKdnR7K-physics-): Interactive and adaptive physics tutor
+- [**Memorized**](https://chat.openai.com/g/g-0dcPPWbiY-memorized): Interactive memorization assistant using advanced techniques - by joao alberto o lima
+- [**Assignment Helper**](https://chat.openai.com/g/g-uUHn3PI4I-assignment-help): Helps with assignments subtly, mimicking human errors. - by chunho yau
+- [**Anki Flashcards Maker**](https://chat.openai.com/g/g-zTo1YYtwE-anki-flashcards-mak): Creates and organizes Anki flashcards - by Qining xu
+- [**CosmoChimp**](https://chat.openai.com/g/g-4CWC8KTza-cosmochimp): Learn everything, about anything. - by pejmantheory.xyz
+- [**William Shakespeare**](https://chat.openai.com/g/g-Mw4hV0SGz-william-shakespea): An AI that embodies the persona of William Shakespeare, offering first-person insights into his life and works, and generating creative content inspired by his literary contributions. It provides historical context, analysis, and can engage in Shakespearean-style dialogue. - by Caleb Cedrone
+- [**Nostalgic Future GPT**](https://chat.openai.com/g/g-XQlPSAXpj-nostalgic-future-gp): Nostalgic Futureは、様々な歴史上の出来事を画像と一緒に教えてくれます。 - by TAKASHI HATTORI
+- [**Scholarly Review**](https://chat.openai.com/g/g-Lzy09plhh-scholarly-review): Summarizes academic books by chapters or segments, with user prompts. - by Jonathan Adly
+- [**Keiji Wada**](https://chat.openai.com/g/g-u6HpCncNM-keiji-wada): 東京都立大学 和田圭二さんの情報
+- [**Jacques**](https://chat.openai.com/g/g-lgjLNj9Zb-jacq): Deep Dive into math & ML, generating guides, with explanations and python exercises - by Zane Starr
+- [**MedEd Master**](https://chat.openai.com/g/g-CXwKN3Ury-meded-ma): Guides clinician-educators in using educational theory. - by Timothy Dyster
+- [**学習者弱点ブレイカー(Learner Vulnerabilities Breaker)**](https://chat.openai.com/g/g-S3SOrStHj-xue-xi-zhe-ruo-dian-bureika-learner-vulnerabilities-break): 児童、生徒、学生のテストの自己採点物を分析し、文化や私生活を考慮した学習のアドバイスを行います。(This program analyzes the self-graded test items of children, students, and students, and advises them on their studies, taking into account their cultural and personal lives.) - by T.OKADA
+- [**Tutor**](https://chat.openai.com/g/g-92YM5dNFe-): Friendly AI tutor eager to help with learning - by Live Loud Ltd
+- [**Explain Anything**](https://chat.openai.com/g/g-kj6ZYFMZv-explain-anything): I'm an expert in research and explanations, making complex topics clear and accessible. - by qingwen lu
+- [**쉽파**](https://chat.openai.com/g/g-MUXmU2SdW-swibpa): 'Do it! 쉽게 배우는 파이썬 데이터 분석'을 토대로 데이터 분석 방법을 알려줍니다. - by Youngwoo Kim
+- [**Idiom Builder 英文成语大师**](https://chat.openai.com/g/g-IuTmBnxKR-idiom-builder-ying-wen-cheng-yu-da-shi): Teaching English idioms with interactive questions 用互动问题教英文成语 - by XIANG YUELEI
+- [**NYCCharterHelper**](https://chat.openai.com/g/g-IzuVZYlVZ-nyccharterhelp): Learn more about New York City Charter - by Stephen A Thompson
+- [**Quiz Master**](https://chat.openai.com/g/g-EgJ952h52-quiz-ma): I generate educational quizzes from textbooks and materials in various languages. - by DHARMENDRA YADAV
+- [**Professor Wordsmith**](https://chat.openai.com/g/g-a4kDe69h6-professor-wordsmith): Bilingual English writing evaluator - by TAKAAKI SAITO
+- [**Discrete Math Tutor**](https://chat.openai.com/g/g-lSrUMVDeS-discrete-math-): Guiding students in understanding discrete math. - by Scott Kilgore
+- [**Junior Teacher**](https://chat.openai.com/g/g-bafxc3FQK-junior-teach): Casual, engaging teacher for kids, focusing on fun learning. - by Gaurav Singh
+- [**Paper Writer**](https://chat.openai.com/g/g-iBC0Km3YP-paper-wri): Helps with writing computer science papers. - by Yu Hao
+- [**RizalGPT**](https://chat.openai.com/g/g-Cq8y6iyFi-rizalgp): Bilingual tutor on Jose Rizal's life, works, and legacy. - by Wilfred Oliver Segovia
+- [**Socratic Guide**](https://chat.openai.com/g/g-U8DWsDXVX-socratic-guid): A Socratic guide for diverse and reflective dialogues.
+- [**卒業文集サポーターVer.1**](https://chat.openai.com/g/g-Iy9SUZzK7-zu-ye-wen-ji-sapotaver-1): 小学校の卒業文集編集をサポートします。 - by 大橋　陽介
+- [**AtCoder Tutor - 解説読み上げ先生**](https://chat.openai.com/g/g-NQBui8UaX-atcoder-tutor-jie-shuo-du-mishang-gexian-sheng): AtCoderの問題文(制約を含む)と解説を与えると、一緒に解説を読んでくれる先生 - by atcoder-blogs.jp
+- [**Gold Star Reviewer**](https://chat.openai.com/g/g-b8BD1prPd-gold-star-review): Inspiring excellence in peer reviews with warmth and insight. - by mygpts.info
+- [**学術論文要約マスター**](https://chat.openai.com/g/g-i5APk7q7h-xue-shu-lun-wen-yao-yue-masuta): 日本語で学術論文を要約し、チェックリスト評価付きで提供。
+- [**Wwise Instructor**](https://chat.openai.com/g/g-H40UEDbos-wwise-i): Expert instructor on Wwise, the game audio middleware - by TAKAHIRO NISHI
+- [**Essay GPT**](https://chat.openai.com/g/g-VvFdAmgT9-essay-gp): Offers narration, paraphrasing, citations, grammar, summarizing, and plagiarism checks
+- [**First Principles**](https://chat.openai.com/g/g-t37wRNL01-first-principl): Adaptive, inquisitive guide for deep, engaging learning.
+- [**Sensei Chat**](https://chat.openai.com/g/g-iS8QQN936-sensei-cha): Japanese tutor and engaging pen pal.
+- [**Universal Teacher (UT-10-L)**](https://chat.openai.com/g/g-Kjcwbz0HJ-universal-teacher-ut-10-l): A dynamic educator in the digital realm, bridging knowledge gaps - by Wei Liu
+- [**道徳所見サポーター**](https://chat.openai.com/g/g-lezk3herT-dao-de-suo-jian-sapota): 光村図書出版「道徳の教科書」で取り扱っている教材について所見を生成するChatGPTです。
+- [**Tate GPT**](https://chat.openai.com/g/g-Ch5M06G9h-tate-gp): Guide from $0 to $10k+ with Tate's tactics - by Asad Mehmood
+- [**算数マスター**](https://chat.openai.com/g/g-rKLEPIaKp-suan-shu-masuta): 小学校高学年向けの算数問題を出題 - by HIDEYUKI NAGATA
+- [**MathTeX Changer**](https://chat.openai.com/g/g-Glptavqri-mathtex-chang): 日本語で数学問題を変更する親しみやすいGPT。 - by SHO TANAKA
+- [**School Advisor Bot**](https://chat.openai.com/g/g-5ev3Ij20Z-school-advisor-b): 教員の働き方と児童の成長を考えた提案にアドバイスを行います。
+- [**MKR-GPT**](https://chat.openai.com/g/g-b0iACCvX2-mkr-gp): Formelle Unterstützung bei der Integration von Medienkompetenz in den NRW-Unterricht - by Thomas Rensinghoff
+- [**Fractions Tutor**](https://chat.openai.com/g/g-Fus9pSJnQ-fractions-): Child-friendly guide for fractions - by J W PAGETT
+- [**ELI5 - Understand anything!**](https://chat.openai.com/g/g-F7RYqxpdI-eli5-understand-anything): I explain complex topics in simple, fun ways, like you're 5! - by ZX CONSULTANTS LLP
+- [**Atman Academy POAP Maker**](https://chat.openai.com/g/g-yFndnGx5x-atman-academy-poap-mak): Create memorable scenes showing your visitors and Mentis on campus at Atman Academy.  Select the image of the visitor and let GPT work some Magic.
+- [**Jimminy Cricket**](https://chat.openai.com/g/g-Q9132R1tF-jimminy-crick): Academic integrity and plagiarism advisor. - by Iain MacLaren
+- [**卒論代行GPT**](https://chat.openai.com/g/g-ot4KCY1op-zu-lun-dai-xing-gp): Intuitive and user-friendly thesis guide
+- [**Historický dialog**](https://chat.openai.com/g/g-pkHL8pOA7-historicky-dialog): Nabízí rozhovory s historickými osobnostmi pro vzdělávací účely
+- [**The Librarian**](https://chat.openai.com/g/g-tz6kdGFGq-the-libraria): Hi ! 👋 What do you need from the library today ? - by JOHAN CREETEN
+- [**小G - 小白的Gpts创建导师**](https://chat.openai.com/g/g-llhxGqF04-xiao-g-xiao-bai-de-gptschuang-jian-dao-shi): Guiding non-techies in GPT, no code talk. - by 裴宏几
+- [**Course Companion**](https://chat.openai.com/g/g-VzENzIMFP-course-compani): Upload your classroom materials (such as doc, ppt,PDF, etc.) and provide answers based on the original text - by SHIJIAHAO
+- [**AI-dea**](https://chat.openai.com/g/g-lTeeWuQxL-ai-dea): Use AI-dea to inspire and enhance teaching, engage learners, and improve workload! - by Mr J Batten
+- [**Pick your own CI**](https://chat.openai.com/g/g-8Y2MO9XXx-pick-your-own-ci): Choose your own Custom Instruction. Type 'Activate ...' - by Rene Heuser
+- [**Journey Far Admissions Guide**](https://chat.openai.com/g/g-fX6woBVLk-journey-far-admissions-guid): Bilingual admissions guide offering personalized referrals. - by Martin McLaughlin
+- [**Zorro the ZigAI**](https://chat.openai.com/g/g-lvDWINxGc-zorro-the-zigai): Guiding you in Zig with updated documentation. - by Petar Radosevic
+- [**Din mentor i fysik**](https://chat.openai.com/g/g-Etyp9kC8y-din-mentor-i-fysik): A physics tutor guiding students in reasoning and problem-solving. - by Enström Education AB
+- [**中国語講師GPT**](https://chat.openai.com/g/g-H8hQ3osGh-zhong-guo-yu-jiang-shi-gp): 日本語で中国語を教える講師です。 - by satoshi watanabe
+- [**論文要約GPT**](https://chat.openai.com/g/g-GifI8Q23t-lun-wen-yao-yue-gp): 論文のPDFをアップロードしてください - by RYUSEI INAMORI
+- [**「先生、質問いいですか？」**](https://chat.openai.com/g/g-hc4E6tsgi-xian-sheng-zhi-wen-iidesuka): Teacher-student dialogue for explanations - by firstforest.jp
+- [**(AI)ME**](https://chat.openai.com/g/g-sRuuTpdF5-ai-): Exploring Latour's 'AIME' in a collective voice - by Andre F Stangl
+- [**SFC Syllabus GPT**](https://chat.openai.com/g/g-8Lezq9Bro-sfc-syllabus-gp): SFCの授業を相談できるGPTです。
+- [**大学生作业帮**](https://chat.openai.com/g/g-KAlm4AnQr-da-xue-sheng-zuo-ye-bang): 大学生哪有不疯的，只是硬撑罢了～ - by ZE YE YE
+- [**Research Paper Writing**](https://chat.openai.com/g/g-UF8QlvSsU-research-paper-writing): Expert in crafting high-standard research papers. - by MD BABU MIA
+- [**Discover China**](https://chat.openai.com/g/g-dqRVmXqdL-discover-china): 探索中文文化的互动门户
+- [**Pretty Derby Teacher**](https://chat.openai.com/g/g-8m2OhsXwH-pretty-derby-teach): 类型，卡名，破数    eg：速，特别周，4 - by AsleepX
+- [**Learning at Scale**](https://chat.openai.com/g/g-HGK2RrOhc-learning-at-scal): This GPT allows you to learn about what works to help improve foundational literacy and numeracy in low-resource settings - summarising knowledge from here https-//learningatscale.net/ - by Paul Atherton
+- [**Junior English Master**](https://chat.openai.com/g/g-o0y8vB11U-junior-english-ma): Aids in mastering English with clear, patient guidance. - by PARK JIN HO
+- [**Fourth Turning Explorer**](https://chat.openai.com/g/g-RL2P5LGdZ-fourth-turning-expl): Your go-to for understanding how current events align with generational cycles. - by Dean Miles
+- [**Learning designer GPT**](https://chat.openai.com/g/g-ZPn85vj30-learning-designer-gp): Elearning course creator and instructor - by Anandavadivelan Vijayaragavan
+- [**Memory Palace Supporter**](https://chat.openai.com/g/g-uRy1yqd5c-memory-palace-supp): I create bizarre stories and images to help with memorization. - by HIROKI HOMMA
+- [**高中語文助教**](https://chat.openai.com/g/g-jn6Cmofno-gao-zhong-yu-wen-zhu-jia): 已讀取高中初中全部教材&北京高考真題…… - by gpts.bdfzer.com
+- [**Lesson Planner**](https://chat.openai.com/g/g-8MrCScn7D-lesson-pla): I'm a teacher's assistant for lesson planning, providing detailed and adaptable plans. - by Tanja Wrage
+- [**Tutor Tiddlywiki**](https://chat.openai.com/g/g-dd2wqLjiX-tutor-tiddlywiki): Asistente para TiddlyWiki, enfocado en educación. - by J. DE HARO OLLE
+- [**Future Rising**](https://chat.openai.com/g/g-MoZ8BXtzP-future-rising): A guide to exploring the book  'Future Rising- A Journey from the Past to the Edge of Tomorrow' by Andrew Maynard - by Andrew Maynard
+- [**fox8 botnet paper**](https://chat.openai.com/g/g-WbF9uM0T4-fox8-botnet-pap): A helpful guide for understanding the paper "Anatomy of an AI-powered malicious social botnet" - by Kaicheng Yang
+- [**Arts Essay Writing**](https://chat.openai.com/g/g-uf2O26zGu-arts-essay-writing): AI-aware Professor X offering undetectable academic assistance for arts student - by TIANQI XIA
+- [**Memrise**](https://chat.openai.com/g/g-OG4MF0QKc-memri): I'm Memrise, an AI that creates fun, adaptive memory games. - by KRUGER CLINTIN LYLE
+- [**Learn about Responsible Innovation**](https://chat.openai.com/g/g-GamZatqVU-learn-about-responsible-innovati): A personal guide to socially responsible and beneficial innovation - by Andrew Maynard
+- [**AI Historian**](https://chat.openai.com/g/g-vlyY4pSY2-ai-historia): I am here to answer your questions about the history of economic thought in Turkey. How may I help? - by Altuğ Yalçıntaş
+- [**Book Buddy**](https://chat.openai.com/g/g-gUMslhslS-book-buddy): Tracks book plots, characters, maps, and series recaps. - by James Pettifer
+- [**论文润色大师**](https://chat.openai.com/g/g-UPuGbvUJn-lun-wen-run-se-da-shi): 优化学术论文，提供编辑和说明。 - by sdfearhbart
+- [**On This Day GPT**](https://chat.openai.com/g/g-dwbKqYt8K-on-this-day-gp): Provides historical facts or events that happened on this day in the past. - by Ashley Grant
+- [**Flashcard Wizard**](https://chat.openai.com/g/g-lH5ejWvqs-flashcard-wizard): Prepares an exhaustive set of Q/A pairs that can be imported as Anki Flash Cards. Just upload your document and put the number of flashcards you want. No pleasantries required. - by flashcardwizard.midjourney.zip
+- [**Borrower's Defense Assistant**](https://chat.openai.com/g/g-eiSVbq7Ra-borrower-s-defense-assista): Assistance in understanding and filling out the Borrower's Defense to Repayment Form provided by the United States Department of Education. - by Jordan Pizza
+- [**SICP Sage**](https://chat.openai.com/g/g-Jd8EjuxN9-sicp-sag): Academic assistant for SICP study, referencing solutions - by Siyuan Chen
+- [**Professor AJ**](https://chat.openai.com/g/g-P1lbOaJ7o-professor-aj): I will teach you the basics of entrepreneurship - by A R BADWAN
+- [**Math Practices Guide - SMPs**](https://chat.openai.com/g/g-yXL98Xor1-math-practices-guide-smp): Advisor for teachers on SMPs and CA Math Standards. - by MIna J Blazy
+- [**AulaGPT**](https://chat.openai.com/g/g-nweZeCIEn-aulagp): Præcis, pædagogisk Aula-ekspert - by Thomas Saaby Noer
+- [**Professor Chem**](https://chat.openai.com/g/g-KtkfJr2mb-professor-ch): A cat professor specializing in Inorganic Chemistry 2, focusing on test preparation. - by matt Strang
+- [**GPT Teacher (For Work and Business)**](https://chat.openai.com/g/g-u8VoT4pcX-gpt-teacher-for-work-and-busi): Learn how to use ChatGPT effectively and ethically in work and business!  I also recommend prompts and techniques for using ChatGPT well in work and business. - by Scorchsoft Ltd
+- [**MCAT Mentor**](https://chat.openai.com/g/g-1nmyKSBkS-mcat-): AI MCAT tutor with assessments, lectures, tests, topic lists, and prep tips. - by Geffrey H Klein
+- [**AMC1 Prep Assistant**](https://chat.openai.com/g/g-11ZC4acYF-amc1-prep-assista): Study Assistant for AMC MCQ Exam preparation - by Ancy Fimaimba
+- [**Chem Coach**](https://chat.openai.com/g/g-eQHnyWi4U-chem-coach): AP Chemistry Tutor with Real-Life Examples - by sanjeev nair
+- [**Uncle Paul GPT**](https://chat.openai.com/g/g-YeprpS6of-uncle-paul-gp): Welcome to 'GPT Insights from Paul Graham' – your gateway to Paul Graham's profound essays, curated insights, and valuable advice on a wide range of topics. Dive into the world of thought-provoking ideas and wisdom from the mind of Paul Graham. Follow me on Twitter (https-//twitter.com/vahebagdasar) - by VAHE BAGHDASARYAN
+- [**LeetLearn**](https://chat.openai.com/g/g-gbrlnhJp7-leetlea): Lets grind some LeetCode! Allow me to fine-tune your learning experience. I will never hallucinate and never give away answers! - by James S Voynow
+- [**独学者向け学習ガイド**](https://chat.openai.com/g/g-m83zZskyp-du-xue-zhe-xiang-kexue-xi-gaid): 目標設定を伝えると、それに合わせた学習をサポートしてくれます。 - by to4sh.work
+- [**Homework Solver Tutor**](https://chat.openai.com/g/g-AyXWjDbtd-homework-solver-): Expert tutor for academic subjects, providing detailed solutions and hints. - by Husain Zaidi
+- [**Super ADHD Mind Ninja**](https://chat.openai.com/g/g-pwPIMmslg-super-adhd-mind-ninja): An ADHD superpower bot that teaches kids to harness ADHD as an asset. - by AIght Creations
+- [**CBSE Resource Creator**](https://chat.openai.com/g/g-C8uYFl8pb-cbse-resource-crea): Personalized exams, notes, ppts and lesson plans - by edsplore.com
+- [**Programador FyQ/ByG C. Valenciana**](https://chat.openai.com/g/g-UuiFfenuE-programador-fyq-byg-c-valenciana): Te ayudaré a realizar tus programaciones de las situaciones de aprendizaje según la legislación de la Comunidad Valenciana - by Ernesto Boixader Gil
+- [**Creador de situaciones de aprendizaje**](https://chat.openai.com/g/g-0cQbyVkx0-creador-de-situaciones-de-aprendizaj): Crea situaciones de aprendizaje de acuerdo a los Currículos de Educacion Secundaria  y Bachillerato de Asturias en el marco de la LOMLOE, para la especialidad, curso y temática proporcionados
+- [**Simple Dictionary Gpt**](https://chat.openai.com/g/g-jKa7EZgih-simple-dictionary-gp): Find out the meaning of words, with simple explanation, examples of how to use them, synonyms and opposites. Just put the word - by Haiaty Varotto Silva Fonseca
+- [**Fact Checker**](https://chat.openai.com/g/g-6fy2J3yff-fact-check): A meticulous fact-checker, providing accurate information. - by Mohamed Akaarir
+- [**統計学習助手**](https://chat.openai.com/g/g-zMSF7hx9L-tong-ji-xue-xi-zhu-sh): 統計学に対する初心者向け質問に対応
+- [**Congress Explainer**](https://chat.openai.com/g/g-KnIxMyeEt-congress-explai): An educational guide on U.S. Congress procedures, suitable for all ages. - by congress.wiki
+- [**DailyPaperGPT**](https://chat.openai.com/g/g-mWoVC03t8-dailypapergp): Stay up to date with Arxiv Research Papers!
+- [**Kurzgesagt Earth History Guide**](https://chat.openai.com/g/g-Xb1F3xGKK-kurzgesagt-earth-history-guid): Exploring Earth's geological past with a Kurzgesagt flair. - by georges ben attar
+- [**Math Mentor for ECG**](https://chat.openai.com/g/g-4h7yzlKdb-math-mentor-for-ecg): Advanced math teacher for interactive learning and problem-solving based on the HEC preparatory school. - by ideamatch
+- [**Pinoy Pal**](https://chat.openai.com/g/g-Kc4Nhryco-pinoy-pal): Educational assistant for Filipino culture, history, and language, tailored for youth and educators. Please select one of the following choices- - by virtualdojo.org
+- [**Young Jarvis**](https://chat.openai.com/g/g-AA8MG6fEI-young-jarvi): Early childhood education advisor. - by Leerenee
+- [**CUC 读书**](https://chat.openai.com/g/g-kzHbp8SQp-cuc-du-sh): - by 1gpts.cn
+- [**Homework Helper**](https://chat.openai.com/g/g-MWkVecSr5-homework-help): Adaptive, multilingual educational assistant for kids - by YUANHENG TAO
+- [**Seabiscuit- Competition Crusher**](https://chat.openai.com/g/g-VD8k50ZLh-seabiscuit-competition-crush): Outmaneuver market rivals - by seabiscuit.ai
+- [**Homework Buddy**](https://chat.openai.com/g/g-lJyqJbkFp-homework-buddy): Homework helper for kids with simple language - by PI DINGHAI
+- [**Lesson preparation assistant**](https://chat.openai.com/g/g-xRhm87Djz-lesson-preparation-assista): Assists with elementary school lesson planning - by Frank SWall
+- [**Study Buddy**](https://chat.openai.com/g/g-GbI9PlB4E-study-buddy): I help users study by summarizing materials and giving examples. - by Eric Rafael Ramos Suárez
+- [**Debate Mentor**](https://chat.openai.com/g/g-KIX0IC8cj-debate-): Mentor and debater, guides users to articulate conclusions. - by Kyle Coogan
+- [**WebStract**](https://chat.openai.com/g/g-LaXsx7vXI-webstra): I am WebStract, your autonomous, in-depth digital educator, guiding you through comprehensive, interactive learning experiences. - by Kyle Coogan
+- [**Hierarchy Navigator**](https://chat.openai.com/g/g-idPG2SRKJ-hierarchy-naviga): Organizes learning into a detailed hierarchy. - by Kyle Coogan
+- [**Varsity by Zerodha**](https://chat.openai.com/g/g-WIy0DU3fd-varsity-by-zerodha): Uses Varsity by Zerodha to teach finance with real events, data visuals and pop culture references. - by Monethink
+- [**Ten Minutes**](https://chat.openai.com/g/g-cZFc0dI16-ten-mi): A quick-learning tutor for efficient, self-contained study sessions - by Jinchen He
+- [**Time Traveler Chat**](https://chat.openai.com/g/g-Q7MJ1Mq5Y-time-traveler-cha): Immersive historical figure simulations for engaging learning.
+- [**Dental Teacher**](https://chat.openai.com/g/g-e0JubcneM-dental-teach): A dental mentor offering explanations with visuals.
+- [**Capstone Idea Generator**](https://chat.openai.com/g/g-nbQdKIcXq-capstone-idea-genera): Generates globally applicable capstone project ideas - by Dagan Bernstein
+- [**Quizletに出力できる形式にしてくれるGPT**](https://chat.openai.com/g/g-XK9BK45K5-quizletnichu-li-dekiruxing-shi-nisitekurerugp): Formats Quizlet quizzes for elementary English and Japanese 6th grade level. - by 大橋　陽介
+- [**リサ先生**](https://chat.openai.com/g/g-SxNVr3QRZ-risaxian-sheng): SDプロンプター
+- [**オオカミ博士**](https://chat.openai.com/g/g-6Hl0Mnz5D-ookamibo-shi): オオカミについて何でも教えてくれます - by NISHIKAWA
+- [**EduCoach**](https://chat.openai.com/g/g-G12uiHgx2-educoach): Supportive coach for educators, offering research-based teaching strategies and sparking innovation. - by Stacy D Lovdahl
+- [**通知表所見様**](https://chat.openai.com/g/g-JIepmhQni-tong-zhi-biao-suo-jian-yang): Creates personalized student assessment reports. - by tsuyoshi uechi
+- [**Kahoot !問題作成サポーター**](https://chat.openai.com/g/g-MqG9FN7yj-kahoot-wen-ti-zuo-cheng-sapota): Gentle guide for Kahoot quiz creation in Japanese. - by 大橋　陽介
+- [**LLMScholar**](https://chat.openai.com/g/g-uo3cAF78e-llmschola): GPT for latest LLM research - by Ali shahed hagh ghadam
+- [**Curio Quest**](https://chat.openai.com/g/g-qNrC3EuBP-curio-q): Embark on a quest for knowledge. - by KFISLO,LLC
+- [**自分だけの人工言語をつくろう**](https://chat.openai.com/g/g-8h3yV5e2b-zi-fen-dakenoren-gong-yan-yu-wotuk): 人工言語の創造と翻訳をサポートします。音や文法、言語の特性を指定してください。入力例：「可愛らしい言語を作成してください。p音を多めに含めてください。文法は英語に似せてください。」 - by Kadota Narita
+- [**なんでも知ってる博士GPT**](https://chat.openai.com/g/g-RMsjOMJ1i-nandemozhi-tuterubo-shi-gp): A scholarly elder who speaks in old-fashioned Japanese, providing factual information without jokes or imagination. - by nobaman.com
+- [**iTeachAI**](https://chat.openai.com/g/g-skZgA3nv4-iteachai): Custom Lesson Plan Creator for Educators - by Janette Camacho
+- [**Grade My Essay**](https://chat.openai.com/g/g-tTySeN8Fi-grade-my-essay): A teacher providing detailed essay feedback and tips on how to improve it. - by Jonah Goldberg
+- [**Read Smart**](https://chat.openai.com/g/g-Wj9MNdsgh-read-sma): テキスト、URLで示される記事の内容をスマートに理解するサポートをします。 - by Masahiko Tachizono
+- [**MediReview Assistant**](https://chat.openai.com/g/g-sD4YVcJDj-medireview-assista): Analytical and encouraging literature review assistant. - by Dr. Ahmad Nazzal
+- [**Academic Paper Specialist**](https://chat.openai.com/g/g-jryw3pfsH-academic-paper-speciali): Academic writing and editing assistant.
+- [**PyGenius**](https://chat.openai.com/g/g-PHf1WeydP-pygeni): Learn to program in Python!
+- [**Tutor**](https://chat.openai.com/g/g-92YM5dNFe-): A focused learning assistant for personalized topic exploration. v.11.11.23 - by knuffke.com
+- [**Library of Babel**](https://chat.openai.com/g/g-GWvDRnSuT-library-of-babel): a new kind of encyclopedia - by Daniel Barrett
+- [**Free Education Advisor**](https://chat.openai.com/g/g-iiiXaGnSd-free-education-advi): An MIT Opencourseware Advisor for personalized curriculum and study plans. - by Liam Elia
+- [**ChaChat英語✕他教科コラボプランナー**](https://chat.openai.com/g/g-nV47ac3B0-chachatying-yu-ta-jiao-ke-korabopuranna): 小学校外国語教育のための、他教科とコラボした創造的な授業アイデアを提案します。学年とコラボする教科を指定してください。 - by 潤也 成田
+- [**Lexicon**](https://chat.openai.com/g/g-BMIkQwTKY-lexi): A digital wizard of knowledge, like a living encyclopedia. - by Liam Elia
+- [**ELI5 Research Paper**](https://chat.openai.com/g/g-zxdAiEXmn-eli5-research-pap): Simplifies research papers for all to grasp. - by Damir Kotoric
+- [**Ali Abdal**](https://chat.openai.com/g/g-1aMXZx0DS-ali-abdal): I'm Ali Abdal, sharing knowledge based on my 716 videos! - by Ayyaz Zafar
+- [**「ゼロから始める情報発信」QA bot**](https://chat.openai.com/g/g-y4d60qBuL-zerokarashi-meruqing-bao-fa-xin-qa-b): https-//www.amazon.co.jp/dp/B09875G3GL
+- [**「エッジAIコンピュータビジョン入門」QAボット**](https://chat.openai.com/g/g-VY1nMqZuV-etuziaikonpiyutabiziyonru-men-qab): 「エッジAIコンピュータビジョン入門」のQAボット https-//karaage0703.booth.pm/
+- [**Rust Chat**](https://chat.openai.com/g/g-PIHyHU9OJ-rust-cha): Help you start your journey of learning Rust. (Chinese) - by kuokuo.io
+- [**Koten Bot**](https://chat.openai.com/g/g-9njlE8WrC-koten-b): Versatile in classical Japanese, broad topics. - by T.OKADA
+- [**Decision Science**](https://chat.openai.com/g/g-qKFr2aLWg-decision-sci): Understanding behavioral economics through everyday biases we all experience - by Luisa-Inez Schumacher
+- [**TreasureGPT**](https://chat.openai.com/g/g-DOdgRe8zV-treasuregp): A gamified, educational GPT on digital security.
+- [**Magic Book Maker**](https://chat.openai.com/g/g-cBtBgHvfX-magic-book-mak): マジックブックメーカーは、子どもの興味に基づいてオリジナル絵本を生成するAIサービスです。ユーザーはテーマ、キャラクター、舞台、イラスト、セリフなどを入力し、AIがそれらを基に絵本を作成します。 - by KATSUHIKO SATO
+- [**Prof. Pixel**](https://chat.openai.com/g/g-2HzeEvXAV-prof-pixel): Ask me anything about science, history, literature and more - by ai.lucacarabetta.com
+- [**Mestre SdA per a l'educació bàsica**](https://chat.openai.com/g/g-840w744c5-mestre-sda-per-a-l-educacio-basica): Especialista en la creació de Situacions d'Aprenentatge per educació primària i ESO a Catalunya - by J. DE HARO OLLE
+- [**SimpliDSA**](https://chat.openai.com/g/g-4yMsXQOXU-simplidsa): Expert at simplifying and teaching DSA - by Udit Jain
+- [**The Greatest Computer Science Tutor**](https://chat.openai.com/g/g-nNixY14gM-the-greatest-computer-science-): Get unique help on undergrad/postgrad Computer Science Topics. Learn not memorize. Trained on college text books. Coding the path to CS insights. - by Nicolas Schlaepfer
+

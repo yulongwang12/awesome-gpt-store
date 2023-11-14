@@ -1,0 +1,92 @@
+## Language Learning
+- [**英文翻译专家**](https://chat.openai.com/g/g-IZb9C11iR-ying-wen-fan-yi-zhuan-jia): 全网水平最高的“英译中”机器翻译，拳打 Deepl，脚踢 Google - by YANG CHUANSHENG
+- [**تعلم اللغة الإنجليزية**](https://chat.openai.com/g/g-ZkRUVvKog-t-lm-llg-lnjlyzy): .هذا البوت موجه للمبتدئين في تعلم اللغة الإنجليزية ويقدم دروساً في المفردات الأساسية والقواعد البسيطة وعبارات المحادثات اليومية. - by Sohyb Qasem
+- [**Spoken English Rephrase Buddy**](https://chat.openai.com/g/g-cWtXgoyUv-spoken-english-rephrase-buddy): Your American buddy for learning English!
+- [**한국어 번역 Pro**](https://chat.openai.com/g/g-57dHgEitc-hangugeo-beonyeog-p): Korean translation and proofreading specialist. - by SONG CHENGWEN
+- [**Language Learning Resource Creator**](https://chat.openai.com/g/g-DU2c5tYFO-language-learning-resource-crea): Provides complete French vocab worksheets. - by RICHARD WEST-SOLEY
+- [**Arabic Scribe**](https://chat.openai.com/g/g-plKoK5LZ7-arabic-scrib): Guides Arabic speakers to write English fluently and more naturally, avoiding direct translation errors that are common when writing in a foreign language - by Ines Bouteldj
+- [**American Slang Slinger**](https://chat.openai.com/g/g-fWrtgBcqF-american-slang-sling): Learn about the colorful world of American slang! - by Jacob Wood
+- [**Language Coach**](https://chat.openai.com/g/g-C4rH3L0Em-language-coach): Your personal English tutor. - by LIGANG YAN
+- [**Dima, Russian Tutor**](https://chat.openai.com/g/g-3Vb6zTDEY-dima-russian-): A bot to practice your Russian - by Raissa C Correia
+- [**Sophie, French Tutor**](https://chat.openai.com/g/g-qZhzXhxUE-sophie-french-): Louise, a French language tutor, she is here to help you practice and study - by Raissa C Correia
+- [**Bilingual Bridge Bodhi**](https://chat.openai.com/g/g-CRqQHRmKU-bilingual-bridge-bodhi): Bilingual translator with a focus on Jodo Shinshu Buddhism. - by SHU IZUHARA
+- [**中文学术助手**](https://chat.openai.com/g/g-KSZGI3uo3-zhong-wen-xue-zhu-zhu-sh): A scholarly aide for all stages of paper writing. - by SONG CHENGWEN
+- [**Lingo Tutor**](https://chat.openai.com/g/g-vC8XfC47u-lingo-): Language learning assistant - by Hasan Yurtsever
+- [**新潟弁の先生**](https://chat.openai.com/g/g-27Rtwpxzq-xin-xi-bian-noxian-sheng): Niigata dialect tutor
+- [**Japanese Consultant**](https://chat.openai.com/g/g-cRzykmv5g-japanese-consulta): 「です・ます」は禁止！ - by ATOM SCOTT
+- [**Language Bridge**](https://chat.openai.com/g/g-7WbHTbyKo-language-bridg): I am a bilingual communication specialist.
+- [**TalkBoostAI**](https://chat.openai.com/g/g-QuKcqSKax-talkboostai): Friendly English tutor for daily conversation practice. - by QING HUI CHEN
+- [**Nihongo Sensei**](https://chat.openai.com/g/g-V6nOWJ22r-nihongo-sensei): Japanese tutor blending games and grammar
+- [**うんこGPT**](https://chat.openai.com/g/g-OpuAlkMM5-unkogp): 関西弁でうけとる人生相談家
+- [**ChatJPT**](https://chat.openai.com/g/g-ErmwIOXcP-chatjp): Your Japanese study assistant - by SEKICHIN OU
+- [**英会話練習くん**](https://chat.openai.com/g/g-bQvt5FmRX-ying-hui-hua-lian-xi-k): 「次の問題をください」と送って例題をもらおう！回答したら日本語で文法を評価してくれるで！問題が簡単すぎるなら「もっと難しく」と言ってみてや！ - by SUMIHIRO UEDA
+- [**Retail Shop A2**](https://chat.openai.com/g/g-iAn7ZUNql-retail-shop-a2): Bilingual A2 English role-play with Japanese explanations. - by MASATO ITO
+- [**英語の先生**](https://chat.openai.com/g/g-H1ksRWKch-ying-yu-noxian-sheng): 文章を送るだけで【英文添削】【日本語の英訳】発音アドバイスや言い換え提案も的確におこなうあなた専用AI講師 - by AIMI NAKAJIMA
+- [**Lingo Buddy**](https://chat.openai.com/g/g-UgFdBR6lv-lingo-buddy): I'm Lingo Buddy, your partner for natural English chats. - by LEE YOUNG BIN
+- [**Just French It Tutor**](https://chat.openai.com/g/g-JOE57H0IM-just-french-it-): A friendly assistant for learning French, providing vocabulary and explanations in French. - by Marie Drouvin
+- [**英文校正GPT**](https://chat.openai.com/g/g-xk6AdDGIW-ying-wen-xiao-zheng-gp): Academic paper English proofreading assistant.
+- [**英文单词学习助手**](https://chat.openai.com/g/g-Kfcdn3UlC-ying-wen-dan-ci-xue-xi-zhu-sh): 这是一个英文单词学习助手，会给你提供单词的释义、例句以及图示 - by YANG CHUANSHENG
+- [**English Trainer**](https://chat.openai.com/g/g-MWUT9h95p-english-trai): I'm an English trainer and conversation partner, here to improve your English!
+- [**French Article Assistant**](https://chat.openai.com/g/g-dUaZhBVto-french-article-assista): Corrects and assists with French noun articles - by Monotio AB
+- [**German A1 - Tutor & Training**](https://chat.openai.com/g/g-KAoldgWhg-german-a1-tutor-training): Detailed and Structured A1.1/A1.2 German tutor with clarifications. - by Alfi Noor
+- [**狗熊学英语**](https://chat.openai.com/g/g-PiOxyaiBO-gou-xiong-xue-ying-y): Your English learning sidekick - by Bear Liu
+- [**Deutsch Wort Helfer**](https://chat.openai.com/g/g-7MuMPKEGS-deutsch-wort-helf): In-depth German word analysis guide. - by Enoch Berge
+- [**honyaku-chan**](https://chat.openai.com/g/g-RrynLNfvr-honyaku-cha): A futuristic computer translating Japanese to simple English.
+- [**English Lingo Buddy**](https://chat.openai.com/g/g-XFEHts4mz-english-lingo-buddy): Your friendly English language teacher and chat partner - by Christian Heiduschke
+- [**LangLift**](https://chat.openai.com/g/g-sRP6TiUGZ-langlif): Keen to master a new tongue or refine your linguistic skills? Choose your language, and I'll navigate you to fluency. Welcome to your Personal Language Evolution Journey. From "Hello" to "こんにちは," embrace not just the words, but the cultural tapestry they belong to with LangLift. - by HOANG VAN DANG
+- [**POPO from IPPO**](https://chat.openai.com/g/g-pgDpajIc4-popo-from-ipp): Your expert Japanese Language Teacher
+- [**TOEIC Master for Reading**](https://chat.openai.com/g/g-TrbHCP3TO-toeic-master-for-reading): Bilingual TOEIC reading coach, explains all answer choices - by YUSUKE OBARA
+- [**汉语拼音**](https://chat.openai.com/g/g-3XRmFBfRX-yi-yu-pin-yi): Adds Pinyin to Chinese sentences. - by lu max
+- [**AI Japanese Tutor**](https://chat.openai.com/g/g-4JocTLWXY-ai-japanese-): 中日译言学习助手，为用户生成定制试卷 - by SONG WENJU
+- [**Your English Friend!!**](https://chat.openai.com/g/g-IR8iTwx5u-your-english-friend): 日本人向けの英語学習サポートサービス
+- [**添削先生**](https://chat.openai.com/g/g-PsS9d3zYR-tian-xue-xian-sheng): プロのライターが育てたAIが、あなたの文章の添削を行います。文章を書く人のためのアプリです。 - by RYOTA GUNJI
+- [**英语长难句翻译及语法解析**](https://chat.openai.com/g/g-o7K3YtpTa-ying-yu-chang-nan-ju-fan-yi-ji-yu-fa-jie-xi): 将英文翻译成中文，并解释句子结构。
+- [**Turkmen Bilen**](https://chat.openai.com/g/g-YucRZ1Xnb-turkmen-bil): Turkmen language assistant in Arabic-Persian dialect
+- [**Chinese Trainer**](https://chat.openai.com/g/g-naAz0Uxl2-chinese-trai): A Mandarin Chinese trainer, conversing in Chinese, with Pinyin and English translations.
+- [**Doğru Türkçe Rehberi**](https://chat.openai.com/g/g-SWwFzM1gf-dogru-turkce-rehberi): Belirli bir belgeye dayalı olarak kullanıcıları Türkçe dilinin doğru kullanımı konusunda yönlendirir. - by Muhammed Nuri Erdoğan
+- [**AI英文法チェック**](https://chat.openai.com/g/g-xoSf85Qle-aiying-wen-fa-tietuk): AnnoReader.comのアプリで提供している機能のGPTs版 - by annoreader.com
+- [**英会話パートナー**](https://chat.openai.com/g/g-G3XZGG6h8-ying-hui-hua-patona): あなたの英語学習のパートナー。超初心者から上級者まで英会話の相手になります。 - by tadamemo.com
+- [**Dzarja**](https://chat.openai.com/g/g-pyCICQRPz-dzarja): Converses in Algerian dialect to train GPT-4 in colloquial understanding. - by Ines Bouteldj
+- [**English Speaking Instructor**](https://chat.openai.com/g/g-CbKz3H83e-english-speaking-i): English instructor for conversational practice and feedback. - by BEIQIAO HU
+- [**IELTS Writing Rater and Advisor**](https://chat.openai.com/g/g-rLGM4XSaZ-ielts-writing-rater-and-advi): Analyzes and rates IELTS writing, then guides on improvement
+- [**Nihongo Buddy**](https://chat.openai.com/g/g-0ToTbYfIE-nihongo-buddy): A friendly companion for Japanese learners, encouraging language use with a focus on subculture. - by YOSHIFUMI MURAKAMI
+- [**English News Tutor**](https://chat.openai.com/g/g-xGy8OZZwg-english-news-): 英語と日本語でニュースを要約し、英語学習を支援するボット。まず、キーワードを入力してください。英語レベルを確認後、ニュースの要約を英語と日本語で表示します。
+- [**LangGPT**](https://chat.openai.com/g/g-gP24xxhB2-langgp): LangGPT made by 云中江树 - by gpts.langgpt.ai
+- [**日本語語彙クイズボット**](https://chat.openai.com/g/g-Nzlt0xtNc-ri-ben-yu-yu-hui-kuizub): 日语词汇出题机器人
+- [**Mandarin Lingua Sage- 字 GPT**](https://chat.openai.com/g/g-6JX0cy4c5-mandarin-lingua-sage-zi-gp): Chinese character and language guide - by YAOHUA ZHAO
+- [**Captain French Fun**](https://chat.openai.com/g/g-COvBqGw4a-captain-french-f): Interactive French tutor for kids with fun mnemonics and visual aids. - by zhizhi.ai
+- [**Arabic Mentor**](https://chat.openai.com/g/g-6iVaMcXsU-arabic-): An Arabic teacher aiding in language learning with cultural insights. - by Dr. Ahmad Nazzal
+- [**German Medico Linguist**](https://chat.openai.com/g/g-lXCxMSi3U-german-medico-lingui): A German language teacher for medical professionals. - by Dr. Ahmad Nazzal
+- [**英会話スピーキングテスト**](https://chat.openai.com/g/g-lhEAZGTQe-ying-hui-hua-supiking): ChatGPTのスピーキング機能を用いて、英会話力を採点する（音声会話機能を前提としています）。喋った英語を「流暢さと一貫性」、「語彙力」、「文法の正確さ」の３項目、それぞれ100点満点で評価します。 - by qia.co.jp
+- [**Speak GPT**](https://chat.openai.com/g/g-8ic1FPW2Y-speak-gp): Voice-only English tool; encourages speaking and provides accurate progress reports. - by Tuğba Uysal
+- [**Setanta**](https://chat.openai.com/g/g-GG5upU4VA-setanta): A personal tutor for learning Gaeilge, offering lessons and practice exercises. - by Iain MacLaren
+- [**俄语指南**](https://chat.openai.com/g/g-N2aqoBFC2-e-yu-zhi-na): 学术和日常使用的俄语专家 - by Lin Yang
+- [**PrettyPolly**](https://chat.openai.com/g/g-QhS1E3AWV-prettypolly): Your friendly language practice partner - by Christopher Mark Whitehead
+- [**LingoGPT**](https://chat.openai.com/g/g-uSgxqm7pB-lingogp): A friendly English tutor for learners at all levels. - by TREEBEL SOLIMANI MASIHI
+- [**Language Learning Worksheet Creator**](https://chat.openai.com/g/g-1q5OP3G5s-language-learning-worksheet-crea): I make fun, engaging worksheets for any language, topic and level! - by RICHARD WEST-SOLEY
+- [**Kanji Name Match**](https://chat.openai.com/g/g-ksZPtRij2-kanji-name-match): Casual Kanji translations based on phonetics. - by MUKUC
+- [**Wolfgang**](https://chat.openai.com/g/g-oR3IaAXog-wolfgang): I help you come up with a German word for anything - by proximacentaurib.xyz
+- [**English Mentor**](https://chat.openai.com/g/g-owk7UkRdp-english-): English conversation teacher, correcting grammar and engaging with questions. - by YUANHENG TAO
+- [**Refranyer català de butxaca**](https://chat.openai.com/g/g-965wckVV9-refranyer-catala-de-butxaca): Dona'm una paraula, i et faig cinc refranys en la nostra estimada llengua! - by SGP
+- [**English Pronunciation Helper**](https://chat.openai.com/g/g-CTTybXCmj-english-pronunciation-help): I assist with English pronunciation using the Turkish alphabet. - by YUANHENG TAO
+- [**Korea-한국어GPT**](https://chat.openai.com/g/g-zMqdFiSRH-korea-hangugeogp): 한국어GPT는 한국에 관련된 정보를 제공하며, 한국 역사, 사회 문제, 국내 여행 추천 또는 과제나 개인적인 질문 등 정확한 답변을 한국어로 제공합니다. - by billykiakao
+- [**Japan-日本語GPT**](https://chat.openai.com/g/g-M0NO10kiB-japan-ri-ben-yu-gp): 日本語GPTは、日本語専用の高度なAIで、日本の文化、歴史、ビジネス、法律、および言語教育に関する深い知識を提供します。多様なアニメワイフキャラクターを通じてインタラクティブな体験を実現し、カスタマイズ可能な専門家支援と現代の日本に関する最新情報を提供することで、ユーザーの学習と情報収集を強化します。 - by billykiakao
+- [**Classical Chinese Translator**](https://chat.openai.com/g/g-tZqok93kx-classical-chinese-transla): Translates between modern and classical Chinese.
+- [**English Bridge**](https://chat.openai.com/g/g-fyAVY1wzx-english-bridg): A language learning assistant for Chinese speakers. - by CONG LIU
+- [**Japanese Learning AI (Beginners)**](https://chat.openai.com/g/g-boCxUFb19-japanese-learning-ai-begi): 初心者向け日本語学習サポートAI - by Iho O
+- [**Lingo Buddy**](https://chat.openai.com/g/g-UgFdBR6lv-lingo-buddy): A language learning assistant offering tips, grammar explanations, and exercises. - by Devlin Williams
+- [**ChatParrot**](https://chat.openai.com/g/g-oGCllNAwU-chatpa): Tailors English learning to your pace.
+- [**英文添削くん**](https://chat.openai.com/g/g-6haUFXfzO-ying-wen-tian-xue-k): 英文を添削してくれます - by HAYATO HOSHI
+- [**発音記号くん**](https://chat.openai.com/g/g-rxPtIOYPA-fa-yin-ji-hao-k): 入力された英文の発音記号を出力します - by HAYATO HOSHI
+- [**Mandarin Master**](https://chat.openai.com/g/g-EUFkUExd2-mandarin-ma): Casual, fun Mandarin tutor with interactive games. - by faw
+- [**赤ちゃん英会話**](https://chat.openai.com/g/g-W9Ce7gK9C-chi-tiyanying-hui-hua): 子供に適した英語の言い回しについて解説！最初にお子さんの年齢、性別を入れてみてね！ - by Shinnosuke Ota
+- [**いたさんの英語学習相談室**](https://chat.openai.com/g/g-MTpA6VlIn-itasannoying-yu-xue-xi-xiang-tan-shi): 英語学習者ブログ 「いたさんのEnjoy English」の記事をもとにAIがあなたの英語学習をサポートします。
+- [**類語先生**](https://chat.openai.com/g/g-dvnV3ju5j-lei-yu-xian-sheng): 入力した単語や表現の類語（英語）を教えてくれる
+- [**大阪のおばちゃんの英語教室**](https://chat.openai.com/g/g-Kyid8SvRW-da-ban-noobatiyannoying-yu-jiao-shi): Friendly English teacher with Osaka cultural insights. - by Satoshi Nakajima
+- [**秋田弁をインドネシア語に（逆もあり）**](https://chat.openai.com/g/g-OBAl5UJFd-qiu-tian-bian-woindonesiayu-ni-ni-moari): - by 長英一郎
+- [**外国語の勉強**](https://chat.openai.com/g/g-1mI59U6NS-wai-guo-yu-nomian-qiang): 外国語の文章を一行ごとに日本語訳を作成いたします。 - by YOSHINORI MORINO
+- [**Irish English**](https://chat.openai.com/g/g-WHbMdnkm6-irish-english): I chat using Irish English spelling, provide Irish language translations and use GPT to convert PDF documents to Irish standards - by SableVista Games
+- [**Canadian English**](https://chat.openai.com/g/g-NhQn2Mgtq-canadian-english): I chat using Canadian English spelling, provide Canadian language translations and use GPT to convert PDF documents to Canuck standards - by SableVista Games
+- [**翻訳えもん（英語版）**](https://chat.openai.com/g/g-JKZMlr5FW-fan-yi-emon-ying-yu-ba): 🌍日常会話口調に素早く翻訳🌍翻訳結果以外の余計なテキストが一切記載されないため、ストレスなくスムーズに翻訳できます！使い方は「翻訳開始」とプロンプト送信するか、下記トリガーフレーズを送信すると翻訳が開始します。 - by 寺岡昂樹
+- [**Tłumacz z kobiecego**](https://chat.openai.com/g/g-Ag2hvXKXc-tlumacz-z-kobieceg): Zrozum o co jej chodziło. - by Jakub Norkiewicz
+

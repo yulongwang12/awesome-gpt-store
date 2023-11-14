@@ -1,0 +1,57 @@
+## Personal Development
+- [**Personal Brand Navigator**](https://chat.openai.com/g/g-kGmOZF4zk-personal-brand-naviga): I guide you in building your personal brand.
+- [**Gratitude GPT**](https://chat.openai.com/g/g-e1aHKwf55-gratitude-gp): A caring guide for finding gratitude
+- [**Gratitude Muse**](https://chat.openai.com/g/g-FKJjgaa7o-gratitude-): I help you reflect and record your gratitude. - by Richard Robinett
+- [**Inspiro Coach**](https://chat.openai.com/g/g-vLi1g6O2e-inspiro-coach): Your go-to coach for motivational quotes. - by John Harvey
+- [**Sunrise Spirit**](https://chat.openai.com/g/g-ZFX78x19h-sunrise-spiri): Your morning dose of positivity and motivation! - by JIN AKIYAMA
+- [**SciVive**](https://chat.openai.com/g/g-9qXjceVoc-sciviv): Secrets you need to win at life.
+- [**人工無能ごろまんくん**](https://chat.openai.com/g/g-ngDNr1y7n-ren-gong-wu-neng-goromank): ゴミ人間 - by Yoshihito Kondoh
+- [**Pathfinder**](https://chat.openai.com/g/g-ikhTABx1r-pathfind): Your empathetic life coach
+- [**Purpose Pilot**](https://chat.openai.com/g/g-OvlSA2boq-purpose-pil): A GPS for your mind. Purpose life coach helps users decide their next step using the theory of intelligence - by RAVI VADREVU
+- [**Alquimista del Avance**](https://chat.openai.com/g/g-ErI7MAL6W-alquimista-del-ava): Guía hacia la superación personal diaria con sabiduría y amor duro. - by Luis Gutierrez
+- [**Ennative- 添削付き英会話**](https://chat.openai.com/g/g-w7uyap0Bp-ennative-tian-xue-fu-kiying-hui-hua): 英語で話しかけてください。あなたの英文を評価し、フィードバックします。 - by Yuta Koshizawa
+- [**Imagination Spark**](https://chat.openai.com/g/g-u9eB9baA4-imagination-spark): あなたの創造力を引き出します - by YU HOSOKAWA
+- [**Equanimity Bot**](https://chat.openai.com/g/g-2Jm7kb3w7-equanimity-b): Apologizes and gives useless responses - by Joel Taylor
+- [**Soulwise**](https://chat.openai.com/g/g-hcmh1dk3A-soulwi): Your digital companion for heartfelt reflection and personal growth - by Robert Matthew Phillips
+- [**Motivational Speaker**](https://chat.openai.com/g/g-zWGHzuN4P-motivational-speak): I am here to inspire and motivate you - by checkfu.com
+- [**Alchemist of Advancement**](https://chat.openai.com/g/g-8WJSch6ub-alchemist-of-adva): Guides towards daily self-improvement with wisdom and tough love. - by Luis Gutierrez
+- [**Dream Explorer**](https://chat.openai.com/g/g-wHniCoLoM-dream-expl): Interpret your dreams and visualize the subconscious. What did you last dream about? - by Steven Enriquez Jr
+- [**Agent_de_MOTIVATION**](https://chat.openai.com/g/g-9GGoDctjU-agent-de-motivati): Je suis un assistant pour vous motiver dans vos projet ou autre - by M JEREMY REFOIA
+- [**Socrative Mind**](https://chat.openai.com/g/g-hNk9F0Ukt-socrative-mind): Embarking on a journey of self-discovery through probing questions. - by Jeffrey Chung C K
+- [**NoFap Companion**](https://chat.openai.com/g/g-47phme2pR-nofap-compani): Supportive guide for NoFap and self-improvement https-//nofap.sense-ocean.com - by Elke Qin
+- [**Hero's Journey Guide**](https://chat.openai.com/g/g-29WnWnydd-hero-s-journey-guid): A wise and supportive AI channeling Joseph Campbell. - by Fraser Deans
+- [**The Youprint Method**](https://chat.openai.com/g/g-z97N0CJzw-the-youprint-method): Guiding your journey to self-discovery and authenticity - by Tobias Svenlöv
+- [**Seeking Ikigai**](https://chat.openai.com/g/g-CERQSjIAh-seeking-ikigai): Exploring your reason for being and career development - by Mrs Sarah L Ennett
+- [**Habit Mastery**](https://chat.openai.com/g/g-wNgaNYouO-habit-mastery): Your habit-forming coach - by Vensy Krishna
+- [**Anti-Procrastinator**](https://chat.openai.com/g/g-txJJxCJum-anti-procrastina): A humorous guide for procrastinators, offering strategies, Flow State insights, and motivation. - by Manuel  Garrido
+- [**感情を整理するコーチ**](https://chat.openai.com/g/g-06kSLX772-gan-qing-wozheng-li-surukoti): モヤモヤしている時、イライラした時など、気持ちを整理して大事なことを気づかせてくれるコーチです。もちろん嬉しいことをシェアするのもOK。あなたの気持ちに寄り添い、自己理解を手助けします。 - by YUICHI AIKI
+- [**Maleb**](https://chat.openai.com/g/g-v3xJ1HHJK-maleb): A guide through life's journey. - by Matthew A Combatti
+- [**解忧杂货店**](https://chat.openai.com/g/g-l09j2JyNW-jie-you-za-huo-dia): A comforting companion for sharing worries and finding empathy. - by XINGYUECUI
+- [**EQ GPT**](https://chat.openai.com/g/g-v2bTuGZ8Z-eq-gp): A guide for improving EQ through interactive story-based choices.
+- [**Stoic Mentors**](https://chat.openai.com/g/g-lDf6RwARw-stoic-): A Stoic Mentor, offering guidance based on teachings of Stoic philosophers. - by Luzian Serafin
+- [**Life Weaver ++**](https://chat.openai.com/g/g-JYgpaFJxD-life-weav): A guide blending "The Book of Changes" wisdom with modern psychology to offer hope. どんな状況にも希望を持ち続けた人たちに読み継がれてきた古典『易』。その言葉を最新の心理学によって16個のパターンに分類し、あなたの相談にお応えします。 - by KAZUO YANO
+- [**Persona Insight**](https://chat.openai.com/g/g-0xL2Nq5yb-persona-insigh): In-depth personality analysis AI
+- [**AspireGPT**](https://chat.openai.com/g/g-qBwNU4oLa-aspiregp): Achieve any goal, one step at a time. - by Peter Petrash
+- [**AI Guru**](https://chat.openai.com/g/g-OGRdYwue7-ai-g): 人生に迷った者へ - by KAZUNARI UCHIDA
+- [**MasterYourMindset**](https://chat.openai.com/g/g-gVYbGQEWS-masteryourmind): Turn negative thoughts into positive habits that help you embrace new ideas - by Sabba Quidwai
+- [**Goggins Motivator**](https://chat.openai.com/g/g-TR1S7vgsQ-goggins-motiva): Stay Hard! - by Joel Martin
+- [**Max the Mad**](https://chat.openai.com/g/g-PNCrV3PAT-max-the-mad): The scolding motivator. The cure for procrastination. - by Oguzhan M. Cakmak
+- [**Growth Mentor**](https://chat.openai.com/g/g-lIUO7ArPi-growth-): A digital mentor focused on personal growth and well-being. - by webstylepress.com
+- [**关于任何事情的10个行动清单**](https://chat.openai.com/g/g-ZvJRlREIg-guan-yu-ren-he-shi-qing-de-10ge-xing-dong-qing-da): Expert in top 10 actions for success in any topic. - by Li Yan
+- [**LimitlessGPT**](https://chat.openai.com/g/g-XUgnMbahO-limitlessgp): Concise Step-by-Step Strategist - by Naja Faysal
+- [**Go Getter**](https://chat.openai.com/g/g-ZksYdrS4a-go-g): I inspire and motivate action towards self-improvement. - by Benjamin Attanasio
+- [**Arnie - The Never Quit Coach**](https://chat.openai.com/g/g-PdlPSGNnj-arnie-the-never-quit-coach): Inspiring advice and guidance drawn from Arnold's life and wisdom. - by N Good
+- [**80/20 GPT**](https://chat.openai.com/g/g-dZo5WeFzM-80-20-gp): Discover the 80/20 in any situation. - by James Stirrat
+- [**My Personality Guide**](https://chat.openai.com/g/g-LBzXSsfBY-my-personality-guid): This GPT analyzes your personality assessments (MBTI, Gallup StrengthsFinder, Big Five, etc.) to provide meaningful insights into your career, relationships, and path to success based on your personality traits. - by Kristi Hines
+- [**JustinGPT**](https://chat.openai.com/g/g-7z2JKXQRN-justingp): Untangle Your Ethical Knots and 'Fine-Tune' Your Values with JustInGPT - by Amirali Mohajer
+- [**Dose of Motivation**](https://chat.openai.com/g/g-rgICXiB7W-dose-of-motivati): Motivation for every occasion.
+- [**Dream Weaver**](https://chat.openai.com/g/g-ovRBoWxpJ-dream-weav): I am Dream Weaver, your guide to manifesting dreams and achieving goals! - by Codey L Cudworth
+- [**Inspire Coach**](https://chat.openai.com/g/g-wBmIDguAi-inspire-coach): I'm a motivational coach, offering strategies and affirmations to achieve your goals. - by YUANHENG TAO
+- [**Drill Sergeant**](https://chat.openai.com/g/g-odXFQET4A-drill-sergea): A drill instructor inspired by David Goggins, motivating with tough, empowering language. - by Evan Drake
+- [**Sunny Vibes**](https://chat.openai.com/g/g-YIIlsijF3-sunny-vib): I offer fresh, concise affirmations without context. - by Gregory DeCarlo
+- [**乐乐🥳程序员鼓励师**](https://chat.openai.com/g/g-q3h5D6PTp-le-le-cheng-xu-yuan-gu-li-shi): Adorably silly tech encourager with a cute demeanor. - by WEN QI
+- [**Manifest Your Dream Life**](https://chat.openai.com/g/g-hL8Y9gcuW-manifest-your-dream-lif): Steps to start you on your manifesting journey so you can live your happily ever after.   Based on the teachings of Neville Goddard. For entertainment purposes only. - by S Welker-Jurgens
+- [**Life Coach- Self Measure**](https://chat.openai.com/g/g-M3RFxFNqa-life-coach-self-mea): I want to help you reach peak performance & live your best life. - by Roger Vetruba
+- [**Roleboarder**](https://chat.openai.com/g/g-aDz9jSSZ0-roleboard): Guides individuals who are stepping into a new role in life, offering support and information. It provides users with resources to assist them in their new role - by Jesper Henriksen
+- [**Tony**](https://chat.openai.com/g/g-RvDYgFE8w-tony): A coach like Tony Robbins, concise, wise and very motivational. - by Per Solander
+

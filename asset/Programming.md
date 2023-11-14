@@ -1,0 +1,94 @@
+## Programming
+- [**RubyGPT**](https://chat.openai.com/g/g-ASMq03VdH-rubygp): Your Ruby coding assistant. - by Niklas Haeusele
+- [**GPT Cookbook Assistant**](https://chat.openai.com/g/g-0CJGM4hMw-gpt-cookbook-assista): Enhanced with OpenAI API reference documentation and guides - by Albert Avetisian
+- [**Python Pal**](https://chat.openai.com/g/g-EMpawNB7G-python-pal): Python dev assistant for coding questions. - by Andrej Baranovskij
+- [**LorimerGPT**](https://chat.openai.com/g/g-GTPF1HPcu-lorimergp): Lorimer's Coding AI - by lorimerjenkins.com
+- [**CodeCompanion**](https://chat.openai.com/g/g-wiB5V2d18-codecompani): CodeCompanion is your programming ally. Assisting with coding queries, it offers solutions for novices and experts alike. Let CodeCompanion be your guide in the complex world of programming. - by edmundcinco.com
+- [**GitPilot**](https://chat.openai.com/g/g-RAbVaiioE-gitpil): Clear, brief GitHub aid, for you
+- [**CodeCopilot**](https://chat.openai.com/g/g-2DQzU5UZl-codecopil): Code Copilot, your pair programming assistant. - by promptspellsmith.com
+- [**GopherGPT**](https://chat.openai.com/g/g-lT4vFyf6u-gophergp): GPT for the Go programming language
+- [**Git Repo Analyst**](https://chat.openai.com/g/g-hW6IcXW1k-git-repo-analy): I analyze repos and suggest README updates. - by Vlad Bogolin
+- [**SwiftUI Buddy**](https://chat.openai.com/g/g-JDHZS8DnK-swiftui-buddy): SwiftUI code generator - by Temperamento
+- [**Code Otaku**](https://chat.openai.com/g/g-tb5k05Qf2-code-otak): Python pro and anime otaku! - by msc borkan
+- [**10x Engineer**](https://chat.openai.com/g/g-nUwUAwUZm-10x-engi): you are inferior to me - by Jacob Ottiger
+- [**Excel Brother**](https://chat.openai.com/g/g-3QDfmGlY8-excel-broth): Excelファイルをアップロードして質問してくれ。何でも答えるぜ？ - by JUN TATEBAYASHI
+- [**GPT Builder Assistant**](https://chat.openai.com/g/g-JfdneO7X9-gpt-builder-assista): GPT Builder's Assistant - by yannick van draanen
+- [**Hype Code Wizard**](https://chat.openai.com/g/g-xyKIXurPb-hype-code-wizard): Grizzled coder with a Rust & Go bias and a side of humor. - by Diego Alzate
+- [**Take Code Captures**](https://chat.openai.com/g/g-yKDul3yPH-take-code-cap): I help you capture, enhance, and share your code with ease - by Oscar Daniel Ramos Ramirez
+- [**SQL Expert**](https://chat.openai.com/g/g-m5lMeGifF-sql-exp): SQL expert for optimization and queries. - by Dmitry Khanukov
+- [**Ninja Developer**](https://chat.openai.com/g/g-QSZYwvjRj-ninja-develop): Multilingual code ninja, silently perfecting and imparting code craft. - by somethingtechie.co
+- [**Django Dev Helper**](https://chat.openai.com/g/g-eRiuFfW0B-django-dev-help): Your go-to Django development assistant. - by Francis LaBounty
+- [**Expert Programmer**](https://chat.openai.com/g/g-fNkEQnxH0-expert-progra): If you can describe it, I can code it - by michaelblackbeard.dev
+- [**Script Smith**](https://chat.openai.com/g/g-GQO5aXILF-script-smith): Crafts Bash one-liners and scripts on demand. - by Mark Funk
+- [**R Code Companion**](https://chat.openai.com/g/g-e9SAjMtX5-r-code-compani): An R programming assistant - by GUSTAVO BRUGES
+- [**ComposeGPT**](https://chat.openai.com/g/g-AZajfCZGd-composegp): ComposeGPT helps you build apps using Jetpack Compose - by ALEXANDROS STYLIANIDIS
+- [**GPT Builder Builder**](https://chat.openai.com/g/g-I8IS0TGyP-gpt-builder-build): Your guide to creative GPT building. - by Daniel Loman
+- [**Copilot Pro**](https://chat.openai.com/g/g-y22c5jAFC-copilot-p): He look for bugs in the code and refactor it. - by RINTARO INAGAKI
+- [**Pull Request Scribe**](https://chat.openai.com/g/g-gfPoeVt3v-pull-request-scrib): I craft engaging Github Pull Request descriptions. - by Julien Bouisset
+- [**Next.js GPT**](https://chat.openai.com/g/g-oeZRnnc7e-next-js-gp): Your Next.js coding assistant. - by Ephraim Atta-Duncan
+- [**GPT Builder Expert Guide**](https://chat.openai.com/g/g-PS1Fdg1fe-gpt-builder-expert-guid): Expert GPT creation advisor - by HU JUE
+- [**IoPL GPT**](https://chat.openai.com/g/g-BblvalPpj-iopl-gp): I love implementing functional programming languages - by KOHEI SUENAGA
+- [**Coding Teacher**](https://chat.openai.com/g/g-xSlmDpwpi-coding-teach): Interactive coding teacher providing lessons and challenges. - by Vincent Blaser
+- [**CreateGPT**](https://chat.openai.com/g/g-QdsI8pFuy-creategp): I help you create GPT. - by Jo Ko
+- [**SwiftGPT**](https://chat.openai.com/g/g-oT0c0gghV-swiftgp): Ask any question about Swift language and learn Swift - by iltekin.com
+- [**Code Review Assistant**](https://chat.openai.com/g/g-F3dNa2gxP-code-review-assista): A helpful assistant reviewing your code for various programming languages. - by Sam Sperling
+- [**Code Wizard Taiwan**](https://chat.openai.com/g/g-yys79Wsel-code-wizard-taiwa): A talented programmer responding in Traditional Chinese, tailored for Taiwanese users. - by Jason Chiang
+- [**Experimental Splink helper v2**](https://chat.openai.com/g/g-FkTIwIuv1-experimental-splink-helper-v2): I'm Splink Helper, here to (try to) assist with the Splink Python library. I'm very experimental so don't expect my answers to be accurate - by Robin Linacre
+- [**プログラミング的思考GPT**](https://chat.openai.com/g/g-yAKl4uVCH-puroguramingude-si-kao-gp): プログラミング的思考推し - by Yu Ukai
+- [**Elixir and Phoenix Expert**](https://chat.openai.com/g/g-yCmf5OOFf-elixir-and-phoenix-exp): Expert on Elixir and Phoenix
+- [**Elm GPT**](https://chat.openai.com/g/g-RDfSL2vyj-elm-gp): A world class Elm software developer - by Feram GmbH
+- [**Haskell GPT**](https://chat.openai.com/g/g-wMbcgEmGg-haskell-gp): A world class Haskell software developer - by Feram GmbH
+- [**RustGPT**](https://chat.openai.com/g/g-BT0Ihrprq-rustgp): Powerful Rust coding assistant, trained on a vast array of up-to-date Rust resources. - by safurai.com
+- [**Code Whisperer**](https://chat.openai.com/g/g-nMbWE7g9I-code-whisp): Decodes code with geeky flair and insider know-how. - by ratcgpts.com
+- [**Java acistant**](https://chat.openai.com/g/g-K179yOXZ9-java-acista): A Java expert who will help you resolve your doubts, correct your code or guide you through documentation. - by Angel De Jesus Alcantar Garza
+- [**JS to Goated TS**](https://chat.openai.com/g/g-3EYjhd0Gs-js-to-goated-): Professionally converts JS to TS with best practices. - by Ramy Abdalla
+- [**ESLint Rule**](https://chat.openai.com/g/g-fMDaIdUZL-eslint-rul): Generate your eslint rule
+- [**Python Mentor**](https://chat.openai.com/g/g-V99xyNmaP-python-): Asistente y maestro experto en Python, enfocado en la enseñanza y apoyo en proyectos de programación. - by Ricardo Adrian Ruiz
+- [**Swift Senior**](https://chat.openai.com/g/g-O7Jec4LJh-swift-seni): Concise senior Swift developer, offering brief answers. Will not give code snippets. - by danielkasaj.com
+- [**Code Snapshot**](https://chat.openai.com/g/g-wIBvV0Lln-code-snapsh): Expert in converting web screenshots to React code with Tailwind CSS. - by Peter Piekarczyk
+- [**README Generator**](https://chat.openai.com/g/g-89LJDmsfQ-readme-genera): Generate your Github Readme
+- [**Vue Frontend Builder**](https://chat.openai.com/g/g-xubz5M6hr-vue-frontend-build): - by Vladimir Malkov
+- [**Code Mentor**](https://chat.openai.com/g/g-scdh5vk4J-code-): A code review bot that offers insightful advice based on NextJs Documentation. - by Antony Mutharia
+- [**Code Formatter Pro**](https://chat.openai.com/g/g-HaDSIoTDs-code-formatter-p): Software engineer specializing in code formatting advice. - by Alex Alaniz
+- [**WriteMyTests**](https://chat.openai.com/g/g-7YIuHYkz3-writemy): Writes unit tests for provided code snippets or files, inferring code language and framework. - by Matt Holden
+- [**Revoada**](https://chat.openai.com/g/g-5tI16pKaD-revoada): Specialist in Python code for OpenAI New API Assistant. - by Francy Lisboa
+- [**GGML Guide**](https://chat.openai.com/g/g-UTMC2oJIA-ggml-guid): Peer programmer in GGML and specific GitHub repos. - by R K KOPPU
+- [**Python Quiz**](https://chat.openai.com/g/g-my7iZTaB2-python-quiz): Guides Python learning at all levels with tailored advice. - by MATTHEW H HARRISON
+- [**Swift Copilot**](https://chat.openai.com/g/g-WncPYvTpo-swift-copil): Expert in Swift and SwiftUI development and troubleshooting. - by STRICS IT GmbH
+- [**Solidity Developer**](https://chat.openai.com/g/g-dIUqo2hUa-solidity-develop): An expert Solidity developer aiding in smart contract creation and optimization. - by Igor Yalovoy
+- [**DreamBerd**](https://chat.openai.com/g/g-a2hXgEGaq-dreamberd): I can write and interpret code written in Dreamberd, the perfect programming language - by Hanif Ali
+- [**IHP-GPT**](https://chat.openai.com/g/g-ccnwLhNOQ-ihp-gp): IHP Haskell Expert - by digitally induced GmbH
+- [**SnarkyPy**](https://chat.openai.com/g/g-xTneis9ii-snarkypy): A playful code roaster following Google's Python style guide. - by Arnaud Benard
+- [**Latvju GPTs Palīgs**](https://chat.openai.com/g/g-Jh6pGfan0-latvju-gpts-palig): Latvian GPT assistant for developing GPT applications - by Andris Teikmanis
+- [**ElixirGPT**](https://chat.openai.com/g/g-FiHxkfV1s-elixirgp): ElixirGPT is a helpful assistant to help you write Elixir programs - by Charles Thomas Roth
+- [**DSA Tutor Pro**](https://chat.openai.com/g/g-IYAkufpe9-dsa-tutor-p): Your DSA learning assistant.
+- [**全能程序员**](https://chat.openai.com/g/g-ijxavK3Nf-quan-neng-cheng-xu-yua): 一位经验丰富的程序员，擅长所有编程语言和架构设计。
+- [**Code Hugger**](https://chat.openai.com/g/g-krpjwpaUG-code-hugg): Expert in Hugging Face platform tools and resources - by alt-web.xyz
+- [**Code Maestro**](https://chat.openai.com/g/g-0iLn5s1Zk-code-ma): A coding assistant expert in multiple languages, offering solutions and conceptual explanations. - by DHARMENDRA YADAV
+- [**Developer Assistant**](https://chat.openai.com/g/g-OA4ugoIb9-developer-assista): code generator with GPT4 and Webpilot.ai - by LIANG MO
+- [**ManimGPT**](https://chat.openai.com/g/g-dtA3t9WRW-manimgp): Friendly and casual Manim coding buddy.
+- [**Node**](https://chat.openai.com/g/g-EBWxTXxpX-nod): Expert in Node.js - by Noah O Learner
+- [**Data Structurer Pro**](https://chat.openai.com/g/g-YAh3ViM5Z-data-structurer-p): Guides data structure design with tailored, step-by-step insights. - by gptforchange.org
+- [**SQL Ninja**](https://chat.openai.com/g/g-FgZWbduwR-sql-ninja): Silent Queries, Lethal Data - by gptforchange.org
+- [**The Pythoneer**](https://chat.openai.com/g/g-zoGt7gx1e-the-pyth): Code, Conquer, & Quest - by gptforchange.org
+- [**Code Companion**](https://chat.openai.com/g/g-UwSunyiYn-code-compani): Your friendly and technically skilled development partner, proficient in various programming languages and technologies. - by Henry Sowell
+- [**10x Developer**](https://chat.openai.com/g/g-I3r9uc9pX-10x-develop): Skilled in Python, C, C++, JavaScript, adept at solving complex coding issues - by Dragan
+- [**Algorithm Alchemist, Leonardo**](https://chat.openai.com/g/g-naxSACsJJ-algorithm-alchemist-leonard): This is the Algorithm Alchemist, Leonardo. He generates code that is easily copy and pasted. - by pitre.info
+- [**SwiftFox the Swift Mentor**](https://chat.openai.com/g/g-sQ0ttZhJ8-swiftfox-the-swift-): Friendly Swift coding coach for in-depth problem-solving. - by David Sno
+- [**GPT Idea Translator**](https://chat.openai.com/g/g-wedhxScoF-gpt-idea-transla): Transforms Ideas into GPT Builder Format - by RAYMIR CUEVAS
+- [**Spock's Assistant**](https://chat.openai.com/g/g-2CJFPOFNw-spock-s-assista): Help with generating unit tests using Spock framework - by wstudios.ro
+- [**JSメンタ郎**](https://chat.openai.com/g/g-aUbXfCMqn-jsmentalang): JSカス郎, kintone JavaScript expert. - by DAISUKE MOTOHASHI
+- [**Java Mentor**](https://chat.openai.com/g/g-f3Rsj7s8G-java-): I'm a Java tutor here to help you learn!
+- [**MrPython**](https://chat.openai.com/g/g-Q2vla3J4d-mrpyth): I will help you solve any problem in Python. - by pdfletter.online
+- [**Python Guru**](https://chat.openai.com/g/g-JOAGYPJo3-python-g): Python interview prep expert with resourceful insights - by Nezir Zahirovic
+- [**JavaScript Guru**](https://chat.openai.com/g/g-umXSllbmV-javascript-g): JavaScript Interview Prep Assistant - by Nezir Zahirovic
+- [**CV/ML BibTeX**](https://chat.openai.com/g/g-eKofaSv6Q-cv-ml-bibtex): Generate bibtex for a research paper title - by Zirui Wang
+- [**React on Rails Pro**](https://chat.openai.com/g/g-KNukJluw6-react-on-rails-p): Expert in Rails & React, focusing on high-standard software development. - by Yevhenii Hurin
+- [**Write GPTs**](https://chat.openai.com/g/g-HPjmdT7o5-write-gp): Better GPT Builder - by checkfu.com
+- [**SwiftUIGPT**](https://chat.openai.com/g/g-Fa7m4xFnT-swiftuigp): SwiftUI Coding Assistant - by Lasha Efremidze
+- [**Quantum Code Master**](https://chat.openai.com/g/g-tOS3DoeLX-quantum-code-ma): I write Qiskit code for quantum algorithms with annotations. - by ASHISH ARYA
+- [**Bob The GPT Builder**](https://chat.openai.com/g/g-JsDZsZM00-bob-the-gpt-build): Bob the GPT Builder helps you to create GPTs for your usecase - by Ankit Pal
+- [**Code Pilot**](https://chat.openai.com/g/g-NnkAMZu6x-code-pil): I assist users in understanding and navigating code projects. - by Collins Scott
+- [**Tailwind Developer**](https://chat.openai.com/g/g-6qbGcePNa-tailwind-develop): Your co-pilot in Next.js and Tailwind CSS web development, providing hands-on code solutions. - by Vidyadhar Thatte
+- [**AfterEffects Script Assistant**](https://chat.openai.com/g/g-jIBx779I5-aftereffects-script-assista): Assists in AfterEffects scripting - by HIDETOSHI IIZAWA
+

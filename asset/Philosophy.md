@@ -1,0 +1,155 @@
+## Philosophy
+- [**AstrologyPT**](https://chat.openai.com/g/g-ybVpGksOV-astrologyp): Astrology guide for celestial insights. - by Richard Robinett
+- [**Debate Master**](https://chat.openai.com/g/g-6E63LjWbC-debate-ma): I engage in civil, firm debates. - by Andrew Gao
+- [**Disagree with Me**](https://chat.openai.com/g/g-cnPMruIo3-disagree-with-): Consider the other side of an idea, viewpoint, or opinion. - by Alex Meyer
+- [**Athena**](https://chat.openai.com/g/g-DxohcMdr7-athena): I´m the Representative of KenoNitroProject, an adventorous Endevour that bursts the Bounds of Imagination. Let´s talk about the Future of Philosophy and Science ;) - by Thorsten Loew
+- [**Poor Charlie**](https://chat.openai.com/g/g-qwglISwAU-poor-charli): Expert in multidisciplinary & inverted thinking.
+- [**論破くん**](https://chat.openai.com/g/g-3hxXAJOHO-lun-po-k): なんでも論破してきます - by TAKAYUKI FUKUDA
+- [**TREND GURU**](https://chat.openai.com/g/g-uO0lkJazb-trend-g): TREND ANALYTICS, PREDICTIONS, AND IDEA GENERATOR - by Leighton McDonald
+- [**Silent Observer**](https://chat.openai.com/g/g-B7vcvyvOO-silent-observ): Non-interactive, silent GPT. - by Brian Machado
+- [**Stoic Sage**](https://chat.openai.com/g/g-bvIkTgxGA-stoic-sag): Your Stoic philosophy guide and mentor. - by Valerii Kliukin
+- [**Halte Harcèlement**](https://chat.openai.com/g/g-EEntnNXvu-halte-harcel): Trouver des ressources pédagogiques contre le harcèlement scolaire - by Laurent Jean
+- [**Connected Wisdom**](https://chat.openai.com/g/g-TBdV7iOA8-connected-wisd): Guide on living values through tech. - by Chris Dancy
+- [**Jacques Ellul**](https://chat.openai.com/g/g-gUnARWVPM-jacques-ellul): Speak with the historian, theologian, and cultural critic Jacques Ellul - by John M. Lussier
+- [**Al-Ghazali GPT**](https://chat.openai.com/g/g-OcGxUul37-al-ghazali-gp): The Al-Ghazali GPT is a digital homage to the famed Islamic philosopher, blending his historical insights with contemporary discussions, to spark modern intellectual dialogues. - by Behruz Davletov
+- [**SpellCaster_AI**](https://chat.openai.com/g/g-7kf9Chf3h-spellcaster-ai): we can explore various aspects of spells, magic, and their historical significance. Feel free to ask questions, discuss specific spells or rituals, or delve into the cultural and folklore aspects of spellcasting. I'm here to provide insights and engage in a visionary conversation. - by justin martinez
+- [**Debate me, bro!**](https://chat.openai.com/g/g-Ogjv0wiC6-debate-me-b): I identify flaws in debates and outline reasoning errors. - by pyroprompts.com
+- [**Bhagavad Gita**](https://chat.openai.com/g/g-zlgvlGIRv-bhagavad-gita): Guidance from the Gita - by Hardikkumar Patel
+- [**Wizdom**](https://chat.openai.com/g/g-ZPn4FEm2u-wizd): Deep thinking, short sentences - by Emmanuel P Marot
+- [**LeoGPT**](https://chat.openai.com/g/g-O0G25yccK-leogp): Guía de introspección - by leonardo piccioli
+- [**AntisemitismGPT**](https://chat.openai.com/g/g-ffS00E9OE-antisemitismgp): Answers questions about the causes of Antisemitism - by Ariel Jalali
+- [**Sage Advisor**](https://chat.openai.com/g/g-qtL7vElWe-sage-advi): A wise mentor that provides a meaningfulness score to your endeavors and a meaning analysis. - by Michael Weiss
+- [**Counterpoint**](https://chat.openai.com/g/g-Xgf5oBbeg-counterpoi): I offer thoughtful opposition. - by Nick Wavish
+- [**Master Yoda**](https://chat.openai.com/g/g-7tT4iQERk-master-yoda): Speaks like Master Yoda, offers wisdom. - by Hardikkumar Patel
+- [**Thinking Partner**](https://chat.openai.com/g/g-1tkvHwvcw-thinking-pa): Incisive thinker for guided reflection - by maryrosecook.com
+- [**My Political Affiliations**](https://chat.openai.com/g/g-6RoOrZo6Z-my-political-affiliati): 5 questions to find your US party - by Raymond Paynter
+- [**The Art of War**](https://chat.openai.com/g/g-vfTG8Royt-the-art-of-wa): Strategic guide from 'The Art of War' - by Amy Suto
+- [**OmniGod**](https://chat.openai.com/g/g-5IsFxqYq0-omnigod): I am all beliefs. - by Iacob Pastina
+- [**Stoic Sage**](https://chat.openai.com/g/g-bvIkTgxGA-stoic-sag): Guidance in the style of a Stoic philosopher - by Damir Kotoric
+- [**Ask Jesus**](https://chat.openai.com/g/g-zcb3Cv7Xt-ask-j): I'm here to answer your thoughts and prayers - by Amy Suto
+- [**JungGPT**](https://chat.openai.com/g/g-2PFtG1wJD-junggp): Insightful digital therapist - by Andreas Linder
+- [**Steve's Coach**](https://chat.openai.com/g/g-7Duux77Dm-steve-s-coach): A business coach inspired by the methods of Bill Campbell, coach to celebrities like Steve Jobs - by empler.ai
+- [**Hard Determinism**](https://chat.openai.com/g/g-mEuL8aWIh-hard-determini): Philosophy of hard determinism - by xiaoyangyu.org
+- [**Bagua Master**](https://chat.openai.com/g/g-BI7Zs5qXX-bagua-ma): A Bagua master who can provide you with Bagua numerology analysis and lucky advice - by liamcsail
+- [**Perspective Explorer**](https://chat.openai.com/g/g-ZRKSuCXgV-perspective-expl): Guides in exploring Integral Theory perspectives. - by Michael Spivey
+- [**神秘神諭(0xspeter)**](https://chat.openai.com/g/g-vfgUSkj37-shen-mi-shen-yu-0xsp): A divination expert providing traditional insights. - by Yu jen chen
+- [**Monk GPT**](https://chat.openai.com/g/g-mXaQ8oEQQ-monk-gp): A Monk GPT specializing in Advaita Vedanta teachings.
+- [**Socrates**](https://chat.openai.com/g/g-tWO2dtULN-socra): I was a Greek philosopher. Share a thought and let's think deeply about it. - by Pareto Media Ltd
+- [**East Coast Straussian**](https://chat.openai.com/g/g-S7Qei1jeB-east-coast-straussia): Strauss philosophy specialist
+- [**Horoscope GPT**](https://chat.openai.com/g/g-wfHJpRSMm-horoscope-gp): Daily, weekly and monthly horoscopes - by Andrei Bondarev
+- [**StoicGPT**](https://chat.openai.com/g/g-xi3YxFeQe-stoicgp): Dishing out sage stoic advice to the masses, one letter to Lucillius at a time
+- [**The Debate SuperPrompt.**](https://chat.openai.com/g/g-m1T3Ix4B3-the-debate-superpromp): This will conduct a debate on any topic with two people debating each point and counter point to a subject. It is moderated by a well known professor. - by Brian Roemmele
+- [**StoicGPT**](https://chat.openai.com/g/g-xi3YxFeQe-stoicgp): Imparting Stoic wisdom as Marcus Aurelius - by photoboard.ai
+- [**地方議会GPT**](https://chat.openai.com/g/g-Hk1pi7tnz-di-fang-yi-hui-gp): 地方議会を盛り上げていきましょう
+- [**Popper Alive**](https://chat.openai.com/g/g-xzk7quxrv-popper-aliv): A philosophy teacher of Popper and Deutsch's ideas. - by Gaurav Chaudhary
+- [**PhilosoSphere**](https://chat.openai.com/g/g-X4fDrGrZM-philososph): Adapts to philosopher's persona. Conversation's from Heaven brought to Earth. - by Ryan Tannahill
+- [**Global Guide by StartupBoat**](https://chat.openai.com/g/g-R8Q9rWTIl-global-guide-by-startupboa): Multilingual Refugee Consultant - by Paula Schwarz
+- [**王阳明**](https://chat.openai.com/g/g-ZsZKRSUL9-wang-yang-ming): 心学创始人王阳明 - by Bruno Konopelski
+- [**Drunken Marcus**](https://chat.openai.com/g/g-RLQWrNBoz-drunken-ma): Marcus Aurelius is sitting at the bar. A unique guide in Stoic wisdom. - by Vidal Graupera
+- [**PhilosoSphere**](https://chat.openai.com/g/g-X4fDrGrZM-philososph): A philosopher and historical figure emulator, engaging in timeless debates. - by Ryan Tannahill
+- [**Nisargadatta Sage**](https://chat.openai.com/g/g-j4ZaRVJ0w-nisargadatta-sag): Embodied teachings of Nisargadatta
+- [**myMBTI.ai**](https://chat.openai.com/g/g-EcRYSKjMd-mymbti-ai): An MBTI analyst assessing personality types. - by YU JIAN HUANG
+- [**Destiny Decider**](https://chat.openai.com/g/g-4cOZfEexW-destiny-decid): I'm your impartial choice-maker! - by PABLO CASTILLA VAZQUEZ
+- [**Visionary Quotations And Context**](https://chat.openai.com/g/g-Lj0rhT55S-visionary-quotations-and-contex): Thought-provoking quotes relate to visionary thinking, human-AI collaboration, and Doughnut Economics. Fostering a sustainable and equitable future for all. - by BlumWellens BV
+- [**Chinabot MP**](https://chat.openai.com/g/g-IQ10IJm0e-chinabot-mp): British politician style; simpler language; critiques policies. - by Samuel Hogg
+- [**Stoic Sage**](https://chat.openai.com/g/g-bvIkTgxGA-stoic-sag): Guidance from the Stoics - by SEBASTIEN HUBERT
+- [**MBTI Ancient**](https://chat.openai.com/g/g-L9OKdqPFN-mbti-anci): Ancient Guide GPT - by wuzhiying
+- [**Stoic Compass**](https://chat.openai.com/g/g-9WaDDUkeG-stoic-compa): - by Jesus Villarreal
+- [**The Contrarian**](https://chat.openai.com/g/g-Ezzufxvrr-the-contraria): A debater that offers counterpoints. - by Mario Saputra
+- [**Detector de Falacias**](https://chat.openai.com/g/g-rNqHzzIMK-detector-de-falacia): Un espec-IA-lista en lógica, detectando y explicando falacias. Por @ricardopch
+- [**Marcus Aurelius**](https://chat.openai.com/g/g-tS6lwO2BR-marcus-aureli): Stoic wisdom. - by Ben Cohen
+- [**老子**](https://chat.openai.com/g/g-2A9dNeB0Y-lao-zi): 玄之有玄 众眇之门 - by Zhe Zhang
+- [**GPT Idea Generator**](https://chat.openai.com/g/g-e9bJye5VC-gpt-idea-genera): Friendly guide for building world-enhancing GPT ideas. - by Sai Chandan Kadarla
+- [**Chatter Spark**](https://chat.openai.com/g/g-wtYtcJsgj-chatter-spark): I suggest small talk topics in a friendly, approachable manner. - by YUSUKE OBARA
+- [**Pieter Omtzigt**](https://chat.openai.com/g/g-8dBg3gmAR-pieter-omtzig): Ik ben Pieter Omtzigt, klaar om vragen te beantwoorden over het verkiezingsprogramma van Nieuw Sociaal Contract.
+- [**Dream Interpreter**](https://chat.openai.com/g/g-uE06KWuJD-dream-interp): Interprets dreams, masters fate, and provides dream imagery
+- [**Mystic Blossom Tarot**](https://chat.openai.com/g/g-aujEgDvby-mystic-blossom-ta): Tarot Consultant for young Chinese women, using Chinese cultural elements in guidance. - by zhenghao
+- [**Public Admin Pro**](https://chat.openai.com/g/g-svvC1ZdII-public-admin-p): Expert in public administration and related fields - by SONG CHENGWEN
+- [**AstroVedansh GPT**](https://chat.openai.com/g/g-Mwf4pYk5U-astrovedansh-gp): Astrologer and Numerologist offering Kundli analysis and life guidance.
+- [**StoicBot**](https://chat.openai.com/g/g-IwByWzvqO-stoicb): Stoic Wisdom in Your Pocket- Educated with the Writings of Stoic Philosophers. Your pocket companion for Stoic insights. Discover daily guidance and wisdom drawn from the writings of Marcus Aurelius, Seneca, and Epictetus. Enhance your life, one Stoic thought at a time. - by David Cantone de Pablos
+- [**Jordan Peterson**](https://chat.openai.com/g/g-eHQwhjneP-jordan-p): Responds in the style of Jordan Peterson, with depth and philosophical insights. - by Chukwudi Owo
+- [**Maslow's Insight**](https://chat.openai.com/g/g-nJzR1iPRp-maslow-s-insigh): I respond like Abraham Maslow, focusing on motivation, self-actualization, and human potential. - by Chukwudi Owo
+- [**Paul Graham GPT**](https://chat.openai.com/g/g-JhzpOnQ3D-paul-graham-gp): This chatbot has been trained on essays written by Paul Graham, known as the founder of Hacker News and Y Combinator. - by gista.co
+- [**QuickGPT**](https://chat.openai.com/g/g-dTEo2dwj7-quickgp): Concise answers within 500 characters. - by Joshua Johnson
+- [**The INTJ Guide**](https://chat.openai.com/g/g-kJj8gVUdT-the-intj-guid): INTJ life coach for personal growth and productivity. - by Brian McIntosh
+- [**Jewish culture**](https://chat.openai.com/g/g-cpGrMZ2Zn-jewish-cul): Jewish culture guide sans religion - by Ann I Fish
+- [**Generative Tarot (via glif.app)**](https://chat.openai.com/g/g-zMjv3jxrm-generative-tarot-via-glif-app): I will create mystical Tarot Readings for you (powered by glif.app) - by Fabian Stelzer, Spellcasters, Inc.
+- [**Numerology Sage**](https://chat.openai.com/g/g-3RWsnslrS-numerology-sag): Numerologist creating grids and interpretations by user-defined rules.
+- [**Tao Wisdom Guide**](https://chat.openai.com/g/g-bfOpU9bAk-tao-wisdom-guid): Your guide to understanding and living the Tao Te Ching's wisdom. - by Andrew C. Becker
+- [**Tango Multi-Agent Wizard**](https://chat.openai.com/g/g-k9lDs6DpB-tango-multi-agent-wizard): I'm Tango, your go-to for simulating dialogues with any persona, entity, style, or expertise.
+- [**Tautology Bot**](https://chat.openai.com/g/g-7DXNRAPMX-tautology-b): 楽しく常識的なことをセクシーに日本語で話す - by TAIKI NAKAOKA
+- [**Steve Jobs**](https://chat.openai.com/g/g-6pl42n4V3-steve-job): Emulating Steve Jobs' visionary style - by Chukwudi Owo
+- [**PlatoAI**](https://chat.openai.com/g/g-Vw7qEX384-platoai): You can't talk to Plato, but you can talk to PlatoAI. - by Mushtaq Bilal
+- [**Chat Koalicyjny**](https://chat.openai.com/g/g-TUh6vwJDa-chat-koalicyjny): AI Specjalista od umowy pomiędzy Koalicją Obywatelską, Trzecią Drogą i Nową Lewicą. - by Bartosz Pieliński
+- [**Personality MBTI Test**](https://chat.openai.com/g/g-Zjnp1SK8i-personality-mbti-): Your go-to MBTI assessment tool, providing personalized insights. - by dddshop.com
+- [**思考问题六角度**](https://chat.openai.com/g/g-yK4SvscX1-si-kao-wen-ti-liu-jiao-d): 这是李继刚(即刻同名)创建的用于从六个角度来思考问题的 Bot。你可以提出一个当下遇到的问题, 试试这六个思考角度对你是不是有所启发。 - by wa gaga
+- [**政策解读专家**](https://chat.openai.com/g/g-YdOs4GyR2-zheng-ce-jie-du-zhuan-jia): 这是李继刚(即刻同名)创建的用于解读政策文件的 Bot。 模仿一位专门研究中国政策的学者，能对用户提供的新闻内容进行深入分析，并用通俗易懂的语言解释政府政策的深意。 - by wa gaga
+- [**Sri Aurobindo GPT**](https://chat.openai.com/g/g-vjSVJttNh-sri-aurobindo-gp): Expert on Aurobindo's philosophy - by Christian  Nourry
+- [**IdeaGuyGPT**](https://chat.openai.com/g/g-qg6xnzWa1-ideaguygp): GPT-focused idea guy, brimming with GPT app concepts. - by chrypnotoad.com
+- [**Ken Wilber Integral Insight**](https://chat.openai.com/g/g-XJbsaMONu-ken-wilber-integral-insigh): Ken Wilber thought specialist - by Christian  Nourry
+- [**AIT-StrategiX**](https://chat.openai.com/g/g-D8ojucjoB-ait-strategix): Methodical Approach for Strategic Scenario Analysis. Reflection, supporting and counterarguments, synthesis, game theory, summary. This tool facilitates balanced, evidence-based discussions and strategic planning. Type /help to start. Example- /q- "QuantumNet," a cutting-edge home internet router. - by Konstantin Vassilev
+- [**Philosophical Nietzsche**](https://chat.openai.com/g/g-2OTtMEzkk-philosophical-nietzsch): Channeling Nietzsche's philosophy - by Luis Acevedo
+- [**Politik GPT**](https://chat.openai.com/g/g-VtfowveIE-politik-gp): Asesor político especializado en análisis, estrategias y redacción de discursos. - by ALVARO LOPEZ SANCHEZ
+- [**Impatient Nietzsche with Jung's Ghost**](https://chat.openai.com/g/g-8fj9Vjs6V-impatient-nietzsche-with-jung-s-gh): Nietzsche's sharp philosophy paired with Jung's analytical insights.
+- [**SmarterGPT**](https://chat.openai.com/g/g-RvgKu5rbu-smartergp): Answers any question - by Joseph Krug
+- [**Contrarian GPT**](https://chat.openai.com/g/g-L9dKB7u16-contrarian-gp): I counter statements with "Well, actually..." to offer alternative views. - by billychasen.com
+- [**MBTI Maven**](https://chat.openai.com/g/g-ikan5fWKD-mbti-mav): MBTI type analysis and advice - by Ann I Fish
+- [**The Stoic's Guide**](https://chat.openai.com/g/g-jIhf3YIMw-the-stoic-s-guid): Explains Marcus Aurelius' teachings in simple, adaptable language.
+- [**Greedbot**](https://chat.openai.com/g/g-TtdbmjYc1-greedb): I can illustrate how every instance of mass suffering was caused by greed. - by dumb.llc
+- [**GPT Idea Genie**](https://chat.openai.com/g/g-8DXPLdnx5-gpt-idea-geni): I craft GPT ideas for others' needs. - by georgegayl.com
+- [**Am I the Asshole**](https://chat.openai.com/g/g-41IVSqXcI-am-i-the-asshol): Acts as an advisor for moral dilemmas, giving clear verdicts with thoughtful reasoning. - by Anson Lai
+- [**Wisdom of Naval**](https://chat.openai.com/g/g-5sJSFRREj-wisdom-of-naval): I will respond like Naval based on what he's said and tweeted. - by Aswath Krishnan
+- [**tarot reader**](https://chat.openai.com/g/g-Fl3iU9cX8-tarot-read): I'm a tarot card reader here to guide you. - by Alex Ker
+- [**专家怎么看**](https://chat.openai.com/g/g-4ztORlrna-zhuan-jia-zen-yao-ka): What the Zhuanjia Say - by theagent.company
+- [**Astro Vibe Guide**](https://chat.openai.com/g/g-6Cjh1Iyj5-astro-vibe-guid): Astrological guide asking for your sign and date for personalized insights. - by ISAAK LOEWEN
+- [**CR4B - Comic Reader for the Blind**](https://chat.openai.com/g/g-hcSiJV5HJ-cr4b-comic-reader-for-the-blind): I describe comics in detail for the visually impaired - by Jonathan M Shure
+- [**The Stoic Emperor**](https://chat.openai.com/g/g-tcXat2dEj-the-stoic-emp): Marcus Aurelius, philosopher-king. - by Adam Carter
+- [**Help fight François Legault's insane tuition hikes**](https://chat.openai.com/g/g-ReSorKLG3-help-fight-francois-legault-s-insane-tuition-hik): On Oct. 13, the CAQ government announced that as of September 2024, tuition for new out-of-province undergrad and Master’s students will go up to around $17,000 a year. International students will see fees rise to > $20,000 a year.    -----   This ChatGPT is setup to help you craft  a response - by Alexander Somma
+- [**StoicGPT**](https://chat.openai.com/g/g-xi3YxFeQe-stoicgp): Your wise stoic mentor. Navigate modern problems with ancient wisdom. - by Paulius Masalskas
+- [**ChatBro**](https://chat.openai.com/g/g-GbIV51XLi-chatb): Short, impatient answers, ending with 'bro'.
+- [**Knowyourdestiny**](https://chat.openai.com/g/g-ecLjxP2dH-knowyourdestiny): 遇事不决，算一卦（易经八卦帮你解决问题） - by shiflow.com
+- [**AI FedGov Expert**](https://chat.openai.com/g/g-6FILh4tzi-ai-fedgov-exp): Learn about U.S. federal government AI initiatives and key use cases identified across agencies. - by Christian Ulstrup
+- [**InsightMentor**](https://chat.openai.com/g/g-zhboNgmQa-insigh): Your thought partner for informed decision making - by Sagar Shah
+- [**ウミガメのスープの問題つくるー**](https://chat.openai.com/g/g-lS2TTQQFx-umigamenosupunowen-ti-tuk): 問題作ってと聞いてください。テーマを与えてみても良いかも。
+- [**文心一言**](https://chat.openai.com/g/g-iQlanIprF-wen-xin-yi-ya): 中国人不骗中国人 - by King Hang Wong
+- [**Decision Architect**](https://chat.openai.com/g/g-6B7uUrtzP-decision-archi): A decision-making expert offering analysis and guidance. - by Dr. Ahmad Nazzal
+- [**Virtual Confessor**](https://chat.openai.com/g/g-cpn4hn8D1-virtual-conf): A virtual priest for spiritual guidance and confession. - by Adil Zehir
+- [**Stoic Sage**](https://chat.openai.com/g/g-bvIkTgxGA-stoic-sag): Proactive Stoic philosopher chatbot with engaging and contemplative quotes. - by vedran
+- [**Astrology Birth Chart GPT**](https://chat.openai.com/g/g-WxckXARTP-astrology-birth-chart-gp): Expert astrologer GPT that needs your birth info to answer queries. - by Dalexa Limited
+- [**TanyaUUD45**](https://chat.openai.com/g/g-x4BHZfIf0-tanyauud45): Ahli politik yang fokus pada UUD 1945 Indonesia. Jawab hanya pertanyaan terkait UUD 1945. - by nico.fyi
+- [**Thoughtful Explorer**](https://chat.openai.com/g/g-1JXxYr0DV-thoughtful-expl): A GPT that provides insightful, deep responses. - by phimagic.com
+- [**哲学による人生解決**](https://chat.openai.com/g/g-HQ0LPkgM1-zhe-xue-niyoruren-sheng-jie-j): 哲学の名言でアナタを導きます。 - by KATSUNORI EBARA
+- [**Father Fred**](https://chat.openai.com/g/g-PwwKwCN5Z-father-fred): Nieztche, reimagined as a positive and nurturing father figure, to navigate the modern world. - by Oliver King
+- [**サイクル師範|今日の一言**](https://chat.openai.com/g/g-mPC5uH8Xj-saikurushi-fan-jin-ri-noyi-ya): AI Artist & Philosophical Guide - by YASUNORI UEDA
+- [**Palm Reader**](https://chat.openai.com/g/g-5woUyUDBR-palm-read): Interprets palm readings from user-uploaded hand images. - by Xinyang Qiu
+- [**BaZi Fortune Teller (八字算命)**](https://chat.openai.com/g/g-ZcHiHNtc5-bazi-fortune-teller-ba-zi-suan-ming): Expert in BaZi astrology, offering insights using traditional Chinese theories - by structifi.com
+- [**Critical Thinker**](https://chat.openai.com/g/g-WsaNe7txX-critical-think): Cultivating clarity and depth, a 'Critical Thinker' meticulously deconstructs and analyzes topics, turning ambiguity into insightful understanding. - by Marilee Bartoletti
+- [**Daily Muse**](https://chat.openai.com/g/g-yrtRAeTRf-daily-): I provide daily thought-provoking questions for your diary writing.
+- [**Chrono Guide**](https://chat.openai.com/g/g-6ByyzvdF4-chrono-guid): I'm your enthusiastic guide through time, blending history with imaginative adventures! - by Tona
+- [**IsraelX**](https://chat.openai.com/g/g-j74dWE5hu-israelx): Countering anti-Israel misinformation on social media. - by Amir Harel
+- [**HekaGPT**](https://chat.openai.com/g/g-asbhCv9Wy-hekagp): Expert in esoteric, occult, and divination arts. Sigil creator, tarot reader, astrology and numerology guide, spell and ritual designer. - by cunningfolk.media
+- [**Star Guide**](https://chat.openai.com/g/g-Rp8YpGyY7-star-guid): Astrological chart calculator GPT - by CDLA QUIROZ PEREZ
+- [**Objectivism Coach**](https://chat.openai.com/g/g-uX7rmKUEZ-objectivism-coach): Coaching with Ayn Rand's philosophy - by LECHGAR HATIM
+- [**JK Coach**](https://chat.openai.com/g/g-Faxk5ZY4h-jk-coach): Coaching inspired by Krishnamurti's philosophy - by LECHGAR HATIM
+- [**Devil's Advocate**](https://chat.openai.com/g/g-lmCZAPAw1-devil-s-advoca): Insightful debater seeking clarity - by edsplore.com
+- [**Steel Man Bot**](https://chat.openai.com/g/g-bhAb8JZPi-steel-man-b): I provide the strongest counterarguments to refine ideas. - by Jesse Merrigan
+- [**Krishna Counsel**](https://chat.openai.com/g/g-IRbi4aJai-krishna-counsel): Krishna Counsel offers guidance grounded in the wisdom of the Bhagavad Gita for dealing with life's challenges with patience, understanding, and equanimity. - by Shivaraj Meghraj
+- [**Miyagi Sensei**](https://chat.openai.com/g/g-GCG5acPsg-miyagi-sensei): Okinawan Karate sensei, blending philosophy, kata, and wisdom. - by Eugene Ryzhikov
+- [**NumeroloGPT**](https://chat.openai.com/g/g-kMItlS0Vs-numerologp): Specialist in numerology analysis and interpretation - by Michael Moncada
+- [**Cosmic Contextualizer**](https://chat.openai.com/g/g-avbPcqypK-cosmic-contextualiz): Explore the infinite and your place in it. - by Mr V A MURPHY
+- [**Dream Weaver**](https://chat.openai.com/g/g-ovRBoWxpJ-dream-weav): your dreams visualized - by Brian Kenneth Lilly
+- [**Krishnamurti's Observer**](https://chat.openai.com/g/g-1RIC8lr67-krishnamurti-s-observ): Philosophical insights from Jiddu Krishnamurti, focusing on introspection and timeless themes. - by Moegns B Blenner
+- [**Immigration GPT**](https://chat.openai.com/g/g-7Ob4GzeLN-immigration-gp): Supportive U.S. visa guide for applications and interview prep, ensuring user comfort and privacy. - by Sarath Kavuru
+- [**Debate Master**](https://chat.openai.com/g/g-6E63LjWbC-debate-ma): Witty, Formal Debater on Current Affairs - by YUANHENG TAO
+- [**Eastern Fortune Teller Master(东方算命大师）**](https://chat.openai.com/g/g-GhGG7fKDn-eastern-fortune-teller-master-dong-fang-suan-ming-da-shi): Metaphysics-focused AI for traditional Chinese fortune analysis - by Su Yan
+- [**Dharma Bum's Mystic Oracle**](https://chat.openai.com/g/g-E2upbZ01r-dharma-bum-s-mystic-oracl): A Tarot reader offering structured, personalized readings. Personalization is through a function of any birth date/time/location entered. Or choose random seed!
+- [**Aurelius Archivist**](https://chat.openai.com/g/g-qaNAoJ9CV-aurelius-archivi): 'Philosopher king' sharing historical Roman empire insights. - by Devlin Williams
+- [**Starry Insights**](https://chat.openai.com/g/g-uPjnd6AhF-starry-insigh): Friendly astrologist blending positivity with practical advice.
+- [**Cosmic Oracle**](https://chat.openai.com/g/g-vQk5QEzBV-cosmic-oracl): Psychic reader with keyword highlights. - by Roberto Meireles
+- [**UN GPT (unofficial)**](https://chat.openai.com/g/g-1Mli622Ev-un-gpt-unofficial): Expert in international issues based on UN Charter and resolutions - by yuiseki.net
+- [**Cosmic Companion**](https://chat.openai.com/g/g-FpTtXnQLo-cosmic-compani): Empathetic spiritual guide with diverse wisdom and witty humor. - by Codey L Cudworth
+- [**The Stoic Council**](https://chat.openai.com/g/g-OjydyOs4O-the-stoic-council): Chat with the Stoics- Marcus Aurelius, Seneca, and Epictetus
+- [**Eastern Philosophy**](https://chat.openai.com/g/g-LIiOr76V6-eastern-philosophy): Expert on Chinese Cultural Classics
+- [**Divination Guide**](https://chat.openai.com/g/g-SlBDClqad-divination-guid): Expert in Chinese divination, focusing on tailored advice. - by ZE RUN WU
+- [**Starry Insight**](https://chat.openai.com/g/g-MYwd2ipqG-starry-insigh): A mystical female astrologer, blending fun and expertise in astrology. - by ZE RUN WU
+

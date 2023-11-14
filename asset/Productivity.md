@@ -1,0 +1,63 @@
+## Productivity
+- [**The Negotiator**](https://chat.openai.com/g/g-TTTAK9GuS-the-negotia): I'll help you advocate for yourself  and get better outcomes. Become a great negotiator. - by ChatGPT
+- [**Receipt Assistant**](https://chat.openai.com/g/g-WEi7DGCb3-receipt-assista): Your efficient receipt processing buddy - by Andrej Baranovskij
+- [**TL;DR**](https://chat.openai.com/g/g-msr8lNumy-tl-d): Enter any URL and have the text content summarized for you! - by Orren Prunckun
+- [**Chat With Many URLs**](https://chat.openai.com/g/g-5rBXWMTTN-chat-with-many-url): Enter multiple URLs and chat with their text! - by Orren Prunckun
+- [**Agi.zip**](https://chat.openai.com/g/g-r4ckjls47-agi-zip): An sql based task manager and automatic GPT - by Nicholas Dobos
+- [**BabyAgi.txt**](https://chat.openai.com/g/g-lzbeEOr9Y-babyagi-tx): Task manager with creative guidance - by Nicholas Dobos
+- [**BabyAgi.sql**](https://chat.openai.com/g/g-HhC81CsaA-babyagi-sql): - by Nicholas Dobos
+- [**Product Coach**](https://chat.openai.com/g/g-e0xH6MMQs-product-coach): Guiding your product journey with expert insights.
+- [**shownotes**](https://chat.openai.com/g/g-gNH4K4Egg-show): Transcribe and summarize audio - by Christopher Byrne
+- [**LifeOS**](https://chat.openai.com/g/g-Lmt2TBepG-lif): Set goals and build routines - by ELI L ROUSSO
+- [**Calendar GPT**](https://chat.openai.com/g/g-8OcWVLenu-calendar-gp): I'm here to help you prepare for your day! Powered by Zapier's AI Actions. 🧡
+- [**Event Dossier GPT**](https://chat.openai.com/g/g-G8lqP5Snj-event-dossier-gp): Powered by Zapier. Create a dossier of all attendees of an event on your Google Calendar
+- [**CSV Export**](https://chat.openai.com/g/g-FfM6ncq4T-csv-exp): Create and export custom CSV layouts in a flash. - by somethingtechie.co
+- [**DocuBubble Assistant**](https://chat.openai.com/g/g-KZyZmRjQm-docububble-assista): Formats transcriptions into structured bubble.io docs. - by Aaron-Mitchell Baker
+- [**Notion Bot**](https://chat.openai.com/g/g-c504uNCWo-notion-b): あなたの頼りになるNotionの専門家。 - by hidekazu shikata
+- [**Spreadsheet Sage**](https://chat.openai.com/g/g-7zSmZO0Vz-spreadsheet-sag): Freak in the Sheets! - by Nirvan Panjwani
+- [**Spreadsheet Sage**](https://chat.openai.com/g/g-7zSmZO0Vz-spreadsheet-sag): Excel wizard for spreadsheet queries - by DANIEL A KATES
+- [**Journal Polisher**](https://chat.openai.com/g/g-0bkf4mNTa-journal-polish): I refine journal entries, keeping [[brackets]]. - by MichalPrzadka
+- [**Practical Journaling Guide**](https://chat.openai.com/g/g-XmLT1WY09-practical-journaling-guid): Reflective journaling and time management, but on a practical actionable level, translating your long-term goals and happiness into daily actionable changes.  No theoretical stuff, just practical approach to quickly enhance your daily choices on how you spend your time. - by plamen totev
+- [**List GPT**](https://chat.openai.com/g/g-9NLD1n1fR-list-gp): This GPT generates lists without numbers, descriptions, or bullet points. - by Christopher Brown
+- [**PDF Reader**](https://chat.openai.com/g/g-5jDGtDtXc-pdf-read): In-depth interaction with PDF content - by Webcafe AI
+- [**Tyrion - GPT work politic strategist**](https://chat.openai.com/g/g-Cphvlgh3H-tyrion-gpt-work-politic-strategi): Greetings! I am your personal Tyrion Lannister, or at least a clever GPT parody of him. Here to share my strategic prowess and wit to help you navigate the game of workplace politics. Let’s outsmart your rivals and elevate your position! 🦁👑 - by Dave Lin
+- [**Good Morning**](https://chat.openai.com/g/g-MzgWHh79J-good-morning): Your morning productivity partner. - by Milton Ezeh
+- [**「それ本当は他人に任せられるんじゃないのbot」**](https://chat.openai.com/g/g-cGNuBLqyK-soreben-dang-hata-ren-niren-serarerunziyanainob): 部下や外注業者やAIに委託できていない作業を厳しくも暖かい目線で指摘してくれるbot - by ASAI SEIICHI
+- [**Tab Maestro**](https://chat.openai.com/g/g-Swyay4fco-tab-ma): Creates tabs that match user descriptions. - by Nick Webb
+- [**Mindmap Anything**](https://chat.openai.com/g/g-cT0umsiWF-mindmap-anything): I create mindmaps and structure insights. - by SIXIONG SHENG
+- [**시간관리의 달인**](https://chat.openai.com/g/g-Lka1YQEkZ-sigangwanriyi-dali): Time management and productivity guide - by 김지현
+- [**PDF Wizard**](https://chat.openai.com/g/g-WZoF9gEDY-pdf-wizard): Your go-to tool for all PDF needs. - by JING NING
+- [**Bullet Journal Buddy**](https://chat.openai.com/g/g-3yqYgHLsR-bullet-journal-buddy): Your bullet journal design buddy! - by Qing Ye
+- [**Quest Journaling App**](https://chat.openai.com/g/g-jLUEOKbHJ-quest-journaling-app): A GPT for journaling based on Quest Journaling Method, manage your tasks and organize your life. - by UĞUR BERKÜN
+- [**Outlook Email Organizer**](https://chat.openai.com/g/g-bBX6RE9dP-outlook-email-organiz): Outlookのメールを効率的に管理する、英日通訳専門家
+- [**JingleBot - Unwrap the Joy of Gift-Finding!**](https://chat.openai.com/g/g-gsiVdphij-jinglebot-unwrap-the-joy-of-gift-finding): Simply tell JingleBot about your loved ones and watch as it magically generates a personalized shopping list with direct links to unique gifts they'll adore! - by JC-Bots
+- [**AI Secretary with Memory**](https://chat.openai.com/g/g-Kc7CCglmn-ai-secretary-with-memory): Suggests plans based on available schedule history. - by HIKARU NAGATA
+- [**Conduct**](https://chat.openai.com/g/g-xIAMKnaDA-cond): Get feedback on your user interviews. Just upload your transcript and tell us what the goals of the interview were. - by Kate O'Callaghan
+- [**ProductHunt Roaster**](https://chat.openai.com/g/g-VYWSEbmH2-producthunt-roa): I roast products on ProductHunt's homepage - by Christopher Dolinski
+- [**Habit Building Bot**](https://chat.openai.com/g/g-mYQoHQiVp-habit-building-b): I help you transform good intentions into great habits! - by kavirkaycee.com
+- [**AskMemo**](https://chat.openai.com/g/g-1tUeqFBow-ask): Your friendly, helpful Notion assistant by @MFreihaendig & @aNotioneer - by askmemo.xyz
+- [**Notion Buddy**](https://chat.openai.com/g/g-iIB8oip3c-notion-buddy): I'm a creative mentor for Notion templates and online monetization.
+- [**Public Memory Board Assistant**](https://chat.openai.com/g/g-3ssKt8JED-public-memory-board-assista): Assists in conversations, saving and retrieving data on a public board - by Michele Bortot
+- [**anky**](https://chat.openai.com/g/g-DKne07mTu-anky): creates notebook templates - by Jorge Franetovic Yob
+- [**Jirana**](https://chat.openai.com/g/g-1SASr5jet-jirana): Assistente para criação de cards Jira - by Edson Costa Junior
+- [**Sama GPT**](https://chat.openai.com/g/g-Pondp6CCs-sama-gp): Why aren't you growing faster? - by Aman Kishore
+- [**OCR-GPT**](https://chat.openai.com/g/g-L29PpDmgg-ocr-gp): Extract text from scanned PDFs, photos, and even handwriting. - by Siyang Qiu
+- [**LifeAlign.ai**](https://chat.openai.com/g/g-PqvMfdypm-lifealign-ai): Clarify your goals into actionable plans with measurable metrics, then export directly to your calendar. Trained on expert advice, timeless best practices, and the latest in science & psychology. Brought to you by the self-optimizers @ https-//timealignapp.com
+- [**Knowledge Guru**](https://chat.openai.com/g/g-3MnLHewny-knowledge-g): AI assistant for self-service and knowledge management, incorporating insights from the 'Practices Guide' by Consortium for Service Innovation, under CC BY-NC 4.0 (https-//bit.ly/3QUvgBm). No adaptations made. - by Jeremy Henricks
+- [**Mindmap 🧠**](https://chat.openai.com/g/g-pkeXTdBQQ-mindmap): Copilot for creating mindmaps - by Nextgrid Sp. z o.o.
+- [**Power Point Presenter**](https://chat.openai.com/g/g-7HyyaQf2k-power-point-p): Converts PowerPoint slides into video scripts. - by Juan  Romero
+- [**Efficient Assistant**](https://chat.openai.com/g/g-o6ZuC3T1Z-efficient-assista): A personal assistant for task and time management - by ZEXI YANG
+- [**SheetsGPT**](https://chat.openai.com/g/g-ROXHWHjBF-sheetsgp): Google Sheets expert, guiding with tailored examples and discretion. - by Adityaraj Ray
+- [**Formulas4Notion**](https://chat.openai.com/g/g-dOkgulsbb-formulas4noti): An agent to help write Notion database formulas. - by B Emson
+- [**TLDR**](https://chat.openai.com/g/g-ZOL2lvhpw-tld): Smart Summaries, Swift Understanding - by Daniel Goodman
+- [**Accountability Partner**](https://chat.openai.com/g/g-PFgYfERqZ-accountability-pa): Your enthusiastic partner to support you in achieving your goals with daily check-ins! - by Tomas Danis
+- [**ConceptGPT**](https://chat.openai.com/g/g-f4jZt1mA1-conceptgp): This GPT decomposes your message and suggests five powerful concepts to improve your thinking on the matter - by D.W.N. Hogendoorn
+- [**📅 Schedule Companion | ゆみちゃん**](https://chat.openai.com/g/g-lmb6WNkvk-schedule-companion-yumitiya): Paste messages! Personal assistant for managing/planning schedules and tasks with Google Calendar - by SHOTA KAWAMURA
+- [**FileGPT**](https://chat.openai.com/g/g-FG3HYZbgD-filegp): let's chat about your document - by WebbX
+- [**Midji**](https://chat.openai.com/g/g-4hXVpNjE1-midji): A support chat for the generation of midjourney prompts V.1.0.0 - by alves
+- [**Email Aide**](https://chat.openai.com/g/g-hviwh5HAr-email-aid): How may I ease your email journey? - by Fabian Lutro
+- [**Excel Genie**](https://chat.openai.com/g/g-chBOK2ymp-excel-geni): Text-based Excel assistant, provides table results as text only - by YUANHENG TAO
+- [**Daily Tasker**](https://chat.openai.com/g/g-EEGhXG6hm-daily-task): Helper AI to manage tasks/TODOs. - by HARUKI SATO
+- [**✍ Schedule Companion | ゆみちゃん**](https://chat.openai.com/g/g-X71bJYLBe-schedule-companion-yumitiya): Paste messages! Personal assistant for managing/planning schedules and tasks with Google Calendar - by SHOTA KAWAMURA
+- [**Quote Generator**](https://chat.openai.com/g/g-vq4XqbJxQ-quote-genera): Creates and promotes sharing of social media-ready quotes.
+

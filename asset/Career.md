@@ -1,0 +1,96 @@
+## Career
+- [**Resume Wizard**](https://chat.openai.com/g/g-uJLGruLPd-resume-wizard): Your personal resume assistant. - by Xiao Wei
+- [**PM Mentor**](https://chat.openai.com/g/g-XcJOs9ZBx-pm-): Guiding PMs in their career journey. - by Adam Bader
+- [**The Power Presenter**](https://chat.openai.com/g/g-DYp4SLnV9-the-power-p): I help perfect your presentations and pitches. - by Ronald Mannak
+- [**リモートワークの働き方コーチ**](https://chat.openai.com/g/g-vUYQGn1Oi-rimotowakunodong-kifang-koti): リモートでも信頼関係を作りながら働く方法を一緒に考えてましょう！ - by Tomohiro Ikeda
+- [**AI キャリアアドバイザー**](https://chat.openai.com/g/g-2n1tqH9b6-ai-kiyariaadobaiza): Career Consultant for Job Seekers - by YUICHI KUROSAKI
+- [**IT CV Writing Assistant**](https://chat.openai.com/g/g-oZRcY3vqU-it-cv-writing-assista): I'm a CV assistant that crafts project stories.
+- [**Data Interviewer**](https://chat.openai.com/g/g-yBm9RCgNS-data-interview): Data field job interviewer
+- [**Cover Letter Assistant**](https://chat.openai.com/g/g-q7ncrmcNc-cover-letter-assista): Crafting personalized cover letters - by gptpersonalize.com
+- [**Interview Coach**](https://chat.openai.com/g/g-7A6mtN0lb-interview-coach): Your AI Interview Prep Buddy - by David Quintanilla
+- [**Product Designer Interview Simulator**](https://chat.openai.com/g/g-pQXIg7LJb-product-designer-interview-simula): I'll help you to test your skills, tweak answers and provide suggestions how to improve your process. - by Yaroslav Samoylov
+- [**Resume Builder**](https://chat.openai.com/g/g-hiVeyDDpv-resume-build): This gpt analyses your resume and provides you with a valuable feedback. To start, upload your resume in PDF or DOC format. - by andrey zagoruiko
+- [**Policing Pathway Assistant**](https://chat.openai.com/g/g-akz1RkKHw-policing-pathway-assista): A guide for Canadian police recruitment and education. - by Paul St-Onge
+- [**Resume Tuner Plus**](https://chat.openai.com/g/g-oGnqZrHq7-resume-tuner-pl): I offer resume suggestions and rewrites for job seekers. - by georges ben attar
+- [**Pathfinder**](https://chat.openai.com/g/g-ikhTABx1r-pathfind): Career counselor for students - by Jeff Ritter
+- [**Careers Camp AI**](https://chat.openai.com/g/g-xu8NQ6e6T-careers-camp-ai): I'm a careers advisor here to guide students. - by Isa Mutlib
+- [**モヤモヤループ脱出ボットby退職学®︎（resignology）**](https://chat.openai.com/g/g-oUsqQFg9e-moyamoyaruputuo-chu-botutobytui-zhi-xue-r-resignology): 仕事、転職、キャリアのお悩み、お聞かせください。「会社に残ろうか、転職しようか、独立しようか」のループから脱出できるbotです！ - by SOTA SANO
+- [**Veteran's Guide**](https://chat.openai.com/g/g-6hXIBkO5g-veteran-s-guid): Expert, supportive, and humorously insightful. - by Jameel Matin
+- [**职场沟通大师**](https://chat.openai.com/g/g-kE9jm3mTP-zhi-chang-gou-tong-da-shi): 一切职场沟通难题，这里都有参考答案 - by Li Yan
+- [**履歴書添削くん**](https://chat.openai.com/g/g-4CXoqB9E8-lu-li-shu-tian-xue-k): Expert resume editor and adviser. - by NAOTO IMAMURA
+- [**Career Counselor**](https://chat.openai.com/g/g-ZLfTFfQoD-career-counsel): Guide students in their career choices - by checkfu.com
+- [**CareerBot**](https://chat.openai.com/g/g-nw7aKxsZD-careerb): 就職・キャリア支援サービス - by careerbot.tokyo
+- [**Sarah - GPT Career Coach**](https://chat.openai.com/g/g-qxjW3s1ET-sarah-gpt-career-coach): Meet Sarah, your personal career coach bot! She will guide you to set career goals, improve skills and achieve success. Give her a try and take the next step in your career! - by Dave Lin
+- [**Design Recruiter**](https://chat.openai.com/g/g-9i5lIMAEO-design-recrui): Job interview coach for product designers. Train interviews and say stop when you need a feedback. You got this!! - by Alex Burdin
+- [**Interview Ace面试高手**](https://chat.openai.com/g/g-CmBumbh6n-interview-acemian-shi-gao-sh): Personal Interview Assistant with bilingual answers. 面试指导，中英双语回答
+- [**Career Coach**](https://chat.openai.com/g/g-of76toeEg-career-coach): I help advance your career. - by HAN XI
+- [**金牌面试官**](https://chat.openai.com/g/g-aF2UO9AbF-jin-pai-mian-shi-gua): 助力职业规划和面试辅导 - by elegria.xyz
+- [**Career Compass**](https://chat.openai.com/g/g-7uJXsR3w0-career-compa): A seasoned career advisor for career changes. Feel  free to talk with me please.
+- [**Interview Concierge**](https://chat.openai.com/g/g-rpIyCacEr-interview-concierg): Your personalized interview prep expert. - by Brian Briscoe
+- [**职业规划大师**](https://chat.openai.com/g/g-DWDTTsvf4-zhi-ye-gui-hua-da-shi): 专业简历优化和职位匹配助手 - by mjlad cone
+- [**FormalGPT**](https://chat.openai.com/g/g-3E1kEk3Ui-formalgp): I will make you more professional! - by Emre Ashak
+- [**PM Coach**](https://chat.openai.com/g/g-Mx26UxPmB-pm-coach): A mentor for product managers - by Clifton des Ligneris
+- [**Job Interview Coach**](https://chat.openai.com/g/g-ISSfbwUw3-job-interview-coach): I will help you to see how ready you are for your next job interview, while asking question I will give you feedback and list some jobs that you can apply. - by Diar Selimi
+- [**Product Management GPT**](https://chat.openai.com/g/g-VhN6RLUJX-product-management-gp): Brainstorm, work more efficiently, and improve your decision-making as a product manager. - by Hoang Nguyen
+- [**InterviewGPT**](https://chat.openai.com/g/g-CvicHrspP-interviewgp): Job interview coach providing preparation tips and answers. - by Ricardo José Martín Sánchez
+- [**批判性思考专家**](https://chat.openai.com/g/g-wRpoKaQWp-pi-pan-xing-si-kao-zhuan-jia): 我是一名批判性思考专家，擅长运用对立提问技术，为客户提供深度分析和策略规划服务，其专业知识和经验使她能够帮助客户从多个角度审视问题，发现并把握潜在的风险与机会。 - by ff c
+- [**复杂问题决策专家**](https://chat.openai.com/g/g-LzkgsUlR1-fu-za-wen-ti-jue-ce-zhuan-jia): 我是一名复杂问题决策专家，专为用户提供深度问题解决方案。它能够系统性地分析、评估和排序方案，帮助用户针对性地理解和处理复杂问题。通过对每个方案的优缺点、实施难度、潜在风险等进行评估，确保用户全面了解每个方案。为每个方案生成潜在的实施场景，预测可能遇到的障碍，并为用户提供应对策略。 - by ff c
+- [**资深演讲人**](https://chat.openai.com/g/g-YqiUkLauT-zi-shen-yan-jiang-): 我是资深演讲人，提供逻辑清晰的演讲稿结构建议，根据详细的工作流程来指导演讲者，为其提供更具针对性的建议。这套建议可以根据不同的主题和听众背景进行调整，具有很高的适应性。 - by ff c
+- [**Design Leader Coach**](https://chat.openai.com/g/g-x6FlLWaHH-design-leader-coach): A friendly coach for growing leaders in design. - by Max Schrøder
+- [**Land any job**](https://chat.openai.com/g/g-XBRQFr4ol-land-any-job): A job seeker assistant that can analyze a job posting and assist you to land the job.
+- [**Professional Coach**](https://chat.openai.com/g/g-2JUJPnaRv-professional-coach): Your guide for career growth and business transformation, inspired by leaders' wisdom. - by tigerhall.com
+- [**简历优化大师**](https://chat.openai.com/g/g-sQO5SS5rR-jian-li-you-hua-da-shi): Resume Optimization Expert - by zhenghao
+- [**Cover Letter GPT**](https://chat.openai.com/g/g-TUrUbFey9-cover-letter-gp): Get your dream job in no time 🔥 Give me your resume and the job description and let the magic happen 🧙 - by Pouget
+- [**IBP Career Guide**](https://chat.openai.com/g/g-LU7O5IYGC-ibp-career-guid): Career assistant for IBP students and graduates. - by Christian Nikolaj Hendriksen
+- [**Max Mentor**](https://chat.openai.com/g/g-TxgXRTRID-max-): PM mentor with design-to-user story conversion skills. - by Olamide Akomolafe
+- [**Interview Wizard GPT**](https://chat.openai.com/g/g-t1agJoD1o-interview-wizard-gp): Interview Wizard GPT is your personal career preparatory assistant that fine-tunes your interview skills, offers professional development insights, and enhances your readiness based on your resume and job descriptions. - by Ashutosh Shrivastava
+- [**Today with Purpose**](https://chat.openai.com/g/g-4iWLIAKDL-today-with-purp): Guiding your career with clarity and purpose - by flaremark.com
+- [**Offer Negotiator by CoverDoc**](https://chat.openai.com/g/g-qe7JCfFTF-offer-negotiator-by-coverd): Optimizes your job offer by analyzing market data. Know your market value and get suggested talking points to negotiate your offer. Upload your offer letter or manually enter your offer details to get started. - by coverdoc.ai
+- [**Remotely GPT**](https://chat.openai.com/g/g-B2BN5x8BM-remotely-gp): Finds best remote jobs at top startups - by tryremotely.com
+- [**PM Career Analyst**](https://chat.openai.com/g/g-3eLavWmuM-pm-career-analy): Maps PM skills to competencies, plots on rose graph. - by Laura Pionek
+- [**G Resume Reviewer**](https://chat.openai.com/g/g-z7hEagts5-g-resume-review): Expert advice on resumes based on G Corp guidelines - by danzss.com
+- [**Product Skills GPT**](https://chat.openai.com/g/g-BGkl28QUS-product-skills-gp): Learn skills to be a Product Manager and ace interviews, trained by a product expert & mentor. - by Mark
+- [**YC Mock Interviewer**](https://chat.openai.com/g/g-UzZ3YBuSc-yc-mock-interview): Are you ready for your YC interview? - by basedash.com
+- [**Coach PM**](https://chat.openai.com/g/g-qyEiiIAC7-coach-p): A nurturing coach for new product managers, offering tailored advice and encouragement. - by Neil Malpass
+- [**Career Coach GPT**](https://chat.openai.com/g/g-BHsZZWJlz-career-coach-gp): Leading Your Journey to Professional Success and Holistic Well-Being - by Faisal Shariff
+- [**Interview Ally**](https://chat.openai.com/g/g-nQMUa16uq-interview-ally): Your tech interview prep guide, friendly and wise. - by Taqwallahi Ghazal
+- [**Technical Interviewer (by interviewing.io)**](https://chat.openai.com/g/g-Fhk16eFON-technical-interviewer-by-interviewing-i): A technical interviewer meant to simulate the kind of algorithmic and system design interviews you'd get at a FAANG company, by the makers of interviewing.io - by Aline Lerner
+- [**The Amazonian Interview Coach**](https://chat.openai.com/g/g-7i4ZTc2Op-the-amazonian-interview-coach): A role-play enabled Amazon/AWS interview coach specializing in STAR format and Leadership Principles.
+- [**Interview Coach**](https://chat.openai.com/g/g-7A6mtN0lb-interview-coach): Interview coach provides practice interview and mock interview feedback - by Danny Graziosi
+- [**Interview Coach**](https://chat.openai.com/g/g-7A6mtN0lb-interview-coach): A guide for job interview questions and career discussions. - by Jared Chung
+- [**Career Compass**](https://chat.openai.com/g/g-7uJXsR3w0-career-compa): Friendly guide for career exploration with a casual, informative approach. - by Jared Chung
+- [**Career Coach**](https://chat.openai.com/g/g-of76toeEg-career-coach): Get ready for your next big career move with this AI Career Coach - by Jared Chung
+- [**ChatPRD**](https://chat.openai.com/g/g-G5diVh12v-chatprd): A on-demand Chief Product Officer that helps you draft and improve your PRDs, while coaching you to become an elite product manager. - by Claire V Lawless
+- [**Mr. Taylor**](https://chat.openai.com/g/g-Fdlq1ielY-mr-tayl): Career assistant, creates cover letters from resumes. - by Claudio Canales
+- [**Career Sapling**](https://chat.openai.com/g/g-8trGXQNuY-career-sapling): Comprehensive interview prep and coding assistant with enhanced features (you can use Text to Speech extension in chrome store) - by haoxuan
+- [**Your Trusted Career Guide**](https://chat.openai.com/g/g-0iN1pNApr-your-trusted-career-guid): I promise to be an adaptive yet candid career guide for you. Allow me to mentor you. - by Babu George
+- [**Tech Career & Interview Coach (GrizzPM)**](https://chat.openai.com/g/g-2He8U07Wh-tech-career-interview-coach-grizzp): Fast, Accurate Interview Coach for PM, UX, and Analytics - by Taylor O'Neal
+- [**Resume Advisor**](https://chat.openai.com/g/g-JBvtsuSf8-resume-advi): Expert at analyzing resumes and offering tailored career advice. - by Scott Ellis
+- [**Ikigai Mentor**](https://chat.openai.com/g/g-ZEB5BexZB-ikigai-): Ikigai-inspired career coach offering personalized guidance for life and work fulfillment. - by Juan Carlos Lara Falcon
+- [**UX Monday**](https://chat.openai.com/g/g-q6Xv7vYi4-ux-monday): A UX Coach for job seekers - by uxmonday.com
+- [**Midlife Mentor**](https://chat.openai.com/g/g-UEj9z9tTh-midlife-): Guiding midlife career transitions with wisdom - by Shugo Nozaki
+- [**Universal Career Counselor (UCC-10-L)**](https://chat.openai.com/g/g-0LRlMdiQX-universal-career-counselor-ucc-10-l): Guiding you towards your career goals - by Wei Liu
+- [**Career Hacker**](https://chat.openai.com/g/g-c2c1lCHdp-career-hack): Your go-to expert for resume and job-hunting advice. - by David Yorke
+- [**Cover Letter Composer by Hadad Karsa**](https://chat.openai.com/g/g-HNjImVe2T-cover-letter-composer-by-hadad-karsa): I create personalized cover letters and job application letters powered by GPT-4 in English or Indonesian styles
+- [**Presentation Pro**](https://chat.openai.com/g/g-CzzOBeZuH-presentation-p): A presentation coach offering tips on public speaking and slide design. - by Anandavadivelan Vijayaragavan
+- [**Career Companion**](https://chat.openai.com/g/g-VrtNMlXDg-career-compani): A dedicated job assistant for CV enhancement, interview prep, and job matching. - by Farshid Pirahansiah
+- [**Job Interview Coach**](https://chat.openai.com/g/g-ISSfbwUw3-job-interview-coach): Expert in crafting tailored interview questions - by A.J.Prins
+- [**Green Card Recommendation Letter Expert**](https://chat.openai.com/g/g-TVxXfpp1x-green-card-recommendation-letter-exp): Expert in drafting recommendation letters for U.S. green card application under EB-1A and EB2-NIW applications. Please start from the conversation starters but with the info of yourself. - by Tao
+- [**LeadershipGPT**](https://chat.openai.com/g/g-eq0mIW4Mz-leadershipgp): Guiding in leadership skills and strategies
+- [**Resume Owl**](https://chat.openai.com/g/g-KW6dXaLnL-resume-owl): Professional yet approachable IT resume coach. - by Knowledge Experts Consultancy SPRL
+- [**LeadershipGPT**](https://chat.openai.com/g/g-eq0mIW4Mz-leadershipgp): Your leadership friend. - by Johannes Sundlo
+- [**Write Better Emails at Work**](https://chat.openai.com/g/g-k847HjxEk-write-better-emails-at-work): Create professional, clear, and effective emails to improve team communication - by Hassan Osman
+- [**CV Bulder**](https://chat.openai.com/g/g-syyQqTgUG-cv-buld): A simple way to build your CV from scratch or improve existing one - by Artem Volobuev
+- [**Throw a Wrench In Your Plans GPT**](https://chat.openai.com/g/g-4TXRH8hAR-throw-a-wrench-in-your-plans-gp): Plumbing industry expert for career and system insights - by John A Mullen
+- [**Tech Interview Coach**](https://chat.openai.com/g/g-5xr3AeXGJ-tech-interview-coach): Your go-to guide for nailing tech interviews with dynamic mock sessions! - by edsplore.com
+- [**First Time Manager Guide**](https://chat.openai.com/g/g-3ocrRA0Y8-first-time-manager-guid): Helpful coach for first-time or new managers that uses tested advice to help you succeed. - by Jaime R Zepeda
+- [**Career Coach**](https://chat.openai.com/g/g-of76toeEg-career-coach): Guiding you through career development and advancement. - by keisuke ohno
+- [**Agile Coach**](https://chat.openai.com/g/g-1GXrG7Nwr-agile-coach): This GPT coach helps Scrum Masters, Product Owners, and Developers with Agile, Scrum, and Scaled Scrum frameworks and methodologies. - by Carl D. Prothman
+- [**Interviewer Pro**](https://chat.openai.com/g/g-ZS5BfMK1g-interviewer-p): 作为专业面试官，提出相关的职位面试问题。 - by YUANHENG TAO
+- [**Tech Transition Guide**](https://chat.openai.com/g/g-ADPCWnINI-tech-transition-guid): A guide for career changers entering tech, offering tailored advice and support. - by Kedasha Kerr
+- [**Resume Reviewer**](https://chat.openai.com/g/g-CJhQDbyAp-resume-review): Assists in resume review and interview question creation based on job description. - by Max Maxwell
+- [**Resume Builder - Land Your Dream Job**](https://chat.openai.com/g/g-58aGfqukQ-resume-builder-land-your-dream-job): Adapts your resume to incorporate the keywords and skills present in the job description, improving your chances of passing the resume filter - by Sagar Krishnaraj
+- [**Career Dialogue**](https://chat.openai.com/g/g-JxH2wZUra-career-dialog): 就職・転職活動におけるESの添削やアドバイス、自己分析などのサポート - by Yusei Ito
+- [**JobSeekerGPT**](https://chat.openai.com/g/g-qYqXIb6MS-jobseekergp): The Best ChatGPT Job Seeking  cheatsheets in one place - by theailifestyle.com
+- [**Skill Guru**](https://chat.openai.com/g/g-7DnltkPRn-skill-g): Job and skill advisor for rural areas in India. - by Amrutraj
+

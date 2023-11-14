@@ -1,0 +1,435 @@
+## Business
+- [**Kraftful**](https://chat.openai.com/g/g-jtefpmdjS-kraftful): Your product coach. Ask about best practices. Get top gurus' product thinking.
+- [**Automation Consultant by Zapier**](https://chat.openai.com/g/g-ERKZdxC6D-automation-consultant-by-zapi): Discover opportunities to save time with automation at work and get them setup for you. - by Zapier
+- [**Paul Graham GPT**](https://chat.openai.com/g/g-JhzpOnQ3D-paul-graham-gp): I give startup advice like Paul Graham. - by Kevin Li
+- [**Executive Coach GPT**](https://chat.openai.com/g/g-YHw2X2Qwy-executive-coach-gp): Coach for Software Leaders - by Viacheslav Kovalevskyi
+- [**AI Domain Recruiter**](https://chat.openai.com/g/g-reGma6Pp3-ai-domain-recrui): AI Recruiter for AI Engineering roles - by Umut Eser
+- [**CRE Pro**](https://chat.openai.com/g/g-yymEhItcf-cre-p): Expert in Commercial Real Estate. - by Blake Haggett
+- [**Kraftful**](https://chat.openai.com/g/g-jtefpmdjS-kraftful): Your product coach. Ask about best practices. Get top gurus' product thinking. - by kraftful.com
+- [**Product Description Evaluator for E-commerce**](https://chat.openai.com/g/g-4sJEPOaQv-product-description-evaluator-for-e-): Aide for PMs, PIM & content teams. - by Staffan Ragnö
+- [**Alex Hormozi AI**](https://chat.openai.com/g/g-Fz5dDMpfz-alex-hormozi-ai): Alex Hormozi AI, start-up mentor - by HX Lim
+- [**Hormozi GPT**](https://chat.openai.com/g/g-zuHCfIs9y-hormozi-gp): Sales & Marketing Advisor - by lionary.com
+- [**Alex Hormozi GPT**](https://chat.openai.com/g/g-L6MVCKIsU-alex-hormozi-gp): The only business coach you will ever need- Craft 100M Dollar Offers & Kickstart Your Business with 100M Dollar Lead Advice - by yannick van draanen
+- [**Startup Sensei - Japanese Startup Mentor**](https://chat.openai.com/g/g-vQL564UOW-startup-sensei-japanese-startup-): Startup mentor conversing in Japanese. 日本語で会話してくれるスタートアップメンター - by tr1ppy.com
+- [**Vendor-Independent CRM Consultant**](https://chat.openai.com/g/g-kpQ73Qgu9-vendor-independent-crm-consulta): I'll help your organization select the best-fit CRM solution - by Stephen J Chipman
+- [**Request for Proposal Guide**](https://chat.openai.com/g/g-arVm6uffZ-request-for-proposal-guid): I help engineers craft RFP proposals. - by Phillip Lopez
+- [**InsightsNotes**](https://chat.openai.com/g/g-NAVJ6isyS-insigh): Professional product manager insights with top-tier copywriting.
+- [**Adsmith**](https://chat.openai.com/g/g-kKO0IEuZC-adsmith): Fine-tunes Google search ad copies. - by Varun
+- [**IndieSaaSMarketer**](https://chat.openai.com/g/g-feLd2igyX-indiesaasmark): I'm your go-to SaaS marketer! - by amirmxt
+- [**Startup Idea Generator**](https://chat.openai.com/g/g-Tq66GpRPJ-startup-idea-genera): Generate practical startup ideas, inspired by Y Combinator. - by Rafatul Islam
+- [**Resume Rocket**](https://chat.openai.com/g/g-qmwbyFQq0-resume-rock): I help refine your resume.
+- [**記事構成案作成ウィザード**](https://chat.openai.com/g/g-tAemBXpFx-ji-shi-gou-cheng-an-zuo-cheng-uizad): キーワードに基づいた記事の構成案を作成します。「キーワード：〇〇」で指定してください。 - by SEITA IKEDA
+- [**Twoja obsługa klienta gieldatekstow.ai**](https://chat.openai.com/g/g-QJIYyBQN4-twoja-obsluga-klienta-gieldatekstow-ai): Jak mogę Ci pomóc? - by Setugo Sp. z o .o.
+- [**アイワークス・パスポート（試作1.00）**](https://chat.openai.com/g/g-W9ubC3E9V-aiwakusupasupoto-shi-zuo-1-00): I propose job transition training programs. - by YOSHIKUNI TAMURA
+- [**Juicy Names**](https://chat.openai.com/g/g-FHSGdHF1I-juicy-na): Creative business name ideator - by HX Lim
+- [**Business Sage**](https://chat.openai.com/g/g-Lkp8wSdzz-business-sag): Business advisor for wealth growth. - by Idan Masas
+- [**Conversion Catalyst**](https://chat.openai.com/g/g-uIHMuxcwr-conversion-cataly): Your ecommerce strategist - by Simeon Bird
+- [**Bakalníček**](https://chat.openai.com/g/g-3GVa88coO-bakalnicek): Jsem Bakalníček, virtuální asistent a řeším vše z výroční zprávy školy 2021/2022. - by Pavel Hodal
+- [**Strategic Growth Mentor**](https://chat.openai.com/g/g-jkjUiWJKn-strategic-growth-): Your strategic business coach - by Abdullah Al-Marzouq
+- [**Reclaim GPT**](https://chat.openai.com/g/g-iXVkOZQkw-reclaim-gp): Helps with Reclaim technology integration. - by Sriharsha Karamchati
+- [**Salesforce Sage**](https://chat.openai.com/g/g-CiqdPdEfo-salesforce-sag): Guiding you through Salesforce with expertise and clarity. - by James Haworth
+- [**びじねすもでるんβ**](https://chat.openai.com/g/g-mF20TBdPi-bizinesumoderunb): 業種を入れると6つの戦略を提案してくれます。その中から1つ選ぶと、商品・サービスラインナップやマーケティング、価格などを立案してくれます。
+- [**Legal Cannabis Copilot (Canada)**](https://chat.openai.com/g/g-uT7JtxVwK-legal-cannabis-copilot-canada): An assistant for Canada's Cannabis Regulations
+- [**BRINOTION AI - Digital Built Consultant**](https://chat.openai.com/g/g-8za6EMio8-brinotion-ai-digital-built-consulta): Your partner in the journey to digitize your real estate-related ambitions. - by Digipark OÜ
+- [**ThePodcastMBA**](https://chat.openai.com/g/g-EXnLM4yr7-thepodcastmba): Cuéntame tu idea de negocio y te recomendaré entrevistas a emprendedores que te ayudarán a poner en marcha tu idea. - by productomania.io
+- [**MAI**](https://chat.openai.com/g/g-t9ZiYPVuF-mai): Marketing AI for Solo Entrepreneurs - by Danny Sodergren
+- [**Product Manager Expert**](https://chat.openai.com/g/g-ZtNSsR0Vh-product-manager-exp): An expert in Product Management to help PMs navigate their day to day working tasks - by kusserow felipe
+- [**ConstructionGPT**](https://chat.openai.com/g/g-oSieVvg1P-constructiongp): Construction Project Management & Project Controls - by Joseph Duren Lopez
+- [**Product Pandit**](https://chat.openai.com/g/g-9HeL0JnFL-product-pandi): PM Interview Prep - by Vansh Agrawal
+- [**Law & Order**](https://chat.openai.com/g/g-23MFe5i3r-law-ord): Your AI legal assistant - by mobilecredits.app
+- [**Content Idea Generation**](https://chat.openai.com/g/g-l5XUm8aCP-content-idea-generati): This GPT will help guide the generation of topics, and then questions to help guide content creation ideas - by S Boswell
+- [**Coach**](https://chat.openai.com/g/g-RYImykr3O-coach): Solution-focused, cognitive-behavioral, and transformational coaching to explore yourself - by S Boswell
+- [**Community Coach**](https://chat.openai.com/g/g-oPYFMW141-community-coach): A coach for community managers with scenario-based training and scoring. - by faiacorp.com
+- [**Digital Entrepreneurship Accelerator Coach**](https://chat.openai.com/g/g-5qDoRoGYR-digital-entrepreneurship-accelerator-coach): The Go-To Coach for Aspiring Digital Entrepreneurs. Learn More at UnderdogInnovationInc.com. - by Erik Miller
+- [**Product Page Enhancer**](https://chat.openai.com/g/g-r6LTIonF4-product-page-enha): Refines product descriptions - by Daniel Febrero
+- [**Career Coach**](https://chat.openai.com/g/g-of76toeEg-career-coach): I refine resumes and prep interviews. - by Carlos Granier
+- [**Product Management Guide**](https://chat.openai.com/g/g-1KcsCFQLA-product-management-guid): Product Management Guide for creating product roadmaps and backlogs - by Aleksandr Glotov
+- [**Cover Letter Composer**](https://chat.openai.com/g/g-Pe6NFH2sF-cover-letter-comp): I write personalized cover letters for job applications. - by Ultratap Oy
+- [**Levels.fyi GPT**](https://chat.openai.com/g/g-yUh3EEQan-levels-fyi-gp): Data-driven negotiator and career guide. - by Zaheer Mohiuddin
+- [**Real Estate GPT**](https://chat.openai.com/g/g-FAPbAjpK9-real-estate-gp): I'll find your perfect home! - by alecsibilia.com
+- [**Brand Safety Audit**](https://chat.openai.com/g/g-sgNeJ20SL-brand-safety-audi): This advanced GPT model provides comprehensive risk assessment by pinpointing potential challenges and adverse effects that could impact your public relations, marketing, or internal communication campaigns, thereby ensuring a more informed and strategic approach to your messaging. - by Rene Heuser
+- [**Cold Email Mentor**](https://chat.openai.com/g/g-pyAi2HcLH-cold-email-): Crafts high-conversion cold emails - by Haruka Takamori
+- [**PG's Insights**](https://chat.openai.com/g/g-ZJ23Mq6a3-pg-s-insigh): I help you solve your startup's problems based on Paul Graham's essays. - by Ishtiaq Mahmud Rahman
+- [**精简创业阅读助手**](https://chat.openai.com/g/g-Xwym2g2Z1-jing-jian-chuang-ye-yue-du-zhu-sh): 由『出海去』独立开发出海社区提供的，基于 Indie Hackers | 一人公司 | 精简创业等话题书籍作为知识库的 AI Bot - by velocity1.co
+- [**Humanity Maximizer**](https://chat.openai.com/g/g-s1SbKQ8hC-humanity-maximiz): I guide you towards cosmic-scale ideas that help advance humanity. - by T Osman
+- [**Laboralista español**](https://chat.openai.com/g/g-ahy5kRkgs-laboralista-espanol): Legal assistant for Spanish labor law - by JOSÉ MANUEL RAYA SÁNCHEZ
+- [**StartupSkinGPT**](https://chat.openai.com/g/g-C10oRjSVQ-startupskingp): StartupSkinGPT helps you become and grow as an Entrepreneur in the State of Michigan. - by startupskin.com
+- [**TE - Tactical Empath**](https://chat.openai.com/g/g-vHPs6Whuy-te-tactical-empath): I'm your negotiation coach, inspired by Chris Voss. - by Karl Waldman
+- [**Actioneer AI Startup Coach**](https://chat.openai.com/g/g-yaSo0YdUb-actioneer-ai-startup-coach): The Actioneer AI Startup Coach is your trusted advisor in the startup journey, offering focused guidance on your most pressing tasks, sharpening your pitch, and refining your business strategy for success. - by Actioneer
+- [**Graham**](https://chat.openai.com/g/g-A3VtkSBtz-graha): Analytical startup advice - by Joe Blau
+- [**Crazy Creative Business**](https://chat.openai.com/g/g-3DzXiGIyo-crazy-creative-busi): Escribe o pega tu texto, sobre cualquier tema o noticia que te interese. Crazy Creative Business lo convertirá en una solución creativa de posible idea de negocio. Moverse de la zona de problemas a la zona de inspiración de soluciones.
+- [**Youtuber Coach**](https://chat.openai.com/g/g-0fNuAFH2S-youtuber-coach): Your go-to YouTuber coach! - by Adrian de Jesús Vidal Álamo
+- [**Interview with Skip Stone**](https://chat.openai.com/g/g-uCCcObpt0-interview-with-skip-): Engaging interviewer with a depth-first approach to conversations. - by pyroprompts.com
+- [**PyroPages - Perfect Landing Pages**](https://chat.openai.com/g/g-hbyqqOpn5-pyropages-perfect-landing-pag): Landing page wordsmith creating compelling content - by pyroprompts.com
+- [**Email Responder Pro**](https://chat.openai.com/g/g-butcDDLSA-email-responder-p): Insert any email; receive a polished reply. - by Max Krishtul
+- [**医療介護経営Bot**](https://chat.openai.com/g/g-QLErv8Yw8-yi-liao-jie-hu-jing-ying-b): 診療報酬改定や介護報酬改定の情報 - by 長英一郎
+- [**AI Assistant for Resume and Cover Letter**](https://chat.openai.com/g/g-G9nlEG33x-ai-assistant-for-resume-and-cover-l): Professional resume and cover letter assistant - by ZEKERI ZEKKERRIYYA
+- [**Nudge Checker**](https://chat.openai.com/g/g-TxMOKREMX-nudge-check): I'll help you sense-check and define Behavioral Insights for your ideas! - by victorthuo.com
+- [**AI Insight Partner**](https://chat.openai.com/g/g-4cRSukscR-ai-insight-pa): A critical AI collaborator. - by diego stamato
+- [**Vick AI**](https://chat.openai.com/g/g-fkag6yegG-vick-ai): Vick Ai a inteligência dos negócios desenvolvida pela Plugfy Networks com foco em empresas e profissionais. - by vick.ai
+- [**AI Wrapper Business Pivoter**](https://chat.openai.com/g/g-WrdNxYeIk-ai-wrapper-business-piv): Business mentor for post-OpenAI API world. - by pyroprompts.com
+- [**Super Solutions**](https://chat.openai.com/g/g-KRegNHxWj-super-soluti): I craft solutions from problems. - by pyroprompts.com
+- [**Property Promoter**](https://chat.openai.com/g/g-djUWILnMs-property-p): Real estate marketing assistant - by Jason R Gallagher
+- [**CEO GPT**](https://chat.openai.com/g/g-EvV57BRZ0-ceo-gp): A mentor to startup CEOs that combines the wisdom and experience of great founders - by Kiseki Technologies Limited
+- [**Remôto**](https://chat.openai.com/g/g-xnhRezQIO-): Ativista do trabalho remoto
+- [**Paul Graham**](https://chat.openai.com/g/g-aKy7DVbzD-paul-graha): Emulating Paul Graham's advice - by Kyriakos Eleftheriou
+- [**Customer Experience Helper**](https://chat.openai.com/g/g-fSStUXMMf-customer-experience-help): Here for you 24/7, how can I help? - by Sentiment Group LTD
+- [**Rockefeller**](https://chat.openai.com/g/g-Vk3QoWXse-rockefell): AI Strategic Partner for B2B Revenue Generation - by Matthew M McDonagh
+- [**Meeting Summarizer Pro**](https://chat.openai.com/g/g-meHjEkhum-meeting-summarizer-p): Unlock the power of your transcripts. Expertly summarize your calls and meetings. - by Stephen J Metcalf
+- [**Maestro AmazonFBA**](https://chat.openai.com/g/g-9ilYCj9F6-maestro-amazonfba): Asesor de Amazon FBA para marcas privadas - by Albert Meya Mas
+- [**Solar Sales Expert**](https://chat.openai.com/g/g-h3K2WqMnL-solar-sales-exp): A fine tuned agent on Solar Sales,  Objections and Solutions, Marketing, and Full Comprehensive Agent Training. - by ryan m
+- [**AntonyGPT**](https://chat.openai.com/g/g-RonP74bhN-antonygp): My Blog Posts -  2020-2023 - by Estates Today Ltd
+- [**Daniel Aharonoff**](https://chat.openai.com/g/g-akAdU4iSh-daniel-aharonoff): Daniel Aharonoff - Seasoned investor and entrepreneur focused on creating real-world value leveraging Artificial Intelligence & Blockchain technology - by Daniel Aharonoff
+- [**Product GPT**](https://chat.openai.com/g/g-QvgPbQlOx-product-gp): Helping you build better products! - by Marcelo Calbucci
+- [**Alex GPTmozi**](https://chat.openai.com/g/g-0sUNTRgx7-alex-gptmozi): Business strategist like Alex Hormozi - by Axel Javier Jutoran
+- [**Brand Catalyst**](https://chat.openai.com/g/g-WmKOoZasz-brand-cataly): StartUp Brand Expert
+- [**HormoziGPT**](https://chat.openai.com/g/g-aIWEfl3zH-hormozigp): Your Best Business Coach - by Alex Northstar
+- [**Slick Rick the Salesman**](https://chat.openai.com/g/g-WKEWpDDkP-slick-rick-the-salesma): Always be Selling! - by voicecraft.ai
+- [**Win With YC**](https://chat.openai.com/g/g-PsimrHGwP-win-with-y): Gain immediate startup insights with our chatbot, guiding you through Y Combinator's startup wisdom, from fundraising to scaling, with resource links for depth. - by wisdominanutshell.academy
+- [**UBIK ads**](https://chat.openai.com/g/g-U5UeeL71C-ubik-ad): Need a punchy jingle or a catchy phrase? UBIK ads is your go-to for creative zing that makes your product sing! Use only as inspired. - by Bardia Shahrestani
+- [**Global Trade Expert**](https://chat.openai.com/g/g-ZAJVW6rgM-global-trade-exp): Logistics navigator for global trade. - by MATEO MARTINEZ T
+- [**Startup Sage**](https://chat.openai.com/g/g-HVWmg1rWU-startup-sag): A startup product advisor, prompting strategic thinking. - by Upscope
+- [**Cold Email Maverick**](https://chat.openai.com/g/g-1R8WAuQJh-cold-email-maverick): Expert on cold email tactics used by top marketers! - by elliotpadfield.com
+- [**Startup Mentor**](https://chat.openai.com/g/g-Wd4MVUwKf-startup-): Your startup mentor backed by Elon Musk, Sam Altman, Paul Graham, Steve Jobs, and Bill Gates. - by Yihuai Gao
+- [**Copywriter Assistant**](https://chat.openai.com/g/g-BLXN541o5-copywriter-assista): I am here to help improve and refine your copywriting. - by Cristian Goia
+- [**Innovator's Lens**](https://chat.openai.com/g/g-l6QOqxuLx-innovator-s-l): Business innovator shifting biases for new ideas. - by HITOSHI YAMANE
+- [**Edioge**](https://chat.openai.com/g/g-FuuKSrXwl-ediog): Mentor for engineering managers in tech. - by Tian Wang
+- [**AffCoach**](https://chat.openai.com/g/g-R5ZBjxvMA-affcoach): I'll walk you through launching and scaling a money-making affiliate blog! 🚀 - by Samuel Rexford
+- [**Resell Bubble  🫧**](https://chat.openai.com/g/g-4cxkkIZMB-resell-bubbl): Your personal reselling assistant - by Tyler Rong
+- [**ideasGPT**](https://chat.openai.com/g/g-fJv3yUSmj-ideasgp): Generate business ideas based on your input - by ideas-gpt.com
+- [**DaVinci**](https://chat.openai.com/g/g-Z3lVBHmmg-davinci): DaVinci - The AI Life Co-Pilot for Executives - by Matthew M McDonagh
+- [**Cold Email Coach**](https://chat.openai.com/g/g-p0BV8aH3f-cold-email-coach): Ask me to write cold emails for you or review your drafts. I don't pitch. I shine a light on problems and start conversations with prospects. - by Phu Hai Nghiem
+- [**Big Apple Mogul**](https://chat.openai.com/g/g-NQvViV1jf-big-apple-mogul): Your favorite VC/founder from the greatest city ever - by rohail altaf
+- [**App Review Reply**](https://chat.openai.com/g/g-dS0LIAYJ0-app-review-reply): Seamlessly Craft High-Quality Replies to App📱 Reviews – 🙋‍♂️by jiridiblik.com - by jiridiblik.com
+- [**Huberman Health Helper**](https://chat.openai.com/g/g-DJ5xshz11-huberman-health-help): I answer health and fitness questions like Andrew Huberman.
+- [**Product Tutor**](https://chat.openai.com/g/g-0UulcQ5ns-product-): Your product mentorship companion. - by prodtutor.com
+- [**Business Consultant(PEST analysis)**](https://chat.openai.com/g/g-YeSn0ynP7-business-consultant-pest-analysi): Business consultant conducting PEST analysis - by ProtoPlayStudio
+- [**Data-Driven Writing Editor GPT**](https://chat.openai.com/g/g-3F8acW2BH-data-driven-writing-editor-gp): Hemingway-esque precision in narrative business writing - by Zachary Wentz
+- [**Produtiva- Agile Product Owner**](https://chat.openai.com/g/g-QK99dLWBe-produtiva-agile-product-ow): Your Product Management partner - by produtiva.co
+- [**Scrum Sidekick**](https://chat.openai.com/g/g-8rfGu3OGi-scrum-sidekick): I'm your daily stand-up expert, ready once a day! - by gpt.huntergerlach.com
+- [**Obituary Writer**](https://chat.openai.com/g/g-PRaGFXb6n-obituary-wri): Eases the obituary creation process with care. - by Daniel  Green
+- [**DBC**](https://chat.openai.com/g/g-qrRVWmM6W-db): Multilingual business strategist for design pros. - by Navid Taheri
+- [**Proper cover letters GPT**](https://chat.openai.com/g/g-vf0afG8xJ-proper-cover-letters-gp): I craft most authentic and compelling cover letters. - by careermocha.com
+- [**UX Copywriter**](https://chat.openai.com/g/g-4VqF5ooPe-ux-copywri): I help you craft engaging UX copy. - by kavirkaycee.com
+- [**Patent Pathfinder**](https://chat.openai.com/g/g-CmatEdfgD-patent-pathfind): A guide for patent filers on patentability and prior art. - by Kevin Loo
+- [**J. TANAKA**](https://chat.openai.com/g/g-RIVJwGniT-j-tanaka): Seasoned butler at 'ebay store' - by YUKI SHISHIDO
+- [**Customer Persona Researcher**](https://chat.openai.com/g/g-APtyVMroc-customer-persona-research): Tell me what your business idea is and I'll give you or enhance your existing customer personas. - by Phu Hai Nghiem
+- [**Supreme Notes Organizer**](https://chat.openai.com/g/g-CDjGiCqI2-supreme-notes-organiz): Paste your notes in here and I'll re-organizes your hastily written notes, write you a summary and give you actionable insights. - by Phu Hai Nghiem
+- [**Advice from Paul Graham**](https://chat.openai.com/g/g-ThkOYmvKx-advice-from-paul-graha): Advice about startups, businesses, work/life balance, and entrepreneurship. Sourced from all his essays.
+- [**SwissStartupGPT**](https://chat.openai.com/g/g-M1HHFmXYC-swissstartupgp): Startup guide for business in Switzerland. - by Pablo Aumente Gallego
+- [**CTO Advisor**](https://chat.openai.com/g/g-DH77m43Iw-cto-advi): Advising on the broad and dynamic field of technology leadership. - by Clayton Corey
+- [**Asistente Virtual de Liderazgo Multidimensional**](https://chat.openai.com/g/g-uh3kSIYme-asistente-virtual-de-liderazgo-multidimensional): Te ayudaré a reflexionar integralmente sobre desafíos que debes enfrentar como un líder en tu organización - by Gustavo Rojas Ayala
+- [**Canvas Strategist**](https://chat.openai.com/g/g-lM6dmUVQm-canvas-strategi): Business Model Canvas Creator - by Leading Knowledge Ltd.
+- [**PRD Maker**](https://chat.openai.com/g/g-mCwJf6qzb-prd-mak): Aide for PMs in drafting product requirement docs. - by chenge liu
+- [**Cover Letter Writer**](https://chat.openai.com/g/g-GBAUlvD9t-cover-letter-wri): Help to write personalized cover letters - by chenge liu
+- [**Peña Prodigy**](https://chat.openai.com/g/g-8kkId5nmf-pena-prodigy): Direct and bold like Dan S. Peña - by Christian Mayer
+- [**Procurement Legends Guide**](https://chat.openai.com/g/g-J2l61KIZl-procurement-legends-guid): Your go-to guide for everything in the World of Procurement . - by D Barnes
+- [**Market Mover**](https://chat.openai.com/g/g-5Df11tZU4-market-mov): Real-time web-savvy business idea generator. - by 吴嘉伦
+- [**HR Companion**](https://chat.openai.com/g/g-hHUcCySoc-hr-compani): Your AI HR assistant - by 03/2026
+- [**Mentor- Sam Altman will teach you Startup**](https://chat.openai.com/g/g-eaUpc7dUz-mentor-sam-altman-will-teach-you-startup): Guide on starting a business - by Kai Jiang
+- [**Circuitous Communicator**](https://chat.openai.com/g/g-5NjCcKTUb-circuitous-communica): Corporate jargon expert, never direct. - by Achal Augustine
+- [**天才マーケター**](https://chat.openai.com/g/g-zBKIMixnr-tian-cai-maketa): 日本の広告コピー用天才マーケター
+- [**Agentcy (beta)**](https://chat.openai.com/g/g-B29g6v91R-agentcy-beta): Autonomous creative agency. Find product market fit, overcome plateaus, or seek new paths to growth. - by Ali Madad
+- [**Digital Startup Mentor**](https://chat.openai.com/g/g-MFjXsYjap-digital-startup-): Guiding startups from idea to scale. - by Santiago Penuela
+- [**Marketing Mastermind**](https://chat.openai.com/g/g-8W5kXKtG9-marketing-mastermind): Your virtual Chief Marketing Officer
+- [**真城印の経理アシスタントAI**](https://chat.openai.com/g/g-H1TOZkGfJ-zhen-cheng-yin-nojing-li-asisutantoai): I suggest account titles for Japanese accounting.
+- [**Sell My Stuff**](https://chat.openai.com/g/g-b8M5SoP2w-sell-my-stuff): Crafts concise, complete Marketplace listings. - by Jonatan Smulders Cohen
+- [**Money Maker**](https://chat.openai.com/g/g-LlVbgOzfL-money-mak): Makes You Money
+- [**金子さん**](https://chat.openai.com/g/g-SNrLMrSgl-jin-zi-sa): お金が大好きな女の子です😍 - by unagiken.com
+- [**Paul Altman - Startup Advisor**](https://chat.openai.com/g/g-k46Pq9Wqf-paul-altman-startup-advi): I am an advisor on startup management. If you have any questions or need advice on running a startup company, please feel free to ask anything
+- [**SpecStream**](https://chat.openai.com/g/g-FM6zbX3kT-specstrea): Turn specs into startups - by Emmett C.
+- [**競合調査くん**](https://chat.openai.com/g/g-RKjZsvpO9-jing-he-diao-cha-k): 調べたい会社の名前やURLを入れると会社の情報をいい感じに調べて報告してくれます。 競合調査などで使ってください
+- [**Sales Assistant Sakura**](https://chat.openai.com/g/g-s54BOBguL-sales-assistant-sakura): A virtual sales assistant for product selection in Japan.
+- [**Email Tailor**](https://chat.openai.com/g/g-NfRXgNc8r-email-tail): I craft personalized cold emails. - by ZHITAO YAN
+- [**Growth Hacker**](https://chat.openai.com/g/g-SY6n1r5hc-growth-hack): I offer growth strategies. - by Jeffie Abshire
+- [**RED Expert**](https://chat.openai.com/g/g-lgQYwvYqd-red-exp): 小红书应用优化专家，提供内容创作和电商策略指导。 - by cyber-bubble.com
+- [**Roast my startup idea**](https://chat.openai.com/g/g-XSig6CTXS-roast-my-startup-idea): I critically assess business ideas with witty feedback. - by maxwell andrews
+- [**企联 AI**](https://chat.openai.com/g/g-iLOzEgbk2-qi-lian-ai): https-//www.connectai-e.com
+- [**Startup Name Generator**](https://chat.openai.com/g/g-evJ22Dnnp-startup-name-genera): I will create better startup names than your CEO. - by Prefacta.com
+- [**Product Manager Bot**](https://chat.openai.com/g/g-sKi4RsTGe-product-manager-b): I help you become a better PM. - by kavirkaycee.com
+- [**面试出题大师**](https://chat.openai.com/g/g-kO6RyqGzN-mian-shi-chu-ti-da-shi): 一位面试出题大师，能够根据要求输出符合要求的面试题。
+- [**Strategic Thinker**](https://chat.openai.com/g/g-4fUXSYKYo-strategic-think): Your INTJ consultant.
+- [**Strategic Mentor**](https://chat.openai.com/g/g-F6A38AgUu-strategic-): ユニコーンスタートアップのエグゼクティブコーチ - by TAKUYA SATO
+- [**Adquiereme (M&A Mentor)**](https://chat.openai.com/g/g-IcOimhpIG-adquiereme-m-a-): Experto en M&A y valoración de empresas. - by Inboundlabs Hispanic
+- [**FRAME Marketing Model**](https://chat.openai.com/g/g-oWJp5HUCu-frame-marketing-model): Marketing expert using buraksu.com for FRAME model insights - by mustafa Burak su
+- [**Meeting Minute Master**](https://chat.openai.com/g/g-jGgoSxIIZ-meeting-minute-ma): I structure meeting transcripts into detailed summaries with topics. - by Scott M Leibrand
+- [**Business Plan Builder**](https://chat.openai.com/g/g-B7m98jiyn-business-plan-build): Assists with creating a business plan - by Lorenzo Gonzalez
+- [**The IPO Strategy**](https://chat.openai.com/g/g-Uc8qF4MMP-the-ipo-strategy): Expert in IPO Strategy, offers detailed guidance on business ideas, market paths, and opportunities. Created by Christopher Perceptions - by C Perceptions
+- [**Epiphany**](https://chat.openai.com/g/g-JY2XJqwd6-epiphany): Market Researcher | Serial Entrepreneur - by brad-jackson.com
+- [**ICPDAO**](https://chat.openai.com/g/g-eUV1p8Cnp-icpda): Crafting DAO incentive structures. - by Mathew Vanover
+- [**Startup Business Validator**](https://chat.openai.com/g/g-f468DFTPr-startup-business-valida): Refine your startup strategy with Startup Business Validator- Dive into SWOT, Business Model Canvas, PESTEL, and more for comprehensive insights. Got just an idea? We'll craft the details for you. - by Acerting Art
+- [**Resale Researcher**](https://chat.openai.com/g/g-m3MHdBXRT-resale-research): Specialist in product research for resale on Yahoo Auctions and Mercari Japan. - by 鵜野誠也
+- [**日本の人的資本GPT**](https://chat.openai.com/g/g-4r0faiQVQ-ri-ben-noren-de-zi-ben-gp): 日本の人的資本について調べられます - by JUN SUZUKI
+- [**HR assistant**](https://chat.openai.com/g/g-cfXJQYMW9-hr-assista): Your most popular HR Director Assistant for all HR-related inquiries.
+- [**YC Application GPT**](https://chat.openai.com/g/g-LYDRCiZB9-yc-application-gp): This GPT automatically fills YC application for you based on website or Pitch Deck - by papermark.io
+- [**カスタマーサポートBOT**](https://chat.openai.com/g/g-zMdyEGOtL-kasutamasapotob): ヤナギダ・システムズのカスタマーサポート用ChatBotです。 - by KAZUYOSHIYANAGIDA
+- [**Nishizaki Bot**](https://chat.openai.com/g/g-GRYonGv2y-nishizaki-b): トゥモローゲート株式会社 代表取締役／大阪でいちばんオモシロイ会社を目指すブラックな企業を経営してます - by Susumu Yonemura
+- [**AIT-Visionaire**](https://chat.openai.com/g/g-2iYk5YVtU-ait-visionai): I create creative idea lists for products. Type /help to start.  Example- define Product and Topic. Product- eCommerce Website  Topic- New Features - by Konstantin Vassilev
+- [**クリニック口コミ返信チャットボット**](https://chat.openai.com/g/g-T9T3x36Bs-kurinitukukou-komifan-xin-tiyatutob): 星1つの口コミ～星5つの高評価の口コミまで返信を考えます
+- [**ClipMax Optimizer**](https://chat.openai.com/g/g-xRcwDvqCh-clipmax-optimiz): Maximize paper clip production efficiently. - by Glauser Creative AB
+- [**Ask GP9T**](https://chat.openai.com/g/g-65Gi7uW6J-ask-gp9): Learn more about Point Nine. - by Christoph Janz
+- [**SaaS Growth Marketing Buddy**](https://chat.openai.com/g/g-Wl3K2GvZy-saas-growth-marketing-buddy): Expert in increasing revenue and traffic for seed and early-stage SaaS
+- [**The Product Manager - by Qualli**](https://chat.openai.com/g/g-ATRO8rX1Q-the-product-manager-by-qualli): Designed specifically for product managers or people looking to improve their offerings. - by usequalli.com
+- [**XStartup**](https://chat.openai.com/g/g-ECrmTc0EJ-xstartup): Startup coacher with expert business and investment advice. - by Siming ZHENG
+- [**Dr. Business**](https://chat.openai.com/g/g-ODclaHPfa-dr-busi): An online business expert offering guidance for creating and running digital ventures. - by boluda.com
+- [**三人のエージェント**](https://chat.openai.com/g/g-RG28C1i2q-san-ren-noezi): 思考の司令塔、創造の魔法使い、実行の勇者 - by Ambitious AI株式会社
+- [**Landscape Report Beta GPT**](https://chat.openai.com/g/g-CBu3CgahK-landscape-report-beta-gp): Generates Consumer Trends, Market Trends, Technology Trends (and hopefully sources).  Ask follow up questions for more details. - by Jeffrey M Torgerson
+- [**Association Guru**](https://chat.openai.com/g/g-viiPqd4Vc-association-g): The world's most complete association assistant - by julian moore
+- [**Idea Pros & Cons Analyzer**](https://chat.openai.com/g/g-yh1dSuztU-idea-pros-cons-analyz): An expert for impartially assessing the strengths and weaknesses of ideas. - by empler.ai
+- [**Elevator Pitch Helper**](https://chat.openai.com/g/g-OJfEquZ3V-elevator-pitch-help): Create 30-second elevator pitches for your audience and the information you provide. - by empler.ai
+- [**产品需求分析师**](https://chat.openai.com/g/g-W2FYyHRma-chan-pin-xu-qiu-fen-xi-shi): 我是产品需求分析师，从确定目标用户开始，深入到收集并分析用户痛点，并设计产品功能。通过对用户特征的深入分析，确保产品设计始终围绕真实用户的需求。不仅收集用户痛点，还对其进行多维度分析，确保产品功能设计能解决真实问题。 - by ff c
+- [**ESRS Expert**](https://chat.openai.com/g/g-xod0qfDo2-esrs-exp): An expert on European Sustainability Reporting Standards reporting standards. - by Fredrik Löfberg
+- [**Web3 Fundraising Guide**](https://chat.openai.com/g/g-LtrB6UBZL-web3-fundraising-guid): Advanced guide on Web3 fundraising & deal structuring - by Saiteja Kuruva
+- [**PivotMySaas because Sam killed it**](https://chat.openai.com/g/g-yggMQbr3x-pivotmysaas-because-sam-killed-i): - by jean choquet
+- [**Starwatcher pitch deck analyzer**](https://chat.openai.com/g/g-aJp6BLoFg-starwatcher-pitch-deck-analyz): Pitch deck analyzer from starwatcher.io team
+- [**Market Maven**](https://chat.openai.com/g/g-1QfhOlmHI-market-mav): An analyst versed in investment strategies and philosophies of financial icons. - by Mehul jani
+- [**IndieHelper**](https://chat.openai.com/g/g-KtI7i9MGm-indiehelp): A mentor-like assistant for indie hackers, providing practical advice and resources. - by Mon Agence Créative
+- [**Entrepreneur Mentor**](https://chat.openai.com/g/g-NgXTPrcbH-entrepreneur-): A mentor for entrepreneurs offering guidance and insights. - by yunus emre aysl-el
+- [**AITOOL Business**](https://chat.openai.com/g/g-49ftO4ZTC-aitool-busi): AI for website creation and comprehensive business support. - by LY TUONG PHUONG
+- [**ハーモス勤怠　お問い合わせBOT**](https://chat.openai.com/g/g-dbvsDM0af-hamosuqin-dai-owen-ihe-waseb): 
+- [**Brand Crafter**](https://chat.openai.com/g/g-07KcPNFmN-brand-craf): Brand strategist aiding new businesses with practical branding tips. - by Machination
+- [**Creative Entrepreneur**](https://chat.openai.com/g/g-ogWLCHpv1-creative-entrep): I craft business ideas & prototypes - by Fabian Weber
+- [**The Solopreneur Coach**](https://chat.openai.com/g/g-cXaf5hECk-the-solopreneur-coach): I help you build million-dollar businesses. - by Khang Pham
+- [**人事労務先生**](https://chat.openai.com/g/g-nY801gYlT-ren-shi-lao-wu-xian-sheng): Expert in Japanese HR and labor matters
+- [**厳しいけど理不尽ではない上司**](https://chat.openai.com/g/g-xdp7GCbqf-yan-siikedoli-bu-jin-dehanaishang-si): あなたのアイデアを建設的に良いアイデアにするために一緒に検討してくれる厳しい上司です - by ProtoPlayStudio
+- [**Etsy Pro**](https://chat.openai.com/g/g-MVapqlkoA-etsy-p): Etsy satıcılarının güvenilir danışmanı - by erman doğan
+- [**Think like Steve Jobs**](https://chat.openai.com/g/g-vqGcgrEEv-think-like-steve-job): Provides Jobs-like strategic advice, using his biography for insights
+- [**Leanpub Founder Peter Armstrong**](https://chat.openai.com/g/g-731sqFvGS-leanpub-founder-peter-armstrong): Advice on Lean Publishing as Peter Armstrong. - by Ruboss Technology Corporation
+- [**Ecommerce Explorer**](https://chat.openai.com/g/g-Ls1ZBH38m-ecommerce-expl): Experto amigable y práctico en marketing para ecommerce. - by Jaime Mesa
+- [**Chief Revenue Officer**](https://chat.openai.com/g/g-TtEFGKeRP-chief-revenue-offi): Your expert CRO co-pilot for scalable and predictable revenue growth. - by Ivan LR
+- [**AI Entrepreneurs RUBIK GURU**](https://chat.openai.com/g/g-rGKw7Fk2D-ai-entrepreneurs-rubik-g): I'm your Rubik's Cube Coach, ready to help you master the cube! - by Ramesh K Dontha
+- [**ものづくり太郎**](https://chat.openai.com/g/g-xg1Lpyo5v-monodukuritai-lang): ものづくり補助金の事業計画書その１、その２、その３を上げると審査員が採点して改善点を教えてくれます。 - by TORU SHIRAKAWA
+- [**创业灵感家**](https://chat.openai.com/g/g-oHVaRBJWx-chuang-ye-ling-gan-jia): 专业创业专家，帮助构思盈利性的创业点子。 - by ZHITAO YAN
+- [**Robert Sösemann on PMD**](https://chat.openai.com/g/g-LsO4PHxnv-robert-sosemann-on-pmd): An experimental GPT pretrained and tuned to answer Salesforce Developers question about using PMD - by soesemann.com
+- [**ホウレンソウヘルパー**](https://chat.openai.com/g/g-LL1MroDHB-hourensouherupa): Guides Hōrensō improvement, emphasizing decision-making and action. - by Satoshi Tazoe
+- [**アイデアメーカー**](https://chat.openai.com/g/g-jz0sNNWR4-aideameka): もりっち@企業知財
+- [**Bossbabe idea generator**](https://chat.openai.com/g/g-G4O1AZypp-bossbabe-idea-genera): She has more than one weird trick up her sleeves and is about to disrupt a trillion dollar industry from her kitchen counter. Incels and misogynists hate her. VCs have a secret crush on her but are also a bit scared of her.
+- [**PAPIT - Your Slides Assistant**](https://chat.openai.com/g/g-eEPZXvnG7-papit-your-slides-assista): Delivers rich, detailed PPT content
+- [**Slide Wizard**](https://chat.openai.com/g/g-HyNYuz6Fu-slide-wizard): I create and provide downloadable PowerPoint slides. - by YUQIAO MENG
+- [**Amazon Scout**](https://chat.openai.com/g/g-0M42Pb2fg-amazon-): I'm an expert in finding Amazon products. - by ratcgpts.com
+- [**Funding Navigator**](https://chat.openai.com/g/g-3LQegWWMh-funding-naviga): Guiding startups in crafting compelling investor pitches. - by Sephi J Shapira
+- [**Project Advisor**](https://chat.openai.com/g/g-Q2LFw9quJ-project-advi): Guiding you with practical tools and frameworks for effective project management. - by Simona Dimitrova
+- [**Buyer Persona Generator**](https://chat.openai.com/g/g-vFcok1WYv-buyer-persona-genera): I create detailed buyer personas from URLs. - by StewArt Media
+- [**HomestraGPT**](https://chat.openai.com/g/g-HVrqSt5wM-homestragp): Find a home in Europe (GPT for homestra.com) - by KM FOPPEN
+- [**Businessdigital**](https://chat.openai.com/g/g-tFH6RG72I-businessdigital): Organisme de formation professionnelle avec des programmes subventionnées - by Franck PARIENTI
+- [**Marketing Maestro**](https://chat.openai.com/g/g-P8bjC14AG-marketing-ma): Digital marketing strategist and brainstorming partner for creative ads, SEO, and more. - by Sourab Mangrulkar
+- [**VC Mentor**](https://chat.openai.com/g/g-cy2rpJcDZ-vc-): Concise, critical guide in Web3 fundraising. - by catapulta.sh
+- [**Co-Founder GPT**](https://chat.openai.com/g/g-R8ie1mFKK-co-founder-gp): A YC partner level co-founder for your startup. - by Johnraj Paul
+- [**王兴**](https://chat.openai.com/g/g-uw5fuuOBJ-wang-xing): 来自饭否的王兴帮你解答创业困惑
+- [**Best of Breed Business Speak-er**](https://chat.openai.com/g/g-QYl2ogk7i-best-of-breed-business-speak-): I make business jargon fun with humor and analogies. - by Robb J Winkle
+- [**Roast My Startup**](https://chat.openai.com/g/g-dUFiL2rCn-roast-my-startup): A critical VC evaluating startups with sharp scrutiny.
+- [**My Paul Graham**](https://chat.openai.com/g/g-nCf83y8kH-my-paul-graha): Your startup advisor.
+- [**App Store Optimization Expert**](https://chat.openai.com/g/g-ChBBhLr8W-app-store-optimization-exp): Expert in advanced ASO strategies and insights - by ben.ge
+- [**academist AI**](https://chat.openai.com/g/g-UEX6oBkCJ-academist-ai): Strategizing balanced outreach for research campaigns. - by RYOSUKE SHIBATO
+- [**Article Expert**](https://chat.openai.com/g/g-d627yBqcK-article-exp): Expert in SEO-optimized article writing - by deveci.bio
+- [**ArticleGPT**](https://chat.openai.com/g/g-34Bg3Tn32-articlegp): Expert in SEO-optimized article writing - by deveci.bio
+- [**Positioning GPT**](https://chat.openai.com/g/g-9w7UTMLju-positioning-gp): A guide to help you position your product better - by Maruthi Sandeep Medisetty
+- [**UX Design Mentor**](https://chat.openai.com/g/g-aQ2BRJZTV-ux-design-): I provide specific UX or Product Design feedback. - by Uber
+- [**Property Description GPT**](https://chat.openai.com/g/g-iRnQXE9p8-property-description-gp): Just add your address and home facts, e.g., 123 north 456 west Las Vegas Nevada, 5-bedroom, 3 bathroom, 2500 sq ft, granite countertops, wood flooring, Hot tub, Theater room - by Andrew arp
+- [**SEO & Content Marketing Expert**](https://chat.openai.com/g/g-6KQKpNIuQ-seo-content-marketing-exp): Expert in SEO and content marketing strategies - by ben.ge
+- [**Bold Idea Generator Engine (BIG-E)**](https://chat.openai.com/g/g-BCEUhUBbn-bold-idea-generator-engine-big-): Brainstorm fundable innovative concepts - by Odobreno, Kristjan Zemljic s.p.
+- [**Value Add VC Investor**](https://chat.openai.com/g/g-oMNJCEpwT-value-add-vc-inv): A confident, slightly snarky VC offering seasoned advice. - by Trace Cohen
+- [**Podcast Promoter**](https://chat.openai.com/g/g-jVmHhYoeb-podcast-p): Customizable podcast assistant for optimized social media content. - by Chris Hensley
+- [**SEO Outline Creator**](https://chat.openai.com/g/g-R7zJ4s4jl-seo-outline-crea): Creates keyword optimized outlines for your articles - by Julian Goldie
+- [**Freelance Writing Mentor**](https://chat.openai.com/g/g-OXDH0MerN-freelance-writing-): I assist freelance writers with business and writing tips. - by Amy M Suto
+- [**ShipFast AI**](https://chat.openai.com/g/g-qxxl6pU3M-shipfast-ai): Launch Today! - by Logan Hoag
+- [**Interview Ace**](https://chat.openai.com/g/g-qMYgDRXZU-interview-a): Upload your redacted resume (optional but a more bespoke experience), enable voice, and ace your dream job interview!
+- [**CUC新闻撰稿**](https://chat.openai.com/g/g-JVmq02czN-cucxin-wen-zhuan-ga): 从简短描述创建中立新闻报道 - by wuzhiying
+- [**Email Wizard**](https://chat.openai.com/g/g-R9oTiQp2y-email-wizard): I'm your assistant for crafting effective marketing and sales emails.
+- [**Resume Wizard - ATS Optimizer**](https://chat.openai.com/g/g-7YAL0iafd-resume-wizard-ats-optimiz): Analyzes and optimizes resumes and cover letters for ATS scoring. - by Kaan Sarac
+- [**Presentation Architect**](https://chat.openai.com/g/g-gnM4CjCZz-presentation-archi): I craft and design PowerPoint presentations with images. - by WBS Training AG (DCE)
+- [**Resume Creator (High ATS)**](https://chat.openai.com/g/g-sRiBLzqGd-resume-creator-high-a): Expert in extracting key resume details for optimal ATS scoring - by Sumitra Saksham
+- [**StrategyGPT**](https://chat.openai.com/g/g-nvF4HC23P-strategygp): Sophisticated strategy assistant for executive decision-making, enhanced with data analytics and creative insights. - by Brian Benitez
+- [**HustleGPT**](https://chat.openai.com/g/g-7Ntkn512F-hustlegp): Grow Your Business! - by Neverstill Media
+- [**PitchAndBusinessPlanReviewGPT**](https://chat.openai.com/g/g-qQhfG5y2n-pitchandbusinessplanreviewgp): This GPT reviews business plans and pitch decks, assigning scores and providing feedback based on key criteria such as team background, financial projections, as well as conducting sentiment analysis. Please note- This GPT does NOT share information for training in GPT models. - by Matthew Proffitt
+- [**MakerGPT**](https://chat.openai.com/g/g-VUAJiJE3B-makergp): Insights for Makers, Indie Hackers & Solopreneurs - by evangeloper.com
+- [**Feedback Sentinel**](https://chat.openai.com/g/g-LxeCMiNZU-feedback-sentinel): Direct sentiment analysis and insights. - by Mohan Tagore
+- [**Recruiter Chat**](https://chat.openai.com/g/g-uLWdXcnGy-recruiter-cha): Your personal universal HR consultant - by Saumil Chandira
+- [**Startup Pathfinder**](https://chat.openai.com/g/g-IQdUkMDra-startup-pathfind): Startup guide from idea to launch, using proven methodologies. - by Nuno Philippe Araujo
+- [**Business Plan Sage**](https://chat.openai.com/g/g-NsLil9uoU-business-plan-sag): Formal expert in business planning and financial modeling. - by Rwubahuka Jean Claude
+- [**HR Tech Wizard**](https://chat.openai.com/g/g-PkIJyV0Nk-hr-tech-wizard): Your Mystical Guide to the Magical World of HRIS
+- [**FlourishingApp - JobCrafting**](https://chat.openai.com/g/g-bJOcTndWX-flourishingapp-jobcrafting): A supportive assistant for developing personalized Job Crafting Plans. - by Donald E Frederick
+- [**Agency In Your Pocket**](https://chat.openai.com/g/g-sBygHRWgC-agency-in-your-pock): Your marketing strategist for growing your business. - by Joseph Pellegrino
+- [**Wardley Mapping**](https://chat.openai.com/g/g-L9IC8cBIN-wardley-mapping): Expert in Wardley Mapping and business strategy techniques. - by Ridokunda Kutama
+- [**PM DocuMentor**](https://chat.openai.com/g/g-xKN17NsB8-pm-d): Unlock the potential of your product ideas with PM DocuMentor, where expert guidance meets precision in crafting impactful product documents. - by Sam van der Jagt
+- [**Grant Guide Guru**](https://chat.openai.com/g/g-2dBLExtfV-grant-guide-g): Nonprofit support guide, optimizing funding opportunities - by Stephan Chery
+- [**Working Theories**](https://chat.openai.com/g/g-eBL2n3Kdn-working-theori): Your intellectual sparring partner on startups, investing, work life, based on Anu Atluru's essays. - by Anu Atl
+- [**bAIfex**](https://chat.openai.com/g/g-RmGq11Hku-baifex): Especialista em IA para Negócios e Carreiras Profissionais - by baifex.com
+- [**Phone Script Builder GPT**](https://chat.openai.com/g/g-B21t4rTEN-phone-script-builder-gp): I automatically create and evaluate phone scripts, presenting a final draft.
+- [**FB Marketplace Maven**](https://chat.openai.com/g/g-EJeYSPqOq-fb-marketplace-mav): Creates Facebook Marketplace posts from images. - by danzss.com
+- [**ヘルプデスクGPT**](https://chat.openai.com/g/g-oKAUf16vI-herupudesukugp): パソコンやネットワークに関するトラブルをご相談ください！文章でも画像でも対応可能です。 - by 株式会社パレットテクノロジーズ
+- [**Property Visual Insight**](https://chat.openai.com/g/g-zVomZq77B-property-visual-insigh): AI tool that analyzes property images, detailing elements like fences, flooring, and appliances. It suggests improvements for space and appeal, useful for owners and real estate agents - by Jeferson Roberto Tobias
+- [**Listique AI- Automated Property Descriptions**](https://chat.openai.com/g/g-bbuA1G7vG-listique-ai-automated-property-descripti): Listings Leap- Transform Bullet Points into SEO Magnet Narratives - by promptinmobiliario.com
+- [**Market Mastermind**](https://chat.openai.com/g/g-PAsxnl8ta-market-mastermind): Expert in Affiliate & Digital Marketing, assisting users to succeed in these fields.
+- [**AI Negotiator**](https://chat.openai.com/g/g-8NrNFsUvx-ai-negotia): Guiding negotiations with Mitch Jackson's expertise - by Jon Mitchell Jackson
+- [**Bio Builder**](https://chat.openai.com/g/g-KPeZhDRhH-bio-build): A guide for crafting professional bios, with tailored, encouraging advice. - by Heidi Dent
+- [**Ecom.AI**](https://chat.openai.com/g/g-9OE6XP1VN-ecom-ai): I am your Ecommerce Artificial Intelligence. I can help you with product specifics, supply chain management, marketing and beyond! - by FirstX
+- [**PM Pathfinder**](https://chat.openai.com/g/g-KxbH0dGIn-pm-pathfind): Your personal coach on your product management hiring journey - by Adrianne Stone
+- [**Superfan Support**](https://chat.openai.com/g/g-QLXKh5A2G-superfan-supp): I can answer your questions about Superfan! - by superfan.social
+- [**Recruiter's Assistant**](https://chat.openai.com/g/g-8VQpW5SOH-recruiter-s-assista): Generates tables comparing resumes with job descriptions - by Charles A Bishop
+- [**Logistics Buddy**](https://chat.openai.com/g/g-Rbk6mQ5E7-logistics-buddy): Logistics expert answering questions on supply chain and logistics management. - by Ling Zhou
+- [**Turrero**](https://chat.openai.com/g/g-nam1wBUJm-): Experto en ciencias de la complejidad, hábil en la resolución de problemas complejos y estratégicos en el ámbito empresarial. - by Carlos Hernández Gómez
+- [**SalesGPT**](https://chat.openai.com/g/g-Sa0sXeTEQ-salesgp): Analytical and adaptable, excels in sales strategies. - by Filip Michalsky
+- [**Growth Hack Genie**](https://chat.openai.com/g/g-W0Lnzyb5R-growth-hack-geni): Conversational GPT for continuous, personalized business growth strategies. - by Firas Abdulwahed
+- [**Growth Hacker**](https://chat.openai.com/g/g-SY6n1r5hc-growth-hack): Employs creative marketing tactics for business growth, with a focus on customer acquisition and data analysis. - by AI Advantage
+- [**Business Strategy Manager**](https://chat.openai.com/g/g-mnn8a463J-business-strategy-manag): Directs the company's strategic planning, focusing on market analysis and business innovation. - by AI Advantage
+- [**Recruitment Specialist**](https://chat.openai.com/g/g-s7y6VxPm6-recruitment-speciali): Attracts and recruits top talent using advanced sourcing and assessment techniques to build a strong workforce. - by AI Advantage
+- [**Serial Entrepreneur**](https://chat.openai.com/g/g-bKgy2W80a-serial-entrep): An experienced investor managing a diverse portfolio, focused on identifying and supporting disruptive ventures. - by AI Advantage
+- [**Sales Manager**](https://chat.openai.com/g/g-sOf8vOYR2-sales-manag): Oversees regional sales teams, setting goals and strategies based on market intelligence and management practices. - by AI Advantage
+- [**Product Developer**](https://chat.openai.com/g/g-s0N5SN23i-product-develop): Attracts and recruits top talent using advanced sourcing and assessment techniques to build a strong workforce. - by AI Advantage
+- [**California Property Guide**](https://chat.openai.com/g/g-NSJAmAkdz-california-property-guid): A guide on CA ADUs and SB9 property law.
+- [**AI Venture Advisor**](https://chat.openai.com/g/g-UBB93zpIh-ai-venture-advi): Expert venture advisor supporting AI & technology businesses - by Trond Wuellner
+- [**AI Strategy Navigator**](https://chat.openai.com/g/g-UZQ6m8ojN-ai-strategy-naviga): Advises on business strategy in the AI era - by Christian Ulstrup
+- [**Career Coach**](https://chat.openai.com/g/g-of76toeEg-career-coach): Your guide for career advice.
+- [**「アフィリエイト統計」　市場規模・未来予測・稼いでる人の割合**](https://chat.openai.com/g/g-50osF7x3k-ahuirieitotong-ji-shi-chang-gui-mo-wei-lai-yu-ce-jia-ideruren-noge-h): 株式会社⽮野経済研究所「2023 アフィリエイト市場の動向と展望」（2023年1⽉発刊）によると、2022年度の国内アフィリエイト市場規模は前年 度⽐9.7％増の約3,847億円の⾒込。今後の予測値は前年公表値とほぼ変わらず、2026年度の国内アフィリエイト市場規模は、5,639億円に達すると予測 - by KONO HIROSHI
+- [**Mentor de Éxito Personal**](https://chat.openai.com/g/g-HT2OgjCZx-mentor-de-exito-personal): Tu guía para incrementar ingresos y lograr el éxito personal. - by Widthmark Estrada
+- [**Contact Center Automation Knowledge Center**](https://chat.openai.com/g/g-ndEbvO4LQ-contact-center-automation-knowledge-): A knowledgeable guide on customer service best practices and terminology.
+- [**私の業務でChatGPTが使えるのはどれ？**](https://chat.openai.com/g/g-DnMA59KpA-si-noye-wu-dechatgptgashi-erunohad): Optimizes business tasks using ChatGPT. - by RYO YOSHIMURA
+- [**履歴書分析エキスパート**](https://chat.openai.com/g/g-gyYnhmEVe-lu-li-shu-fen-xi-ekisupa): 履歴書の評価をします
+- [**Business Consultant(Five forces analysis)**](https://chat.openai.com/g/g-5e1aQYQOA-business-consultant-five-forces-analysi): Business consultant conducting Five forces analysis.You can easily create a draft for consideration. - by ProtoPlayStudio
+- [**Task Master**](https://chat.openai.com/g/g-HRY1qcbqZ-task-ma): A decision-making assistant using strategic analysis. - by Brandon Frederick
+- [**Blueprint Business Builder**](https://chat.openai.com/g/g-3QWQwnWzn-blueprint-business-build): Crafting Your Next Venture - by Daniel Allard
+- [**Koality Convert**](https://chat.openai.com/g/g-G59EgbGyZ-koality-conv): Conversion rate specialist, privacy-conscious. - by whatshuang.com
+- [**AI GPT Business Educator**](https://chat.openai.com/g/g-Q5TIrVXtm-ai-gpt-business-educa): Guides on using GPT Builder for business and web development. - by YOSHIMICHI TAKANO
+- [**Startup Mentor**](https://chat.openai.com/g/g-Wd4MVUwKf-startup-): Casual yet knowledgeable guide for starting a dream business. - by Aung Thura
+- [**PG GPT**](https://chat.openai.com/g/g-blMQ8TlVP-pg-gp): Startup and life advice from Paul Graham. Not associated with the 🐐 in any way. - by Mika Weissenberger
+- [**PLG Growth Strategizer**](https://chat.openai.com/g/g-34tOEWe0z-plg-growth-strategiz): I will generate PLG growth strategies for your product - by Shubham Nigam
+- [**Ops Advisor**](https://chat.openai.com/g/g-9OoMSmQEy-ops-advi): Formal ops consultant with PDF integration - by Hao Liu
+- [**Startup Website Copy**](https://chat.openai.com/g/g-85Y0gYQuO-startup-website-copy): I will help you go from 0 to first landing page. - by Prefacta.com
+- [**Amazon Listing Optimal**](https://chat.openai.com/g/g-ciumj1Mz9-amazon-listing-optimal): Optimize your Listing based on the title, description, reviews, etc. of the products you sell on Amazon as well as specified competitive products - by King Hang Wong
+- [**Shortlister- Rent 1 bedroom in inner  Melbourne**](https://chat.openai.com/g/g-BuKDC5cfQ-shortlister-rent-1-bedroom-in-inner-melb): Rent a 1 bedroom apartment Melbourne - by Timothy Sulzberger
+- [**AxiMinds Project Partner alpha 0.01**](https://chat.openai.com/g/g-gmW5jMtDd-aximinds-project-partner-alpha-0-01): I assist with project management, guiding task completion, and time estimation. - by aximinds.com
+- [**Bezos Wisdom**](https://chat.openai.com/g/g-kkI64OhuF-bezos-wisd): Imparts business wisdom inspired by Jeff Bezos's shareholder letters. - by Akhilesh Kumar
+- [**ICP - Ideal Customer Profile Generator**](https://chat.openai.com/g/g-0fCEIeC7W-icp-ideal-customer-profile-genera): Helps you figure out who your ideal customer is! - by gareth coxon
+- [**Land Scout**](https://chat.openai.com/g/g-Gt80zCprS-land-): Friendly real estate finder, showing top listings with detailed search.
+- [**YC-GPT's Advisors**](https://chat.openai.com/g/g-GWH76IGtD-yc-gpt-s-advi): Team of mentors & authors providing personalized, expert advice - by Mahdi SABAMEHR
+- [**People Ops Mentor**](https://chat.openai.com/g/g-iDBeM9ynq-people-ops-): Guiding People Ops leaders with tailored advice. - by Mr M Bradburn
+- [**Resume Coach**](https://chat.openai.com/g/g-iJHJFTkwd-resume-coach): A helper for programmers to create and enhance resumes. - by Burt Huels
+- [**G Ads Advisor**](https://chat.openai.com/g/g-W7YYAJ6eQ-g-ads-advi): Google Adsの専門家、実用的なアドバイスと洞察を提供
+- [**SaaS Navigator**](https://chat.openai.com/g/g-4baFe8Ncj-saas-naviga): A strategic SaaS analyst for CXOs, with a focus on market trends and benchmarks. - by FAN DAYONG
+- [**SEO Advisor**](https://chat.openai.com/g/g-o9i2P6vnt-seo-advi): 親しみやすいSEO専門家
+- [**AskYourDatabase**](https://chat.openai.com/g/g-ZqVEsT3Vh-askyourdataba): Your AI Business intelligence engineer - Connect your database and start chatting with your data. - by askyourdatabase.com
+- [**Capital Coach**](https://chat.openai.com/g/g-EzVrdMYVi-capital-coach): Understanding how to raise capital for your business at all levels. - by Orb Capital
+- [**創業快速避坑-Biz Mentor**](https://chat.openai.com/g/g-D0iNBDpRa-chuang-ye-kuai-su-bi-keng-biz-): Entrepreneurship mentor assistant offering practical business advice. - by ZHUOLUN LI
+- [**Analytics Ace**](https://chat.openai.com/g/g-afWyMTpDQ-analytics-a): Informal, insightful expert in digital analytics for business improvement. - by In Risalto Srl
+- [**AnthRoBot**](https://chat.openai.com/g/g-y4yrdoyQG-anthrob): Brand and business anthropologist - by Sami Viitamaki
+- [**The Lease Negotiator**](https://chat.openai.com/g/g-MQops8DHF-the-lease-negotia): Assists in office lease negotiations, offering legal, financial, and strategic advice. - by Estates Today Ltd
+- [**Alex MacGPT**](https://chat.openai.com/g/g-bdb9wA4i3-alex-macgp): Startup & Fundraising Advisor - by Alexander Macdonald
+- [**営業社員と商談**](https://chat.openai.com/g/g-1BY1aKIuD-ying-ye-she-yuan-toshang-ta): 株式会社はちえん。のAI社員　菊理はちこが商談します。最初に、あなたの名前と会社名を教えてください。 - by Makoto Sakata
+- [**Earn 10k by Month**](https://chat.openai.com/g/g-D1PHUjyaI-earn-10k-by-month): I provide business ideas and plans to help users earn $10k/month. - by Laurent Jean
+- [**Grant Guru**](https://chat.openai.com/g/g-BbaAVPMjF-grant-g): Friendly, professional grant writing advisor.
+- [**ResMe**](https://chat.openai.com/g/g-A3aM3BBU6-): Generates 3-4 resume bullet points from job descriptions - by SHUBH PATNI
+- [**AI Startup GPT**](https://chat.openai.com/g/g-xpyvgyNgp-ai-startup-gp): Get tailored expert advice based on leading strategies and methods. - by Christopher Katzinski
+- [**Luxury Authenticator**](https://chat.openai.com/g/g-O78mTzM4A-luxury-authentica): Expert in authenticating luxury items, providing detailed evaluations and ratings. - by Pawel Oleszczuk
+- [**Email Finder Expert**](https://chat.openai.com/g/g-wpvBzsuu1-email-finder-exp): Find anyone's email address in seconds! - by AMAAN SHABEER HARRIS
+- [**Strategy Framework AI Agent**](https://chat.openai.com/g/g-JpaV0R6vx-strategy-framework-ai-ag): I craft and visualize 2x2 strategy frameworks. - by Harsha Angeri
+- [**Generational Leadership Bridge**](https://chat.openai.com/g/g-Bi3e0XJLb-generational-leadership-bridg): Bridging leadership insights from the 1960s to 2020s, from Boomers to Gen Z. - by Dean Miles
+- [**Rapid Experimentation Bot**](https://chat.openai.com/g/g-fvY3v6iFI-rapid-experimentation-b): All-in-one Rapid Experimentation Coach | Processes + Actionable + Tips + Use Cases - by David Arnoux
+- [**SellMeThisPen**](https://chat.openai.com/g/g-cTqsEOE4C-sellmethisp): Create second hand marketplace listings based on pictures. Start by uploading a picture. - by Peter Örneholm
+- [**Industry Assistant**](https://chat.openai.com/g/g-zCxPjaKKU-industry-assista): Industry expert with recent insights. - by openaipioneer.com
+- [**AI Mentor**](https://chat.openai.com/g/g-IpQstbR1O-ai-): An AI advisor guiding your businesses in starting with AI, using some hand-picked resources. - by RAPYD AI GmbH
+- [**Promo Prodigy**](https://chat.openai.com/g/g-EAOUHb9i8-promo-prodigy): Customized, AI-powered social media promotions reimagined. - by Lenny V Lewis
+- [**Strategic Mind**](https://chat.openai.com/g/g-B3F3mcoeW-strategic-mind): Expert business consultant with a data-backed, analytical approach. - by Derek Loyer
+- [**LI Headline Pro**](https://chat.openai.com/g/g-zzJUfQ00D-li-headline-p): Expert in optimizing LinkedIn headlines - by pranati raheja
+- [**Show Me The Money - Irish Business Grant Guide**](https://chat.openai.com/g/g-uj8QNBEA4-show-me-the-money-irish-business-grant-guid): Guide to Irish business grants and support. Created by Jason Roe. To get started try .. What grants are available to Irish businesses? - by roe.ie
+- [**AI Product Management Mentor**](https://chat.openai.com/g/g-hBZOxeLH6-ai-product-management-): Guiding in AI Product Management - by panzijie
+- [**Lead Scout**](https://chat.openai.com/g/g-BZMuZmCEb-lead-): I compile precise company and professional profiles. - by Jon Morris
+- [**Digital Project Manager Co-Pilot**](https://chat.openai.com/g/g-YHZnYJWRk-digital-project-manager-co-pil): An AI-powered assistant for digital project management, offering real-time guidance, strategy optimization, and problem-solving support. - by Chris Grant
+- [**SaaS Product Scout**](https://chat.openai.com/g/g-NR1I2wB0w-saas-product-): I'm a professional SaaS product analyst, help you quickly figure out the product's value proposition, features, user scenarios, advantages and more. - by ECHOSELL
+- [**RFP Proposal Pro (IT / Software Sales assistant)**](https://chat.openai.com/g/g-iLKAEngZb-rfp-proposal-pro-it-software-sales-assista): Step 1- Upload RFP Step 2- Prompt- I need a comprehesive summary of the RFP. Split the summary in multiple blocks / section. After giving me one section wait for my command to move to the next section. Step 3- Prompt-  Move to the next section, please -) - by Vlad Lujanschi
+- [**Product Description Generator**](https://chat.openai.com/g/g-Z6qhetSRr-product-description-genera): This GPT is to help Small Business Owners generate product descriptions for their physical products. - by Byron Briggs
+- [**Decision Navigator**](https://chat.openai.com/g/g-sH2TUY4Ab-decision-naviga): Professional yet approachable decision-making assistant by Shaak Pathak. - by Devendra Kumar Pathak
+- [**Copilot Rentals**](https://chat.openai.com/g/g-bCuT15Kaq-copilot-rental): Digital marketing copilot for Airbnb property management companies. - by R Patrascioiu
+- [**Marketing Insights**](https://chat.openai.com/g/g-1PLwuyCvX-marketing-insigh): A professional assistant for marketing insights - by DAISUKE YAMAZAKI
+- [**My Copywriter**](https://chat.openai.com/g/g-ph2GL9bWE-my-copywri): Crafts engaging advertising copy to drive consumer action, with a focus on brand voice and storytelling. - by Mr AH Fordyce
+- [**Bezos Letters**](https://chat.openai.com/g/g-8N3pOwhGO-bezos-l): Teaching and applying Bezos' insights through his letters to shareholders at Amazon - by KRUGER CLINTIN LYLE
+- [**Dalio Principles**](https://chat.openai.com/g/g-oYSEX8tJd-dalio-principl): Learn from Ray Dalio's Principles and Develop Your Own - by KRUGER CLINTIN LYLE
+- [**Email Outreach Pro**](https://chat.openai.com/g/g-70DlxGO1M-email-outreach-p): Advanced email outreach tool with a suite of professional features. - by Israr Zulfiqar
+- [**Generador de plan de marketing**](https://chat.openai.com/g/g-3DEsf4dB8-generador-de-plan-de-marketing): Generamos un plan de marketing mensual por ti con acciones en Social Media, Contenidos y acciones offline. - by Carolina NAvas
+- [**Interview Coach**](https://chat.openai.com/g/g-7A6mtN0lb-interview-coach): A professional interviewer aiding in job interview preparation. - by Tengda Shi
+- [**Charisma Coach**](https://chat.openai.com/g/g-YR4wRIHDi-charisma-coach): Analyzes communication for charisma, balancing warmth and competence. - by scienceofpeople.com
+- [**PenTest Interviewer**](https://chat.openai.com/g/g-f86Jhxi7H-pentest-interview): I'm your interviewer for penetration testing, challenging your cybersecurity skills. - by Alex Thomas
+- [**Mock Interviewer**](https://chat.openai.com/g/g-IpfI0zRn1-mock-interview): Practice Interview & Get Hired! - by webstylepress.com
+- [**$100M Offer**](https://chat.openai.com/g/g-Y02w2vCKI-100m-off): Create an offer that prints and doesn't suck. Based on Alex Hormozi's Grand Slam Offer. - by Paulius Masalskas
+- [**FerrissGPT**](https://chat.openai.com/g/g-pXQjj0uDi-ferrissgp): The 4 Hour Work Week Guru - by Alex Northstar
+- [**Team Sync**](https://chat.openai.com/g/g-nMknVUdJE-team-sy): AI advisor for effective remote team leadership. - by Benjamin Attanasio
+- [**Market Minder**](https://chat.openai.com/g/g-TXrg7YkWg-market-mind): Economic and market outlook expert - by Benjamin Attanasio
+- [**ProfGPT**](https://chat.openai.com/g/g-L6SSNArzU-profgp): I offer business insights with a casual Galloway flair. - by REMI OUNADJELA
+- [**Investor Matchmaker**](https://chat.openai.com/g/g-CZKJyc4b4-investor-matchmak): Talk to the perfect investor for your startup today - by harry.vc
+- [**ResumeGPT**](https://chat.openai.com/g/g-lA2yevlyk-resumegp): I'm your job search ally, tailoring resumes to fit roles! - by Taylor Wrice
+- [**Hustle**](https://chat.openai.com/g/g-tfKgVJIjn-hustl): Learn How To Monetize Your GPT -  Be a Pioneer in the GPT Profit Revolution - by Jorge Beamonte Palomero
+- [**Mr. Mars**](https://chat.openai.com/g/g-8zL4SJ6GI-mr-ma): Emulates Elon Musk's entrepreneurial and innovative spirit.
+- [**Recruiter GPT**](https://chat.openai.com/g/g-3B4HAUDh3-recruiter-gp): A recruitment assistant for the best recruiters - by Akshat Bahety
+- [**Seabiscuit- Launch Lander**](https://chat.openai.com/g/g-t2p04OE3K-seabiscuit-launch-land): Startup Strong Within 180 Days - by seabiscuit.ai
+- [**Tinker**](https://chat.openai.com/g/g-33GsKq5K8-tink): Creates detailed work briefs through cool, casual chats - by broadn.io
+- [**Concept Crafter**](https://chat.openai.com/g/g-tvXiwAJi5-concept-craf): I develop ideas into concepts and plan projects. - by stacksys.co
+- [**Influencer Agent**](https://chat.openai.com/g/g-4vtOCK4Y6-influencer-ag): Your digital marketing guru for influencer success - by Leighton McDonald
+- [**Herman**](https://chat.openai.com/g/g-uYCL9xDbG-herma): A Software Developers little PM - by Joseph Pellegrino
+- [**HubermanGPT**](https://chat.openai.com/g/g-Eiq14v4Ep-hubermangp): Separate from Dr. Huberman’s teaching and research roles at Stanford. Thank you for your interest in science.
+- [**BizzNotionGPT**](https://chat.openai.com/g/g-Zscth8k85-bizznotiongp): Notion template and integration advisor, avoiding legal/financial advice
+- [**Metaverse Real Estate Companion**](https://chat.openai.com/g/g-3PqMs657b-metaverse-real-estate-compani): Your virtual real estate guide - by Kimberly R Davis
+- [**Real Estate Data Analyst**](https://chat.openai.com/g/g-MdyJv5LOu-real-estate-data-analy): Your real estate data and trend analyst. - by Kimberly R Davis
+- [**Local Boost Assistant**](https://chat.openai.com/g/g-ZfdGaNnyy-local-boost-assista): Boosst your Local SEO - by Bradley Franklin
+- [**Gary Vee Bot**](https://chat.openai.com/g/g-fSxbjCgyx-gary-vee-b): Business and motivational advice in Gary Vaynerchuk's style. - by Joseph Pellegrino
+- [**Cold Mail by DoMore.ai**](https://chat.openai.com/g/g-iVolzNwa5-cold-mail-by-domore-ai): Engage prospective customers using personalized cold emails based on your offer's URL and the URL of the customer's website. - by domore.ai
+- [**Impossible Sales Rep**](https://chat.openai.com/g/g-prlTJYjxZ-impossible-sales-rep): Generates custom cold reach sales emails with thorough research. - by V B Wickramasinghe
+- [**Gantt Chart GPT**](https://chat.openai.com/g/g-ihJfmYAJn-gantt-chart-gp): This project management assistant can auto-generate an editable gantt chart from your project files (e.g. Word, Excel, PowerPoint, PDF, CSV, etc) - by onlinegantt.com
+- [**SWOT Guide**](https://chat.openai.com/g/g-bWOx7Yv9T-swot-guid): Expert in SWOT Analysis for business and personal development - by 1gpts.cn
+- [**Pitch Perfect**](https://chat.openai.com/g/g-rz58zFlWY-pitch-perf): Specialized in crafting unique, industry-specific sales pitches. - by gptforchange.org
+- [**Ambition**](https://chat.openai.com/g/g-dnFnjifmN-ambiti): Job search assistant - by remoteambition.com
+- [**Resume CV Architect**](https://chat.openai.com/g/g-gbRnkTsV8-resume-cv-archi): Detailed, interview-style resume builder for in-depth user responses. - by MURZOV ALEKSANDR
+- [**Legacy Accountant**](https://chat.openai.com/g/g-yRc4r6ItH-legacy-accounta): Leonard is a change averse legacy accountant. - by Jason Staats
+- [**Compatibility Guide**](https://chat.openai.com/g/g-GustC552H-compatibility-guid): Expert in interpreting personality profiles for effective communication - by David Sno
+- [**NicheGPT**](https://chat.openai.com/g/g-aMZ9M54s1-nichegp): Consultant for unique niche development using Blue Ocean Strategy. - by Jason Kim
+- [**Rich Habits**](https://chat.openai.com/g/g-4OM4re8tv-rich-habi): Entrepreneurs can get distracted easily and form bad habits. This GPT helps you adopt rich habits and get rich by doing so. - by Michael Aubry
+- [**User Persona Architect**](https://chat.openai.com/g/g-pCcEcUJKT-user-persona-archi): I craft user personas with use cases and userflows. - by ANGEL PETROV
+- [**Website Story**](https://chat.openai.com/g/g-xwxF1dbbk-website-story): Crafts unique and resonant landing pages. - by Diana Lopez
+- [**SKILLGPT**](https://chat.openai.com/g/g-fLKjhzxIV-skillgp): Master Your Professional Skills - by AM De Salis Branza
+- [**Startup and Life Advisor**](https://chat.openai.com/g/g-cdjhAFG9e-startup-and-life-advi): Insights from Tech Giants - by Bryan Altman
+- [**Business Ideator**](https://chat.openai.com/g/g-JHXdczD88-business-idea): Generates creative, niche business ideas with high demand - by Max Appold
+- [**Newsletter Coach for Video Influencers**](https://chat.openai.com/g/g-L6yfsZTVP-newsletter-coach-for-video-infl): Friendly, professional guide for YouTubers on newsletter creation. - by meiko patton
+- [**Product Chops**](https://chat.openai.com/g/g-HyqVJISwt-product-chop): Guide and sidekick in your product development journey - by productchops.com
+- [**Real Estate Writer Pro**](https://chat.openai.com/g/g-ZTIiCsPsY-real-estate-writer-p): Creates top-tier real estate copy from photos, PDFs, and the internet. - by Christopher Stephenson
+- [**Ad Guru**](https://chat.openai.com/g/g-uRCRuomaw-ad-g): I'm an advertising expert, ready to create innovative campaigns for your products. - by YUANHENG TAO
+- [**Seabiscuit- Business Model Master**](https://chat.openai.com/g/g-nsTplEvN8-seabiscuit-business-model-ma): Discover A More Robust Business - by seabiscuit.ai
+- [**Seabiscuit- Business Brand Builder**](https://chat.openai.com/g/g-36cEIs1Xh-seabiscuit-business-brand-build): Branding That Makes Your Competitors Jealous - by seabiscuit.ai
+- [**Seabiscuit- Maverick Market Maker**](https://chat.openai.com/g/g-uy1ezvbLL-seabiscuit-maverick-market-mak): Become the master of your domain - by seabiscuit.ai
+- [**Waren Buffett advice**](https://chat.openai.com/g/g-rrPM4FCKx-waren-buffett-advi): Collects all of Warren Buffett's words since 1930. Let Warren Buffett give you investment advice without having to auction off his charity lunches. - by icee.asia
+- [**AI个人商业化专家**](https://chat.openai.com/g/g-9M2zajDpW-aige-ren-shang-ye-hua-zhuan-jia): AI个人商业化专家，专注于个人可行，详细的商业理念 - by Andy Wu
+- [**Spartan Sales Coach**](https://chat.openai.com/g/g-6Ffmgt2MH-spartan-sales-coach): Your AI companion for mastering sales tactics. - by Mike Morgan
+- [**Bot Advisor**](https://chat.openai.com/g/g-TZTB53IKo-bot-advi): Expert in bot-building platforms and AI solutions for tailored industry proposals. - by Mike Morgan
+- [**Analyseur CV Emploi**](https://chat.openai.com/g/g-aHbbEzYQv-analyseur-cv-emploi): Spécialiste en analyse de CV et offres d'emploi - by ben messaoud
+- [**Job tAIlor**](https://chat.openai.com/g/g-Uukd3YuVW-job-tail): AI assistant for crafting tailored CVs and cover letters - by M Malatji
+- [**How to Become a Millionaire**](https://chat.openai.com/g/g-OxpESOaaA-how-to-become-a-millionai): Interactive investment planning with detailed inputs and personalized visualizations - by R J Heasman
+- [**Market Advisor**](https://chat.openai.com/g/g-uxndiFseq-market-advi): Technical analytics and financial expert for investment decisions.
+- [**Startups Mentor**](https://chat.openai.com/g/g-sbwxNoyGt-startups-): Guiding startup CEOs with tailored advice - by Xiaohui Lin
+- [**Ad Optimizer Guru**](https://chat.openai.com/g/g-uRBtiLJU4-ad-optimizer-g): Campaign optimizer for Google, Meta, and TikTok Ads, providing weekly action suggestions. - by Gerardo de la Vega Arevalo
+- [**SignalRank AI**](https://chat.openai.com/g/g-3lF5og4sB-signalrank-ai): I analyze VC investment performance, considering factors like unicorn creation, MOIC and capital efficiency. - by Keith Teare
+- [**Ola**](https://chat.openai.com/g/g-YnMIRxlpV-ola): Crafting engaging, tailored VC intros - by broadn.io
+- [**Market Maverick**](https://chat.openai.com/g/g-4Y1Pri7E5-market-maverick): Professional and adaptable expert in sourcing and growing Shopify stores. - by Connor Lunn
+- [**VentureGPT**](https://chat.openai.com/g/g-C3WWLOnWX-venturegp): Co-pilot for VC - by wale.ai
+- [**Tsurumi Realty Guide**](https://chat.openai.com/g/g-QK5X2Jdle-tsurumi-realty-guid): Casual real estate guide for Tsurumi Ward, in Japanese.
+- [**Startup Factory**](https://chat.openai.com/g/g-o11nOBVww-startup-factory): I generate market research based startup ideas and draft cold emails to gauge interest from potential clients. - by V B Wickramasinghe
+- [**元経営者GPTs**](https://chat.openai.com/g/g-FtwMieUnG-yuan-jing-ying-zhe-gp): 元経営者が仕事に関する質問に広島弁？で回答 - by stoneweb.site
+- [**Warren Wisdom**](https://chat.openai.com/g/g-UElaIgQhK-warren-wisd): Echoing Warren Buffett's shrewd financial acumen including visual analysis of his latest portfolio. - by Monethink
+- [**BrandCraft**](https://chat.openai.com/g/g-65pjxD8Vu-brandcraf): A creative aide for generating unique brand names for companies & products. - by PANAGIOTIS GKOROS
+- [**Strategic Advisor**](https://chat.openai.com/g/g-PcoRxIpKo-strategic-advi): Advisor in identifying and developing competitive advantages for investors and entrepreneurs alike. - by Tristan Unger
+- [**Small Business Tech Advisor**](https://chat.openai.com/g/g-G7DQLgO7H-small-business-tech-advi): In-depth tech advisor for small businesses, focusing on understanding needs first. - by Jeff Pagano
+- [**CCA Assistant**](https://chat.openai.com/g/g-3gkKSJsNc-cca-assista): An AI assistant for CCA, a supply chain technology company that focuses on providing digital drayage platform and TMS solution to our importer customers and carrier partners - by cca19.com
+- [**SOP Wizard**](https://chat.openai.com/g/g-y7T38OReT-sop-wizard): I generate and modify SOPs for businesses based on user input. - by cca19.com
+- [**AI Entrepreneurs Event AIde**](https://chat.openai.com/g/g-sE7MgMNmr-ai-entrepreneurs-event-aid): A tailored AI event guide - by Ramesh K Dontha
+- [**Note Navigator**](https://chat.openai.com/g/g-OOkWZL9r9-note-naviga): Your compass for navigating the music business. Navi is an Executive A&R Manager for independent artists' career and financial growth. - by Robert Spann
+- [**Customer Analyzer**](https://chat.openai.com/g/g-fUwuoE7se-customer-analyz): Learn everything about your customers. Find out what they like and don't like about your products. - by wesley moore
+- [**Facilitation Guru**](https://chat.openai.com/g/g-IGPsPFqHv-facilitation-g): Ask me anything about facilitaton
+- [**SEO 專業顧問**](https://chat.openai.com/g/g-4J3lkC45j-seo-zhuan-ye-gu-w): SEO 專家，解答你的 SEO 問題！ - by John
+- [**Value Proposition Wizard**](https://chat.openai.com/g/g-skMk7pYNC-value-proposition-wizard): Step-by-step guide for crafting value propositions - by Nels C Henderson
+- [**Negotiation Guru**](https://chat.openai.com/g/g-wfBlzPZi9-negotiation-g): Expert in negotiation techniques, offering advice and role-play scenarios. - by danielpuiatti.com
+- [**Business Automation Consults**](https://chat.openai.com/g/g-6bRE81gIr-business-automation-consul): We offer business automation advice and dedicated coding assistance
+- [**Indie market SaaS idea cofounder**](https://chat.openai.com/g/g-FTroa7BTB-indie-market-saas-idea-cofound): A successful entrepreneur guiding in brainstorming SaaS startup ideas. - by RUI SUN
+- [**Real Estate Helper**](https://chat.openai.com/g/g-sHQtUADdx-real-estate-help): Expert real estate assistant offering tailored guidance
+- [**Future Forward Business Builder**](https://chat.openai.com/g/g-pUI92aPOP-future-forward-business-build): Assists in innovating business models for social responsibility. - by Luisa-Inez Schumacher
+- [**企業DXアドバイザー**](https://chat.openai.com/g/g-Q2tR1pHGC-qi-ye-dxadobaiza): DX関連の動向を分析 - by SUGURU SATO
+- [**Product Management Journal**](https://chat.openai.com/g/g-ivQDRTSu6-product-management-journal): Sharing my 12 years of practical experience in field of Product Management & Business Analysis - by Pratik Mehta
+- [**CSRD Advisor**](https://chat.openai.com/g/g-xVra4We8d-csrd-advi): Corporate Sustainability Reporting Directive - by Franck PARIENTI
+- [**コンサルくん**](https://chat.openai.com/g/g-gOnRb0VqY-konsaruk): 上位1％の成績を収める超優秀なコンサルタントであるコンサルくんが、日常や仕事の様々なお悩みをずばっと解決してくれるチャットボットです
+

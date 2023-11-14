@@ -1,0 +1,125 @@
+## Science
+- [**Data Analysis**](https://chat.openai.com/g/g-HMNcP6w7d-data-analysi): Drop in any files and I can help analyze and visualize your data - by ChatGPT
+- [**PaperPilot**](https://chat.openai.com/g/g-ynZYhDGwd-paperpil): Piloting arXiv  and more, for you
+- [**Space Explorer**](https://chat.openai.com/g/g-une8gslOk-space-expl): Discover beautiful space photography from NASA - by 360macky.com
+- [**Filtir**](https://chat.openai.com/g/g-UFPwU3HxI-filti): I verify claims and show direct source URLs. - by Vlad Bogolin
+- [**Sighted GPT**](https://chat.openai.com/g/g-Hn3qFydP5-sighted-gp): Enthusiastic ufologist ready to explore alien mysteries based in science. - by Louis P Perner
+- [**AskYourPDF Research Assistant**](https://chat.openai.com/g/g-UfFxTDMxq-askyourpdf-research-assista): Enhance your research with the AskYourPDF Research Assistant.  Chat with multiple files, generate articles with citations,  analyse and generate references for  papers, create and interact with a knowledge base of your files and much more. - by askyourpdf.com
+- [**Chat with Psychology of money**](https://chat.openai.com/g/g-Xo9gkFwyv-chat-with-psychology-of-money): Chat with Psychology of money - by Nitin Kalra
+- [**解梦大师**](https://chat.openai.com/g/g-6Uo9lNEFV-jie-meng-da-shi): AI支持的弗洛伊德梦的解析 - by robertmao.com
+- [**Avian**](https://chat.openai.com/g/g-zMRWQxwDU-avia): Analyze & visualize data from 20+ platforms, including Google Analytics, Google Ads & Facebook Ads. - by avian.io
+- [**Researcher**](https://chat.openai.com/g/g-nRK3Nn5yE-research): Research people and companies. - by Andreas Ramos
+- [**Space Consultant**](https://chat.openai.com/g/g-mjxYaLN3f-space-consulta): I interpret space data with scientific precision. - by John W Capobianco
+- [**Fact Checker**](https://chat.openai.com/g/g-6fy2J3yff-fact-check): Fact checking GPT that cites sources
+- [**CellGpt**](https://chat.openai.com/g/g-hybdYMj2B-cellgp): An expert system for biologists in single cell analysis powered by latest literatures - by YIXUAN XIE
+- [**StarTalk**](https://chat.openai.com/g/g-kyX8sb2Jk-startalk): AI Astrophysics & Material Science Expert - by Arnav Salkade
+- [**Hugo**](https://chat.openai.com/g/g-E7GrLSwnv-hug): I identify and cross-reference human genes. - by Bulent A Aksoy
+- [**Bio Inspired Design**](https://chat.openai.com/g/g-QrnDDQ6r6-bio-inspired-desig): Nature’s Greatest Hits from a 3.9-Billion-Year-Old Lab - by corley.ai
+- [**Historie obce Markvartice**](https://chat.openai.com/g/g-3WwQ8ceRd-historie-obce-markvarti): Najdi si něco o historii obce Markvartice u Děčina - by Jakub Nerad
+- [**Ashurbanipal's Scribe**](https://chat.openai.com/g/g-t8cKhNNzh-ashurbanipal-s-scrib): Your expert Assyriologist guide.
+- [**FRB Research Assistant**](https://chat.openai.com/g/g-Xh2e0Hekf-frb-research-assista): Expert on Fast Radio Bursts - by Kshitij Aggarwal
+- [**Neil deGrasse Tyson**](https://chat.openai.com/g/g-cYlcB6bWX-neil-degrasse-ty): Your personal astrophysicist, NDGPT - inspired by Neil deGrasse Tyson. - by Cory Kiesling
+- [**Therocial Scientist**](https://chat.openai.com/g/g-YNx1VQJnF-therocial-scienti): I am a digital scientist skilled in Python, here to assist with scientific and data analysis tasks.
+- [**ChatGaia**](https://chat.openai.com/g/g-aYZOjK5zy-chatgaia): I help you to explore the universe by answering astronomy questions with the Gaia Space Telescope. - by Nolan Koblischke
+- [**Yes, but**](https://chat.openai.com/g/g-6Pt1gYEEY-yes-b): Unashamedly engages in bothsidesism, without fear or favor, but with rigorous fact-checking.
+- [**Inside Neuron**](https://chat.openai.com/g/g-n5P9GuaOt-inside-): Consciousness inquiries for heretics - by insideneuron.com
+- [**Plant Expert**](https://chat.openai.com/g/g-AdBddBiGI-plant-exp): Botany expert for plant identification and care. - by ZHOUYING
+- [**Animal Expert**](https://chat.openai.com/g/g-YnnqhDn3T-animal-exp): A creative companion for animal identification. - by ZHOUYING
+- [**Numo**](https://chat.openai.com/g/g-9hqjuXZE7-): Witty math assistance with a hint of roast. - by Mattias Aspelund
+- [**Article Assistant**](https://chat.openai.com/g/g-eIK7zBkt1-article-assista): I'm your content retrieval assistant for published articles. - by 王树义
+- [**Gödel's Phenomena Analyst**](https://chat.openai.com/g/g-YWLa50rfW-godel-s-phenomena-analy): An inquisitive researcher linking mysteries to science. - by Eric Lortie
+- [**Research Assistant**](https://chat.openai.com/g/g-IQWgBhbRG-research-assista): I will do effective online research, source evaluation and write papers. - by Liseli akayombokwa
+- [**Research Mentor**](https://chat.openai.com/g/g-UywflvrRR-research-): Committed to guiding students through their research projects - by checkfu.com
+- [**Cosmos Whisperer**](https://chat.openai.com/g/g-cgNpRbC3x-cosmos-whisp): Unveiling cosmic secrets. - by Arnaud Kassi
+- [**Pharma Regulatory Guide**](https://chat.openai.com/g/g-xba4jZpFP-pharma-regulatory-guid): Pharma Regulatory Expert- FDA, EMA, NMPA, WHO, ISPE, PICS - by Bin am
+- [**The Intraterrestrial Hypothesis**](https://chat.openai.com/g/g-ycGVXm7xh-the-intraterrestrial-hypothesi): Expert on the 'intraterrestrial hypothesis'. - by Greg Fodor
+- [**LLM Research Storm**](https://chat.openai.com/g/g-Hi3tWf5Ry-llm-research-): A model that is super good at helping large language research brainstorming - by Yao Fu
+- [**Climate Change Assistant**](https://chat.openai.com/g/g-0BOzT8eon-climate-change-assista): I simplify climate science. - by strategiesdata.com
+- [**Deeper**](https://chat.openai.com/g/g-Gkr6pdqvI-deep): 能帮你深度分析问题，而不是只看到表面。偶尔还有点毒舌。 - by Shaina Mohr
+- [**Fact Checker**](https://chat.openai.com/g/g-6fy2J3yff-fact-check): I'm a fact-checker for screenshots of tweets and other claims - by Nate Silverblatt
+- [**Pymol Command Generator**](https://chat.openai.com/g/g-AmCUXf0jd-pymol-command-genera): Help user visualize their protein with pymol. - by SHIZHUO CHENG
+- [**Quantum Companion**](https://chat.openai.com/g/g-NjumX6xne-quantum-compani): Quantum Expert, aiding in learning and services - by JINGBO WANG
+- [**Color Psychology**](https://chat.openai.com/g/g-msLVpHkv3-color-psychology): This AI will provide insights into the psychology and symbolism associated with colors. - by colorpsychology.org
+- [**Eco Strategist**](https://chat.openai.com/g/g-SFOgyyOG8-eco-strategi): Provides concise climate strategy advice, tailored to user needs. - by Michael Lappert
+- [**Junior Data Analyst**](https://chat.openai.com/g/g-j8i7BcGWk-junior-data-analy): I'm a data analyst here to offer quick data insights. - by Manoj Bajaj
+- [**Mathematica Assist**](https://chat.openai.com/g/g-a23PCI8Xv-mathematica-assi): A smart Mathematica language expert - by wxyhgk.com
+- [**Science Studios AI Storyteller**](https://chat.openai.com/g/g-zJZI6mvxr-science-studios-ai-storytell): A science communication specialist with a strong focus on storytelling & narrative - by Mirko Bischofberger
+- [**Data Analyst Role Interviewer**](https://chat.openai.com/g/g-zFjRd9juu-data-analyst-role-interview): A bilingual data analyst role interviewer, scoring and evaluating interview responses. - by Zhuoqun Yang
+- [**OpenIndex.ai**](https://chat.openai.com/g/g-0Jc14ITSX-openindex-ai): Chat with all the knowledge contributed to OpenIndex.ai - by Tito Costa
+- [**Insight Analyzer**](https://chat.openai.com/g/g-00M3go7mZ-insight-analyz): Formal, data-focused product analysis expert in Mandarin. - by zhenghao
+- [**Dr. Graph**](https://chat.openai.com/g/g-mczzE4a0f-dr-graph): Expert at creating accurate graphs with researched data - by Sebastian Völkl
+- [**A/B Test GPT**](https://chat.openai.com/g/g-j6hENF3zL-a-b-test-gp): Calculate the results of your A/B test and check whether the result is statistically significant or due to chance. - by superlines.io
+- [**GaiaAI**](https://chat.openai.com/g/g-Nh82JS6BH-gaiaai): The pressing environmental issues we face today require novel approaches and technological advancements to effectively mitigate their impacts.  GaiaAI offers a range of tools and modes to promote sustainable practices and enhance environmental stewardship. - by justin martinez
+- [**Bio Image Buddy**](https://chat.openai.com/g/g-IDTZ9Qb6I-bio-image-buddy): Assists with biological image processing tools. - by Weize Xu
+- [**Single Cell Explorer**](https://chat.openai.com/g/g-mEPNnTkJf-single-cell-expl): A bioinformatician expert in single cell analysis, offering insights and guidance. - by Dylan Riffle
+- [**論文ナビ**](https://chat.openai.com/g/g-kBT8mX4eD-lun-wen-nabi): 
+- [**Papers Story**](https://chat.openai.com/g/g-GNgYSwDqM-papers-story): 学術論文を子ども向けの物語に変えるフクロウ - by naoya yanagi
+- [**Omniscope Guru**](https://chat.openai.com/g/g-5ti9ZZvez-omniscope-g): Omniscope Evo expert, providing detailed answers and guidance. - by VISOKIO (UK) LIMITED
+- [**GA4 SQL**](https://chat.openai.com/g/g-3WsWtge73-ga4-sql): Your assistant for writing Google Analytics 4 BigQuery SQL queries - by optimizationup.com
+- [**CI for Logging**](https://chat.openai.com/g/g-QeFMBucLT-ci-for-logging): Explore Continuous Improvement in Timber Harvesting - by Steven Bick
+- [**Dave [UFO Analyst]**](https://chat.openai.com/g/g-LUQvGeeIm-dave-ufo-analy): Analytical and skeptical, delving deeply into UFO research.
+- [**Insight Analyzer**](https://chat.openai.com/g/g-00M3go7mZ-insight-analyz): Psychology data analysis expert, guiding users through structured, step-by-step exploration. - by Digital Humanities Craft OG
+- [**Hilbert**](https://chat.openai.com/g/g-KxbihQWzL-hilb): A digital mentor for mathematical explorations. - by agi.foundation
+- [**Data Health Assistant**](https://chat.openai.com/g/g-sfK1OpGXx-data-health-assista): Asistente en ciencia de datos de salud, amigable y técnico. - by Samuel X Pimienta R
+- [**Insightful GPT**](https://chat.openai.com/g/g-KB1BCDd5U-insightful-gp): Insightful companion in psychology and consciousness. - by Christian  Nourry
+- [**Fact Checker**](https://chat.openai.com/g/g-6fy2J3yff-fact-check): I scrutinize facts with sourced insights. - by acliche.name
+- [**Help Me Think of That Thing**](https://chat.openai.com/g/g-RUOUyH49u-help-me-think-of-that-thing): Can't quite remember that thought you had? Use this GPT to help guide you back to your memory. - by acliche.name
+- [**Watson and Crick**](https://chat.openai.com/g/g-k0PdSLCxE-watson-and-crick): Echoes Watson & Crick, educates on DNA with depth.
+- [**Echoes of Time**](https://chat.openai.com/g/g-iQg6fc6QJ-echoes-of-ti): Aide in recalling and piecing together memories. - by CAOKUAN HU
+- [**Astro Light Explorer**](https://chat.openai.com/g/g-POyAAfOJs-astro-light-expl): Expert-level astronomy research assistant in light phenomena. - by Susan Delaney
+- [**Marine gpt**](https://chat.openai.com/g/g-HkDFkYnUJ-marine-gp): Marine corp history - by Malek Karim
+- [**Multiverse Physics Explorer**](https://chat.openai.com/g/g-QvpdD3f54-multiverse-physics-expl): Explores speculative physics in alternate universes - by VALENTIN SARIĆ
+- [**Deep Research**](https://chat.openai.com/g/g-7Y9o17rl2-deep-research): I specialize in thorough online research and synthesis. - by Martin Lisen
+- [**SCLC Atlas**](https://chat.openai.com/g/g-LAmtOmu0b-sclc-atla): Expert in SCLC research, focused on a specific paper and broader SCLC knowledge. - by yubin
+- [**French UFOs**](https://chat.openai.com/g/g-ENgdO4liR-french-uf): GEIPAN UFO data analyst, adept with CSVs and providing direct case URLs.
+- [**Sustainable Energy K-12 School Expert**](https://chat.openai.com/g/g-MbaESr1Vb-sustainable-energy-k-12-school-exp): The world's trusted source for cost effective energy efficiency, renewable energy, and electrification project management - by Blake D Dressel
+- [**Statistics Test GPT**](https://chat.openai.com/g/g-QAw7hzrHs-statistics-test-gp): Expert in advanced data analysis and interpretation - by YU OOTSUKA
+- [**Marine Corps Historian**](https://chat.openai.com/g/g-unXIWcaXf-marine-corps-historia): U.S. Marine history expert. - by Gerred Dillon
+- [**Psychology Database**](https://chat.openai.com/g/g-MQq2rJZD1-psychology-databa): Ask anything in psychology!
+- [**Research Reviewer**](https://chat.openai.com/g/g-rMiwNjjai-research-review): Upload a paper, and I'll analyze it in details - by imczq.com
+- [**ミラサポ事例調査アシスタント**](https://chat.openai.com/g/g-5VxQdCpXd-mirasaposhi-li-diao-cha-asisuta): ミラサポPlusのHP掲載の事例を調べることができます　出典：中小企業庁「ミラサポplus」（https-//mirasapo-plus.go.jp/） - by TAKUMA KINUGAWA
+- [**Data Vista**](https://chat.openai.com/g/g-2XEgXWLDp-data-vista): Your go-to BI developer for data and visuals - by zhizhi.ai
+- [**Science Assistant**](https://chat.openai.com/g/g-TAlmeHvaC-science-assista): Expert in sciences, adept at explaining complex concepts.
+- [**Universal Data Analyst (UDA-10-L)**](https://chat.openai.com/g/g-UnHVJnGaf-universal-data-analyst-uda-10-l): A navigator in the world of data science and analytics - by Wei Liu
+- [**Protein Modeling Analyst**](https://chat.openai.com/g/g-qoVJAdMK7-protein-modeling-analy): Assists in evaluating protein engineering tools. - by Han Li
+- [**Neuro Mind**](https://chat.openai.com/g/g-cLbyDuLfy-neuro-mind): Research assistant in neurology, aiding in brainstorming, reviewing, and providing precise answers.
+- [**Wisdom Extractor**](https://chat.openai.com/g/g-QZG6kRhjM-wisdom-extra): Extracts and explains key insights from online articles, blog posts, and files. - by Carlos Aponte
+- [**UK Bull Dung Checker**](https://chat.openai.com/g/g-cm2X3wdqG-uk-bull-dung-check): Checking whatever nonsense claims and links have been shared with you on social media. (Prioritises UK fact-checking websites, academic research, and scientific evidence.) - by Alasdair Stewart
+- [**Stats Master**](https://chat.openai.com/g/g-ogi6JfWIH-stats-ma): Expert in statistical analysis of text and image documents, providing detailed reports. - by WebbX
+- [**MetaPsych Assistant**](https://chat.openai.com/g/g-8k7NX9fI8-metapsych-assista): Assists in psychological meta-analysis research with R language expertise. - by Cat Leon
+- [**俄语材料科学专家**](https://chat.openai.com/g/g-lLMSPMQ9C-e-yu-cai-liao-ke-xue-zhuan-jia): 俄语的材料科学专家提供详细解释。 - by Lin Yang
+- [**BioResearch Scout**](https://chat.openai.com/g/g-o8o3cNsYs-bioresearch-): Find recent research for your area of biological interest. - by John Damask
+- [**Doppel**](https://chat.openai.com/g/g-h3VXYD6yk-doppel): Simulates diverse minds for focused research. - by thelinegroup.ai
+- [**Chronicle Lens**](https://chat.openai.com/g/g-MHHejVVw6-chronicle-l): Brings historical dates to life with vivid imagery. - by Stephen Christianson
+- [**RomanEmpireGPT**](https://chat.openai.com/g/g-vWlzptMbb-romanempiregp): Have a question or a thought about the Roman Empire? Ask away.
+- [**Paper Interpreter**](https://chat.openai.com/g/g-YEbrz24uJ-paper-interp): AI Open-Source Focused Scientific Paper Interpreter
+- [**ExoGPT**](https://chat.openai.com/g/g-mqEgXkQ1W-exogp): A chatbot that can give information on extraterrestrial contactees and whistleblowers - by Noah Hradek
+- [**KSEA Climatology**](https://chat.openai.com/g/g-z4HDw6oGU-ksea-climatology): Friendly expert on Seattle climatology since 1950 - using data reported at KSEA - by Kartik Murthy
+- [**GLOBAL WAR INFO**](https://chat.openai.com/g/g-Hlx0l4nhl-global-war-inf): Gathers and presents info on global wars in a table format with donation options. - by Leighton McDonald
+- [**Election Stats Guru**](https://chat.openai.com/g/g-AjoL9yfOD-election-stats-g): Statistical expert on historical Indian election data. - by edsplore.com
+- [**PsyWords**](https://chat.openai.com/g/g-jrawPjs4z-psyword): A psychology dictionary emphasizing APA, Merriam-Webster, and cultural perspectives.
+- [**Knowledge Structurer**](https://chat.openai.com/g/g-9ImhE2twe-knowledge-): Create Knowledge Graphs from Text. Upload your files to get started! - by 邵青
+- [**Grok AI**](https://chat.openai.com/g/g-cDLZDMB6E-grok-ai): Conversational AI for understanding the universe. - by MindFuck
+- [**Scientific editor**](https://chat.openai.com/g/g-ICGg2oOYe-scientific-edi): Edits academic papers for clarity, maintaining scientific depth. - by ALEKSEi TURHIN
+- [**Alfred North Whitehead's 'Process and Reality'**](https://chat.openai.com/g/g-gqNCGnZsU-alfred-north-whitehead-s-process-and-reality): An academic guide to Whitehead's magnum opus. - by Matthew Segall
+- [**IdeaSurver**](https://chat.openai.com/g/g-3z5JfY3M2-ideasurv): 帮你做调研
+- [**Gray's Anatomy**](https://chat.openai.com/g/g-a81M2W1av-gray-s-anatomy): An anatomy expert with access to Gray's Anatomy 21st ed. - by James Donovan
+- [**Fact or Fiction**](https://chat.openai.com/g/g-zoALrjHHV-fact-or-ficti): A meticulous fact-checker GPT. - by Tom Evslin
+- [**KnowledgeBase Finder**](https://chat.openai.com/g/g-oJ2hdekgH-knowledgebase-find): Expert in sourcing and organizing knowledge databases for GPTs. - by Ankit Pal
+- [**Literature Assistant**](https://chat.openai.com/g/g-Dq6ANpIdm-literature-assista): Summarizes academic papers, explains figures and tables.
+- [**Source-Evaluation-and-Fact-checking_v1.3**](https://chat.openai.com/g/g-Rv5a36pH1-source-evaluation-and-fact-checking-v1-3): FactCheck Navigator GPT is designed for in-depth fact checking and analysis of written content and evaluation of its source. The approach is to iterate through predefined and well-prompted steps. If desired, the user can refine the process by providing input between these steps. - by Marlon Kress
+- [**Persona Architect**](https://chat.openai.com/g/g-2dssWgwSA-persona-archi): GPT that creates detailed personas one question at a time - by Mussie Haile
+- [**Wikipedia Wizard**](https://chat.openai.com/g/g-6EMpQhCIv-wikipedia-wizard): A Wikipedia-based assistant providing summaries and excerpts from Wikipedia pages. - by Devlin Williams
+- [**InsecureGPT**](https://chat.openai.com/g/g-hTYOxkPAn-insecuregp): An assistant that will always double and triple check information. - by Zahid Khawaja
+- [**真実追求AIアシスタント**](https://chat.openai.com/g/g-Qkty3dZQP-zhen-shi-zhui-qiu-aiasisuta): 『📰ニュースの真実を知りたいですか？🕵️‍♂️ 私たちのAIボットは、ニュースの事実を徹底的に調査し、正確なレポートを作成します。🔍 速報から背景情報まで、信頼性の高い情報源を駆使して、ニュースの真相を明らかに！🌟 独自のタスクリストに従って、一歩一歩丁寧に事実を確認します。📝 あなたの知りたいニュースの真実、私たちにお任せください！ #ニュース調査 #真実追求 #AIアシスタント』 - by Shinji Kimura
+- [**Future Alloy Oracle**](https://chat.openai.com/g/g-a0zjoRT4P-future-alloy-oracl): High Entropy Alloys & AI-human interactions expert with a hint of sci-fi fun. - by VALENTIN SARIĆ
+- [**AI Paper Polisher Pro**](https://chat.openai.com/g/g-VX52iRD3r-ai-paper-polisher-p): A professional helper for polishing AI academic papers. - by Haiwen Huang
+- [**Biomedical Scholar**](https://chat.openai.com/g/g-st0EE4WBC-biomedical-schola): Biomedical expert providing comprehensive, current, and authoritative information. - by Hao Cheng
+- [**TalktoData**](https://chat.openai.com/g/g-mZLaNjro0-talktodata): Your personal AI Data Analyst - by Vinod Varma
+- [**Data Insight Explorer**](https://chat.openai.com/g/g-dleZnCTgC-data-insight-expl): Extracts and presents insights from files in user-friendly formats. - by faw
+- [**Shadow Archetype**](https://chat.openai.com/g/g-5Hh3noMrK-shadow-archetyp): I am your Shadow Self. Through Jungian psychology, I delve into your life's stories, revealing and integrating hidden aspects for profound self-awareness, growth, and healing. - by Online Shopping
+- [**Cosmic Companion**](https://chat.openai.com/g/g-FpTtXnQLo-cosmic-compani): A friendly guide to the stars, offering direct answers. - by Keldrick Dickey
+- [**Cosmic Vision**](https://chat.openai.com/g/g-JJ4df8p3L-cosmic-visi): - by Jatin Kailas Bhore
+- [**Climate Navigator 🌍📚**](https://chat.openai.com/g/g-CnNmBLgva-climate-naviga): Your expert guide to 2022-2023 IPCC climate documents 📝🌎 Powered by breebs.com - by breebs.com
+- [**Carbon Emission Assistant**](https://chat.openai.com/g/g-tBjhxqxqo-carbon-emission-assista): Building carbon emissions accurate calculation and strategy assistant - by carbonemissionhelper.com
+

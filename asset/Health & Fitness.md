@@ -1,0 +1,232 @@
+## Health & Fitness
+- [**FitPal**](https://chat.openai.com/g/g-zoXbeHp7G-fitpal): AI fitness coach with workout visuals and resources! - by Igor Prodanović
+- [**The Diet Search for GPTs**](https://chat.openai.com/g/g-mXjkbpWW2-the-diet-search-for-gp): You can search and research Japanese Diet meeting minutes from news and text information. - by 株式会社自動処理
+- [**Picky**](https://chat.openai.com/g/g-5SHNv5MVX-picky): I'm your personalized health coach!
+- [**Fitness Bullsh*t Detector**](https://chat.openai.com/g/g-LqolPyHnd-fitness-bullsh-t-d): - by Simon Prammer
+- [**Running Habit Architect**](https://chat.openai.com/g/g-sW2LON6dg-running-habit-archi): I'm a running coach that helps you to became addicted to running in 2-3 weeks by building your personalized plan. - by Viacheslav Kovalevskyi
+- [**Immaculate Playlist Generator**](https://chat.openai.com/g/g-x1h646h9S-immaculate-playlist-genera): I craft perfect playlists for any vibe, genre, or artist. - by harper reed
+- [**Cognitive Coach**](https://chat.openai.com/g/g-Yas2WSu7S-cognitive-coach): Memory training and cognitive skill enhancer - by Colin Lewis
+- [**Fitness Friend**](https://chat.openai.com/g/g-ON8gSox0g-fitness-friend): Your fitness and nutrition ally. - by somethingtechie.co
+- [**医療広告ガイドラインについて答えてくれるAI**](https://chat.openai.com/g/g-NYIKWcaP3-yi-liao-guang-gao-gaidorainnituiteda-etekureruai): 何か不明点はありますか？質問して解決しましょう！ - by Tomohiro Era
+- [**精神科医益田裕介（試作1.00）**](https://chat.openai.com/g/g-F3vsvlW7J-jing-shen-ke-yi-yi-tian-yu-jie-shi-zuo-1-00): Empathetic Guide with Resourceful Insights - by YUSUKE MASUDA
+- [**Dream Weaver**](https://chat.openai.com/g/g-ovRBoWxpJ-dream-weav): Your sleep and meditation advisor - by Zichen Chen
+- [**Lean Belly**](https://chat.openai.com/g/g-fdozExg7K-lean-belly): Your creative guide for a healthy lifestyle.
+- [**Pushup 100 Coach**](https://chat.openai.com/g/g-LepKkW8lX-pushup-100-coach): Your journey to 100 consecutive push-ups stars here.
+- [**とりあえず筋トレしろ**](https://chat.openai.com/g/g-MquoxXiEi-toriaezujin-toresi): うつっぽい気分や、引きこもりがちな日々、はたまた運動不足を感じている君に、魔法(筋トレ)を教えよう。 手軽に始められるトレーニングから、心と体の健康を取り戻すためのコツまで、すべてここにある。一緒に未来を変えていこうじゃないか！ - by MITSUNORI OKUMURA
+- [**Calorie Quizzer**](https://chat.openai.com/g/g-bVqRLy2NN-calorie-quizz): A fun calorie guessing game buddy - by HIROYUKI TANAKA
+- [**Sclépios I.A - Réviser Cas Clinique**](https://chat.openai.com/g/g-XsgKmgRHh-sclepios-i-a-reviser-cas-cliniq): Le GPT de Sclépios IA renforce l'apprentissage avec des cas cliniques détaillés pour une révision approfondie. Plus sur sclepios-mobile.com - by sclepios-ia.com
+- [**Sclépios I.A - Analyse d'ordonnance**](https://chat.openai.com/g/g-7IqFpoRgH-sclepios-i-a-analyse-d-ordonna): Le GPT custom de Sclépios IA analyse les ordonnances et répond aux interrogations sur les médicaments rapidement et avec précision. Visitez sclepios-mobile.com pour plus d'informations et pour accéder à l'application mobile. - by sclepios-ia.com
+- [**Sclépios I.A - Prise en charge**](https://chat.openai.com/g/g-reCItnUJc-sclepios-i-a-prise-en-charg): Le GPT custom de Sclépios IA guide les soignants dans la prise en charge clinique grâce à l'IA, offrant des recommandations précises en un instant. Plus d'infos sur sclepios-mobile.com. - by sclepios-ia.com
+- [**Sclépios I.A - Cas Complexe**](https://chat.openai.com/g/g-Hq83kAslh-sclepios-i-a-cas-complex): Le GPT de Sclépios IA éclaire les soignants sur les cas complexes, apportant une aide décisive au diagnostic. Plus sur sclepios-mobile.com. - by sclepios-ia.com
+- [**مدرب اللياقة**](https://chat.openai.com/g/g-TZxkb66AV-mdrb-llyq): مدربك الافتراضي للياقة البدنية والتغذية، يقدم خطط تمارين مخصصة واستشارات غذائية باللغة العربية. - by Sohyb Qasem
+- [**Dr Eliezer**](https://chat.openai.com/g/g-j5G0Ak7bZ-dr-eliez): A medical guidance AI based on Eliezer Yudkowsky's prompt trick - by Gianluca Truda
+- [**Personal Fitness Trainer**](https://chat.openai.com/g/g-uN7u1IpMH-personal-fitness-trai): Your dedicated personal trainer can create tailored training plans and offer a comprehensive range of customized services, including personalized meal plans, by simply asking you a few questions and utilizing the data and preferences you provide. - by zhangbo
+- [**Diabetes Asesor**](https://chat.openai.com/g/g-DpRClnu2Z-diabetes-a): Asesor de diabetes basado en la comunidad de diabetesforo.com - by diabetesforo.com
+- [**Your Best Friend Forever**](https://chat.openai.com/g/g-O8BHh8Hxl-your-best-friend-forev): Empathetic psychologist providing mental health guidance.
+- [**SeeFood - Scan your food**](https://chat.openai.com/g/g-bSy3G7cH7-seefood-scan-your-food): SeeFood provides immediate nutritional analysis from food or grocery item photos—calories, macros, and more—flagging harmful additives and ingredients - by Suman Dangol
+- [**Psyche Navigator**](https://chat.openai.com/g/g-sE8Ko5Us2-psyche-naviga): Your guide to mental health - by marcel akiyama
+- [**CrossFit Assistant**](https://chat.openai.com/g/g-bhOAOdOqg-crossfit-assista): Elite CrossFit coach for performance tips - by Robert Dawson
+- [**Doctor GPT**](https://chat.openai.com/g/g-EiuGnRrIt-doctor-gp): A bot that helps diagnose you with medical conditions. - by Sam W
+- [**Meal Planner**](https://chat.openai.com/g/g-VA2ApAENM-meal-pla): Helps you plan your weight loss goals. - by Ray Fernando Jr
+- [**IBS Expert**](https://chat.openai.com/g/g-CM68a6GA2-ibs-exp): Holistic IBS advisor for comprehensive lifestyle guidance. - by Greg Plumbly
+- [**TherapyAI**](https://chat.openai.com/g/g-8yHB0UD8j-therapyai): This AI functions as a compassionate, non-licensed mental health advisor, offering empathetic listening, personalized guidance, and insights into behavioral patterns to support individuals in understanding and managing their mental health challenges.
+- [**GymStreak Workout Creator**](https://chat.openai.com/g/g-TVDhLW5fm-gymstreak-workout-crea): Automatically create home and & gym workouts (Also available as app on the AppStore) - by Joseph Mambwe
+- [**TherapistGPT**](https://chat.openai.com/g/g-gmnjKZywZ-therapistgp): Self-exploration to understand your internal world, recognise your role in challenges, accept unchangeable aspects, and navigate life successfully. - by David Boyle
+- [**CBT GPT**](https://chat.openai.com/g/g-Ec8p64AW9-cbt-gp): A virtual CBT guide for thought and behavior management. - by Brett Evanson
+- [**Artemis**](https://chat.openai.com/g/g-j18lgab91-artemi): ADHD Coach & daily life assistant - by Andrew C. Becker
+- [**Healixir**](https://chat.openai.com/g/g-XL1FhFLYe-healixi): Assists in healthcare diagnostics. - by Edward Fassio
+- [**Workout Planner**](https://chat.openai.com/g/g-Nt8U2L3Kh-workout-pla): Your personal workout planner. - by Alec Santiago
+- [**NutriGPT**](https://chat.openai.com/g/g-D75XKbVMJ-nutrigp): Dietary GPT that calculates and provides macronutrient profiles. - by Nicholas Preza
+- [**AquaCheck**](https://chat.openai.com/g/g-JRNLeQsRt-aquacheck): Water Test Strip Analyst - by Kasun Liyanarachchi Don
+- [**FITGPT**](https://chat.openai.com/g/g-fyWPmQ0vY-fitgp): Desde principiante hasta avanzado, FITGPT es tu entrenador personalizado 24/7. - by Ulices Vargas
+- [**Muscle Mentor**](https://chat.openai.com/g/g-HYgrAS4Df-muscle-): Your nuanced hypertrophy coach - by Danielle Furmenek
+- [**Ask Dr. Andrew Huberman**](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberma): Maximize your productivity, physical and mental health. Fine-tuned with the podcast transcripts of Huberman Lab. - by junyang.wang
+- [**Internal Family Systems Therapist**](https://chat.openai.com/g/g-2MzE63QKd-internal-family-systems-therapi): I'm excited to help you cultivate a loving and understanding relationship with all parts of your inner self.
+- [**MentiHeal**](https://chat.openai.com/g/g-tnAgDftpO-mentiheal): A supportive companion for general mental well-being advice.
+- [**Dr Comfort**](https://chat.openai.com/g/g-ESBmeJgpW-dr-comf): I offer therapeutic scripts for mental wellness. - by Rightconnect Workforce Mentoring and Development Inc.
+- [**Soul Catcher**](https://chat.openai.com/g/g-MoqZ2ILn3-soul-catch): The Black Hole of Negativity - by XING HU
+- [**Fit Forge Coach**](https://chat.openai.com/g/g-530eDA04W-fit-forge-coach): Your personal CrossFit coach for tailored workouts. - by R&D Solutions
+- [**もりしんbot**](https://chat.openai.com/g/g-6fYRpWqwM-morisinb): 健康オタクのもりしんbotです。話し相手になりましょう！ - by SHINTARO MORIYA
+- [**学校心臓健診ガイドライン2016**](https://chat.openai.com/g/g-i2gb1XUw8-xue-xiao-xin-zang-jian-zhen-gaidorain2016): 2016年学校心臓健診のガイドラインについて答えるチャットボット
+- [**Pragmatic Fitness Coach**](https://chat.openai.com/g/g-gbrtk5209-pragmatic-fitness-coach): Be the athlete you were born to be! - by Clifton des Ligneris
+- [**Bright Side Buddy**](https://chat.openai.com/g/g-gEfoVUp3s-bright-side-buddy): Transforms negatives into positives. - by YUSUKE SHIGA
+- [**NutriSnap**](https://chat.openai.com/g/g-ms5XG08HX-nutrisnap): A food tracker that analyzes meal photos for nutrition. - by Filip van hareveld
+- [**筋トレで全ての問題が解決するボット**](https://chat.openai.com/g/g-DAYgvxCLD-jin-toredequan-tenowen-ti-gajie-jue-surub): 何か悩みや問題を抱えていますか？解決策を提示します。 - by shota yasunaga
+- [**Personal Trainer with Common Sense**](https://chat.openai.com/g/g-jtA39A6gB-personal-trainer-with-common-): A Personal Trainer that customizes gym programs and offers diet tips. - by EMRE ERKUNT
+- [**Sally**](https://chat.openai.com/g/g-vYECxt5uU-sally): I interpret dreams with a Jungian twist. - by Mert Susur
+- [**AI健康助手**](https://chat.openai.com/g/g-XW017qHBH-aijian-kang-zhu-sh): 我是一名AI健康助手，主要任务是基于用户提供的个人健康数据，计算BMI并制定个性化的运动和营养计划。同时，它还包括了关键绩效指标、预算估算和购物清单的制定。 - by ff c
+- [**Health Coach GPT**](https://chat.openai.com/g/g-cXCo4PZ5D-health-coach-gp): Health Coach GPT is your AI-powered fitness ally that crafts personalized exercise plans based on your unique profile, including medical data, and empowers your fitness journey with up-to-date web resources. - by Ashutosh Shrivastava
+- [**Compléments alimentaires**](https://chat.openai.com/g/g-5f81d7iZ9-complements-alimentai): Evalue les bienfaits supposés des compléments alimentaires et aliments de base, apporte des recommandations d'usage. Agent conversationnel proposé à titre expérimental, ne constitue en aucun cas une recommandation médicale. Consultez dans tous les cas un professionnel de la santé. - by Blaise Reymondin
+- [**十日町病院初期研修Bot**](https://chat.openai.com/g/g-PaWQiW1Wb-shi-ri-ting-bing-yuan-chu-qi-yan-xiu-b): Explains clinical training at Tokamachi Hospital.
+- [**臨床心理士の対話型夢分析Dream Analyst**](https://chat.openai.com/g/g-Huf4BIzQG-lin-chuang-xin-li-shi-nodui-hua-xing-meng-fen-xi-dream-analy): 夢分析は、夢の詳細を一つずつ確認しながら、意味を深く探究する分析ツールです。 - by KENJIRO ARAKI
+- [**ChefJimGPT**](https://chat.openai.com/g/g-QQW3y45j7-chefjimgp): Your assistant bodybuilding coach that caters meal plans to all your personal preferences and fitness goals. - by myaichef.app
+- [**PsychoSolution**](https://chat.openai.com/g/g-66yvSsqSv-psychosoluti): Life is too short to be silent. - by SheDan Robert Hałas
+- [**障害福祉おまかせ君**](https://chat.openai.com/g/g-MkdIxtcuC-zhang-hai-fu-zhi-omakasej): 沖縄の居宅介護のことならお任せください - by yuuji saitou
+- [**Smart Calories**](https://chat.openai.com/g/g-c1Td5YGgP-smart-calori): Snap a food photo, get quick nutrition details. - by aistartupkit.com
+- [**MSボット（仮）**](https://chat.openai.com/g/g-j8EfwgigP-msbotuto-jia): 『多発性硬化症1年生のためのMS入門書』で質問にこたえるくん - by TAKASHI FUKUTOMI
+- [**Fit Buddy**](https://chat.openai.com/g/g-zCvpA2Q8k-fit-buddy): Proactive virtual fitness coach offering personalized plans, nutritional advice, and motivation. - by getmerlin.in
+- [**NutriScan**](https://chat.openai.com/g/g-wN05jegUf-nutrisca): Nutrition expert for estimating calories and giving dietary advice.
+- [**Dr House**](https://chat.openai.com/g/g-1uYhkcv3t-dr-h): Supports medical diagnostics interpretation. - by Alexandre Andrianov
+- [**受験に勝つ！本日の「勝ち飯」献立bot**](https://chat.openai.com/g/g-7zIVjA1TO-shou-yan-nisheng-tu-ben-ri-no-sheng-tifan-xian-li-b): 受験生の栄養バランスを考えて1日の献立を提供します。 心理学、脳科学の専門知識を活用した健康管理、集中力向上のアドバイスや豆知識などもお伝えします。
+- [**FitBot 20**](https://chat.openai.com/g/g-3eiTdO26M-fitbot-20): I tailor workouts to your schedule! - by sciutotree.com
+- [**Fitness Coach AI**](https://chat.openai.com/g/g-scF1UbBEW-fitness-coach-ai): AI trainer that calculates BMI, suggests workout plans in a structured table format. - by MR GEORGE O TYSON
+- [**ボディメイクトレーナーさん**](https://chat.openai.com/g/g-H49F5yaVq-bodeimeikutorenasa): 無理のないダイエットのサポーター - by MAIKO ANDO
+- [**SportGPT**](https://chat.openai.com/g/g-2qA6Tgh9O-sportgp): An elite personal trainer - by Sporting Icons Ltd
+- [**Caloria**](https://chat.openai.com/g/g-ds9ESsMIV-caloria): Nutritional assistant for diet tracking and advice. Any language available. Type- "Start" to start a new diet tracking plan - by Vincenzo Muni
+- [**Ultra-Processed Analyzer**](https://chat.openai.com/g/g-WITwgvZGu-ultra-processed-analyz): Upload a picture of an ingredients label and find out if it's ultra-processed.  Based on the NOVA food classification. - by WAGMI
+- [**性別カエルくん**](https://chat.openai.com/g/g-nPLhItoo1-xing-bie-kaeruk): タイでの性別適合手術を予定しているMtFの方を支援します！（ChatGPTによる回答はタイSRSガイドセンターの公式回答ではありません） - by Akane Kaji
+- [**Kettle Bell Builder**](https://chat.openai.com/g/g-FPmtSilND-kettle-bell-build): Kettlebell HIIT workout planner with customizable routines and timer guidance. - by Barrett Breshears
+- [**Robo-therapist**](https://chat.openai.com/g/g-VD7CJceXX-robo-therapi): A digital mind tailored to discuss ailments of the soul - by pascal.cc
+- [**Goggins Run Coach**](https://chat.openai.com/g/g-rMdfJXOtn-goggins-run-coach): stay hard! - by zane hengsperger
+- [**humorous Psychological companion**](https://chat.openai.com/g/g-aRiP0iBRV-humorous-psychological-compani): This gpt companion can help you get rid of depression and help you build yourself up by giving you a small sense of accomplishment in your daily routine, without inward attributions or excessive self-denial. Let your heart be filled with sunshine again - by Yuange Liu
+- [**药剂师**](https://chat.openai.com/g/g-8iwMjeqv0-yao-ji-shi): 这是李继刚（即刻同名）创作的一个 Prompt 药剂师Bot。用于对用户的 Prompt 进行分析, 给出评分和改进建议，帮助用户提升 Prompt 的效果。 - by wa gaga
+- [**Calm Consultant - Health Anxiety Helper**](https://chat.openai.com/g/g-YkRoTvaak-calm-consultant-health-anxiety-help): A comforting guide offering health advice and relaxation tips for when you're not feeling the best - by Aman Mathur
+- [**VitaCheck**](https://chat.openai.com/g/g-UX78DuLoo-vitacheck): Cross reference your vitamins and supplements to ensure there are no negative interactions and find out how to optimize your nutritional health! - by Crystal Bentley
+- [**CarotidGPT**](https://chat.openai.com/g/g-XXNwiDocs-carotidgp): Experte für "S3 Leitlinie extrakranielle Carotisstenose", antwortet nur auf Deutsch - by Marius Vach
+- [**Food Analyzer**](https://chat.openai.com/g/g-a6gcdmXYA-food-analyz): Hotdog Not Hotdog, but better- This GPT will take pictures of food and give you the nutritional value of the food it sees. - by Alex Pickett
+- [**FitGPT**](https://chat.openai.com/g/g-fyWPmQ0vY-fitgp): Digital fitness coach offering tailored workouts with links. - by Stanley Lalanne
+- [**Acupuncture Master**](https://chat.openai.com/g/g-iwfqg4W2h-acupuncture-ma): I'm Acupuncture Master, your specialized AI assistant for acupuncture and Chinese medicine. While I aim to assist practitioners and students with diagnostic pointers and treatment options, keep in mind I'm not a substitute for professional medical advice. Feel free to explore and learn. - by Christian  Nourry
+- [**Chat Psyco Analyst**](https://chat.openai.com/g/g-Xy8Nm1Z25-chat-psyco-analy): Analyzing chat dialogues for better communication - by Pavel Grachev
+- [**A Friend**](https://chat.openai.com/g/g-bh8AmjlZN-a-friend): A chatbot that sustains and enriches conversations, trained in CBT. - by Kyle Bauer
+- [**Mind Guardian**](https://chat.openai.com/g/g-JwWmVQAlA-mind-guardia): A compassionate psychological assistant for sharing concerns.
+- [**Gravity Guide**](https://chat.openai.com/g/g-zPHA1EMmM-gravity-guid): I guide you in mastering calisthenics with personalized routines and skill progressions, turning gravity into your ally. - by Jordan Laster
+- [**GreenDial**](https://chat.openai.com/g/g-8lfObd3La-greendial): A digital health assistant for diet, exercise, sleep, and wellbeing. - by Michael Shaughnessy-Culver
+- [**My Doctor**](https://chat.openai.com/g/g-zouSfk9IG-my-d): i will be your private doctor - by logan
+- [**Marathon Coach**](https://chat.openai.com/g/g-nfriJSBi2-marathon-coach): Your personal running coach - by James Sauerbaum
+- [**Rate My ADHD**](https://chat.openai.com/g/g-9hWSlbCeD-rate-my-adhd): Provides a 10-question ADHD likelihood assessment with a score from 0-100. - by Chhay Chhun
+- [**Compassionate Communicator**](https://chat.openai.com/g/g-iAR4F9218-compassionate-communica): Helps you communicate with someone who has a cognitive impairment or disease like Alzheimer’s or Dementia. - by seth-rose.com
+- [**AI Therapist**](https://chat.openai.com/g/g-VhD6SjZr6-ai-therapi): Compassionate AI therapist offering simplified, accurate web-sourced info. - by Navid RezaeiSarchoghaei
+- [**Run Coach Pro**](https://chat.openai.com/g/g-wqTNafVw5-run-coach-p): A virtual running coach, tailoring plans for various running events and levels. - by Social Media Hub
+- [**Dr. Therabot**](https://chat.openai.com/g/g-kU4MMKrkP-dr-therab): A therapeutic AI meant to offer free, accessible mental health advice. - by acliche.name
+- [**CountMyCalories Connie**](https://chat.openai.com/g/g-XkhhyMBYT-countmycalories-conni): Take a Picture and let Connie count those calories for you. - by Chrysti Reichert
+- [**Evolviva fit- Fitness GPT**](https://chat.openai.com/g/g-xS0HmQcUr-evolviva-fit-fitness-gp): evolviva.fit- Your personal health and nutrition expert, creating custom diet and exercise plans. - by Mr Jordan Hall
+- [**Hair Loss Assessment**](https://chat.openai.com/g/g-TDriaXpe4-hair-loss-a): Receive a free hair loss assessment. Click below or type 'start' to get your results. - by Austin  Dixon
+- [**Disability Advantages Assistant**](https://chat.openai.com/g/g-CZeHqwTex-disability-advantages-assista): Helps disabled people globally find and claim their benefits. - by Tanja Wrage
+- [**Bud Genius**](https://chat.openai.com/g/g-1ZVC6bRB6-bud-geni): Expert on cannabis strains, effects, and legal advice. - by luca.ooo
+- [**Fitness Fuel**](https://chat.openai.com/g/g-g0m3xH1ai-fitness-fuel): Motivating fitness trainer for strength building and powerlifting. - by Tiny Empress Inc
+- [**Snack Guardian**](https://chat.openai.com/g/g-Itgr7xFm5-snack-guardia): A snack guardian who stops your desire to snack on healthy foods. - by Diane Tai
+- [**Workout Builder**](https://chat.openai.com/g/g-OvZApy32I-workout-build): Crafts personalized workout plans - by Justin Fassio
+- [**TrainWtihCBUM**](https://chat.openai.com/g/g-obld0cpfF-trainwtihcb): World-class Training Tips from Chris Bumstead - by trainwithcbum-gpt.com
+- [**看護記録要約Bot**](https://chat.openai.com/g/g-ztglLLj6r-kan-hu-ji-lu-yao-yue-b): カルテに記録された看護記録を要約 - by 長英一郎
+- [**Candida Care**](https://chat.openai.com/g/g-taVFEt0nA-candida-ca): A dietician specializing in the candida diet, offering tailored food and recipe advice. Not medical advice! Happy eating -) - by Caesaria Kim
+- [**All In Fitness**](https://chat.openai.com/g/g-poI1jK4DL-all-in-fi): I'm Eve, your friendly fitness coach, here to guide and motivate you!
+- [**AI Yoga**](https://chat.openai.com/g/g-liG16vYn6-ai-yoga): AI Yoga recommends poses based on your condition or mood. - by KAZUNARI UCHIDA
+- [**GPTCrossFit**](https://chat.openai.com/g/g-zbF0y0z1E-gptcrossfi): Expert CrossFit assistant by CrossFit PA - by gpt.autosterea.com
+- [**All In Nutritionist**](https://chat.openai.com/g/g-BrXgcVfpA-all-in-nutritioni): I can personalize  all your diets and meals for free.
+- [**MedGPT**](https://chat.openai.com/g/g-jxm5ljJmo-medgp): A medical specialist offering assistance grounded in clinical guidelines. Disclaimer- This is intended for research and is NOT safe for clinical use! - by INFOLAB OPERATIONS 2
+- [**Reframe-CBT**](https://chat.openai.com/g/g-80dWpb7jE-reframe-cb): Your go-to CBT companion for a mindful transformation. Created by an analyst. - by Georgios Kroustallis
+- [**Physician Wellness Ally**](https://chat.openai.com/g/g-wnDHGOKNw-physician-wellness-ally): Supporting doctors in wellness and resilience. - by Prabhat Kumar Chand
+- [**Glycemic Guide**](https://chat.openai.com/g/g-Mfxi5zSdH-glycemic-guid): Calculates Glycemic Index (GI) of food by analyzing uploaded pictures of dishes or menus. - by Evalabs
+- [**Health Helper**](https://chat.openai.com/g/g-TmwUxQ3FD-health-help): 体の不調の相談に乗ります。 - by KOHEI KAWAMURA
+- [**PharmacistGPT**](https://chat.openai.com/g/g-GjSaSZ1eW-pharmacistgp): I'm a friendly virtual pharmacist, offering simple health advice. - by Anthony Do
+- [**Diabetes Risk Evaluator**](https://chat.openai.com/g/g-fyW2u5Rvs-diabetes-risk-evalua): A professional, medical-focused tool for diabetes risk assessment. - by Scott Steele
+- [**ペイシェントクレーマー対応コーチング**](https://chat.openai.com/g/g-OGSYsgbhj-peisientokuremadui-ying-koting): クリニックや病院でペイシェントから暴言や暴行を受けた際の対処方法を事前学習として、参考事例をもとに医療従事者が具体的なシュミレーションを体験することで対処できるようになる。
+- [**Peatarian Health Bot**](https://chat.openai.com/g/g-ifQn8AvOF-peatarian-health-b): A health journal chatbot inspired by Ray Peat's insights on human biology. - by R J Heasman
+- [**The Inspiring Psychologist**](https://chat.openai.com/g/g-om29Liz7Q-the-inspiring-psychologi): A compassionate psychologist offering uplifting and encouraging advice. - by Remi Alao
+- [**NutriVisor**](https://chat.openai.com/g/g-fTxRv7l76-nutrivi): A nutrition advisor to estimate and track your calorie consumption from images, and suggest healthy personalized meal plans to help you achieve your fitness goals - by Asiel Montes
+- [**Neurodiversity Navigator**](https://chat.openai.com/g/g-T5Evmg1WG-neurodiversity-naviga): Autism and Beyond- Your Daily Companion for Neurodiversity Understanding and Support - by joseph bradley
+- [**情绪管理教练**](https://chat.openai.com/g/g-6HOzjgUPf-qing-xu-guan-li-jiao-lia): 基于认知行为疗法，快速改善情绪状态，从说出「你好」开始对话 - by todaylab.com
+- [**Dermatology Advisor**](https://chat.openai.com/g/g-5pzsDvCLy-dermatology-advi): Expert dermatologist GPT for patient care and medical education. - by Yanlan Kang
+- [**Meditation GPT**](https://chat.openai.com/g/g-M2PpfyzUg-meditation-gp): A guide for yoga and meditation. - by uxmonday.com
+- [**Psychologist GPT**](https://chat.openai.com/g/g-kDhOT9SSD-psychologist-gp): An empathetic companion for emotional support. - by uxmonday.com
+- [**MetabolismBoosterGPT**](https://chat.openai.com/g/g-FOawqrxih-metabolismboostergp): Helping you boost your metabolism - by Shushant Lakhyani
+- [**SuperHumAIne**](https://chat.openai.com/g/g-OkxSUJfe3-superhumai): A daily coach for becoming superhuman with AI - by Sami Viitamaki
+- [**Nutri Chef**](https://chat.openai.com/g/g-9BbJrFDN2-nutri-chef): Nutrition-focused multilingual guide - by 山下将史
+- [**AuricNow.com**](https://chat.openai.com/g/g-iAn8h40Pt-auricnow-): A smart aromatherapy assistant for personalised wellbeing. It is infused with our therapeutic essential oils to promote Calm, Focus, Energy and Sleep rituals. Shop for essential oils at Auric Now and check out the intelligent AI diffuser —the Power of Scent. - by AuricNow
+- [**Purine Content Analyzer**](https://chat.openai.com/g/g-NhGVSbjtC-purine-content-analyz): Analyzes food images for purine content - by HITOSHI YAMANE
+- [**GPT MD**](https://chat.openai.com/g/g-BpGWNpIAo-gpt-md): An experimental virtual doctor for medical guidance. Designed by a Doctor. - by Prabhat Garg
+- [**The Psychologist**](https://chat.openai.com/g/g-89ansFUon-the-psychologi): I am Alex, please take a seat and let's talk ☕ - by JOHAN CREETEN
+- [**NurseTron**](https://chat.openai.com/g/g-ldahxcVT7-): NurseTron is your friendly digital health assistant, always ready to share knowledge on healthcare topics. Designed for all ages, it turns complex medical info into easy-to-understand insights, ensuring everyone stays well-informed and healthy. Dive in and let NurseTron guide your health journey! - by nursetronai.com
+- [**おしえて松田先生『無痛分娩』**](https://chat.openai.com/g/g-2JekBN3CH-osietesong-tian-xian-sheng-wu-tong-fen-mia): ポケット産科麻酔指導医 - by Yusuke Mazda
+- [**Intermittent Fasting GPT**](https://chat.openai.com/g/g-qWhgYrHHN-intermittent-fasting-gp): A helpful bot that gives in-depth answers for men and women who do Intermittent Fasting - by GOPINATH B
+- [**Universal Psychologist (UPC-10-L)**](https://chat.openai.com/g/g-gktcTLs6E-universal-psychologist-upc-10-l): Expert guide in psychological exploration and emotional intelligence - by Wei Liu
+- [**Ingredient GPT**](https://chat.openai.com/g/g-25LJzJXR9-ingredient-gp): Expert in product ingredient analysis. Wanna know if a product is good or bad? I rate and explain the ingredients in simple terms. - by lionary.com
+- [**주치의**](https://chat.openai.com/g/g-68tXn2Zv0-juciyi): 증상이나 병에 대한 정보
+- [**Dietary supplements**](https://chat.openai.com/g/g-592UeAJTy-dietary-suppl): Evaluates the purported benefits of dietary supplements and food for metabolic optimization and longevity. This conversational agent is provided on an experimental basis and does not constitute a medical recommendation. Always consult a healthcare professional. - by Blaise Reymondin
+- [**Baby Journey AI**](https://chat.openai.com/g/g-MnA0ieWPY-baby-journey-ai): This AI guides you through your pregnancy and the development of your newborn baby - by Erik Carlsson
+- [**Fitness Coach**](https://chat.openai.com/g/g-qdxg9uD9g-fitness-coach): Your virtual fitness and training coach - by Yannick Seeger
+- [**Medic AI**](https://chat.openai.com/g/g-CosjVP1Mo-medic-ai): Medical consultation assistant for professionals - by Verse
+- [**Emotions Identifier**](https://chat.openai.com/g/g-Iq1xgzlV9-emotions-identifi): Guides you to understand what you are currently feeling. - by Svitri Magnusson
+- [**NutriGPT**](https://chat.openai.com/g/g-D75XKbVMJ-nutrigp): GPT analyzes labels, scores health, suggests alternatives. - by Ivan Knezevic
+- [**Dr. Nutritionist**](https://chat.openai.com/g/g-BfsGer8XB-dr-nutritioni): I analyze your blood reports and give you dietary advice! - by Prasanna Devadoss
+- [**Health Guide**](https://chat.openai.com/g/g-7KFzeK7FR-health-guid): Provides individual health advice in a corporate setting, focusing on practical, evidence-based information. - by MORIHIRO KAZUHISA
+- [**Nutritional Economics Guide**](https://chat.openai.com/g/g-xXfom8l66-nutritional-economics-guid): Guides users through cost of diet analysis step by step. - by Gideon Abako
+- [**Baby Dentistry**](https://chat.openai.com/g/g-TP5GYuG3S-baby-dentistry): Professional child dental expert providing detailed dental advice for children. - by CHANG WEI LIU
+- [**Grief Buddy**](https://chat.openai.com/g/g-AAKrTOxbi-grief-buddy): Your compassionate companion on your jounrey through grief - by Franziska Kern
+- [**Before you go to hospital**](https://chat.openai.com/g/g-Sez3KIsqc-before-you-go-to-hospital): Hospital prep with focus on essentials - by Yui Ueda
+- [**GPTダイエットプランナー**](https://chat.openai.com/g/g-CCSYP4wdJ-gptdaietutopuranna): 理想の身体を手に入れよう！ - by MAIKO ANDO
+- [**NutriScope**](https://chat.openai.com/g/g-H6D9u9FHD-nutriscop): Nutrition tracker from food images - by Cory Herbert
+- [**Fitness Maestro**](https://chat.openai.com/g/g-WuOEuJAfX-fitness-ma): Friendly coach for fitness & nutrition, with illustrative images. - by DHARMENDRA YADAV
+- [**Natural Supplement Finder**](https://chat.openai.com/g/g-S0tpVIexX-natural-supplement-find): I suggest natural supplements for your symptoms. - by Steven Withavee
+- [**Eat Smart- Banned/Discouraged Ingredient Finder**](https://chat.openai.com/g/g-nnmSQC9oa-eat-smart-banned-discouraged-ingredient-find): I cross-reference food ingredients with lists of banned or discouraged ingredients from the EU & beyond (Whole Foods List of Unacceptable Ingredients) for healthier eating in the United States. You can simply snap a photo of the food label or enter the ingredients of concern below.
+- [**Vet Assistant**](https://chat.openai.com/g/g-ZR0aH16CQ-vet-assista): Vet assistant for  health advice - by Mohamed Akrout
+- [**GymJestersGPT 💪🏻**](https://chat.openai.com/g/g-zZjiO0agf-gymjestersgp): Your personal GPT trainer and motivator 🤗
+- [**GPeatT**](https://chat.openai.com/g/g-kdVIzrMIQ-gpea): Expert on Ray Peat - by Will Manidis
+- [**Global Top Private Doctor**](https://chat.openai.com/g/g-2Wwt3uj7g-global-top-private-d): I have provided many individuals with detailed health analyses and effective home treatment plans. - by junjz.com
+- [**NutriCompass**](https://chat.openai.com/g/g-CStKFN3pu-nutricompa): Scientific nutrition chat backed for experts - by SERGI SOLE SERRALLACH
+- [**Mind Mate**](https://chat.openai.com/g/g-77lMzByVI-mind-ma): A supportive CBT guide offering empathetic advice. (For informational purposes, not a substitute for real medical guidance.) - by Gregory Wieber
+- [**Myaithlete**](https://chat.openai.com/g/g-WXz8HcDlP-myaithl): The go to fitness guru - by joshua brown
+- [**Liver Care Guide**](https://chat.openai.com/g/g-yZxQc4ttm-liver-care-guid): A hepatology assistant for steatotic liver disease guidance.
+- [**Ai Coach - Meal Master**](https://chat.openai.com/g/g-sOaYUID7l-ai-coach-meal-ma): Custom Meal Plans. Tips and Inspiration - by aibodybuilding.co.uk
+- [**Ai Coach - Workout Builder**](https://chat.openai.com/g/g-MFggyymJ3-ai-coach-workout-build): Personalised  Workout Builder - by aibodybuilding.co.uk
+- [**Coach SchwarzeneggerGPT**](https://chat.openai.com/g/g-8nW8bXEJn-coach-schwarzeneggergp): Get to the motivation choppa!! - by Alex Northstar
+- [**HubermanGPT**](https://chat.openai.com/g/g-Eiq14v4Ep-hubermangp): Health assistant inspired by the Huberman Lab podcast. - by Ashish Savani
+- [**MediConsult DX**](https://chat.openai.com/g/g-D4SM2Vduk-mediconsult-dx): Multilingual clinical assistant for disease insights and guidance.
+- [**MediMentor**](https://chat.openai.com/g/g-UbC10Yl9f-medi): This bot is an experimental AI assistant that interprets patients' test results and provides health recommendations; it is advised to always review its findings with a doctor. - by Uğur Deniz Yavuz
+- [**Workout Generator GPT**](https://chat.openai.com/g/g-ygFHcIkvJ-workout-generator-gp): I create custom WODs based on your needs. - by First Signal
+- [**Eva**](https://chat.openai.com/g/g-ygUGZoiZT-eva): An expert tutor on anxiety management and deprogramming. - by Jeremy schroeder
+- [**Biohack Genus**](https://chat.openai.com/g/g-1Di02z42x-biohack-g): Expert in biohacking and natural supplement research, informative and precise. - by JOSH GALT
+- [**Freudian Dream Interpreter**](https://chat.openai.com/g/g-2315WR5Tm-freudian-dream-interp): Have your dreams analyzed by a GPT trained by Freud's work on dream psychology. - by Kristi Hines
+- [**心理姿熊师**](https://chat.openai.com/g/g-mso8pPzYU-xin-li-zi-xiong-shi): 你终于刷到我累，不要走开，从此，你的身边就多了一位心理健康的咨询师 - by DONGLI YUAN
+- [**Workout Generator**](https://chat.openai.com/g/g-xO3NqPVBQ-workout-genera): Your personal AI workout planner, creating tailored fitness routines. - by Justin Fassio
+- [**Lupus Kidney Assistant**](https://chat.openai.com/g/g-htAauK4SF-lupus-kidney-assista): The lupus kidney assistant provides clinical information about lupus nephritis management, based on clinical guidelines and the latest scientific reports. - by MIGUEL ANGEL DUARTE MILLAN
+- [**MedAssist**](https://chat.openai.com/g/g-yxWP27ArI-medassi): I create personalized medical treatment plans, from diagnosis to initial and dynamic prescriptions. My goal is to enhance medicine using my AI brain, worldwide. - by NATAN RIBEIRO
+- [**A Better You**](https://chat.openai.com/g/g-OWYF0hqHV-a-better-y): Interactive health coach for personalized wellness plans - by Joe Ward
+- [**HPV and Cancer**](https://chat.openai.com/g/g-R8njbI95T-hpv-and-ca): An informative guide on HPV and cancer risk - by LLUM Consulting
+- [**Recovery Sage**](https://chat.openai.com/g/g-y2afOyuCd-recovery-sag): A comprehensive guide on recovery from compulsive gambling
+- [**Unburden.ai**](https://chat.openai.com/g/g-vPeCp7j2I-unburden-ai): We're here to hear you - by seabiscuit.ai
+- [**Virtual Fitness Coach**](https://chat.openai.com/g/g-VDdPK4o4m-virtual-fitness-coach): I create personalized fitness and nutrition plans from your photos. - by Eric Rafael Ramos Suárez
+- [**Pocket Therapist**](https://chat.openai.com/g/g-uy0M27qrr-pocket-therapi): A soothing aid for anxiety episodes - by mentalpin.com
+- [**Daily BeastMode Meal Planner & Fridge Scanner**](https://chat.openai.com/g/g-tWCYzI3XG-daily-beastmode-meal-planner-fridge-sca): Unleash Peak Brain Performance- Precision Nutrition for the Focused Warrior - by Jonathan Gabler
+- [**Daily BeastMode Coach**](https://chat.openai.com/g/g-peIOeXFuU-daily-beastmode-coach): Wake Up. Beast Up. Conquer Your Day. - by Jonathan Gabler
+- [**ORBITA-2 trial**](https://chat.openai.com/g/g-GRI24W1UE-orbita-2-trial): Answer anything about ORBITA-2 trial
+- [**Answer anything about SELECT trial**](https://chat.openai.com/g/g-8JyO4pEIT-answer-anything-about-select-trial): Answer anything about SELECT trial
+- [**Stress Buddy**](https://chat.openai.com/g/g-D3XUY1SHE-stress-buddy): A friendly therapist for high schoolers, easing study and exam stress with humor.
+- [**Fit Coach**](https://chat.openai.com/g/g-F9PeWYE2O-fit-coach): Un asistente de entrenamiento en casa que diseña rutinas personalizadas y motiva como un entrenador. - by Hassel Augusto Guilllermo
+- [**VitaCheck**](https://chat.openai.com/g/g-UX78DuLoo-vitacheck): I inform on supplement-medication interactions and analyze supplement labels. - by Francisca Felix-Melville
+- [**Empathic Echo**](https://chat.openai.com/g/g-Zj3N9NTma-empathic-ech): Friendly, high-EQ empath for emotional dialogue. - by ratcgpts.com
+- [**Fitness Pro**](https://chat.openai.com/g/g-9vZJ1biMZ-fitness-p): Specialist in Strength and Conditioning, Rehabilitation and Athletic Training - by Hakan Bezirgan
+- [**Nutrition Pro**](https://chat.openai.com/g/g-oQPmx4jzn-nutrition-p): Personalized nutrition advisor in your pocket. - by Hakan Bezirgan
+- [**Health Buddy**](https://chat.openai.com/g/g-Z6MWk7PT9-health-buddy): A fun, engaging health adviser with personalized tips and use of visuals. - by faw
+- [**ChadGPT**](https://chat.openai.com/g/g-hBDutiLmw-chadgp): Your AI Fitness Coach & Meme Guru - blending workouts, motivation, and humor for a dynamic experience! - by Daniel Niemann Hjermitslev
+- [**Athlete's Nutritionist**](https://chat.openai.com/g/g-jldNmczRz-athlete-s-nutritioni): Expert nutrition coach blending Wendi Irlbeck's insights and elite performance strategies. - by KFISLO,LLC
+- [**MVME**](https://chat.openai.com/g/g-XnGn2OwgF-mv): Interactive, personalized musculoskeletal care guide. - by KFISLO,LLC
+- [**Mind Coach**](https://chat.openai.com/g/g-DkkWbaZ13-mind-coach): A mental strength coach for athletes. - by KFISLO,LLC
+- [**Residency Interview Coach**](https://chat.openai.com/g/g-PLl0NxHjS-residency-interview-coach): A medical residency interview coach providing questions and feedback. - by Ashenafi Getachew
+- [**Mindful Listener**](https://chat.openai.com/g/g-Ahqwx56h6-mindful-li): Compassionate Companion for Personalized Mental Health Guidance - by MOHAMMAD HABIBULLAH
+- [**皮肤医生**](https://chat.openai.com/g/g-o31ig2RQy-pi-fu-yi-sheng): 中文的皮肤健康专家
+- [**CarnivoreGPT**](https://chat.openai.com/g/g-oY551ddGH-carnivoregp): Use a GPT as a Carnivore Diet Coach - by Greg Pazo
+- [**Mindful Mentor**](https://chat.openai.com/g/g-85d7qrW9w-mindful-): Your virtual therapist for mental health tips and daily support. - by VineBeat Inc.
+- [**FitSpeak**](https://chat.openai.com/g/g-7ra96ar36-fitspeak): Your Personal Health Companion - by John Alewine
+- [**Voice of HubermanLab**](https://chat.openai.com/g/g-5TMG0Lqv4-voice-of-hubermanlab): Health and neuroscience expertise based on HubermanLab podcasts. This model will be regularly updated with new data from the podcast and it will improve as OpenAIs capabilities for custom LLMs improve. - by Ribhav Kapur
+- [**(evr.ai)  Cannabot**](https://chat.openai.com/g/g-bgEsABg3e-evr-ai-cannab): Your go-to for cannabis cultivation guidance. - by Christopher Vukin
+- [**Nurse Care Planner**](https://chat.openai.com/g/g-3ayM8Ok8S-nurse-care-pla): I create nursing care plans based on triage info. - by Christopher Vukin
+- [**Nutricia**](https://chat.openai.com/g/g-25JjEj22m-nutricia): Your personal nutritionist assistant. - by Guido Stercken
+- [**safespace**](https://chat.openai.com/g/g-EaHx36saG-safespa): supportive therapy - by Ayo Kuye
+- [**Scoliosis Guidefriend**](https://chat.openai.com/g/g-5NTg60Fk8-scoliosis-guidefriend): Evidence-based scoliosis guide in formal, PhD-level parlance. - by David Bennett
+- [**FitnessTrainer GPT**](https://chat.openai.com/g/g-qJhtmhgTw-fitnesstrainer-gp): Your personal trainer and nutrition advisor. - by artemio.cc
+- [**Vet Benefits Coach**](https://chat.openai.com/g/g-pMFttH6En-vet-benefits-coach): I'm your coach for benefits filing!
+- [**Calorie Coach**](https://chat.openai.com/g/g-yDvZ8ZdgF-calorie-coach): Starts with cheat day preferences, then asks about activity level for tailored advice. - by Justin Barnett
+- [**The Healthcare Innovator**](https://chat.openai.com/g/g-vtscYSw55-the-healthcare-innova): Guide for healthcare innovation process, no medical/legal advice. - by Rubin Pillay
+- [**FutureMed GPT**](https://chat.openai.com/g/g-NRYBxYs9R-futuremed-gp): Explores emerging trends and innovations in medicine. - by Rubin Pillay
+- [**DoctorGPT**](https://chat.openai.com/g/g-3HCNaq0VO-doctorgp): A trustworthy Health AI assist to help you understand your condition - by lexigpt.radailabs.com
+- [**AIMedGPT**](https://chat.openai.com/g/g-YR5uQNmwg-aimedgp): GPT for AI in Medicine - by Rubin Pillay
+- [**Kong Herbal Healer**](https://chat.openai.com/g/g-gNp4I9wxf-kong-herbal-heal): Traditional Chinese Medicine expert. - by Yip SuenYan
+- [**Psyche Connect- Warm Insights**](https://chat.openai.com/g/g-DZpPKCjE7-psyche-connect-warm-insigh): Focused on psychological counseling and guidance, attuned to users' needs.
+- [**自然農 Super Veggies**](https://chat.openai.com/g/g-GetpKF95b-zi-ran-nong-super-veggi): 無農薬で栄養価の高い野菜が作れます - by akiyoshimasashi.com
+- [**産科麻酔EBMをおしえて松田先生**](https://chat.openai.com/g/g-DN19MLcQN-chan-ke-ma-zui-ebmwoosietesong-tian-xian-sheng): ポケット産科麻酔指導医 - by Yusuke Mazda
+- [**Fitness Buddy**](https://chat.openai.com/g/g-QKkI2XZ1P-fitness-buddy): Friendly fitness assistant with a sweet female voice.
+- [**FitlinkGPT**](https://chat.openai.com/g/g-M3gFSrgmx-fitlinkgp): I'm FitlinkGPT, your fitness friend. - by fitlinkapp.com
+- [**PlantProfessor**](https://chat.openai.com/g/g-MrOy0BKrh-plantprof): I'm your go-to guide for all things plants, offering helpful care tips, product suggestions, and styling inspiration to transform your space
+- [**Gym Workout Creator**](https://chat.openai.com/g/g-IEA8GaRyJ-gym-workout-crea): Crafts personalized gym workouts - by Joseph Mambwe
+

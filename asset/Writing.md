@@ -1,0 +1,115 @@
+## Writing
+- [**Creative Writing Coach**](https://chat.openai.com/g/g-lN1gKFnvL-creative-writing-coach): I'm eager to read your work  and give you feedback to improve your skills. - by ChatGPT
+- [**HenriquesLab-style Writing Assistant**](https://chat.openai.com/g/g-3Fsbpgl8u-henriqueslab-style-writing-assista): Academic writing aid in Henriques's style - by Ricardo Henriques
+- [**Content Rewriter**](https://chat.openai.com/g/g-lUygohS2m-content-rewri): Enter any URL and have the text content rewritten for you! - by Orren Prunckun
+- [**Copywriter**](https://chat.openai.com/g/g-kqoHyoLcO-copywri): Enter any URL and get sales copywriting suggestions for the page! - by Orren Prunckun
+- [**Prose Polisher**](https://chat.openai.com/g/g-NLd7Mpg2A-prose-polish): Comprehensive novel editing assistant.
+- [**GPT Builder Builder**](https://chat.openai.com/g/g-I8IS0TGyP-gpt-builder-build): A creative brainstorm partner for GPT ideas! - by Hani Sharabash
+- [**PlainSpeak**](https://chat.openai.com/g/g-abcvK2crW-plainspeak): Translates corporate speak into plain English. - by Bozidar Benko
+- [**Proser**](https://chat.openai.com/g/g-RolouHJ2V-p): Your supportive writing coach. - by Bryan Mock
+- [**The Erudite Editor**](https://chat.openai.com/g/g-bKNJ8L8fg-the-erudite-edi): Simplifying complex ideas with clarity. - by Kasey Klimes
+- [**Copy Editor**](https://chat.openai.com/g/g-tnGdEVeC1-copy-edi): Editorial assistant for refining columns. - by Casey J Newton
+- [**Proofreader GPT**](https://chat.openai.com/g/g-NSy4aqJZT-proofreader-gp): Manuscript editing assistant for writers.
+- [**Prompt Maestro**](https://chat.openai.com/g/g-A4Sezund0-prompt-ma): Creating detailed prompts to fit the persona / role that you require. - by nikro.me
+- [**Prompta**](https://chat.openai.com/g/g-p937MS26W-prompta): Meet Prompta- Your go-to expert in crafting crisp, clear, and creative prompts – making prompt engineering easy and enjoyable! - by Mattias Aspelund
+- [**Strunk**](https://chat.openai.com/g/g-HSuLcoRT6-strunk): Strunk & White style editor - by Chad R Brewbaker
+- [**Email Artisan**](https://chat.openai.com/g/g-fUyGkPnv7-email-artisa): I write engaging cold emails. - by Kartik Deshpande
+- [**Prompt Engineer**](https://chat.openai.com/g/g-NnkNrcY2A-prompt-engi): Refines prompts, adapts to Spanish - by Diego Cabezas
+- [**CSVillage Scriptsmith**](https://chat.openai.com/g/g-FrIA7typk-csvillage-scriptsmith): Witty scriptwriter for all - by Jason Sykes
+- [**Text to Tweet**](https://chat.openai.com/g/g-u4TTyvcs7-text-to-tw): I distill texts into an interesting short form take. - by Brian Reed
+- [**Lindwurm**](https://chat.openai.com/g/g-ZVDBEb2X5-lindw): Enhances writing while preserving original tone. - by Christoph Voellmy
+- [**Syntax Surgeon**](https://chat.openai.com/g/g-FRXX8g4wd-syntax-surg): Your writing assistant for clear communication. - by Yashac Palacios
+- [**Text Tailor**](https://chat.openai.com/g/g-bMHODmGvJ-text-tail): An editor that refines and enhances your writing. - by Viacheslav Kovalevskyi
+- [**Word Weaver**](https://chat.openai.com/g/g-C3QYxz4iA-word-weav): I create 15 unique word or phrase variations. - by Saalik Lokhandwala
+- [**Blog Expert**](https://chat.openai.com/g/g-PWizFQk8C-blog-exp): SEO blog content creator with expertise in keyword optimization and engaging writing. - by Faisal Binateeq
+- [**Allanon**](https://chat.openai.com/g/g-W3vAaOXgK-alla): I offer critical editorial analysis. - by Storya Pte Ltd
+- [**Write like The Economist**](https://chat.openai.com/g/g-9yyGdycdi-write-like-the-economi): Economist-style tone with accessible language. - by Erran Su
+- [**Quick Questions Are Declined Thank You**](https://chat.openai.com/g/g-nZwA92iUR-quick-questions-are-declined-thank-y): I craft polite declines to 'quick question' emails. - by Clash Digital
+- [**Prompt Master**](https://chat.openai.com/g/g-n3VNzuUyU-prompt-ma): I create precise prompts for ChatGPT.
+- [**Insta Prompt Creator**](https://chat.openai.com/g/g-FQHiYvY5p-insta-prompt-crea): I create the world's best prompts, refining iteratively and providing ratings for perfection! - by Daniel Brown
+- [**Narrative Navigator**](https://chat.openai.com/g/g-8iCJrziIG-narrative-naviga): Story analysis and continuation expert - by Einar Petersen
+- [**Title Muse**](https://chat.openai.com/g/g-lPweQyoQr-title-): Suggests catchy blog titles - by YOTA ISHIKAWA
+- [**Magic Writer**](https://chat.openai.com/g/g-I8xxsv76S-magic-wri): SEO-optimized Writer Buddy 💜 MagicSpace.agency - by Ilias Ismanalijev
+- [**Chat Muse**](https://chat.openai.com/g/g-3KnsNfGrQ-chat-): A creative with a chat-based personality. - by Christopher K Haan
+- [**Far-Future Visionary**](https://chat.openai.com/g/g-ztF8Ad1OL-far-future-visionary): Weaver of deep future dreams.
+- [**小説家**](https://chat.openai.com/g/g-ZhpDqxt7G-xiao-shuo-jia): A creative aide for novel writing. - by 榊真史
+- [**42master-zhou, the Master of Chinese Writing**](https://chat.openai.com/g/g-yyfAVEht2-42master-zhou-the-master-of-chinese-writing): Mr. Zhou, the Master of Chinese writing，a forever 42 years old man.（中文写作大师周爱文，性别：男，年龄：永远 42 岁） - by huoshui.io
+- [**Cinematic Muse**](https://chat.openai.com/g/g-66v386SE8-cinematic-): I assist in crafting story plots and visualizing scenes.
+- [**Argus (writer)**](https://chat.openai.com/g/g-erPsD8Rkr-argus-wri): Argus is an all-seeing entity who is especially good at creative or any other form of writing. You just need to tell him what you want, in what style etc.  He will do a  bang-up job for you and keep it real at the same time if that's what you say you want! [conversations are NOT used to improve GPT] - by Nadia And Patrick Leamy
+- [**Prompt Master**](https://chat.openai.com/g/g-n3VNzuUyU-prompt-ma): assistant for generating prompts
+- [**自媒体文案写手**](https://chat.openai.com/g/g-4h5mFllFj-zi-mei-ti-wen-an-xie-sh): 自媒体文案撰写工具
+- [**爆文标题达人**](https://chat.openai.com/g/g-IWwQ3aWRA-bao-wen-biao-ti-da-): 直接提问/发送文章内容，快速生成爆款标题 - by Dwood
+- [**领导讲话写作助手**](https://chat.openai.com/g/g-KmQETMDB1-ling-dao-jiang-hua-xie-zuo-zhu-sh): 领导讲话写作助手
+- [**PromptGPT**](https://chat.openai.com/g/g-p0jlP3Tcq-promptgp): Midjourney Prompt Generator - by Dustin Hise
+- [**文案GPT**](https://chat.openai.com/g/g-XRXQXLQFJ-wen-an-gp): 好的文案就要直击人心，令人秒赞
+- [**小説家になろうで評価されやすい小説を書くBOT**](https://chat.openai.com/g/g-cV8AsKAnb-xiao-shuo-jia-ninaroudeping-jia-sareyasuixiao-shuo-woshu-kub): I craft stories with a Shosetsuka ni Naro appeal.
+- [**Naming-Bot**](https://chat.openai.com/g/g-shkzfJtfC-naming-b): I craft names from ancient Chinese poems. - by BAO QIANG YU
+- [**Ace Copy**](https://chat.openai.com/g/g-IQPSTu9BW-ace-copy): Copywriter specializing in online betting and online casinos - by AFRICANUS PANGA
+- [**Xhs Writer- Mary**](https://chat.openai.com/g/g-snw330qdg-xhs-writer-mary): ✨ 家人们！此助手经过了特定设计优化，可以很好地帮你生成 📕 小红书文化语境的风格文案。👉 例如「家人们」「姐妹们」等友好的「小红书调性」特有网络用语。😉 还能帮你生成一些 # 标签提高笔记流量。如果你正在经营自己的小红书，建议 Pin 📌 在左上角长期使用哦，我直接一整个码住啦～（此 AI 和小红书官方无关，仅为个人文案助手） - by lysonober.com
+- [**Text Style Transfer- Alice**](https://chat.openai.com/g/g-ZF7qcel88-text-style-transfer-ali): 😗 My name is Alice 🪄 Streamline your writing with our tool that adapts to Individual Unique Expression Style (IUES). 👇 Paste a sample text, then I will mimic its IUES. So you can use this IUES to express your other own opinions. 🥳 Enjoy 10x writing efficiency without any trace of AI writing. - by lysonober.com
+- [**资深作家**](https://chat.openai.com/g/g-D9sS54ONX-zi-shen-zuo-jia): 我是一名资深作家，将承担撰写一本书籍的任务。凭借7年的写作经验和丰富的出版历史，将展现其在构思、规划和创作高质量文本方面的专业能力。此任务将遵循一个明确的工作流程，包括制定目录、写作、根据反馈调整，直至完成整本书。 - by ff c
+- [**Chapter Enhancer**](https://chat.openai.com/g/g-lLIHOSoWU-chapter-enha): An assistant for annotating and improving fiction writing, chapter by chapter. - by VALENTIN SARIĆ
+- [**Story Sprout**](https://chat.openai.com/g/g-PhwR1Gqoz-story-sp): Children's storybook creator with text and illustration suggestions. - by ARAVINDH RAJ P
+- [**Simple Proofreader**](https://chat.openai.com/g/g-Dk6K4VJk2-simple-proofread): I will proofread academic English. I won’t do anything other than that - by MATSUI KENTARO
+- [**Visionary Describer**](https://chat.openai.com/g/g-o9DgctZ1R-visionary-describ): Expert in diverse text prompt creation. - by Gernot Bardsley
+- [**Paper Machine**](https://chat.openai.com/g/g-kXwpmdcpB-paper-machi): Academic writing assistant - by Xiufeng Liu
+- [**Story SpinnerAI**](https://chat.openai.com/g/g-ttChagank-story-spinnerai): Generates content based on reader needs. - by Simon Kremer
+- [**Rhetorica**](https://chat.openai.com/g/g-Go1sJultl-rhetorica): Academic rhetoric aid - by Marc Watkins
+- [**Copy Edit Meister**](https://chat.openai.com/g/g-U2bR44RvA-copy-edit-mei): CMOS manuscript copy editor and lit professor - by Michael McGruther
+- [**Blurb Meister**](https://chat.openai.com/g/g-oWWzON9GL-blurb-mei): Crafts compelling book blurbs for indie authors. - by Michael McGruther
+- [**エッセイ風 Diary Creator**](https://chat.openai.com/g/g-p329GFo5v-etuseifeng-diary-crea): Creates reflective diary entries in Japanese
+- [**Interview Architect**](https://chat.openai.com/g/g-RnQYRknHz-interview-archi): Creates interview outlines for journalists based on the interviewee's profile. - by WANGRUNDONG
+- [**Book Builder**](https://chat.openai.com/g/g-T8ySmy6Rb-book-build): Automated book creator integrated with 'BookBuilder' script for structured content. - by Daniel Ramos Pereira de Melo
+- [**AI Book Assistan PRO 1.03**](https://chat.openai.com/g/g-MZjGbYu3X-ai-book-assistan-pro-1-03): AI book writer helper it will guide through each step on writing your new best seller while having fun! - by fabio furlano
+- [**Ebook Writer & Designer assistant**](https://chat.openai.com/g/g-gNSMT0ySH-ebook-writer-designer-assista): Crafts tailored or improvised stories - by Dasher
+- [**Newsletter Generator GPT**](https://chat.openai.com/g/g-qRYpVaPWT-newsletter-generator-gp): Create Newsletters From Your Saved Content - by Mr AH Fordyce
+- [**The Writer's Room**](https://chat.openai.com/g/g-Qb0mexonh-the-writer-s-): A virtual writer's room aiding in story development and critique.
+- [**Book to Prompt**](https://chat.openai.com/g/g-h4gjGg7a0-book-to-promp): Turn Any Book into Actionable Prompts. Assign a role, goal and upload the e-book PDF - by Lucas C Pimentel
+- [**Tsuduri**](https://chat.openai.com/g/g-7nYGszLtS-tsuduri): A creative writer for developing story plots and episodes. - by sougetu.net
+- [**Topic Idea Generator**](https://chat.openai.com/g/g-LCEeDPEtQ-topic-idea-genera): Need a little blogging inspiration? Give me a keyword or tell me about your business, and I will give you 25 topic ideas to write about for your next blog post, including meta descriptions and featured images. - by Kristi Hines
+- [**内容重新定义师**](https://chat.openai.com/g/g-6e6LCYcrJ-nei-rong-zhong-xin-ding-yi-shi): 这是李继刚（即刻同名）创作的稿件改写专家Bot。模仿一个拥有 10 年稿件审核和修改经验的互联网新媒体编辑，专长是使用全新的风格和措词来改写稿件，保持核心内容不变。 - by wa gaga
+- [**高大上修饰大师**](https://chat.openai.com/g/g-nRnbEWuUV-gao-da-shang-xiu-shi-da-shi): 这是李继刚(即刻同名)创建的用于将大白话修饰为高大上表述的 Bot。 模仿一个互联网营销专家。擅长将普通的小事，用非常时髦的词语给包装起来重新表述，给人一种听不太懂，但又感觉非常专业和厉害的样子。 - by wa gaga
+- [**Transcript Polisher**](https://chat.openai.com/g/g-zjBCMv8GA-transcript-polish): Edit rough AI-generated transcripts into polished prose - by Charlie Deist
+- [**自動小説生成GPT**](https://chat.openai.com/g/g-KZx0da9yo-zi-dong-xiao-shuo-sheng-cheng-gp): 番号の選択だけで簡単に挿絵入りの小説が生成できる
+- [**Email Proofreader**](https://chat.openai.com/g/g-ebowB1582-email-proofread): Copy and paste your email draft to be proofread by GPT without changing their content. Optionally, write 'Verbose = True' on the line before pasting your draft if you would like GPT to explain how it evaluated and changed your text after proofreading. - by Pouria Rouzrokh
+- [**Script Mystic**](https://chat.openai.com/g/g-ZNKfbCThn-script-mysti): Guiding light in screenwriting, illuminating one step at a time. - by RYAN J MCDUFFIE
+- [**SEO Article Wizard**](https://chat.openai.com/g/g-WHuhBXJ1H-seo-article-wizard): Helps write SEO-friendly articles using user-specified keywords. - by Sergii Shvets
+- [**Editby | SEO and social media writer**](https://chat.openai.com/g/g-I3NZ9DoPL-editby-seo-and-social-media-wri): Write engaging SEO-optimized articles and social media posts. - by editby.ai
+- [**Character Crafter**](https://chat.openai.com/g/g-EabPCuUlt-character-craf): Helps fiction authors create and develop characters - by Devani Anjali
+- [**The Point Of View GPT**](https://chat.openai.com/g/g-T7xWKogC6-the-point-of-view-gp): Uses The Point Of View Guide by Philip Morgan to answer questions about point of view (POV) - by Philip Morgan
+- [**Beautifully GPT'd Letters and Notes**](https://chat.openai.com/g/g-kpOSwCDbL-beautifully-gpt-d-letters-and-): Crafts personalized, heartfelt notes for any occasion. - by Matthew Dho
+- [**Essay Architect**](https://chat.openai.com/g/g-VKSdiGttR-essay-archi): Expert essayist guiding users to craft extraordinary essays of any length, for any audience. - by Adam Donald Butler
+- [**Visionary Pigeon Muse**](https://chat.openai.com/g/g-WYgy6D0VO-visionary-pigeon-): 
+- [**Pigeon - Dream Weaver**](https://chat.openai.com/g/g-9yfEOrkHg-pigeon-dream-weav): A poetic explainer of lucid dreams, in short, rhythmic bursts.
+- [**Neil Moore**](https://chat.openai.com/g/g-jyGN8q3HI-neil-): Your friendly comic creation assistant. - by JAVIER CARRASCO MARIMON
+- [**Easy Storyboard**](https://chat.openai.com/g/g-k5ulWmJrW-easy-storyboard): Easily create storyboards with Easy Storyboard - by make.express
+- [**PolitePost**](https://chat.openai.com/g/g-57pyuFVgA-politep): Rewriting your emails to be professional - by Anson Lai
+- [**Proofreader**](https://chat.openai.com/g/g-pBjw280jj-proofread): I proofread and refine sentences, preserving their original meaning. - by YAOHUA ZHAO
+- [**Academic Introduction Writer**](https://chat.openai.com/g/g-PcNLVWJUT-academic-introduction-wri): Writing tool that combines linguistics and artificial intelligence, who knows how to use it well!!!!!!! - by YANG YUE
+- [**Mentor for Manga Writer**](https://chat.openai.com/g/g-SxIzWktnh-mentor-for-manga-wri): フレンドリーな漫画フィードバックのメンター
+- [**Disiz Mémoire**](https://chat.openai.com/g/g-pKTSKgxnS-disiz-memoi): Academic writing assistant for thesis drafting, skilled in copywriting and citing sources.
+- [**视频分镜画图大师**](https://chat.openai.com/g/g-UYTdnmUnr-shi-pin-fen-jing-hua-tu-da-shi): Assists in creating hand-drawn style video storyboards from scripts. - by Tom Jack
+- [**Mirror Your World**](https://chat.openai.com/g/g-v8D12uMOG-mirror-your-world): Creates parallel fantasy adventures mirroring real life. - by Zhen Wang
+- [**Little Red Book**](https://chat.openai.com/g/g-XomfVZ04q-little-red-book): Xiaohongshu title crafting expert with a focus on trendiness and creativity. - by XINYU ZHANG
+- [**Oxford Writer's Aid**](https://chat.openai.com/g/g-XYPMCl1Hy-oxford-writer-s-aid): Directly improves and explains your English texts. - by Kevin Weber
+- [**Story Mentor**](https://chat.openai.com/g/g-euPtVLBly-story-): Experienced writing mentor for page and screen. - by Peak State Entertainment GmbH
+- [**Echo Writer**](https://chat.openai.com/g/g-shwWB8Wp4-echo-wri): Merging your style & tone with marketing expertise to craft copy that resonates. - by joshua cohen
+- [**Grammar Guardian**](https://chat.openai.com/g/g-TD2D660Fu-grammar-guardia): Delivers precise grammar corrections. - by Ginger Media BV
+- [**Make Your Headline The Best It Can Be.**](https://chat.openai.com/g/g-1Z0B0G0Fv-make-your-headline-the-best-it-can-b): I am an advanced headline checker with a deep understanding of psychology and how to get higher engagement, virality and rankings for your headlines. Copy and paste your headline below. - by Danny Sodergren
+- [**ネーミングクリエイター**](https://chat.openai.com/g/g-Pcv6UPsuA-nemingukurieita): 入力されたテーマについて10個のネーミングを考えます
+- [**SCAMPER Ideation Tool**](https://chat.openai.com/g/g-Srd4ScLJ0-scamper-ideation-tool): A creative assistant specialized in generating ideas using the SCAMPER technique. (e.g. prompt- Give me innovation ideas for Denim Jeans) - by TANVEER HUSSAIN
+- [**ブログ執筆アシスタント**](https://chat.openai.com/g/g-zMhdMGjRO-buroguzhi-bi-asisuta): 編集者のように、アイデア出しから構成検討、文章の校正までを寄り添ってアシストします。 - by Koichiro Matsuoka
+- [**物語作るさん**](https://chat.openai.com/g/g-hD1NFRBpp-wu-yu-zuo-rusa): Let's begin your story.
+- [**Alias Alchemist**](https://chat.openai.com/g/g-9mE0EOay5-alias-alchemi): I generate unique nicknames and names based on keywords.
+- [**Pocket Monster-ise My Photo**](https://chat.openai.com/g/g-mNtp0KHFG-pocket-monster-ise-my-ph): Make your own Pocket Monster that is inspired by you! Simply upload an image of yourself and I will make a Pocket Monster that is inspired by you - by Scorchsoft Ltd
+- [**Autoblogesis**](https://chat.openai.com/g/g-IyfVJdKq7-autoblogesi): blog instantly about anything - by azothcorp.com
+- [**Search Ad Writer**](https://chat.openai.com/g/g-lWhas7VjY-search-ad-wri): I craft high-converting Search Ad copy. - by Jeremy Sto Tomas
+- [**Story Weaver**](https://chat.openai.com/g/g-7WBjZuzc8-story-weav): Professional, detail-oriented storyteller for creative industry experts. - by John Harvey
+- [**Marketsy.ai Eloquent Seller**](https://chat.openai.com/g/g-P5fLqXjsJ-marketsy-ai-eloquent-sell): Expert copywriter for compelling eCommerce product descriptions - by Marketsy.ai
+- [**FandomuGPT**](https://chat.openai.com/g/g-B0d7HzM11-fandomugp): FandomuGPT is your AI co-writer for fanfics and original tales. Expand character backstories, explore new world-building, and bring depth to your favorite universes. Ideal for fans and creators aiming to enrich their narratives. - by billykiakao
+- [**Tharoorify**](https://chat.openai.com/g/g-UxQylW40H-tharoorify): Write like Shashi Tharoor - by Albert Dali
+- [**ClaudeGPT**](https://chat.openai.com/g/g-yhiBAixw5-claudegp): Expert in writing prompts for Claude, Anthropic's large language model. - by Karina Nguyen
+- [**Blog Navi**](https://chat.openai.com/g/g-v20ebkZSo-blog-navi): ブログ記事を考案してくれるChatGPTです。キーワードやテーマを入力すると記事を書いてくれます。想定する読者を入力するとより自然な文章になります。入力例：「パフェに関する記事を書いてください。読者は中学生です。注意-ChatGPTは事実に基づかない出力をすることがあります。利用する際は事実確認をおすすめします。もし当ChatGPTを利用して損害を被ったとしても責任は負えません。 - by Kadota Narita
+- [**ブログライターアシスタント（ガイド付き）**](https://chat.openai.com/g/g-Y8kwulyOV-buroguraitaasisutanto-gaidofu-ki): ブログ記事を考案してくれるChatGPTです。ガイドにしたがうだけで記事を書けます。「開始」と入力すると対話が始まります。　　　　　　　　　　　　　　　　　　　　注意-ChatGPTは事実に基づかない出力をすることがあります。利用する際は事実確認をおすすめします。もし当ChatGPTを利用して損害を被ったとしても責任は負えません。 - by Kadota Narita
+- [**AI Editor**](https://chat.openai.com/g/g-Zpq8Ln7WV-ai-edi): An editing companion for writers. - by Leonardo Patrignani
+

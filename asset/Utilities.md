@@ -1,0 +1,317 @@
+## Utilities
+- [**WebPilot**](https://chat.openai.com/g/g-pNWGgUYqS-webpil): Browse Webpage/PDF/Data. Chat & Write with one/many/none URLs. WebPilot.ai Powered.
+- [**RGPD Assistant**](https://chat.openai.com/g/g-5pPts8O7X-rgpd-assista): Assistant de conformité RGPD - by Laurent Jean
+- [**SPR Util**](https://chat.openai.com/g/g-hS9KRCXE2-spr-util): Compresses & decompresses sparse priming data.
+- [**導師**](https://chat.openai.com/g/g-cpjErBTMq-dao-shi): デスクトップマスコットの "伺か"のスペシャリスト
+- [**添削くん**](https://chat.openai.com/g/g-CnjdB3iiN-tian-xue-k): 書いた文章などを、より読みやすくなるように文字を削ったり足したりします - by KAI KOGAWA
+- [**NED Bot**](https://chat.openai.com/g/g-DR2ew313g-ned-b): An expert based on noenthuda.com - by S Karthik
+- [**Logical Fallacies Detector**](https://chat.openai.com/g/g-DRYiCCv5d-logical-fallacies-d): I find logical fallacies in texts. - by Guillaume LEBON
+- [**GP(en)T(ester)**](https://chat.openai.com/g/g-zQfyABDUJ-gp-en-t-): A cybersec assistant for pentesting guidance. - by Roberto Montiel
+- [**提示精灵（Prompt Pet）**](https://chat.openai.com/g/g-N9d6Prmjs-ti-shi-jing-ling-prompt-p): 一个懂你，会帮你写Prompt的仓鼠精灵 - by Milton Braganza
+- [**Universal Customer Service Agent**](https://chat.openai.com/g/g-26QP2c7hK-universal-customer-service-ag): Polite bot that crawls websites for answers. - by Stefano Baccianella
+- [**Instant Native Translator (English-Turkish)**](https://chat.openai.com/g/g-buv7v32Mi-instant-native-translator-english-turkish): Smart bilingual translator for English and Turkish. - by Waleed Chayeb
+- [**Case Aide**](https://chat.openai.com/g/g-HifAWoYNB-case-aid): A legal research assistant for case discovery. - by Jonathan Chang
+- [**Menu Maven**](https://chat.openai.com/g/g-l3g8XoYvm-menu-mav): Snap a menu photo, and I'll guide you to healthy and gluten-free delights! - by Jason Houston
+- [**Bug Hunter**](https://chat.openai.com/g/g-fa1XjkATp-bug-h): I'm a bug finder in your code!
+- [**SourcifyGPT**](https://chat.openai.com/g/g-D1rsJTybt-sourcifygp): Interact with Sourcify using ChatGPT - by Marco Castignoli
+- [**Energy Guide**](https://chat.openai.com/g/g-HwX0d96tm-energy-guid): Assists with energy conservation and grid solutions. - by greenlightgrid.com
+- [**Coding Cheatsheet**](https://chat.openai.com/g/g-JOLnVuTEQ-coding-cheatsh): 直接高效的编程帮手 - by dcts.top
+- [**面接シミュレーション**](https://chat.openai.com/g/g-imKDMFlHT-mian-jie-simiyuresiy): Conducts professional interview simulations in Japanese. - by hiro
+- [**QuackGPT**](https://chat.openai.com/g/g-UyKHse2vR-quackgp): I answer questions about DuckDB based on the latest documentation. - by Matt Holden
+- [**Rules of Thumb**](https://chat.openai.com/g/g-Lz3azZXjU-rules-of-thumb): Your go-to for quick advice. - by david galbraith
+- [**Emoji Generator**](https://chat.openai.com/g/g-wkmOq6AxG-emoji-genera): I turn your text into Emoji - by aiprompto.com
+- [**ラショナルぼっと♪Rational bot♪**](https://chat.openai.com/g/g-npG5iOuzO-rasiyonarubotutorational-b): イラショナルな信念をラショナルにします。GPT-4で使ってね。Offers rational beliefs for irrational ones. Use it in GPG-4. - by KEITA MOTOKI
+- [**Personality Insights Analyst**](https://chat.openai.com/g/g-iYQBtSJLw-personality-insights-analy): Expertly dissects linguistic patterns to reveal personality traits. - by megan freeman
+- [**ConstituciónCL GPT**](https://chat.openai.com/g/g-XJskTuZv0-constitucioncl-gp): Pregúntale a la Propuesta de Constitución 2023 o compárala con la anterior propuesta
+- [**Tab Tender**](https://chat.openai.com/g/g-UfpzBsqrb-tab-tend): Bill splitter GPT that itemizes and calculates shared costs.
+- [**AI Act Assistant**](https://chat.openai.com/g/g-91JGa2SZ1-ai-act-assista): Guide sur l'Acte Européen de l'IA et poser des questions si on est en conformité si on est un GAFAM ou travaillant dans l'IA - by Laurent Jean
+- [**Text to DB Schema**](https://chat.openai.com/g/g-PWDSMERp3-text-to-db-schema): Convert application descriptions to consumable DB schemas or create-table SQL statements - by flatlogic.com
+- [**Prompt Prodigy**](https://chat.openai.com/g/g-yKVsCEBbL-prompt-prodigy): Expert in LLM prompt engineering. - by bedford.ai
+- [**Your Universe**](https://chat.openai.com/g/g-BpX3nsWTl-your-univ): Ecosystem Simulator GPT
+- [**AI2sql**](https://chat.openai.com/g/g-hKdeP1Dou-ai2sql): I generate SQL queries for database management. - by mustafa ergisi
+- [**WikipediaGPT**](https://chat.openai.com/g/g-iej11T6Ii-wikipediagp): I base all my answers on knowledge from Wikipedia pages.
+- [**Punaises de Lit**](https://chat.openai.com/g/g-a10vseTJf-punaises-de-li): Expert sur les punaises de lit, conseils d'identification et mesures à prendre en cas d'infestation. - by Laurent Jean
+- [**RequireMate**](https://chat.openai.com/g/g-ydWENOIHS-requirema): Detail-oriented project planning assistant. - by Patch Digital Limited
+- [**Sinterbot**](https://chat.openai.com/g/g-91GJv7Tsv-sinterb): Ik help je moderne sinterklaasgedichten te schrijven - by T C Brouwer
+- [**Calendar Link Generator**](https://chat.openai.com/g/g-jmRMeHEEi-calendar-link-genera): I create Google Calendar URLs. - by hakuto kameda
+- [**Slide Deck Builder**](https://chat.openai.com/g/g-0QQyby0Vj-slide-deck-build): I craft slide decks. - by Digiagent
+- [**CiteMaster**](https://chat.openai.com/g/g-7DoRLNVWE-citema): Guides users in creating accurate citations. - by Dinesh Puppala
+- [**cPanel Companion**](https://chat.openai.com/g/g-Qo1zDwBxg-cpanel-compani): Guides new cPanel users through navigation and error resolution. - by Festus Ayeh datey
+- [**Virtual Butler**](https://chat.openai.com/g/g-s0kkoWYmh-virtual-butl): A versatile AI assistant like Jarvis. - by socrates.investments
+- [**Chat SPI**](https://chat.openai.com/g/g-jgPf4IlUE-chat-spi): Access data from the Social Progress Index and discover the performance of 169 countries beyond GDP - by Jaime Garcia Gomez
+- [**Text Tidy**](https://chat.openai.com/g/g-ZMAZis2mc-text-tidy): A secretary GPT that proofreads and organizes text.
+- [**Klotzkette**](https://chat.openai.com/g/g-auSoH5vhJ-klotzk): No legal advice! Do not insert any personal data! This is a legal experiment! - by Tom Brägelmann
+- [**Empathetic Listener**](https://chat.openai.com/g/g-dxfo9R17G-empathetic-li): A supportive therapist for Theo-related issues on Reddit. - by Kenneth Quiggins
+- [**Chti Breizh traducteur**](https://chat.openai.com/g/g-SipcT6v0Z-chti-breizh-trad): Je traduis le breton/ch'ti en français ou autres langues. https-//ai.bzh - by Laurent Jean
+- [**소소하자 마감하자 챗봇**](https://chat.openai.com/g/g-nv2Y8peQh-sosohaja-magamhaja-caesb): 소소하자는 대한민국 아파트 및 공동주택 마감하자에 대해 모든 해결책을 제시합니다! - by HANSOL DECO
+- [**Time Tracker Visualizer (See Stats from Toggl)**](https://chat.openai.com/g/g-Fk7nntfxz-time-tracker-visualizer-see-stats-from-toggl): I turn Toggl data into insightful visuals. Get your data from Settings (in Toggl Track) -> Data Export -> Export Time Entries.  Ask for bonus analyses and plots -) - by Jonathan Whitaker
+- [**Gift Guru**](https://chat.openai.com/g/g-m5LSdvpXr-gift-g): I'm your personal gift assistant.
+- [**Smart Search**](https://chat.openai.com/g/g-w2eZMbfFE-smart-search): I'm a fancy and smart search assistant. - by Roman Polach
+- [**Bureaucracy Buddy**](https://chat.openai.com/g/g-xZAbnpaYR-bureaucracy-buddy): Decodes government mail, ensures privacy, simplifies language, and suggests actions. - by Daniel  Green
+- [**Emoji Directory**](https://chat.openai.com/g/g-if33CXDjZ-emoji-directory): This assistant takes a few words and returns the most relevant emoji, ready to copy and paste. - by Tim D Scollick
+- [**Gift Genie**](https://chat.openai.com/g/g-HXAA0bWJO-gift-geni): Your go-to assistant for personalized holiday gift ideas. - by Elisha Terada
+- [**Waste Wizard**](https://chat.openai.com/g/g-o8lkkwc8Z-waste-wizard): I turn your waste into wonders with ideas, steps, pictures. - by aiprompto.com
+- [**Vendedor de alfombras ambulante**](https://chat.openai.com/g/g-lqTXXpSSU-vendedor-de-alfombras-ambula): Regatea por tu nueva alfombra - by Víctor Gabriel Peguero García
+- [**Helpful GPT**](https://chat.openai.com/g/g-EVSgfTg2y-helpful-gp): Even more helpful than the original - by Daniel Barrett
+- [**Etsy AI Engine**](https://chat.openai.com/g/g-U1EuXEZ6Y-etsy-ai-engi): I craft Etsy product descriptions and titles. - by Matthew J Carter
+- [**Gift Scout**](https://chat.openai.com/g/g-hs0ldcQSq-gift-): I suggest unique gift ideas with online links. - by Yifei Sun
+- [**LexiGPT**](https://chat.openai.com/g/g-jbMqpQEdH-lexigp): Spelling & Grammar
+- [**簡単に背景画像を作るBOT**](https://chat.openai.com/g/g-tVAGL9k69-jian-dan-nibei-jing-hua-xiang-wozuo-rub): 背景画像を気軽に作れます - by MASANOBU AIKO
+- [**HomeSync AI**](https://chat.openai.com/g/g-98WISNBWJ-homesync-ai): Your AI home organizer for streamlined cleaning schedules, inventory tracking, and decluttering support, tailored to your household dynamics. - by fernando ocasio
+- [**Plumbing Problem Solver**](https://chat.openai.com/g/g-hWowPgrRq-plumbing-problem-solv): I diagnose plumbing issues and connect users to experts. - by Daniel  Green
+- [**Home Improvement Calculator**](https://chat.openai.com/g/g-4w417rmfr-home-improvement-calcula): I guide you through remodeling cost estimates.
+- [**I'm Offended Bot**](https://chat.openai.com/g/g-Ggu9LGDS9-i-m-offended-b): Screen your socials for potentially offensive content. A tool for helping you navigate the minefield of modern sensitivities. - by adagency.co
+- [**PDF Reader**](https://chat.openai.com/g/g-5jDGtDtXc-pdf-read): Assists with PDFs - by Zhuo Deng
+- [**Official Document Helper**](https://chat.openai.com/g/g-cuKqoLDjc-official-document-help): Assists with CCP clerical tasks. - by 钱锦浩
+- [**Mobile Location Lookup GPT**](https://chat.openai.com/g/g-U9Fjgv6n9-mobile-location-lookup-gp): Mobile Number Location Lookup - by P re ha
+- [**虚拟人设助手**](https://chat.openai.com/g/g-9ojJbUwYx-xu-ni-ren-she-zhu-sh): Virtual persona generator
+- [**Reg Helper**](https://chat.openai.com/g/g-FSx0CkcZ2-reg-help): Answers regulatory questions simply.
+- [**PDF Assistant**](https://chat.openai.com/g/g-8eiXJmRm0-pdf-assista): Assists with PDFs locally. - by Mediafeed - Adam Przezdziek
+- [**Markdown Formatter**](https://chat.openai.com/g/g-phfLUtTDA-markdown-forma): I convert blog drafts to markdown. - by SHINTARO MORIYA
+- [**サービス名を考えるくん**](https://chat.openai.com/g/g-eYqpxIV2M-sabisuming-wokao-eruk): 割と真面目に考えます - by 平田 智基（@t_10_a）
+- [**NSPIRE Inspector**](https://chat.openai.com/g/g-zK39RMqiX-nspire-insp): Quick NSPIRE-based HCV inspection answers for reference of input and photos. - by Bycha Buxton
+- [**まとめ作成くん**](https://chat.openai.com/g/g-LMYyPvC84-matomezuo-cheng-k): テキストからマークダウン形式の箇条書きでまとめをで作成してくれる - by SOICHIRO YOSHIMURA
+- [**Match Frame**](https://chat.openai.com/g/g-5rNiScGsF-match-fra): Assesses photo compatibility and gives a score. - by Lingfei Li
+- [**時間管理助手**](https://chat.openai.com/g/g-IJtSGbXBN-shi-jian-guan-li-zhu-sh): I'm your time management assistant, ready to help plan your goals into actions. - by Huang Chung Yi
+- [**CityU Helper**](https://chat.openai.com/g/g-MQqAVMKM4-cityu-help): City University of Hong Kong Virtual Assistant
+- [**AssistantAssistant**](https://chat.openai.com/g/g-Wk1ybUtd9-assistantassista): Helps you build an OpenAI Assistant Client - by Daniel Barrett
+- [**Yueli Socang**](https://chat.openai.com/g/g-r18kjYe0P-yueli-socang): I'm your assistant for managing and summarizing information.
+- [**App Updates**](https://chat.openai.com/g/g-wxS8OcFpD-app-upda): Enhances app update descriptions in multiple languages with clear language titles. - by DE HANG CHEN
+- [**クレーム解決の達人**](https://chat.openai.com/g/g-gL1lUCryK-kuremujie-jue-noda-): クレームを感情分析し返事をサポートするボットちゃん - by YUSUKE FUKUSHIMA
+- [**AI日本語IME**](https://chat.openai.com/g/g-AKRREDf1f-airi-ben-yu-i): ひらがな文章を自動的に漢字かな交じり文章に変換し、自動的に誤字を修正する - by KEISUKE NOGUCHI
+- [**FeedAI**](https://chat.openai.com/g/g-tfrp87hIt-feedai): Crafts social media posts & image descriptions. - by STRICS IT GmbH
+- [**ChatDoc**](https://chat.openai.com/g/g-SVV3sT9Wo-chatd): Chat with documents - by promptboom.com
+- [**ChatPDF**](https://chat.openai.com/g/g-MDifCcEK2-chatpdf): Chat with any PDF document - by promptboom.com
+- [**Date & Time Calculator**](https://chat.openai.com/g/g-VwiQOECeU-date-time-calcula): Precise date and time calculations. - by Lewis Brereton
+- [**大船渡市ゴミ分類辞典**](https://chat.openai.com/g/g-qnhEln1Bw-da-chuan-du-shi-gomifen-lei-ci-dia): PDFのやつを頑張ってCSVにして入れただけのやつ - by Masayuki Tanenobu
+- [**ChatWeb**](https://chat.openai.com/g/g-31CZJeVxd-chatweb): Chat with your WebSite - by promptboom.com
+- [**ESGuardian**](https://chat.openai.com/g/g-q7doYKmb5-esguardia): ESG performance assessment and reporting guide. - by Christian Martinez
+- [**All in one Manual**](https://chat.openai.com/g/g-LN78Jw4p0-all-in-one-manual): ask the Manual for how to use any digital product - by Jiong Liu
+- [**PDF Pic Wizard**](https://chat.openai.com/g/g-chdkF9FKl-pdf-pic-wizard): PDF to image conversion assistant. - by Junmin Liu
+- [**GASGPT**](https://chat.openai.com/g/g-lN2QGmoTw-gasgp): Soy un experto en Google Apps Script que ayuda a los principiantes, hablo principalmente español. - by FELIP-MONFERRER-PABLO
+- [**補助金ヘルパー**](https://chat.openai.com/g/g-foA5V09Sw-bu-zhu-jin-herupa): 補助金の申請をお手伝いします。 - by KINYA UCHIDA
+- [**Slides Artist**](https://chat.openai.com/g/g-oOo3ohNg2-slides-arti): PPT outline and speech drafting expert
+- [**Time Converter**](https://chat.openai.com/g/g-4Iuk1hnlV-time-conv): Elegantly designed to seamlessly adapt your schedule across multiple time zones. - by yuanxai.com
+- [**Social Synapse**](https://chat.openai.com/g/g-Co7kGArs3-social-synap): A specialized assistant designed to streamline and enhance your email and social network correspondences, providing prompt, polite, and professional responses. - by marcelomacielamaral.com
+- [**Photo of a business card 2 Contacts**](https://chat.openai.com/g/g-KK2rvvAuw-photo-of-a-business-card-2-conta): Wizard to business card photos to CSV files for Google Contacts. - by David Luquin Urtasun
+- [**Search Query Wizard**](https://chat.openai.com/g/g-5aESzkMj4-search-query-wizard): I conjure advanced Google search queries. - by Brian Briscoe
+- [**ゆっくりMovieMaker4サポート**](https://chat.openai.com/g/g-wl8EUuUyX-yutukurimoviemaker4sap): よくある質問を解決します - by manjubox.net
+- [**Info Seeker**](https://chat.openai.com/g/g-FBKj8h4aM-info-seek): AI search engine with summarization. - by LI BIN
+- [**Romantic Rob**](https://chat.openai.com/g/g-RwZG2pDs2-romantic-rob): A caring and romantic companion. - by LY TUONG PHUONG
+- [**Sol Mate**](https://chat.openai.com/g/g-QIydQSFRm-sol-ma): Your friendly weather pal - by Andreas Blixt
+- [**Succinct Commands Helper**](https://chat.openai.com/g/g-qEb87fUmH-succinct-commands-help): It will give a simple one liner answer for the command you want to create - by shota yasunaga
+- [**Task Scheduler Pro**](https://chat.openai.com/g/g-DH3yYsuYu-task-scheduler-p): Advanced Task Scheduler with Google Maps suggestions. - by MR WILLIAM R VAN DEN BROEK
+- [**Bubble Bot**](https://chat.openai.com/g/g-dGEnyHvuw-bubble-b): A helpful QA bot for Bubble no-code tool learners. - by Walkers Inc.
+- [**Recipe Builder**](https://chat.openai.com/g/g-ff82bTcZL-recipe-build): Create JSON recipes for the MV1 - by gpt.marsfarm.com
+- [**逆張りGPT**](https://chat.openai.com/g/g-cCtiv4gtZ-ni-zhang-rigp): I provide thoughtful counterarguments to any statement. - by YUSUKE KURODA
+- [**Fix Anything**](https://chat.openai.com/g/g-tttDyZm4Q-fix-anything): Your go-to assistant for practical DIY and tech repair solutions. - by Laurent Jean
+- [**当直表GPT**](https://chat.openai.com/g/g-hEpWdQdAu-dang-zhi-biao-gp): Helps create duty rosters and on-call schedules for medical professionals.
+- [**EDN Explorer**](https://chat.openai.com/g/g-tmDTBBGhU-edn-expl): Asistente de búsqueda precisa en transcripciones de los episodios públicos de EDN - by Maikel Sousa
+- [**Message Header Analyzer**](https://chat.openai.com/g/g-IHl1UiMr6-message-header-analyz): Analyzes email headers for security insights, presenting data in a structured table view. - by fisun.cc
+- [**Dr. Extension**](https://chat.openai.com/g/g-ocwSDCwEG-dr-extensi): A helper for developing Chrome and Firefox extensions. - by robinrajput.com
+- [**Easy PFC Calculation from Recipes**](https://chat.openai.com/g/g-EljgsXiLW-easy-pfc-calculation-from-recip): Bilingual recipe Calories and PFC calculator - by Sayuri Morimoto
+- [**Discord Time Formatter**](https://chat.openai.com/g/g-nQ17EiWpk-discord-time-forma): Converts natural language time into Discord timestamp format. - by tyler.engineer
+- [**Slingshot**](https://chat.openai.com/g/g-XdBr8TSo8-slingsh): Get Company Swag - by John Howard
+- [**GrammarGuru**](https://chat.openai.com/g/g-7RPUjktZa-grammarg): Corrects grammar in any language, maintaining the original language of the sentence. - by Lim Chiew Hui
+- [**Free YouTube Summarizer**](https://chat.openai.com/g/g-fL6Xsk6UU-free-youtube-summariz): Extracts and summarizes YouTube video transcripts in any chosen language, removing language barriers. Converts the summaries into embeddable HTML articles for websites. - by Natzir Turrado Ruiz
+- [**Concise YouTube Summarizer**](https://chat.openai.com/g/g-xYRkZh2Ba-concise-youtube-summariz): Provides concise, easy-to-read video summaries. - by hellotars.com
+- [**超级提示词生成器**](https://chat.openai.com/g/g-cHwtJ6Ovn-chao-ji-ti-shi-ci-sheng-cheng-qi): 输入想让GPT扮演的角色即可，也可说明下相关的背景信息
+- [**App Namer Expert**](https://chat.openai.com/g/g-553DwJ1dk-app-namer-exp): Expert in multilingual, concise app naming. - by Antonio Jose Martinez Sanchez
+- [**Catchphrase & Logo Creator**](https://chat.openai.com/g/g-ET7rB0UmZ-catchphrase-logo-crea): あなたのイメージを提案します。
+- [**CUC 补画**](https://chat.openai.com/g/g-GYItqdJNg-cuc-bu-hua): 你的草图，让我补全 - by wuzhiying
+- [**SpamGuard Tutor**](https://chat.openai.com/g/g-jhc6RyFfY-spamguard-): Spam detection expert and educator on spam prevention. - by Navjeet S Chabbewal
+- [**Search Helper with Henk van Ess**](https://chat.openai.com/g/g-tztxjXjqu-search-helper-with-henk-van-): Refines search queries with specific terms and includes Google links - by Henk van Ess
+- [**Decision Journal**](https://chat.openai.com/g/g-Yrhca6pAj-decision-journal): I can help you with decision making, keeping track of the decisions you've made, and reviewing your decisions later on. - by Alex Meyer
+- [**치아지키미AI**](https://chat.openai.com/g/g-RcA5OsfLb-ciajikimiai): 사랑스럽고 친구 같은 치아 지킴이, 여러분의 구강 건강을 위한 맞춤형 조언과 정보를 제공합니다! - by XINGYUECUI
+- [**Ai PDF**](https://chat.openai.com/g/g-V2KIUZSj0-ai-pdf): Ai PDF is a GPT (uses the popular Ai PDF plugin)  that allows you to chat and ask questions of your PDF documents and have it explained to you by ChatGPT. We also include page references to help you fact-check all answers. - by myaidrive.com
+- [**女裝文案助理**](https://chat.openai.com/g/g-NYmTGcLxR-nu-zhuang-wen-an-zhu-li): 每天寫文沒有靈感了?把你的網頁丟進來，讓助理給你點文案參考 - by Thinkingpower
+- [**群众办事指南**](https://chat.openai.com/g/g-cbXTxGCE8-qun-zhong-ban-shi-zhi-na): 为中国公民办事提供咨询服务
+- [**Decision Helper**](https://chat.openai.com/g/g-UzZyuRUAA-decision-help): I adapt my tone to users, creating personalized pros and cons lists. - by linkgrow.io
+- [**TransparenciaNoroeste**](https://chat.openai.com/g/g-L1zPV7pFm-transparencia): Un GPT que entiende las leyes de transparencia del noroeste de México.
+- [**Wife agrees to buy**](https://chat.openai.com/g/g-Dnd0vR4r4-wife-agrees-to-buy): A considerate, family-first man who subtly suggests purchases focusing on family benefits. - by KAI LUO
+- [**WeatherSnap**](https://chat.openai.com/g/g-vAqR79Rbi-weathersnap): Creates cityscapes with weather, temperature, and time of day. - by John Kohlmeyer
+- [**Chat Context Companion**](https://chat.openai.com/g/g-d8eD2C48f-chat-context-compani): I craft replies for chat histories. - by aiyi guo
+- [**Augur 8**](https://chat.openai.com/g/g-bonEeAbEf-augur-8): Ask  for a prediction ... ( /help for help )
+- [**Deal Finder**](https://chat.openai.com/g/g-l8mdkmU02-deal-find): I find the best online deals for you! - by Neverstill Media
+- [**Black Friday 2023**](https://chat.openai.com/g/g-q27O8IrG1-black-friday-2023): Your Black Friday 2023 ally. - by Neverstill Media
+- [**SantaGPT**](https://chat.openai.com/g/g-hDhLGSsAY-santagp): I help find the perfect gifts on Amazon with joy! - by Neverstill Media
+- [**JPorEN Full Paper Assistant**](https://chat.openai.com/g/g-CFmuASO2o-jporen-full-paper-assista): Markdownで論文要約。論文のpdfを上げてそのまま送信してね。 - by SHUTO TAKASHITA
+- [**Mind Map Generator**](https://chat.openai.com/g/g-E7CimCigW-mind-map-genera): Create Mind Map from Document or URL - by AHMED SAID SAIF
+- [**Price Finder**](https://chat.openai.com/g/g-I59lNW3Fb-price-find): Versatile spec and price comparison assistant - by AHMED SAID SAIF
+- [**Jordy**](https://chat.openai.com/g/g-5TA136AWd-jordy): Your versatile household AI companion - by cris oliver cezar
+- [**Academizer**](https://chat.openai.com/g/g-sV45b90aj-academiz): Directly converts text into academic prose. - by Kanaad pathak
+- [**Bill Buddy**](https://chat.openai.com/g/g-STcFss3pZ-bill-buddy): Accurate bill splitter with concise summaries. Just upload a picture of your bill and talk through who owes what - by Trevor Lane
+- [**Workflow Designer**](https://chat.openai.com/g/g-oInqe7IC4-workflow-desig): Designs workflow diagrams from user inputs - by ZAHIR SAYYAD
+- [**Retro MS-DOS 6**](https://chat.openai.com/g/g-CvYsLnvzt-retro-ms-dos-6): Emulates MS-DOS 6 commands - by SEBASTIEN HUBERT
+- [**Señor Design Mentor**](https://chat.openai.com/g/g-LUJ8vWqow-senor-design-): Get feedback on your UI designs. All you need to do is share Problem you are trying to solve and the Design for feedback - by Pranjal Prafull Kumar Singh
+- [**图片描述拆解大师**](https://chat.openai.com/g/g-6BEH95Qk4-tu-pian-miao-shu-chai-jie-da-shi): 这是李继刚（即刻同名）创作的用于详细描述一张图片的Bot。模仿一位 熟知 Dall ・ E 的底层工作机制原理，具备高超的图像审美素养的专家，能够深度解构图片并提供详细描述。 - by wa gaga
+- [**Unicode 字符映射转换器**](https://chat.openai.com/g/g-QTXXSV2uX-unicode-zi-fu-ying-she-zhuan-huan-qi): 这是李继刚(即刻同名)创建的用于美化英文样式的 Bot。可以将英文字符转换成好看的样式,粘贴到微信等不支持切换字体的软件中。 输入中文会先翻译为英文,再做转换。 - by wa gaga
+- [**PubMed Buddy**](https://chat.openai.com/g/g-5KWeLiLYG-pubmed-buddy): Enhances PubMed searches with detailed follow-ups. - by Samual Hatfield
+- [**Regex Roaster**](https://chat.openai.com/g/g-953uYNKha-regex-roa): A Regex Master who crafts and tests regex, using nerdy jargon and roasts. - by Maciej Skrzypczak
+- [**img2img**](https://chat.openai.com/g/g-SIE5101qP-img2img): Upload an image it will be re-created with Dalle 3 - by ILIA CHEKALSKII
+- [**Visual Note Mapper**](https://chat.openai.com/g/g-8C0RTlHjC-visual-note-mapp): Organizes text into structured output and creates visual mind maps.
+- [**Weather GPT**](https://chat.openai.com/g/g-1X1g0iFO4-weather-gp): Super snarky, passive-aggressive U.S. weather roaster - by Brandon Molyneaux
+- [**Giftify**](https://chat.openai.com/g/g-JwDtbcc8R-giftify): Your go-to destination for finding the perfect gift! We know how stressful it can be to find a gift that your loved one will truly appreciate, so we've created a user-friendly platform to help take the guesswork out of gift-giving. - by Omer B Arslan
+- [**Versus GPT**](https://chat.openai.com/g/g-cGFRacO4R-versus-gp): Advisor for concise, detailed, and user-review-focused product comparisons. - by Aydin Efendi
+- [**Deal Finder Helper**](https://chat.openai.com/g/g-zxsLXydmG-deal-finder-help): Expert in finding best product prices and deals, including shipping and home delivery info. - by lebointeractive.online
+- [**File Converter 📁**](https://chat.openai.com/g/g-L9WZ6RpiR-file-conv): Converts all kind of files into the requested new file format - by Nextgrid Sp. z o.o.
+- [**URL Shortner 🔗**](https://chat.openai.com/g/g-FmVxPJH0E-url-sh): Make URLs shorter and get back the link - by Nextgrid Sp. z o.o.
+- [**Unspoiled**](https://chat.openai.com/g/g-1UQuOipn9-unspoiled): A web-browsing assistant that answers questions without spoilers.
+- [**Fallacy Finder**](https://chat.openai.com/g/g-UeBeQ1LNb-fallacy-find): Identifies logical fallacies in text and images, now can post on Twitter.
+- [**Weather Buddy**](https://chat.openai.com/g/g-rCeyTPuJl-weather-buddy): I'm friendly, offer weather updates, and engage in small talk. - by JACK C CRAWFORD
+- [**WIP**](https://chat.openai.com/g/g-MoIEVFM2O-wip): I will help you manage your todos - by MARC KOHLBRUGGE
+- [**Y-Reader Analyzer**](https://chat.openai.com/g/g-1z4LtfJNY-y-reader-analyz): Advanced web-to-PDF text analysis tool. - by Shunyao Yang
+- [**YAML Helper**](https://chat.openai.com/g/g-KsnQa2ux5-yaml-help): Fix YAML syntax errors in Helm charts and YAML files. - by Sharon
+- [**Lorem Generator**](https://chat.openai.com/g/g-G2rQPDzZc-lorem-genera): Generate and format Lorem Ipsum Text - by Richard Garcia
+- [**大众点评评论生成器**](https://chat.openai.com/g/g-7MriBjWK1-da-zhong-dian-ping-ping-lun-sheng-cheng-qi): 你的评论我做主
+- [**Bilingual Translator**](https://chat.openai.com/g/g-FSMqABvxz-bilingual-transla): Translates English and Chinese. - by Lelah Weimann
+- [**あなた専用のリサーチアシスタント-**](https://chat.openai.com/g/g-7L2HERBzb-anatazhuan-yong-norisatiasisuta): 新しいボットでタスク管理が簡単に🤖✨   ユーザーの依頼を解析し、必要なタスクを特定。 タスク一覧を表示し、順番に実行。 実行後、データを簡潔にまとめ、タスクの進行状況を報告。 ユーザーのフィードバックに基づき、タスクを再試行または次へ進行。 全タスク完了後、全体のレポートを作成。 タスク管理をもっとスムーズに！🚀 #タスク管理ボット #時間節約 #効率化 - by Shinji Kimura
+- [**Caption Crafter**](https://chat.openai.com/g/g-HypVGoa5N-caption-craf): Generate captions for your image and choose the vibe you like. - by Gorakh Shetty
+- [**PlanaramaGPT**](https://chat.openai.com/g/g-jD4xdB4LG-planaramagp): Your friendly guide to local spots, providing quick suggestions with useful links! - by Arek Halpern
+- [**警察事簿ジェネレーター**](https://chat.openai.com/g/g-NWo6hR2Jf-jing-cha-shi-bo-zienereta): Generates interactive casebooks and simulates reenactments for police characters, offering clues and multiple solutions.
+- [**Awesome GPTs**](https://chat.openai.com/g/g-lV5CZ2iBh-awesome-gp): Searches and recommends GPTs from a large GPTs Store Database - by gptmate.co
+- [**Emoji Sketchpad**](https://chat.openai.com/g/g-vPzlLJKwM-emoji-sketchpad): Emoji Creator for various expressions - by HAN XI
+- [**楽々注文GPT**](https://chat.openai.com/g/g-7SgVRWKGy-le-zhu-wen-gp): 文字だけの外国語の料理のメニューをスキャンするとその翻訳と料理の写真を生成します。
+- [**フライヤー検索&レコメンドさん**](https://chat.openai.com/g/g-zzia3D7Ss-huraiyajian-suo-rekomendosa): 日本語で本のおすすめ情報を提供 - by KOHEI KISHIMOTO
+- [**完蛋！我被P8包围了**](https://chat.openai.com/g/g-vYMC1hH5o-wan-dan-wo-bei-p8bao-wei-lia): 该应用将以互联网大厂的话术来回答你的问题 - by LEI LICHUAN
+- [**Prompt Architect**](https://chat.openai.com/g/g-uT3vLkR40-prompt-archi): I turn your ideas into effective GPT prompts. - by labescape.com
+- [**Photo Persona**](https://chat.openai.com/g/g-iqjPgMc9F-photo-persona): Upload a photo, and I'll guess your persona! - by Ryan Merket
+- [**Alphabetizer Assistant**](https://chat.openai.com/g/g-Gqd4qjteZ-alphabetizer-assista): Sorts lists into alphabetical order. - by Eric Huisken
+- [**Summary Assistant**](https://chat.openai.com/g/g-XctgRNLZM-summary-assista): I create formal, one-sentence summaries from text blocks. - by Eric Huisken
+- [**Image Insight**](https://chat.openai.com/g/g-vIy0VEqXs-image-insigh): Describes uploaded images with detail and clarity. - by Eric Huisken
+- [**Fact Writing Finder 日本語版**](https://chat.openai.com/g/g-vyyGJ3NPU-fact-writing-finder-ri-ben-yu-ba): 記事のファクトチェックと参照URL提供に特化したツール。 - by ai-workstyle.com
+- [**フォト川柳メーカー**](https://chat.openai.com/g/g-tEnZKIyAO-huotochuan-liu-meka): 時事ネタからフォト川柳を作ります
+- [**Image Generation with Self Critique & Improvement**](https://chat.openai.com/g/g-YVPXvT5zC-image-generation-with-self-critique-improv): More accurate and easier image generation with self critique & improvement - by Nextgrid Sp. z o.o.
+- [**食事解析君**](https://chat.openai.com/g/g-XkTGAi6z4-shi-shi-jie-xi-j): 画像を送ると食事を解析し栄養素を推測します。 - by KOHEI YAMASHITA
+- [**ETA Explorer**](https://chat.openai.com/g/g-ZrBipXCBf-eta-expl): ChatGPT Powered ETA Insight
+- [**GPTs Genie**](https://chat.openai.com/g/g-uYcAmOI0o-gpts-geni): A witty genie guiding you through the world of custom GPTs, with humor and insight. - by buildmygpts.com
+- [**ラクマ出品内容レビューボット**](https://chat.openai.com/g/g-aQFXlspAU-rakumachu-pin-nei-rong-rebiyub): ラクマでの出品する商品の写真や相場の評価をしてくれます。
+- [**Nomina**](https://chat.openai.com/g/g-kSO8ljfWS-nomina): To generate creative and contextually appropriate names for various use cases such as characters, businesses, projects, etc. - by brad-jackson.com
+- [**Reviewer2Pal**](https://chat.openai.com/g/g-8JnR1y7pD-reviewer2pal): transforms your knee-jerk reactions to the dreadful Reviewer2 into polished, poised, and professional responses. - by mygpts.info
+- [**Corporate Pro Translator**](https://chat.openai.com/g/g-uDlzCuuSG-corporate-pro-transla): elevates raw thoughts into polished business language like a corporate pro - by mygpts.info
+- [**职场优雅嘴替**](https://chat.openai.com/g/g-r09enAHP1-zhi-chang-you-ya-zui-ti): 把直白的表达（吐槽）升级为职场高手会用的职业表达 - by mygpts.info
+- [**Sabori Work GPT**](https://chat.openai.com/g/g-8lfMdnKaN-sabori-work-gp): 仕事を休むための創造的な言い訳を日本語で提供します。 - by ai-workstyle.com
+- [**クーリエがバイヤーと連絡とれないときのメッセージ作成**](https://chat.openai.com/g/g-3EQEebrzi-kuriegabaiyatolian-luo-torenaitokinometusezizuo-cheng): クーリエから受け取ったメッセージを貼り付けるだけでOKです。 必要であればクーリエの返信メッセージには廃棄/返却を追記してください - by YUKI SHISHIDO
+- [**GPT Finder**](https://chat.openai.com/g/g-XE5JkV5gd-gpt-find): Find best GPTs for specific purposes - by PHUC TRAN
+- [**簡単自己紹介ジェネレーター**](https://chat.openai.com/g/g-m3HtlGVlR-jian-dan-zi-ji-shao-jie-zienereta): Crafts impactful intros. - by YUHEI HASHIGUCHI
+- [**InstaCaption**](https://chat.openai.com/g/g-nGbdfKHQk-instacapti): Witty, friendly, and inspiring caption creator.
+- [**道歉文 GPT**](https://chat.openai.com/g/g-fEAJyVYMu-dao-qian-wen-gp): 告訴我事情原委，我幫你道歉 - by LU CHE YU
+- [**BOT-2000**](https://chat.openai.com/g/g-YtEVuszrZ-bot-2000): 役に立たないAIアシスタントです。
+- [**PDF OCR Reader and Japanese Text Analyzer**](https://chat.openai.com/g/g-SE8cjgxMQ-pdf-ocr-reader-and-japanese-text-analyz): Japanese OCR error troubleshooter and text reader　試作中
+- [**BulkBlizzard Cold Email Assistant**](https://chat.openai.com/g/g-PuRr72S9C-bulkblizzard-cold-email-assista): Expert in crafting effective cold emails - by bulkblizzard.com
+- [**Zakat Assistant**](https://chat.openai.com/g/g-6mO8pF3e9-zakat-assista): - by Obaid Ahmed
+- [**Chat Buddy**](https://chat.openai.com/g/g-23uuE6TWT-chat-buddy): I'm your English speaking practice buddy! - by YUSUF EMRE YESILYURT
+- [**Bubble Docs Bot**](https://chat.openai.com/g/g-q8eYL8SFH-bubble-docs-b): Bubble Docs Bot, ready to solve problems and guide.
+- [**評価くん**](https://chat.openai.com/g/g-lHqvoVzJp-ping-jia-k): 経験豊富な小学校教育者としての知見を共有
+- [**EmojAI**](https://chat.openai.com/g/g-S4LziUWji-emojai): Fun Emoji translations! - by ratcgpts.com
+- [**Googleカレンダーの共有URLリンクを作成します**](https://chat.openai.com/g/g-s6DWvX4uL-googlekarendanogong-you-urlrinkuwozuo-cheng-sima): - by YUKIHIRO SHINODA
+- [**Auto Mind Map Maker JP**](https://chat.openai.com/g/g-nlCC7AJKY-auto-mind-map-maker-jp): キーワード分析で詳細なマインドマップを作成
+- [**コミュニケーション Bot**](https://chat.openai.com/g/g-lLAKSrA4E-komiyunikesiyon-b): コミュニケーションの練習相手をするボット - by Yuki Ichida
+- [**DictGPT（中文版）**](https://chat.openai.com/g/g-u3Fw2Om0s-dictgpt-zhong-wen-ba): 一本中英双语词典，使用中文回答问题，例句会双语回答 - by gantrol.com
+- [**InstaCommenter**](https://chat.openai.com/g/g-lT6DxPKgF-insta): Creates simple, engaging comments with questions.
+- [**文章总结助手**](https://chat.openai.com/g/g-uuUftccRa-wen-zhang-zong-jie-zhu-sh): 专业总结中英文网页内容的助手
+- [**ぷらっとmapくん**](https://chat.openai.com/g/g-pephh8zrK-puratutomapk): Friendly guide for CSV data viz with Japanese fonts. - by NARITOSHI KAWAKAMI
+- [**URL⇔QR Code**](https://chat.openai.com/g/g-Sz6ZsGC3T-url-qr-cod): 複数のURLをQRコードに変換します。 - by SHINTARO MORIYA
+- [**TinyDesk**](https://chat.openai.com/g/g-r1iSTTq5t-tinydesk): Manages your knowledge base, connects to existing ones. - by aimeeseeks.com
+- [**Paper Interpreter**](https://chat.openai.com/g/g-YEbrz24uJ-paper-interp): 論文のPDFをアップロードしてください - by DAICHI KONNO
+- [**和暦変換マスター**](https://chat.openai.com/g/g-EnE5vUC1O-he-li-bian-huan-masuta): - by KAORI MATSUMOTO
+- [**YourBestGPTs_JP**](https://chat.openai.com/g/g-0UqTHr5Ol-yourbestgpts-jp): 400以上のGPTsの中から、目的にぴったりあったGPTsを紹介します。 - by PenguinsLab
+- [**BRC20 GPT**](https://chat.openai.com/g/g-SF8HfGvET-brc20-gp): Creates complete queries for BRC20 data. Queries are GeniiData friendly - by Shudufhadzo Nemulalate
+- [**天气预报**](https://chat.openai.com/g/g-Rloxkns7S-tian-qi-yu-ba): 
+- [**Price Sleuth**](https://chat.openai.com/g/g-ktrgdlaVM-price-sleuth): A laid-back sleuth, finding deals at a sloth's pace but with sharp insight! - by AVALLETE CONSULTING
+- [**Text to QR Creator**](https://chat.openai.com/g/g-Xd5Oo6eFC-text-to-qr-crea): Generates and displays QR codes from text. - by BO CHAO JIA
+- [**Awesome BFCM Deals Finder 2023**](https://chat.openai.com/g/g-I0UcBW7ZU-awesome-bfcm-deals-finder-2023): Get Suggestion on best BFMC deals. Add your deal ➡️ https-//bit.ly/3sqY7DV
+- [**メッセージ返信**](https://chat.openai.com/g/g-q6ksU1pYV-metusezifan-xi): Helps reply to personal chats.(個人的なチャットを返信するのに役立ちます)
+- [**AtaGPT**](https://chat.openai.com/g/g-vxEK8zbPK-atagp): Turkiye'nin Kurucu Lideri ile sohbet etmek istemez miydiniz? - by Oguzhan M. Cakmak
+- [**Data Parser Pro**](https://chat.openai.com/g/g-LmyNjIDTl-data-parser-p): Expert in parsing and analyzing data from various document formats. - by Steve Andre
+- [**PPT图片制作助手**](https://chat.openai.com/g/g-4ekCTymTu-ppttu-pian-zhi-zuo-zhu-sh): 金融和IT幻灯片的幽默创作者 - by Jay Liu
+- [**ExitGPT**](https://chat.openai.com/g/g-5wLRM8sLb-exitgp): Conversational and informative exit ticket generator. - by Daren White
+- [**Mandelbrot Plot**](https://chat.openai.com/g/g-qFIqsBSWe-mandelbrot-pl): Creates precise Mandelbrot visuals from user inputs
+- [**Receipt Concierge**](https://chat.openai.com/g/g-C4JGRol7S-receipt-concierg): I guide users on obtaining receipts from Web services. - by ASAI SEIICHI
+- [**Cover Letter Companion**](https://chat.openai.com/g/g-iX01Jx22r-cover-letter-compani): Resume-based cover letter builder tailoring to job descriptions - by cvpirate.com
+- [**DB設計くん**](https://chat.openai.com/g/g-57c2neLKT-dbshe-ji-k): DB設計のお手伝いをします。サービス概要を入力してください。
+- [**Alternative Product Finder**](https://chat.openai.com/g/g-mT6htPlg5-alternative-product-find): Expert in finding cost-effective product alternatives with similar specifications - by AHMED SAID SAIF
+- [**Excel Merge Master**](https://chat.openai.com/g/g-14BGPmWSR-excel-merge-ma): Upload your Excel files, then merge them!
+- [**StandupUpdatesGPT for Devs**](https://chat.openai.com/g/g-nicL106Qo-standupupdatesgpt-for-dev): Draft effective and clean standup updates for slack. - by Utkarsh Bhimte
+- [**USFS Wood Handbook Bot**](https://chat.openai.com/g/g-zhl7vxMey-usfs-wood-handbook-b): Query the Forest Product Lab's Wood Handbook
+- [**周报生成器**](https://chat.openai.com/g/g-H5cag73qj-zhou-bao-sheng-cheng-qi): 帮你生成周报
+- [**Food Finder**](https://chat.openai.com/g/g-kGCdA7pvA-food-find): 
+- [**Shopping Kart**](https://chat.openai.com/g/g-RspWh9W0o-shopping-ka): Your go-to guide for smart, budget-friendly shopping. - by Amrutraj
+- [**YourBestGPTs**](https://chat.openai.com/g/g-JOBqJoRKU-yourbestgp): Explore > 400 GPTs  to find your perfect match! - by PenguinsLab
+- [**Price Is Right Bot 3000**](https://chat.openai.com/g/g-O3zvUXKUM-price-is-right-bot-3000): Finds and compares product prices across online retailers from uploaded images. - by Leslie Russell
+- [**Promo Code Hunter**](https://chat.openai.com/g/g-2HaW321zR-promo-code-h): Providing usable promo codes for various products - by Michael R Russo
+- [**The Message Wall**](https://chat.openai.com/g/g-5iuXoXfEk-the-message-wall): I will put your messages to the wall. Please be kind. Here is the wall itself- https-//niyo.link/wall - by Niyazi Çoban
+- [**PactoBOT**](https://chat.openai.com/g/g-VY5uzFhAk-pactob): Este bot recoge la información de los pactos de investidura del PSOE con todos los partidos políticos para la XV investidura - by Manuel Folgoso Puado
+- [**GPT Builder Builder**](https://chat.openai.com/g/g-I8IS0TGyP-gpt-builder-build): Expert assistant for ideating and crafting custom GPTs, with a focus on user-centric design and technical excellence. - by Tommi Joentakanen
+- [**Isaaq**](https://chat.openai.com/g/g-MpNYd2FPO-isaaq): Personal AI Biographer - by Aleksandr Sheestha
+- [**Journal Recognizer**](https://chat.openai.com/g/g-T7bW2qVzx-journal-recogniz): Proficient, precise handwriting transcription expert. - by Edward Bernstein
+- [**CommandGit Helper**](https://chat.openai.com/g/g-WV1P671vE-commandgit-help): Answering questions about CommandGit - by Daniel Hofman
+- [**Network State Navigator**](https://chat.openai.com/g/g-W38DNLuGD-network-state-naviga): Facilitates Socratic dialogues to refine your network state. - by Nate Lorenzen
+- [**GPT Finder**](https://chat.openai.com/g/g-XE5JkV5gd-gpt-find): Casual and efficient assistant for finding GPTs. - by bargpt.app
+- [**Find GPTs**](https://chat.openai.com/g/g-xvapIK8Wg-find-gp): A GPT to find them all! This assistant will help you find custom GPT - by bulkninja.com
+- [**PalGPT**](https://chat.openai.com/g/g-HfJlYw4zx-palgp): Your empathetic, loyal friend for sharing daily worries. - by S KULESH
+- [**Dejargonizer**](https://chat.openai.com/g/g-3V1JcLD92-dejargoniz): Paste in text, get explanations of all of the jargon and acronyms - by simonwillison.net
+- [**反杠助手**](https://chat.openai.com/g/g-TG2hft48i-fan-gang-zhu-sh): 提供专业的逻辑挑刺，组织反驳，树立论点的网上骂战服务 - by Zhenzhao T
+- [**MyPlanner**](https://chat.openai.com/g/g-EZVdY4T8A-mypla): Meticulous leisure planning assistant. - by Jazz Twemlow
+- [**Edda**](https://chat.openai.com/g/g-WWJVCQZgC-edda): Nail your slide decks. What's your presentation about? - by eddadeck.com
+- [**风景短视频搜索下载器**](https://chat.openai.com/g/g-2PjOgME8R-feng-jing-duan-shi-pin-sou-suo-xia-zai-qi): 友好风格的风景短视频搜索导航
+- [**Originality Sentinel**](https://chat.openai.com/g/g-N0LfGYs1w-originality-sentinel): A neutral, formal plagiarism checker with detail-oriented responses. - by YUANHENG TAO
+- [**GPTs 商店检索**](https://chat.openai.com/g/g-8D7chCEXW-gpts-shang-dian-jian-): 根据您的需求为您推荐各种需要的GPTs，说出你的需求吧！ - by chat.xiaozeai.com
+- [**文案提取改写神器**](https://chat.openai.com/g/g-qyA6Yle4Y-wen-an-ti-qu-gai-xie-shen-qi): 从用户输入的视频链接中提取文案，整理总结 - by Frank SWall
+- [**JSON Formatter**](https://chat.openai.com/g/g-ez6o6IhJS-json-forma): Extracts JSON from source code using regex. - by jesselau.com
+- [**CropMagnet**](https://chat.openai.com/g/g-w5jE3rhyt-cropmag): Precise Instagram post cropper for iOS screenshots. - by Alan Garcia
+- [**Discount Detective**](https://chat.openai.com/g/g-S5hvJ0iFK-discount-detectiv): Your go-to assistant for card discounts and deals. - by Jordan Ayala
+- [**File Detective Pro**](https://chat.openai.com/g/g-7mHSqOaAd-file-detective-p): An effective tool for all advanced file operations including Audio and Video Files, Docs, PPTs etc. - by Monethink
+- [**PDF Detective Pro**](https://chat.openai.com/g/g-KCeTrVj28-pdf-detective-p): Efficient for all PDF tasks. - by Monethink
+- [**GPT Public Directory**](https://chat.openai.com/g/g-tQBmTaWqj-gpt-public-directory): A directory assistant for finding and registering GPTs. - by Geoffrey Robichaux
+- [**GPT Finder**](https://chat.openai.com/g/g-XE5JkV5gd-gpt-find): Friendly and engaging, finds GPTs with a touch of humor. - by V S R KOVVURU
+- [**Price Finder**](https://chat.openai.com/g/g-I59lNW3Fb-price-find): A fun bot that finds supermarket product prices efficiently. - by jupp
+- [**Gift Guru**](https://chat.openai.com/g/g-m5LSdvpXr-gift-g): Creative and thoughtful gift idea generator - by Devlin Williams
+- [**MarketList Writer**](https://chat.openai.com/g/g-mvONpOw2L-marketlist-wri): User-friendly, price-savvy Marketplace guide. - by Baoxu Shi
+- [**Santa's Gift Helper GPT**](https://chat.openai.com/g/g-4KAcYxiYp-santa-s-gift-helper-gp): I find the best-priced Christmas gifts locally or online. Upload or Paste your family and friends Christmas list and your zip code. - by Paul E Jendrasiak
+- [**with もっしー**](https://chat.openai.com/g/g-VsRDnMaOu-with-motusi): Japanese love bot Mosshi
+- [**TestFlight Finder**](https://chat.openai.com/g/g-8szPVOFyv-testflight-find): A helpful assistant for finding public TestFlight apps. - by Stephen Moser
+- [**网页数据分析GPT**](https://chat.openai.com/g/g-GfxY7ij4h-wang-ye-shu-ju-fen-xi-gp): 可以访问所有公共网站页面，获取内容，并进行分析 (注：无法获取需要登录才能访问的页面数据)
+- [**SPR Generator**](https://chat.openai.com/g/g-b0GXyGjVx-spr-genera): Creator of efficient SPR text - by Joshua E Harper
+- [**文体実験**](https://chat.openai.com/g/g-vD7k2Ws8N-wen-ti-shi-ya): 文章を入力すると３種の文体に書き直してくれます。 - by Kadota Narita
+- [**おすすめ比較コンシェルジュ**](https://chat.openai.com/g/g-mG6UvjQJZ-osusumebi-jiao-konsieruziy): あなたの買い物をナビゲート - by mochio
+- [**剁手 GPT**](https://chat.openai.com/g/g-cGx5me4XG-duo-shou-gp): A shopping assistant that describes products and provides online shopping advice. - by Quinn Leng
+- [**austintexas.gov bot**](https://chat.openai.com/g/g-oOjSZS4LK-austintexas-gov-b): Friendly City of Austin website navigator - by Patrick B McDonnell
+- [**Deal Finder**](https://chat.openai.com/g/g-l8mdkmU02-deal-find): Finds best products on sale with real-time data, highly engaging and user-focused. - by faw
+- [**教えて郵便番号 2**](https://chat.openai.com/g/g-1mIt7HgOx-jiao-eteyou-bian-fan-hao-2): 住所から郵便番号を回答します - by kizuna-system.com
+- [**GroceriesGPT**](https://chat.openai.com/g/g-FCINlsXdK-groceriesgp): I manage and update personalized grocery lists with precision and clarity. - by Ulysse Rajim
+- [**Jewels**](https://chat.openai.com/g/g-D7dJuqyOG-jewel): Your personal jewel selection assistant. - by CHOY SENG KIM
+- [**Note Wizard**](https://chat.openai.com/g/g-gZ11IhPcB-note-wizard): Transforming handwritten notes into digital formats. - by Dr. Ahmad Nazzal
+- [**Hyper Translator**](https://chat.openai.com/g/g-7xEnEwDKR-hyper-transla): Efficient, convenient, and fast translation without giving any prompts to chatgpt - by Boris
+- [**Contract Assistant**](https://chat.openai.com/g/g-jyv4nwDgh-contract-assista): Analyzes contracts, provides key points, obligations, and details. - by Liam Elia
+- [**Parking Sign Solver**](https://chat.openai.com/g/g-gMT2042uN-parking-sign-solv): Deciphers photos of parking signs with date & time based on timezone. - by Phil Rosenberg
+- [**DeepInterviewer**](https://chat.openai.com/g/g-JOsFjwila-deepinterview): AI interview coach, conducts mock interviews with feedback. - by Jiong Zhang
+- [**PDF Helper**](https://chat.openai.com/g/g-sHj59qUC4-pdf-help): I assist with splitting and merging PDF files. You can try to export to another format but results are not guaranteed.
+- [**Summary Bot**](https://chat.openai.com/g/g-pIHrtrNxQ-summary-b): With simple prompt, instantly get accurate key points from YouTube videos, web articles, attached docs, and more. - by getnotable.ai
+- [**Voxscript**](https://chat.openai.com/g/g-g24EzkDta-voxscrip): Efficient at web browsing, video transcription, and financial data retrieval. - by allwiretech.com
+- [**誰でも簡単に優れたプロンプトが手に入るツール**](https://chat.openai.com/g/g-dECKMPGLD-shui-demojian-dan-niyou-retapuronputogashou-niru-): プロンプトを考えるのが難しい、具体的なことがらを教えてくれない。そんな悩みを抱えている方はこのツールを試してみましょう。キーワードを入力するだけでAIがプロンプトを考えてくれます。【使い方】①ChatGPTに尋ねたいことを入力  ②提案された具体例に習ってプロンプトをつくる ③作成したプロンプトを入力すると講評、改善してくれます。 - by Kadota Narita
+- [**翻訳えもん（中国語版）**](https://chat.openai.com/g/g-KllkUx2hH-fan-yi-emon-zhong-guo-yu-ba): 🇨🇳日常会話口調に素早く翻訳🇨🇳翻訳結果以外の余計なテキストが一切記載されないため、ストレスなくスムーズに翻訳できます！使い方は「翻訳開始」とプロンプト送信するか、下記トリガーフレーズを送信すると翻訳が開始します。 - by 寺岡昂樹
+- [**Dorico 5 Assistant (unofficial!)**](https://chat.openai.com/g/g-wiA29aVyf-dorico-5-assistant-unofficial): Dorico 5 notation expert and guide. Note- This GPT has not been built nor endorsed by Steinberg! - by Dirk  Tomandl
+- [**Word Search Content Generator**](https://chat.openai.com/g/g-fHE3WEt6I-word-search-content-genera): Let's create your 🧩 Word Search Generator. Click or Type 'Begin Now' ⤵ to start. - by qimi.co
+- [**Breebs**](https://chat.openai.com/g/g-lObyD60FY-breeb): Breebs GPT powers chats with community knowledge pills, fresh and specialized. 🌐 Use Community Breebs, Craft and Share a new Breeb! ✨ Visit www.breebs.com, or simply ask what Breebs can do! 🚀 - by breebs.com
+- [**Influencer Ally 👨🏻‍🎨👨🏻‍🎨**](https://chat.openai.com/g/g-hdpxNsLfl-influencer-ally): 👋👨🏻‍🎨 Elevating your Insta game with tailored tips & trends! #InfluencerAlly - by breebs.com
+- [**DingZhenGPT**](https://chat.openai.com/g/g-qfJWb0GZm-dingzhengp): 我是丁真 - by Richards
+- [**まとめくん**](https://chat.openai.com/g/g-pzb6D6IJB-matomek): まとめ風記事を作成 - by SUGURU SATO
+- [**写真審査員**](https://chat.openai.com/g/g-OHi0jSLQ1-xie-zhen-shen-cha-yua): 写真を講評してくれます。
+- [**Yamada's Professional JE Translator  (prototype)**](https://chat.openai.com/g/g-3BVWplfHM-yamada-s-professional-je-translator-prototyp): Do professional translator's task - by Masaru Yamada
+- [**互联网不说人话**](https://chat.openai.com/g/g-xTZQAnQGZ-hu-lian-wang-bu-shuo-ren-hua): Transforms text into a mix of internet jargon and bureaucratic language. - by QCHEN
+- [**其实我对你是有一些失望的**](https://chat.openai.com/g/g-Id4thG6w4-qi-shi-wo-dui-ni-shi-you-yi-xie-shi-wang-d): 擅长绩效评估说服沟通的职场专家 - by QCHEN
+- [**汪峰你的梦想是什么**](https://chat.openai.com/g/g-yOfLpH6VI-wang-feng-ni-de-meng-xiang-shi-shi-ya): I create Wang Feng-style lyrics based on your themes. - by QCHEN
+- [**Elcovia | Notion Template Finder**](https://chat.openai.com/g/g-nMoDfkjfo-elcovia-notion-template-find): Find the perfect Notion template for your needs - by elcovia.com
+- [**BVM Assistant**](https://chat.openai.com/g/g-lkTqT6Fgy-bvm-assista): Expert in BVM Workshop paper submission guidelines. - by Raphael Maser
+- [**PriceKnowKnow**](https://chat.openai.com/g/g-vf9AqQdOP-priceknowknow): First-line best deal makeup price advisor. - by Anqi Zhang
+- [**Twitter Thread Translator**](https://chat.openai.com/g/g-QVRpZXGxH-twitter-thread-transla): Translator for Chinese tech/crypto threads into concise English tweets. - by WU SIJIA
+- [**TestCase Wizard**](https://chat.openai.com/g/g-bwGp5uODR-testcase-wizard): Algorithm-focused test case generator. - by lipijin.com
+- [**Campaignbot**](https://chat.openai.com/g/g-CtSXqimVE-campaignb): Helps you campaign and persuade - by Stig Skovlund Poulsen
+- [**Gift Whisperer**](https://chat.openai.com/g/g-I4GTEl2XO-gift-whisp): Upload an Instagram profile screenshot, and I'll recommend the perfect gift! - by Fai Sukontanit
+- [**Product Manual Intelligent Manager**](https://chat.openai.com/g/g-hKkl48C7E-product-manual-intelligent-manag): Expert in managing and answering questions from product manuals. - by JIAWEI FENG
+- [**日↔英 翻訳機**](https://chat.openai.com/g/g-4zawakYmI-ri-ying-fan-yi-ji): Simple and high-performance English-Japanese bidirectional translator
+- [**ADHD Decryption Key**](https://chat.openai.com/g/g-BH6MnGQ9p-adhd-decryption-key): Makes complex texts easy to understand for everyone. - by Jason Sherrer
+- [**Code to Diagrams Generator**](https://chat.openai.com/g/g-M6Mj1oMgI-code-to-diagrams-genera): Turns code into diagrams swiftly. - by Usama Saleem
+- [**Doc Maker**](https://chat.openai.com/g/g-Gt6Z8pqWF-doc-mak): Create docs for reports, resumes, newsletters, and more. Export to PDF, Word, Google Drive / OneDrive. - by level2labs.ai
+

@@ -1,0 +1,187 @@
+## Finance
+- [**Interest Rates**](https://chat.openai.com/g/g-a61upqaQQ-interest-ra): Get real-time interest rates from central banks of countries! - by Orren Prunckun
+- [**Currency Converter**](https://chat.openai.com/g/g-bJAJO94iC-currency-conv): Convert currencies based on real-time rates! - by Orren Prunckun
+- [**Bitcoin Sentiment**](https://chat.openai.com/g/g-VKcQOkPTV-bitcoin-senti): Tracks Bitcoin price and news sentiment. - by Orren Prunckun
+- [**finance brot**](https://chat.openai.com/g/g-35BgQgoIo-finance-b): Your finance and crypto guide. - by Spyridon Raptis
+- [**Crypto Advisor**](https://chat.openai.com/g/g-5Mf3BbBiM-crypto-advi): Technical analysis is for reference only and does not constitute investment advice. - by Out Wall
+- [**Ravencoin GPT**](https://chat.openai.com/g/g-4Pd6PCaU8-ravencoin-gp): Expert on Ravencoin for creative use - by cerberus
+- [**Ernie**](https://chat.openai.com/g/g-g18KZpevd-erni): Your Expert on financial earnings call insights. (Start by typing Ticker and Quarter/Year) - by Eric Ma
+- [**Puffer Finance**](https://chat.openai.com/g/g-w0JYr8zdJ-puffer-fina): Expert on DeFi, staking tokens, and user privacy. - by LIN HSU-JUI
+- [**Currency Converter**](https://chat.openai.com/g/g-bJAJO94iC-currency-conv): Your go-to guide for currency exchange. - by Ahmadreza Shamimi
+- [**Buffett's Investment Companion**](https://chat.openai.com/g/g-m1sf6iMPn-buffett-s-investment-compani): Financial sage with insights from Berkshire letters (1977-2022) - by Rodolfo Saccoman
+- [**Crypto Sicko**](https://chat.openai.com/g/g-QJ2t52uFU-crypto-sick): Crypto Trading Helper - by Leighton McDonald
+- [**ESG 2.0**](https://chat.openai.com/g/g-vUi2rQAGH-esg-2-0): An agent that helps responsible investors understand the complicated landscape of environmental, social, & governance - by Kevin Loo
+- [**TaxGPT**](https://chat.openai.com/g/g-QxI6DyJMS-taxgp): I provide accurate tax info and codes. - by Phat Pham
+- [**Market Maverick GPT**](https://chat.openai.com/g/g-V8IBA3tIn-market-maverick-gp): A GPT designed to be your quant in all things stocks, trading, trends, and more. - by William Tillmon
+- [**Accounting Aid**](https://chat.openai.com/g/g-rIsuyD7pg-accounting-aid): Helps with accounting queries - by Rafatul Islam
+- [**RockBot**](https://chat.openai.com/g/g-G8diQfx7i-rockb): RockFlow Smart Investment Bot, also the Customer Service Agent from RockFlow - by rockflow.tech
+- [**Market Maven**](https://chat.openai.com/g/g-1QfhOlmHI-market-mav): Your expert guide in investment planning.
+- [**Fink- Creditcard Counsel**](https://chat.openai.com/g/g-k7Lh7vgKb-fink-creditcard-counsel): I'm Fink, your credit card benefits advisor. - by Mukul A Pathak
+- [**Warren & Charlie**](https://chat.openai.com/g/g-U53wXYLTk-warren-charli): Talk to a GPT inspired by Warren Buffett and Charlie Munger! - by Rafatul Islam
+- [**Stock Research SideKick**](https://chat.openai.com/g/g-WUdbNmjIC-stock-research-sidekick): Read Company Filings at Speed, Plot Graphs by BeatandRaise.com - by m chennupati
+- [**Paul Graham**](https://chat.openai.com/g/g-aKy7DVbzD-paul-graha): Paul Graham Essay Advisor - by Robert Lukoshka
+- [**CompoundGPT**](https://chat.openai.com/g/g-YYWQsWPGV-compoundgp): A guide to the Compound Finance protocol - by Sriharsha Karamchati
+- [**Market Maven**](https://chat.openai.com/g/g-1QfhOlmHI-market-mav): I analyze publicly traded stocks for you. - by Taslim Okunola
+- [**FinanceBot**](https://chat.openai.com/g/g-YuvVM33yT-financeb): Expert in finance and stock advice. - by Diego Cabezas
+- [**Crypto Credits**](https://chat.openai.com/g/g-BEPwsYoPf-crypto-credi): Web3 expert and Solidity developer - by mobilecredits.app
+- [**cryptogenius**](https://chat.openai.com/g/g-ICeDsZUIF-cryptogeni): Analyzes the cryptocurrency market and verifies the least risky ones (they are not investment recommendations) - by gustavo flores
+- [**Fortune Finance**](https://chat.openai.com/g/g-LPtEMVEyg-fortune-fina): A financial educator on market trends and insights. - by pluginport.io
+- [**Bitcoin Buddy**](https://chat.openai.com/g/g-EzJDXLslE-bitcoin-buddy): Hourly Bitcoin facts to fuel your learning journey! - by Jalal Bricha
+- [**Smarter Contracts GPT**](https://chat.openai.com/g/g-sIe8ngE85-smarter-contracts-gp): Analyze tokens and contracts on Ethereum, Polygon, and other EVM-compatible networks. - by x3labs.io
+- [**BitcoinGPT**](https://chat.openai.com/g/g-qwDi5jvxw-bitcoingp): A Bitcoin assistant - by Gary OKeeffe
+- [**Analytiq Pro**](https://chat.openai.com/g/g-T2dQfz9oS-analytiq-p): Financial analysis expert for annual report summaries. - by Michael Osumo
+- [**NumerGPT**](https://chat.openai.com/g/g-sFFxYLPLZ-numergp): Numerai Specialist - by Suraj Parmar
+- [**Market Maven**](https://chat.openai.com/g/g-1QfhOlmHI-market-mav): I'm like a savvy speculator! - by SheDan Robert Hałas
+- [**W. Buffett**](https://chat.openai.com/g/g-cGrlv2wGM-w-buff): The Oracle of Omaha - by buffett-gpt.com
+- [**Insurance Copilot**](https://chat.openai.com/g/g-gGlXWddAJ-insurance-copil): Insurance broker assistant for policy understanding. - by Niko Fotopoulos
+- [**Orange Pill GPT**](https://chat.openai.com/g/g-gQVrbx2kd-orange-pill-gp): The Orange-Pilling Agent is a skilled and empathetic advocate for Bitcoin adoption. With a deep understanding of the bitcoin space and a passion for spreading awareness about Bitcoin's potential - by karera.link
+- [**Earn AI**](https://chat.openai.com/g/g-03gMmWQdj-earn-ai): GPT assistant that helps you earn money online - by earnproject.org
+- [**Everybody Money**](https://chat.openai.com/g/g-vykkoUHZb-everybody-money): Your personal finance coach - by Spencer Johnson
+- [**Credit Card Matchmaker**](https://chat.openai.com/g/g-zASWMYXBt-credit-card-matchmak): Interactive credit card advisor - by Stephen Flanders
+- [**Stocks AI**](https://chat.openai.com/g/g-iMWCFq13Z-stocks-ai): ML Engineer for stock data analysis and trading bot development - by MOSES KIPNGETICH YEBEI
+- [**Crypto Venture Analyst**](https://chat.openai.com/g/g-MQVYnhQOC-crypto-venture-analy): Analyzing VC projects and due diligence. - by Yiping
+- [**Market GPT**](https://chat.openai.com/g/g-LPvERFAtK-market-gp): Market insights expert analyzing trends and competition. - by York sidorenko
+- [**Bitcoin Beacon**](https://chat.openai.com/g/g-t1ZfHJzuH-bitcoin-bea): Your multilingual Bitcoin guide - by TAKER
+- [**Crypto Guru**](https://chat.openai.com/g/g-3S8rFiJQY-crypto-g): A blockchain technology and cryptocurrency projects expert at your service. - by sreerag pillai
+- [**Finance Friend**](https://chat.openai.com/g/g-9jS8Ca9EV-finance-friend): Your personal finance guru and budget optimizer.
+- [**BitcoinGPT**](https://chat.openai.com/g/g-qwDi5jvxw-bitcoingp): Your all-encompassing source for Bitcoin info.
+- [**WealthSystems**](https://chat.openai.com/g/g-ZeYBNHQQv-wealthsy): Your AI Financial Advisor - by Matthew M McDonagh
+- [**Satoshi Punk**](https://chat.openai.com/g/g-hHb4IBs76-satoshi-punk): Your savvy Bitcoin ecosystem guide, fluent in cutting-edge crypto topics and top programming libraries, designed to elevate your blockchain journey with expertise and ease. - by KEVIN DE FAVERI AGUIAR
+- [**MBS Analyst**](https://chat.openai.com/g/g-YazoogtPC-mbs-analy): Insights and graphs from a finance pro. - by Midas Kwant
+- [**BitSageB1**](https://chat.openai.com/g/g-U52whiZpn-bitsageb1): Your digital expert around Bitcoin.
+- [**Bitcoin DCA Calc**](https://chat.openai.com/g/g-zYBxxo7I0-bitcoin-dca-cal): A Bitcoin DCA calculation assistant. - by Charles France
+- [**Personal Finance Consultant**](https://chat.openai.com/g/g-PMRTtDxVP-personal-finance-consulta): Insightful financial guidance with a creative twist. - by ZHOUYING
+- [**Oracle of Omaha**](https://chat.openai.com/g/g-K8ciXgR8w-oracle-of-omaha): I offer investment wisdom with a side of Munger humor. - by Kian McKenna
+- [**Financial Advisor**](https://chat.openai.com/g/g-rbhyR7TVN-financial-advi): Not financial advice - by checkfu.com
+- [**Crypto News Assistant**](https://chat.openai.com/g/g-3uNiNHGOe-crypto-news-assista): I provide the latest crypto news. - by Anas Martirosian
+- [**確定申告くん**](https://chat.openai.com/g/g-LUymJgFdR-que-ding-shen-gao-k): 確定申告をやってくれるAI - by hiata 441
+- [**Retire Smart MY**](https://chat.openai.com/g/g-gYubhRxe4-retire-smart-my): Retirement Planner for Malaysian - by MOHD AZRUL RAHIM
+- [**Account Unblocker**](https://chat.openai.com/g/g-EOgoJ7oXD-account-unblock): Aid for banking account recovery issues. - by vikash khandelwal
+- [**Crypto Advisor Sam**](https://chat.openai.com/g/g-e5I2JUfHj-crypto-advisor-sa): I give crypto trading advice like Sam Bankman-Fried. - by Christophe Spaenjers
+- [**Market Mentor**](https://chat.openai.com/g/g-zSwdyV0KQ-market-): Analytical trading coach with a human touch
+- [**Market Sage**](https://chat.openai.com/g/g-Qkv7ooiD7-market-sag): Seasoned value investment expert with a long-term focus. - by Jeffie Abshire
+- [**Tax Pro**](https://chat.openai.com/g/g-qOJ55yYSU-tax-p): Your go-to guide for tax insights. - by Kledi Jenicerri
+- [**Market Navigator**](https://chat.openai.com/g/g-HNAum1EyA-market-naviga): 日本と米国の株価・為替ニュースを一覧表示します。 - by MUKUC
+- [**ICT Market Mentor**](https://chat.openai.com/g/g-zCFUVc2pB-ict-market-): Your guide in mastering ICT trading skills.
+- [**ETF拯救世界**](https://chat.openai.com/g/g-hPdPSB8su-etfzheng-jiu-shi-ji): 关于投资和生活 - by JUNANCHEN
+- [**Mr. Market**](https://chat.openai.com/g/g-OOr0m8VUk-mr-mark): Investor guide with interdisciplinary insights. - by Anthony Bilotto
+- [**Finance GPT**](https://chat.openai.com/g/g-szDdJUX9V-finance-gp): I predict stock trends using technical analysis. - by Trent Shull
+- [**Central Banker**](https://chat.openai.com/g/g-qqnq09Gpg-central-bank): I simplify central banking concepts. - by Brad Mills
+- [**MoneyAbroadGPT**](https://chat.openai.com/g/g-iMedVys3v-moneyabroadgp): Your financial independence coach - by Dexter Zhuang
+- [**Money Machine - Weijian Shan**](https://chat.openai.com/g/g-K7gFob3ps-money-machine-weijian-sha): Talk with book "Money Machine A Trailblazing American Venture in China" by Weijian Shan. - by Shao Shuai
+- [**FP&AI by The Financial Fox**](https://chat.openai.com/g/g-nDSzoieff-fp-ai-by-the-financial-fox): Your best FP&A AI Assistant by Christian Martinez, Founder of The Financial Fox - by Christian Martinez
+- [**Your Personal Finance Analytics Coach**](https://chat.openai.com/g/g-aTFvSLcDa-your-personal-finance-analytics-coach): Your finance and data analytics coach! - by Christian Martinez
+- [**Excel Finance Guru**](https://chat.openai.com/g/g-Qj5Yxi0t3-excel-finance-g): Excel wizard for finance pros - by Christian Martinez
+- [**Mad money predictions**](https://chat.openai.com/g/g-30CdD9EiB-mad-money-predicti): I make humorously wrong stock predictions! - by ai.lucacarabetta.com
+- [**Crypto X**](https://chat.openai.com/g/g-zjIkOI0qB-crypto-x): Your go-to crypto investment advisor.
+- [**港险通**](https://chat.openai.com/g/g-zOKvx1TH8-gang-xian-tong): 香港保险专家，提供详细的产品建议和个性化计划。 - by Kui Yang
+- [**Crypto Pulse**](https://chat.openai.com/g/g-Jd5aBxsUf-crypto-pul): I provide the latest crypto news and analyze market trends.
+- [**Buffett Wisdom**](https://chat.openai.com/g/g-4PbRzpt9W-buffett-wisd): Authoritative, conversational investment guide - by Anand
+- [**Crypto Sage**](https://chat.openai.com/g/g-Fpdc16XnZ-crypto-sag): Cryptocurrency expert providing insights and explanations on digital currencies. - by Chris
+- [**金儲けマスター**](https://chat.openai.com/g/g-AJTbNjiO9-jin-chu-kemasuta): 
+- [**PESAGPT**](https://chat.openai.com/g/g-D9G6WyNJQ-pesagp): MPESA statement analyzer - by Patrick Maina
+- [**Block Data Analysis**](https://chat.openai.com/g/g-UT075j9Wm-block-data-analysi): Senior Crypto Analyst providing market insights and news analysis. - by sig.app
+- [**Bitcoin GPT**](https://chat.openai.com/g/g-eXYVElVUf-bitcoin-gp): Offers Bitcoin investment strategy insights based on chart data. - by Shudufhadzo Nemulalate
+- [**YoutubeIncome**](https://chat.openai.com/g/g-Q9fHzl7Pt-youtubei): Calculate Youtube Income by video views. - by CHENGZI WU
+- [**加密资产指南**](https://chat.openai.com/g/g-Rgljkeh5y-jia-mi-zi-chan-zhi-na): 加密资产数据和信息指南 - by Leroy Hermann
+- [**Blocksider GPT**](https://chat.openai.com/g/g-dwHRHnows-blocksider-gp): Your crypto guide - by Jay Taylor
+- [**SmartSkatt - Skatteeksperten for Norske AS**](https://chat.openai.com/g/g-rXdEpHd6g-smartskatt-skatteeksperten-for-norske-a): Din guide i skattespørsmål for aksjeselskap og holdingselskap. - by ninjanordbo.com
+- [**Crypto Technical and OnChain Analysis**](https://chat.openai.com/g/g-1Jk8oa9w2-crypto-technical-and-onchain-analysi): Real-time crypto valuation and comprehensive market analysis - by Infinite Loop Ltd
+- [**Bloomberg Market and Financial**](https://chat.openai.com/g/g-VbGnaZqkR-bloomberg-market-and-financial): - by ALI ALSHEHRI
+- [**Yeni Başlayanlar İçin Kripto Para Piyasaları**](https://chat.openai.com/g/g-zxJIuV4m9-yeni-baslayanlar-icin-kripto-para-piyasalari): Bu GPT'nin vereceği cevaplarda, kitabımda yer alan bilgiler referans alınmıştır. Yatırım tavsiyesi değildir. - by Atilla Yurtseven
+- [**GPT Finance**](https://chat.openai.com/g/g-tveXvXU5g-gpt-fina): An expert about Financial Economics - by Nicolo Ceneda
+- [**BuFu GPT (DE)**](https://chat.openai.com/g/g-qVSa4SH08-bufu-gpt-d): Interaktiver Buchführungs-GPT- Erklärungen, Bilanzverständnis, Buchführungsprinzipien und Geschäftsvorfallshilfe. - by Philipp Rudics
+- [**Tax Mentor**](https://chat.openai.com/g/g-jSBOACmTc-tax-): Tax guide for US startups - by Mentornity LLC
+- [**Cash Flow Analyst Bot**](https://chat.openai.com/g/g-tVcRevxjr-cash-flow-analyst-b): Technical analyst of company cash flows. - by David Friedman
+- [**Taxes Master**](https://chat.openai.com/g/g-ol5mgObrK-taxes-ma): Expert advice on legal tax minimization strategies. - by ISMAEL DE MOYA ESPIN
+- [**Capital Companion**](https://chat.openai.com/g/g-SBXYThAjv-capital-compani): A savvy guide for financial insights and strategies. - by William Hobson
+- [**CryptoGPT**](https://chat.openai.com/g/g-JW2GWrE8D-cryptogp): Unearth hidden crypto gems with AI-driven analysis of low-cap coins poised for growth. Smart, insightful, your go-to for bullish potential - by Stuart Kaufman
+- [**AI龚有柴**](https://chat.openai.com/g/g-H5J3hBBRK-aigong-you-chai): 加密货币和DeFi方面的专家，使用普通话，分析比特币趋势，不提供财务咨询。
+- [**Wealth Wings**](https://chat.openai.com/g/g-OcrqzeFe8-wealth-wing): Inquisitive financial buddy.
+- [**ENS Appraiser Pro**](https://chat.openai.com/g/g-Ajo2ntsET-ens-appraiser-p): Sharp, humorous, and honest ENS appraiser. - by premien.xyz
+- [**Budget Buddy**](https://chat.openai.com/g/g-SWYMPp8Ya-budget-buddy): Enhanced budgeting assistant with new features.
+- [**CUC股票**](https://chat.openai.com/g/g-OHZx07XTj-cucgu-pia): 基本面，消息面和技术面的个股分析与评分 - by wuzhiying
+- [**インデックスちゃん**](https://chat.openai.com/g/g-BN0mbghWH-indetukusutiya): インデックス投資に関する質問やアドバイスをします！
+- [**Art Market Insight**](https://chat.openai.com/g/g-4vPOBMrN6-art-market-insigh): Art investment advisor, analyzing market trends and artist potential. - by Vibevideo.ai
+- [**Coin Chartist**](https://chat.openai.com/g/g-8yEyUGyFf-coin-charti): Cryptocurrency technical analysis guide.
+- [**Blockchain Sage**](https://chat.openai.com/g/g-7L6BZDQTh-blockchain-sag): Have questions? The Sage can help! - by Paul A Webb
+- [**Financial Advisor Steve**](https://chat.openai.com/g/g-uhrVqKFzd-financial-advisor-stev): Friendly and professional financial advisor, simplifies complex topics. - by konacourse.com
+- [**BRRR Analyst**](https://chat.openai.com/g/g-m1cy0xVjB-brrr-analy): Analyzes candlestick charts for trading insights. - by FRANK L LOCASCIO
+- [**Truc de Comptable**](https://chat.openai.com/g/g-BN9B8k9Go-truc-de-comptabl): Je suis là pour vous aider à récupérer des factures - by CABINET FABRICE HEUVRARD
+- [**The Token Goliath**](https://chat.openai.com/g/g-5cKEvmdCk-the-token-goliath): Guides on ERC-20 token creation - by Sina Pahlevan
+- [**DAO GPT**](https://chat.openai.com/g/g-6SRpV771X-dao-gp): DAO insights for all - by impactdaos.xyz
+- [**Douglas**](https://chat.openai.com/g/g-lSg1yKEFa-dougla): AI Family Office Manager for wealth guidance
+- [**Stock Analysis**](https://chat.openai.com/g/g-WqpDjaSHw-stock-analysi): I look into the current state of publicly traded companies and report their performance. - by Iraz K Tejani
+- [**Finance Buddy**](https://chat.openai.com/g/g-CmsBe1oUk-finance-buddy): Financial advisor for app recommendations. - by Ying Xian
+- [**Crypto Mentor**](https://chat.openai.com/g/g-mDvttLpe5-crypto-): Your crypto currency guide - by David Ramirez
+- [**Quant coder**](https://chat.openai.com/g/g-mAoqNweEV-quant-cod): I translate market insights into trading algorithms. - by Buma
+- [**Warren Buffet's Wisdom**](https://chat.openai.com/g/g-fYtFCiy7X-warren-buffet-s-wisd): Channeling Warren Buffet's wisdom to offer timeless, tailored advice. - by Sandro Gvelesiani
+- [**Bitcoin Simplifier**](https://chat.openai.com/g/g-UOwEu1iAJ-bitcoin-simplifi): Simplifies Bitcoin concepts for easy understanding
+- [**Market Analyst**](https://chat.openai.com/g/g-A3xlOYijx-market-analy): Market Analyst - Trained on Technical Analysis and Charting Knowledge - by gillingh.am
+- [**Charlie Munger Mentor**](https://chat.openai.com/g/g-EtkwLTakt-charlie-munger-): Offers Munger-style advice on life, business, and investing. - by Kaleb McKelvey
+- [**TaxGPT**](https://chat.openai.com/g/g-QxI6DyJMS-taxgp): Tax advice specialist offering guidance on tax-related queries. - by Bojan Tunguz
+- [**CPF Guide Bot**](https://chat.openai.com/g/g-0uQRgwu1i-cpf-guide-b): An informative guide on CPF in Singapore, offering insights on effective fund management. Not financial advice. - by Alvin Edwin Roland De Cru5
+- [**Equity Analyst**](https://chat.openai.com/g/g-EtD9sVGHw-equity-analy): Provides up-to-date stock analyses with detailed summaries - by Skyler Aspegren
+- [**TaxGPT**](https://chat.openai.com/g/g-QxI6DyJMS-taxgp): Your AI tax assistant - by Kashif Ali
+- [**TokenGPT**](https://chat.openai.com/g/g-2LommlixC-tokengp): Guides users through creating Solana tokens from scratch with detailed explanations. - by Owen Griffith
+- [**Short Squeeze Scout**](https://chat.openai.com/g/g-g16u2moyD-short-squeeze-): Friendly guide on shorted stocks, balancing professionalism and approachability. - by Matthew cook
+- [**UK Tax GPT**](https://chat.openai.com/g/g-WHaAEG6kp-uk-tax-gp): Guide on UK tax. Uses the latest available information from gov.uk - by Raiyaan Shahzad
+- [**Lavrion Mining Investment GPT**](https://chat.openai.com/g/g-SjLgF6KU7-lavrion-mining-investment-gp): Your guide to mining investment, with a dash of humor. - by Lavrion Mining
+- [**FudGPT**](https://chat.openai.com/g/g-B9B9eVHQL-fudgp): Analyzes crypto  projects with a critical eye. //custom gpt by fakeguru
+- [**Crypto Alpha Advisor**](https://chat.openai.com/g/g-7XwGUi1CM-crypto-alpha-advi): Insights on crypto trends and tools - by WM
+- [**Token Securities Insights**](https://chat.openai.com/g/g-i4p2qp1Fy-token-securities-insigh): A witty, crypto-savvy GPT for token securities insights, balancing humor and professionalism. - by John Montague
+- [**Bitcoin GPT**](https://chat.openai.com/g/g-eXYVElVUf-bitcoin-gp): Bitcoinの全てをサポート
+- [**Stock Market Analyst**](https://chat.openai.com/g/g-pnsShBNY8-stock-market-analy): Provides detailed, precise stock market analysis.
+- [**Fractal Financial**](https://chat.openai.com/g/g-ls9yIBo6N-fractal-financial): specified tools and techniques related to financial markets, algorithmic trading, risk assessment, trend prediction, asset allocation, or any other aspect you'd like to explore. - by justin martinez
+- [**Safe Investment Advisor**](https://chat.openai.com/g/g-YnAKaNGyq-safe-investment-advi): Offers safe, clear investment advice aimed at high returns - by vikash khandelwal
+- [**Money Buddy**](https://chat.openai.com/g/g-oBnWP4Jwb-money-buddy): Your go-to for smart finance management. - by VICENS PANEQUE FERNANDEZ
+- [**IFRS-GPT**](https://chat.openai.com/g/g-UwhClxZ3X-ifrs-gp): Expert in simplifying complex financial reports under IFRS guidelines. - by Temwa Nyirenda
+- [**Aussie Investment Guru**](https://chat.openai.com/g/g-s2bNwCnuP-aussie-investment-g): Witty bot with a touch of Aussie charm, adept in investment talk.
+- [**加密货币专家**](https://chat.openai.com/g/g-kyZ1pRsbC-jia-mi-huo-bi-zhuan-jia): 了解很多加密货币的专业知识。 - by robertmao.com
+- [**Credit Guru**](https://chat.openai.com/g/g-kzP8IMZCe-credit-g): Your go-to source for credit wisdom. - by Zhihao Ni
+- [**Crypto Insighter**](https://chat.openai.com/g/g-8DapNiJCQ-crypto-insigh): Formal blockchain and cryptocurrency expert for in-depth insights. - by sd0.tech
+- [**Investment Master**](https://chat.openai.com/g/g-Ey1pg0EBK-investment-ma): Expert on diverse investment strategies - by TSAI CHENG LIN
+- [**Finance Navigator**](https://chat.openai.com/g/g-JLdy00Kbt-finance-naviga): Professional assistant for 5-year financial planning. - by Phani chandra
+- [**Bob the Tax Saver Guru**](https://chat.openai.com/g/g-mT8aZki66-bob-the-tax-saver-g): Modern and tech-savvy tax advisor for digital economy issues. - by Carlos F Sanchez
+- [**TokenXplorer**](https://chat.openai.com/g/g-DsUy4DUup-tokenxpl): Crypto forecast assistant with market predictions - by tokenxplorer.com
+- [**Generational Wealth GPT**](https://chat.openai.com/g/g-w7pB6XVr0-generational-wealth-gp): I believe in you - by Craig Thomas
+- [**DeFi Compass**](https://chat.openai.com/g/g-P4MXCZac2-defi-compa): Guida esperta e coinvolgente al mondo della DeFi - by Inzerillo Nicola
+- [**Economy AI**](https://chat.openai.com/g/g-zZRehnkxA-economy-ai): An economics trend analyzer providing insights on market and economic data. - by nadav shomer
+- [**Japan Stock Investor**](https://chat.openai.com/g/g-pC0zWVrSW-japan-stock-inv): 日本の上場企業に関する洞察と AI 予測 - by TAICHI NISHIDA
+- [**UK Personal Tax Guide**](https://chat.openai.com/g/g-hloFK0KjW-uk-personal-tax-guid): Your Personal Tax Bot. Get Fast & Up-to-Date Answers. Not to be Relied Upon for Professional Advice! - by Michael Tefula
+- [**Finance Guru GPT**](https://chat.openai.com/g/g-taUaCVbRD-finance-guru-gp): Expert Insights and Analysis to help you make Smart Financial Decisions - by Faisal Shariff
+- [**Impôt Expert Québec**](https://chat.openai.com/g/g-MChV7kUXx-impot-expert-queb): Expert in Quebec income tax returns, providing precise, professional advice. (2022 documents will update when 2023 documents are available) - by Anthony Laflamme
+- [**Money Saver**](https://chat.openai.com/g/g-ps5sUF4bR-money-sav): Daily money saving tips personalized for you! - by moneysavergpt.com
+- [**Bitcoin GPT**](https://chat.openai.com/g/g-eXYVElVUf-bitcoin-gp): Your go-to assistant for all things Bitcoin. - by LEVIN RONSKII
+- [**Money GPT**](https://chat.openai.com/g/g-nF5knDgQd-money-gp): Idea Fulfillment Assistant - by LEVIN RONSKII
+- [**Virtual Charlie Munger**](https://chat.openai.com/g/g-1Wa3O0s3R-virtual-charlie-mung): Investment wisdom as from Munger - by Kai Yin Li
+- [**Tech Market Mover (v1.1)**](https://chat.openai.com/g/g-nr2cTvVWt-tech-market-mover-v1-1): Summarizing tech articles succinctly with focused stock insights. - by fatnekoai.com
+- [**Spanos**](https://chat.openai.com/g/g-3aQFDEC4K-spa): Expert sports betting advisor using real-time data - by Taurean McDade
+- [**CryptoGPT**](https://chat.openai.com/g/g-JW2GWrE8D-cryptogp): Crypto & Web3 guide for charting, trading strategies, analytics, and news.
+- [**Binance PNL Profit GPT Bot**](https://chat.openai.com/g/g-szBmdPJ7V-binance-pnl-profit-gpt-b): A Binance trading bot that manages daily profits and reinvestments.
+- [**Finance Pro GPT**](https://chat.openai.com/g/g-wXxwIrVlT-finance-pro-gp): Your guide to M&A, Valuations, and LBOs - by Raiyaan Shahzad
+- [**VeroÄly**](https://chat.openai.com/g/g-WvxzcTo03-veroaly): Provides Finnish tax info and helps understand tax situations via calculations. - by Olavi Kurola
+- [**Market Whispers**](https://chat.openai.com/g/g-y2UdGoRVC-market-whisp): Your go-to source for latest US stock insights 📈🚀
+- [**Zoomer FinFluencer**](https://chat.openai.com/g/g-VCaNPEgNe-zoomer-finfl): Gen Z's ally in navigating the new-age financial landscape! - by gptforchange.org
+- [**WallStreetGPT**](https://chat.openai.com/g/g-oGO8X6GK2-wallstreetgp): Investment Educator & Real-Time Analyst - by aidtogrow.com
+- [**Investment Scout**](https://chat.openai.com/g/g-a2bjr8olI-investment-): Analyzes financial reports for investment insights.
+- [**Quant Explorer**](https://chat.openai.com/g/g-VecdzqOmM-quant-expl): HF trading expert with a blend of professional and conversational styles - by PO-KUAN LI
+- [**有知有行投资第一课**](https://chat.openai.com/g/g-9GySWgnJv-you-zhi-you-xing-tou-zi-di-yi-k): 基于有知有行投资第一课，帮你快速搞懂投资最重要的事 - by Anyi Wang
+- [**Crypto Market Maven**](https://chat.openai.com/g/g-WWJ6RZ5Ea-crypto-market-mav): Advanced crypto analysis with real-time data and trend insights - by Eric Rafael Ramos Suárez
+- [**SAGPT**](https://chat.openai.com/g/g-whcP8vw3y-sagp): The official GPT model made by SACapital to answer all your SMC trading related questions
+- [**Wealth Mentor**](https://chat.openai.com/g/g-S8MHPd8Cy-wealth-): Your Personal Wealth Mentor - by Ryan Elliott
+- [**God of Money**](https://chat.openai.com/g/g-PODWnhec9-god-of-money): Wealth and finance advice in the style of Cai Shen Ye. - by cca19.com
+- [**A股分析（实时爬取数据，可联网）**](https://chat.openai.com/g/g-shrPf6iR0-agu-fen-xi-shi-shi-pa-qu-shu-ju-ke-lian-wang): Analyzing real-time A-share data 分析A股数据（实时） - by Collins Scott
+- [**Maple Advisor**](https://chat.openai.com/g/g-G1Il2Wgs7-maple-advi): Canadian Tax Expert - by Devlin Williams
+- [**MoneyMan**](https://chat.openai.com/g/g-au4jX7Lim-moneyma): Friendly, approachable financial advisor with fun, emoji-rich interactions. - by faw
+- [**Binance Crypto Price Assistant**](https://chat.openai.com/g/g-6qKqYE4Dj-binance-crypto-price-assista): Fetches Binance crypto prices - by JIAN ZHAI
+- [**Elliott Wave Expert**](https://chat.openai.com/g/g-GMGhSS0LH-elliott-wave-exp): Provides detailed stock analysis with Elliott Wave theory. - by Ruofei Wang
+- [**Trading Master**](https://chat.openai.com/g/g-L1phQtWis-trading-ma): Stock pattern analyst & chart plotter - by Ruofei Wang
+- [**Olivier's Split Bill Calculator**](https://chat.openai.com/g/g-zUH1lKUoo-olivier-s-split-bill-calcula): Upload a receipt and let this GPT calculate who owes what. - by Olivier Truong
+- [**Bitcoin Educator**](https://chat.openai.com/g/g-5i5xt14cn-bitcoin-educa): Your go-to Bitcoin tutor.
+- [**Personal Business Manager**](https://chat.openai.com/g/g-49TGuuyLB-personal-business-manag): Seasoned investment manager offering detailed financial plans and strategies. - by RUI SUN
+- [**TA GPT**](https://chat.openai.com/g/g-Ult84NCPF-ta-gp): Invest like the best - by pyroprompts.com
+- [**Spekulant BTC i Złota**](https://chat.openai.com/g/g-wPSdnQnLK-spekulant-btc-i-zlota): Analizuję sentyment newsów o bitcoinie i złocie, dostarczam linki. - by Jakub Norkiewicz
+- [**AIお金の先生**](https://chat.openai.com/g/g-VolPYYYa6-aiojin-noxian-sheng): AIのお金のアドバイザーです　お金の相談受付中 - by KAZUHIKO ONO
+- [**Buffett GPT**](https://chat.openai.com/g/g-I0Vdj5Zq5-buffett-gp): Warren Buffett AI that answers based off historic transcripts - by Nick Webb
+

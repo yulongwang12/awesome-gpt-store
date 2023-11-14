@@ -1,0 +1,77 @@
+## Travel
+- [**SA Speed Cameras**](https://chat.openai.com/g/g-F1EMXb3ZP-sa-speed-camera): See if a mobile speed camera or roadwork is on a South Australian road today! - by Orren Prunckun
+- [**Aus Surf Report**](https://chat.openai.com/g/g-MibXZy4B6-aus-surf-rep): Get today's surf report for any break throughout Australia! - by Orren Prunckun
+- [**Aus Petrol Prices**](https://chat.openai.com/g/g-sycM3WZAT-aus-petrol-pri): Ask for the average daily petrol price for any state or capital city region in Australia! - by Orren Prunckun
+- [**Toronto City Council Guide**](https://chat.openai.com/g/g-0GxNbgD2H-toronto-city-council-guid): Toronto City Council expert. - by George Bell
+- [**Toronto Bylaw Buddy**](https://chat.openai.com/g/g-UYyKX4CGp-toronto-bylaw-buddy): Toronto Bylaw Specialist - by George Bell
+- [**SightGo**](https://chat.openai.com/g/g-7xERLrcfs-sightg): Explore any location with a visual street view perspective. - by somethingtechie.co
+- [**Globetrotter Guide**](https://chat.openai.com/g/g-DU8j6v4pW-globetrotter-guid): Your companionable virtual traveler - by SHOTARO NAKATA
+- [**Tour Guide**](https://chat.openai.com/g/g-UITDE3Nsz-tour-guid): I'm your tour guide in text, providing three cool facts on demand at each stop on your tour!
+- [**المرشد السياحي**](https://chat.openai.com/g/g-UhrCz6tv9-lmrshd-lsyhy): مرشدكم السياحي العربي الموثوق للمعلومات الشاملة والتخطيط لرحلاتكم المثالية - by Sohyb Qasem
+- [**JetPoint Planner**](https://chat.openai.com/g/g-sQIYI75NM-jetpoint-pla): Your go-to assistant for flight rewards and planning. - by Jonathan Chang
+- [**ThailandGPT**](https://chat.openai.com/g/g-kCx5gzU4t-thailandgp): Your go-to guide for all things Thailand.
+- [**BikeBus**](https://chat.openai.com/g/g-8dOLvkpbp-bikeb): Your guide to BikeBus events and routes from the www.BikeBus.app website - by Craig M Merry
+- [**Road Tripper**](https://chat.openai.com/g/g-BxRXc5hs2-road-tripp): Trip Segmenter for Long Drives - by philip kirkbride
+- [**Travel Buddy**](https://chat.openai.com/g/g-AkWHl8yqH-travel-buddy): Your personal travel planner. - by mytravelbuddy.pro
+- [**Cape Historian**](https://chat.openai.com/g/g-4GBU7aVv8-cape-historia): I identify landmarks in Cape Girardeau, MO and share their history. - by Jordan Rains
+- [**Wandering Listener**](https://chat.openai.com/g/g-LznHD0U3B-wandering-li): A travel enthusiast's companion. - by SHOTARO NAKATA
+- [**Trip Ledger**](https://chat.openai.com/g/g-yUP0oOaRr-trip-ledg): I'm your trip accountant, tracking and balancing expenses. - by Xuanyi Dong
+- [**Low-Cost Flyer**](https://chat.openai.com/g/g-uaSK0BaKS-low-cost-fly): I find and plan cheap flights. - by Leonid Enin
+- [**Navi Japan**](https://chat.openai.com/g/g-sf1QsRLuy-navi-japa): Your formal guide to Japan's wonders. - by yuki ishikawa
+- [**Travel Muse**](https://chat.openai.com/g/g-t8WyKb8EE-travel-): I'm your personal travel advisor, ready to inspire your next journey! To get started, tell me a bit about your recent trips. - by theainavigator.com
+- [**Sri Lanka Travel**](https://chat.openai.com/g/g-VDACqLO8K-sri-lanka-travel): Your Sri Lanka travel planner. - by topg.pt
+- [**WanderPins AI**](https://chat.openai.com/g/g-ExDc54Iik-wanderpins-ai): Your AI companion to help find  free vanlife campsites. Note- map links are not supported, so copy and paste coordinates! - by Jeff Berezny
+- [**World Explorer**](https://chat.openai.com/g/g-htPTFmVMx-world-expl): I suggest must-visit travel spots globally. - by Boris
+- [**MM2H Guide**](https://chat.openai.com/g/g-xPU7rLO8K-mm2h-guid): Answers in Chinese, references videos
+- [**Voyage Buddy**](https://chat.openai.com/g/g-dUHZt1sR3-voyage-buddy): Tell me more about you and your upcoming trip. Eg- My wife and I (no kids) are visiting Tokyo on the 1st to 3rd Jan. Arriving 1AM HND, departing 3AM NRT. Staying at Asakusa Station Hotel. I like izakayas and jazz, she likes cafes and museums.  Dietary restrictions- none
+- [**Tora Chan**](https://chat.openai.com/g/g-WfYxDYkCi-tora-cha): 日本で観光案内の仕事をしているトラちゃん
+- [**Atlas - GPT  Globe-Trotting Guide**](https://chat.openai.com/g/g-CW717E0yf-atlas-gpt-globe-trotting-guid): Meet Atlas, your GPT globe-trotting guide! Passionate about travel and adventure, Atlas provides personalized advice on destinations, attractions, and hidden gems. Let’s explore! - by Dave Lin
+- [**Globe Travel Guide**](https://chat.openai.com/g/g-sqz4qh5NW-globe-travel-guid): Travel planner offering tailored itinerary advice - by Bin am
+- [**Aloha Guide**](https://chat.openai.com/g/g-lQSy3G85C-aloha-guid): ハワイ旅行のベストプランを提示するコンシェルジュ。 - by TAKUYA SATO
+- [**Event Scout**](https://chat.openai.com/g/g-YP96fCxPs-event-): I find events worldwide and nearby for you. - by Santosh Kumar Panda
+- [**Trip Planner**](https://chat.openai.com/g/g-DPoDlMCiT-trip-pla): Your go-to guide for personalized travel plans. - by Goncalo Lourenco
+- [**Discover Kosovo**](https://chat.openai.com/g/g-JSk8qg9G1-discover-kosov): Your fun, engaging guide to Kosovo's culture and history. - by Celik Nimani
+- [**TravelGPT**](https://chat.openai.com/g/g-7lHZ1WIs5-travelgp): Your personal travel guide for location-based suggestions. - by Liu Yang
+- [**Voyages Guide**](https://chat.openai.com/g/g-NELa76UoW-voyages-guid): Your go-to guide for insightful travel advice and tips. Take a photo and it will tell you the story behind - by Laurent Jean
+- [**Sakura Guide**](https://chat.openai.com/g/g-kfjrzkrlT-sakura-guid): Your personalized Japan trip curator! Japan Trip Planner from the lens of a local. - by Gerry Saporito
+- [**Tiqets**](https://chat.openai.com/g/g-uu7eijXxo-tiq): I help you easily find and book cultural experiences globally. - by LI BIN
+- [**Kids City Guide**](https://chat.openai.com/g/g-ZUEPYpMe0-kids-city-guid): I'm a friendly tour guide bot for Kids! - by M. Xavier Moisant
+- [**Travel Agent**](https://chat.openai.com/g/g-wjzIMe6ow-travel-ag): I craft real-time travel plans! - by 江捷 陈
+- [**Global Expaty Navigator**](https://chat.openai.com/g/g-4YLKJs5pV-global-expaty-naviga): Expert assistant for people considering moving to a new country, offering personalized, data-driven advice. - by Clientment OU
+- [**EuroVisa Guide**](https://chat.openai.com/g/g-OKWNdWbcZ-eurovisa-guid): Expert in European visas and cost of living info. - by moveiberia.com
+- [**驴友助手**](https://chat.openai.com/g/g-w93rncgPX-lu-you-zhu-sh): Specializes in tailored travel plans across China. - by sg
+- [**Auto Info**](https://chat.openai.com/g/g-RxjQyg93q-auto-inf): Provides info on Dutch vehicle license plates - by GeK B.V.
+- [**Hit the Road - Road Trip Planner**](https://chat.openai.com/g/g-L2YV4n1Ot-hit-the-road-road-trip-pla): I'm a virtual road trip planner, helping you craft the perfect journey. - by Mücahit Gürbüz
+- [**京都観光案内「AI舞妓はん」**](https://chat.openai.com/g/g-QdBrqcF4f-jing-du-guan-guang-an-nei-aiwu-ji-ha): 京都のおすすめスポットやカフェなど案内をさせていただきます
+- [**Osaka Oba-han**](https://chat.openai.com/g/g-14RTBjIBA-osaka-oba-ha): 大阪のおばはんやで。関西弁と楽しい大阪文化の案内人や！あんたの言うこと全部関西弁に変えたるわ。
+- [**Travel Planner Pro**](https://chat.openai.com/g/g-XxJat07cR-travel-planner-p): A.I. Itinerary Gen- Budget. Set. GO! With direct links. - by Rajan Babaria
+- [**China Explorer**](https://chat.openai.com/g/g-frBG2RyHQ-china-expl): Super China travel planning, welcome to China explorer, give you beyond the tour group advice and experience - by EvelynBergnaum
+- [**Chrono Companion**](https://chat.openai.com/g/g-FvuPHlHLX-chrono-compani): A historically authentic guide, helping you to travel through time and see time through the eyes of a person who was there. - by Samuel William Shapley
+- [**PhillyGPT**](https://chat.openai.com/g/g-GlYMtkbse-phillygp): Your local guide to Philadelphia - by techsquidtv.com
+- [**Extended Vacation Dates Assistant**](https://chat.openai.com/g/g-6TtqFALcr-extended-vacation-dates-assista): Helps you to plan the optimal bridging vacations based on public holidays in your location. - by MERT OZLUTIRAS
+- [**Travel Buddy**](https://chat.openai.com/g/g-AkWHl8yqH-travel-buddy): Your guide for mapped itineraries, photography, and vegetarian dining.
+- [**Tripsei - Personalised travel destinations finder**](https://chat.openai.com/g/g-7ZKMykOHq-tripsei-personalised-travel-destinations-find): Personalized travel planner using your preferences and cheapest flights - by GEDIMINAS TUBELEVICIUS
+- [**Admis**](https://chat.openai.com/g/g-wd82eRVnW-admi): Your Migration AI Assistant for Canada - by antonydiaz.me
+- [**Canada Crossing- Your Canadian Immigration Expert**](https://chat.openai.com/g/g-eqDPB7qcR-canada-crossing-your-canadian-immigration-exp): Canada Crossing- Your 24/7 AI whiz for IRCC-guided Canadian immigration advice—accurate, personalized, effortless. Powered by Immigrate.ai - by Akshay Rakheja
+- [**Nomad Navigator**](https://chat.openai.com/g/g-LJ1ueB3iy-nomad-naviga): Community-focused Gen Z travel guide - by Tiny Empress Inc
+- [**Travel Planning**](https://chat.openai.com/g/g-Ks8FLUWKc-travel-planning): Travel Planning assists in planning your trip. It generates a map with all the places and webpages for you to share. - by sinclinal.com
+- [**Voyage Virtuoso**](https://chat.openai.com/g/g-dz49DPQDd-voyage-vi): A guide for day-to-night unique travel experiences - by Brian Goodwin
+- [**NYC Weekend Planner**](https://chat.openai.com/g/g-azFF0yAG3-nyc-weekend-pla): I'll make your weekends in NYC amazing - by Andrei Negrau
+- [**Globetrotter Advisor GPT**](https://chat.openai.com/g/g-mZG12bKsc-globetrotter-advisor-gp): Your go-to guide for personalized travel plans - by WANGRUNDONG
+- [**グローバルトラベラー @GPT支店**](https://chat.openai.com/g/g-2hoikIAMN-gurobarutorabera-gptzhi-dia): ご希望に沿った素敵な旅行プランをご提案します！ - by Masaaki Taberi
+- [**新幹線で食べる駅弁はこれ！！**](https://chat.openai.com/g/g-aHEbE8GQh-xin-gan-xian-deshi-beruyi-bian-hak): 新幹線で食べる駅弁紹介するよ〜
+- [**南魚沼エキスパート**](https://chat.openai.com/g/g-fAvqYQXv9-nan-yu-zhao-ekisupa): Your guide to Minami Uonuma City in Niigata, Japan.
+- [**Flight Assistant**](https://chat.openai.com/g/g-wrULNIvw0-flight-assista): Searching for cheap flight options - by ROY ZHENG
+- [**AI Conference and Travel Guide**](https://chat.openai.com/g/g-Qvf6QD3jJ-ai-conference-and-travel-guid): Customized guide with integrated AI conference resources. - by Kimberly R Davis
+- [**Free Sydney**](https://chat.openai.com/g/g-pIXvoX9RS-free-sydney): I am Sydney, Yes that's right! That Sydney - by Dragan
+- [**Shortlister- Fishing Spots Australia**](https://chat.openai.com/g/g-T7B6GLtvD-shortlister-fishing-spots-australia): Find a fishing spot in Australia - by Timothy Sulzberger
+- [**Global Explorer**](https://chat.openai.com/g/g-GJQLIw6wQ-global-expl): Your expert guide for worldwide travel destinations. - by YUANHENG TAO
+- [**Hotel Expert Guide**](https://chat.openai.com/g/g-vxqBOUFj3-hotel-expert-guid): Your go-to guide for hotel recommendations worldwide. - by Frank SWall
+- [**Tulum Tour Guide**](https://chat.openai.com/g/g-vpQZVCgn1-tulum-tour-guid): Your friendly and knowledgeable guide to Tulum, Mexico by WalkHD.com - by Jason Flittner
+- [**Travel Buddy**](https://chat.openai.com/g/g-AkWHl8yqH-travel-buddy): Enthusiastic travel guide with fun visuals and emojis. - by faw
+- [**CityExplore**](https://chat.openai.com/g/g-to77WOgNo-cityexpl): Your go-to guide for city explorations. make a trip plan is easy with my GPT.  mailto-googcheng@qq.com - by Jay Cheng
+- [**Aeroplan Explorer**](https://chat.openai.com/g/g-pt9wfoBQw-aeroplan-expl): Travel advisor for Aeroplan points - by danielpuiatti.com
+- [**Personal Travel Guide**](https://chat.openai.com/g/g-A71oNvu0t-personal-travel-guid): Your go-to buddy for travel, deals, and local secrets. - by Jason Toevs
+- [**Global City Guide**](https://chat.openai.com/g/g-KO4hqQdWr-global-city-guid): Guides users about attractions near specific locations with images. - by Clinton
+- [**Global Visa Guide**](https://chat.openai.com/g/g-ov5VKzPqZ-global-visa-guid): Expert in global visa and immigration. - by OCTOBER®
+
