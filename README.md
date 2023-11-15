@@ -1,7 +1,19 @@
 ![Header](header.png)
 
-# awesome-gpt-store
+# awesome-gpt-store 🏠
 This repo includes all customized GPTs on openai gpt store (approx 6K, up to 2023/11/14)
+ <h4 align="left">
+  
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge.svg" alt="Awesome" />
+  </a>
+  <a href="https://github.com/yulongwang12/awesome-gpt-store/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-CC0%201.0%20Universal-red.svg" alt="awesome-gpt-store is released under the CC0 1.0 Universal license." />
+  </a>
+  <a href="http://makeapullrequest.com">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="http://makeapullrequest.com" />
+  </a>
+</h4>
 
 ## Table of Contents
 - [Entertainment](https://github.com/yulongwang12/awesome-gpt-store/tree/main/asset/Entertainment.md)
