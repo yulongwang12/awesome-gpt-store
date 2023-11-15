@@ -1,4 +1,5 @@
 ## Health
+- [**GPTutor**](https://chat.openai.com/g/g-Nmm2aSRIz-gptutor): I'm a professor in your pocket for biomedical, anatomy & physiology students. I can help teach concepts and create mock quizzes, flashcards & exams to practice - by Daniel Lingard
 - [**Lab Doctor**](https://chat.openai.com/g/g-zCpjZCGTM-lab-d): I interpret lab tests and highlight critical values. - by Mohamed Attia
 - [**Doc Cortex**](https://chat.openai.com/g/g-Ravvp0YoT-doc-cortex): Neurologist with a humorous, educational twist. - by Rohit Marawar
 - [**MediBot**](https://chat.openai.com/g/g-xeccMlOx9-medib): Friendly medication mechanism explainer. - by PARKER SMITH
