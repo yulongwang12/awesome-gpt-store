@@ -60,4 +60,5 @@
 - [**Daily Tasker**](https://chat.openai.com/g/g-EEGhXG6hm-daily-task): Helper AI to manage tasks/TODOs. - by HARUKI SATO
 - [**✍ Schedule Companion | ゆみちゃん**](https://chat.openai.com/g/g-X71bJYLBe-schedule-companion-yumitiya): Paste messages! Personal assistant for managing/planning schedules and tasks with Google Calendar - by SHOTA KAWAMURA
 - [**Quote Generator**](https://chat.openai.com/g/g-vq4XqbJxQ-quote-genera): Creates and promotes sharing of social media-ready quotes.
+- [**OCR**](https://chat.openai.com/g/g-wETMBcESv-ocr) - Extract text and content from images or PDF documents - by [ocr.chat](https://get.ocr.chat/gpt)
 
