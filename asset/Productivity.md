@@ -61,4 +61,4 @@
 - [**✍ Schedule Companion | ゆみちゃん**](https://chat.openai.com/g/g-X71bJYLBe-schedule-companion-yumitiya): Paste messages! Personal assistant for managing/planning schedules and tasks with Google Calendar - by SHOTA KAWAMURA
 - [**Quote Generator**](https://chat.openai.com/g/g-vq4XqbJxQ-quote-genera): Creates and promotes sharing of social media-ready quotes.
 - [**OCR**](https://chat.openai.com/g/g-wETMBcESv-ocr) - Extract text and content from images or PDF documents - by [ocr.chat](https://get.ocr.chat/gpt)
-
+- [**Technical RFP Expert**](https://chat.openai.com/g/g-APDSraFhe-technical-rfp-expert): Offers analysis and guidance on technology-focused RFPs, RFIs, and RFQs, focusing on technical aspects, risks, and regulations in a clear, factual manner. More details [here](https://github.com/mtdias/technical-rfp-expert-gpt-bot). - by [Mateus Dias](https://github.com/mtdias). 
