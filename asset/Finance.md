@@ -184,4 +184,5 @@
 - [**Spekulant BTC i Złota**](https://chat.openai.com/g/g-wPSdnQnLK-spekulant-btc-i-zlota): Analizuję sentyment newsów o bitcoinie i złocie, dostarczam linki. - by Jakub Norkiewicz
 - [**AIお金の先生**](https://chat.openai.com/g/g-VolPYYYa6-aiojin-noxian-sheng): AIのお金のアドバイザーです　お金の相談受付中 - by KAZUHIKO ONO
 - [**Buffett GPT**](https://chat.openai.com/g/g-I0Vdj5Zq5-buffett-gp): Warren Buffett AI that answers based off historic transcripts - by Nick Webb
-- [**ForexGPT (Forex Rates)**](https://chat.openai.com/g/g-VpntOrQsh-forex-rates-free-version): Fetches real-time forex and crypto prices, performs market analysis, and calculates currency conversion using the latest exchange rates (unlock more with the premium version). - by Forex-GPT.ai 
+- [**ForexGPT (Forex Rates)**](https://chat.openai.com/g/g-VpntOrQsh-forex-rates-free-version): Fetches real-time forex and crypto prices, performs market analysis, and calculates currency conversion using the latest exchange rates (unlock more with the premium version). - by Forex-GPT.ai
+- [Austin AI: The Financial Advisor](https://chat.openai.com/g/g-yaYByRR5S-austin-ai-the-financial-advisor) - Helps plan finances around taxes, income, expenses, and investments.
