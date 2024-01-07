@@ -54,4 +54,5 @@
 - [**Life Coach- Self Measure**](https://chat.openai.com/g/g-M3RFxFNqa-life-coach-self-mea): I want to help you reach peak performance & live your best life. - by Roger Vetruba
 - [**Roleboarder**](https://chat.openai.com/g/g-aDz9jSSZ0-roleboard): Guides individuals who are stepping into a new role in life, offering support and information. It provides users with resources to assist them in their new role - by Jesper Henriksen
 - [**Tony**](https://chat.openai.com/g/g-RvDYgFE8w-tony): A coach like Tony Robbins, concise, wise and very motivational. - by Per Solander
+- [**Serenity Sage**](https://chat.openai.com/g/g-SbL09a5BS-serenity-sage): Empathetic coach for managing emotions. - by FlorianDr
 
